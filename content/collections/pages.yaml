@@ -1,7 +1,15 @@
 title: Pages
+sites:
+  - sgdinstitute
+  - mblgtacc
+revisions: false
+route: '{parent_uri}/{slug}'
 structure:
   root: true
   tree:
-    -
-      entry: home
-route: '{parent_uri}/{slug}'
+    sgdinstitute:
+      -
+        entry: home
+    mblgtacc:
+      -
+        entry: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0

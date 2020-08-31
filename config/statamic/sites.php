@@ -14,12 +14,15 @@ return [
     */
 
     'sites' => [
-
-        'default' => [
-            'name' => config('app.name'),
+        'sgdinstitute' => [
+            'name' => 'SGD Institute',
             'locale' => 'en_US',
             'url' => '/',
         ],
-
+        'mblgtacc' => [
+            'name' => 'MBLGTACC',
+            'locale' => 'en_US',
+            'url' => '/mblgtacc/',
+        ],
     ],
 ];
