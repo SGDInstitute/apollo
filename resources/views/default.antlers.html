@@ -1,1 +1,578 @@
-{{ content }}
+<div class="bg-white">
+    <div class="container mx-auto px-6 sm:px-0">
+        <div class="flex justify-between items-center">
+            <p class="text-green-500 text-sm">A program of the Midwest Institute for Sexuality and Gender Diversity</p>
+            <div>
+                <a href="#" class="text-green-500 text-sm">COVID-19 FAQs</a>
+                <a href="#" class="text-green-500 text-sm">App</a>
+                <a href="https://apps.sgdinstitute.org/login" target="_blank" class="text-green-500 text-sm">Login</a>
+                <a href="https://apps.sgdinstitute.org/donations/create" target="_blank" class="text-green-500 text-sm">GIVE</a>
+                <a href="#" class="text-green-500 text-sm">S</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="relative bg-green-500">
+    <div class="container mx-auto">
+        <div class="flex justify-between items-center py-6 md:justify-start md:space-x-10">
+          <div class="lg:w-0 lg:flex-1">
+            <a href="#" class="flex">
+              <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg" alt="Workflow">
+            </a>
+          </div>
+          <div class="-mr-2 -my-2 md:hidden">
+            <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+              <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+            </button>
+          </div>
+          <nav class="hidden md:flex space-x-10">
+            <div class="relative">
+              <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
+              <button type="button" class="group text-gray-500 inline-flex items-center space-x-2 text-base leading-6 font-medium hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                <span>Solutions</span>
+                <!-- Item active: "text-gray-600", Item inactive: "text-gray-400" -->
+                <svg class="text-gray-400 h-5 w-5 group-hover:text-gray-500 group-focus:text-gray-500 transition ease-in-out duration-150" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                </svg>
+              </button>
+
+              <!--
+                'Solutions' flyout menu, show/hide based on flyout menu state.
+
+                Entering: "transition ease-out duration-200"
+                  From: "opacity-0 translate-y-1"
+                  To: "opacity-100 translate-y-0"
+                Leaving: "transition ease-in duration-150"
+                  From: "opacity-100 translate-y-0"
+                  To: "opacity-0 translate-y-1"
+              -->
+              <div class="hidden absolute -ml-4 mt-3 transform w-screen max-w-md md:max-w-3xl lg:ml-0 lg:left-1/2 lg:-translate-x-1/2">
+                <div class="rounded-lg shadow-lg">
+                  <div class="rounded-lg shadow-xs overflow-hidden">
+                    <div class="z-20 relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8 lg:grid-cols-2">
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Analytics
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Get a better understanding of where your traffic is coming from.
+                          </p>
+                        </div>
+                      </a>
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Engagement
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Speak directly to your customers in a more meaningful way.
+                          </p>
+                        </div>
+                      </a>
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Security
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Your customers data will be safe and secure.
+                          </p>
+                        </div>
+                      </a>
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Integrations
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Connect with third-party tools that you’re already using.
+                          </p>
+                        </div>
+                      </a>
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Automations
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Build strategic funnels that will drive your customers to convert
+                          </p>
+                        </div>
+                      </a>
+                      <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                        <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
+                          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                          </svg>
+                        </div>
+                        <div class="space-y-1">
+                          <p class="text-base leading-6 font-medium text-gray-900">
+                            Reports
+                          </p>
+                          <p class="text-sm leading-5 text-gray-500">
+                            Get detailed reports that will help you make more informed decisions
+                          </p>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="p-5 bg-gray-50 sm:p-8">
+                      <a href="#" class="-m-3 p-3 flow-root space-y-1 rounded-md hover:bg-gray-100 transition ease-in-out duration-150">
+                        <div class="flex items-center space-x-3">
+                          <div class="text-base leading-6 font-medium text-gray-900">
+                            Enterprise
+                          </div>
+                          <span class="inline-flex items-center px-3 py-0.5 rounded-full text-xs font-medium leading-5 bg-indigo-100 text-indigo-800">
+                            New
+                          </span>
+                        </div>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Empower your entire team with even more advanced tools.
+                        </p>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <a href="#" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+              Pricing
+            </a>
+            <a href="#" class="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+              Docs
+            </a>
+
+            <div class="relative">
+              <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
+              <button type="button" class="group text-gray-500 inline-flex items-center space-x-2 text-base leading-6 font-medium hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                <span>More</span>
+                <!-- Item active: "text-gray-600", Item inactive: "text-gray-400" -->
+                <svg class="text-gray-400 h-5 w-5 group-hover:text-gray-500 group-focus:text-gray-500 transition ease-in-out duration-150" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                </svg>
+              </button>
+              <!--
+                'More' flyout menu, show/hide based on flyout menu state.
+
+                Entering: "transition ease-out duration-200"
+                  From: "opacity-0 translate-y-1"
+                  To: "opacity-100 translate-y-0"
+                Leaving: "transition ease-in duration-150"
+                  From: "opacity-100 translate-y-0"
+                  To: "opacity-0 translate-y-1"
+              -->
+              <div class="hidden absolute left-1/2 transform -translate-x-1/2 mt-3 px-2 w-screen max-w-xs sm:px-0">
+                <div class="rounded-lg shadow-lg">
+                  <div class="rounded-lg shadow-xs overflow-hidden">
+                    <div class="z-20 relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+                      <a href="#" class="-m-3 p-3 block space-y-1 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
+                        <p class="text-base leading-6 font-medium text-gray-900">
+                          Blog
+                        </p>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Learn about tips, product updates and company culture.
+                        </p>
+                      </a>
+                      <a href="#" class="-m-3 p-3 block space-y-1 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
+                        <p class="text-base leading-6 font-medium text-gray-900">
+                          Help Center
+                        </p>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Get all of your questions answered in our forums of contact support.
+                        </p>
+                      </a>
+                      <a href="#" class="-m-3 p-3 block space-y-1 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
+                        <p class="text-base leading-6 font-medium text-gray-900">
+                          Guides
+                        </p>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Learn how to maximize our platform to get the most out of it.
+                        </p>
+                      </a>
+                      <a href="#" class="-m-3 p-3 block space-y-1 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
+                        <p class="text-base leading-6 font-medium text-gray-900">
+                          Events
+                        </p>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Check out webinars with experts and learn about our annual conference.
+                        </p>
+                      </a>
+                      <a href="#" class="-m-3 p-3 block space-y-1 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
+                        <p class="text-base leading-6 font-medium text-gray-900">
+                          Security
+                        </p>
+                        <p class="text-sm leading-5 text-gray-500">
+                          Understand how we take your privacy seriously.
+                        </p>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+          <div class="hidden md:flex items-center justify-end space-x-8 md:flex-1 lg:w-0">
+            <a href="#" class="whitespace-no-wrap text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900">
+              Sign in
+            </a>
+            <span class="inline-flex rounded-md shadow-sm">
+              <a href="#" class="whitespace-no-wrap inline-flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition ease-in-out duration-150">
+                Sign up
+              </a>
+            </span>
+          </div>
+        </div>
+    </div>
+
+    <!--
+      Mobile menu, show/hide based on mobile menu state.
+
+      Entering: "duration-200 ease-out"
+        From: "opacity-0 scale-95"
+        To: "opacity-100 scale-100"
+      Leaving: "duration-100 ease-in"
+        From: "opacity-100 scale-100"
+        To: "opacity-0 scale-95"
+    -->
+    <div class="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+      <div class="rounded-lg shadow-lg">
+        <div class="rounded-lg shadow-xs bg-white divide-y-2 divide-gray-50">
+          <div class="pt-5 pb-6 px-5 space-y-6">
+            <div class="flex items-center justify-between">
+              <div>
+                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg" alt="Workflow">
+              </div>
+              <div class="-mr-2">
+                <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                  <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div>
+              <nav class="grid grid-cols-1 gap-7">
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Analytics
+                  </div>
+                </a>
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Engagement
+                  </div>
+                </a>
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Security
+                  </div>
+                </a>
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Integrations
+                  </div>
+                </a>
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Automations
+                  </div>
+                </a>
+                <a href="#" class="-m-3 p-3 flex items-center space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
+                  <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                    </svg>
+                  </div>
+                  <div class="text-base leading-6 font-medium text-gray-900">
+                    Reports
+                  </div>
+                </a>
+              </nav>
+            </div>
+          </div>
+          <div class="py-6 px-5 space-y-6">
+            <div class="grid grid-cols-2 gap-4">
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Pricing
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Docs
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Enterprise
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Blog
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Help Center
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Guides
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Security
+              </a>
+              <a href="#" class="text-base leading-6 font-medium text-gray-900 hover:text-gray-700 transition ease-in-out duration-150">
+                Events
+              </a>
+            </div>
+            <div class="space-y-6">
+              <span class="w-full flex rounded-md shadow-sm">
+                <a href="#" class="w-full flex items-center justify-center px-4 py-2 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition ease-in-out duration-150">
+                  Sign up
+                </a>
+              </span>
+              <p class="text-center text-base leading-6 font-medium text-gray-500">
+                Existing customer?
+                <a href="#" class="text-indigo-600 hover:text-indigo-500 transition ease-in-out duration-150">
+                  Sign in
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<section>
+    <div class="h-2/3-screen bg-gradient-to-r from-teal-400 to-blue-500"></div>
+    <div class="h-1/4 bg-white py-6">
+        <div class="container mx-auto">
+            <div class="grid grid-cols-5">
+                <div class="col-span-4 bg-white -mt-48 relative p-8">
+                    <span class="absolute top-0  -mt-4 bg-yellow-300 text-black uppercase text-sm px-6 py-2">29th Annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference</span>
+                    <h1 class="uppercase text-6xl font-bold">From Protest and Beyond Pride</h1>
+                </div>
+            </div>
+            <div class="grid grid-cols-4 px-8 mb-8">
+                <div class="col-span-3">
+                    <p class="text-xl text-gray-600">Hosted by the University of Wisconsin-Madison and Edgewood College communities in Madison, Wisconsin</p>
+                </div>
+                <div>
+                    <a href="#" class="block items-center px-6 py-3 border-2 border-green-500 text-base uppercase leading-6 font-medium text-center block text-green-500 bg-transparent hover:bg-green-500 hover:text-white focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition ease-in-out duration-150">Register Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-green-500 py-8">
+    <div class="container mx-auto">
+        <div class="grid grid-cols-2">
+            <div class="h-full flex items-center justify-center">
+                <div class="text-xl text-white text-center">
+                    Starting at <span class="block text-7xl font-bold">$35</span> per person
+                </div>
+            </div>
+            <div>
+                <h2 class="text-4xl text-white mb-4">MBLGTACC is going fully virtual in 2021</h2>
+                <p class="text-xl text-white mb-4">The safety of every attendee is our highest priority.</p>
+                <a href="#" class="inline-flex items-center px-6 py-3 border-2 border-white text-base uppercase leading-6 font-medium text-center block text-white bg-transparent hover:bg-white hover:text-green-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition ease-in-out duration-150">Register Now</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-white py-12">
+    <div class="container mx-auto">
+        <div class="flex items-center justify-between">
+            <h2 class="text-5xl text-green-500">Speakers & Entertainers</h2>
+            <a href="#" class="text-green-500 font-bold">View the whole program ></a>
+        </div>
+
+        <div class="grid grid-cols-5 gap-4 h-96 mt-8">
+            <div>
+                <div class="h-2/3 bg-cover bg-center" style="background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/13/chadwick-boseman-black-panther-0.jpg?width=982&height=726);">
+                    <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/29/13/chadwick-boseman-black-panther-0.jpg?width=982&height=726" alt="King T'challa aka Chadwick Boseman" class="sr-only">
+                </div>
+                <div class="mx-4 -mt-8 bg-white px-4 py-2">
+                    <p class="uppercase text-sm">Friday</p>
+                    <h3 class="text-2xl">King T'challa</h3>
+                </div>
+            </div>
+            <div>
+                <div class="h-2/3 bg-cover bg-center" style="background-image: url(https://1.bp.blogspot.com/-AmL-HYeeOy4/U-Eo2pUeMaI/AAAAAAAAGzA/fTDr10Z5e-8/s1600/Get-On-Up.png);">
+                    <img src="https://1.bp.blogspot.com/-AmL-HYeeOy4/U-Eo2pUeMaI/AAAAAAAAGzA/fTDr10Z5e-8/s1600/Get-On-Up.png" alt="James Brown - aka Chadwick Bowsman" class="sr-only">
+                </div>
+                <div class="mx-4 -mt-8 bg-white px-4 py-2">
+                    <p class="uppercase text-sm">Friday</p>
+                    <h3 class="text-2xl">James Brown</h3>
+                </div>
+            </div>
+            <div>
+                <div class="h-2/3 bg-cover bg-left" style="background-image: url(https://wordpress.wbur.org/wp-content/uploads/2013/04/ROBINSON1000-768x511.gif);">
+                    <img src="https://wordpress.wbur.org/wp-content/uploads/2013/04/ROBINSON1000-768x511.gif" alt="Jackie Robinson - aka Chadwick Boseman" class="sr-only">
+                </div>
+                <div class="mx-4 -mt-8 bg-white px-4 py-2">
+                    <p class="uppercase text-sm">Saturday</p>
+                    <h3 class="text-2xl">Jackie Robinson</h3>
+                </div>
+            </div>
+
+            <div>
+                <div class="h-2/3 bg-cover bg-center" style="background-image: url(https://www.indiewire.com/wp-content/uploads/2017/10/marshall-movie-884b7ae25dc9fb48.jpg);">
+                    <img src="https://www.indiewire.com/wp-content/uploads/2017/10/marshall-movie-884b7ae25dc9fb48.jpg" alt="Thurgood Marshall - aka Chadwick Bowsman" class="sr-only">
+                </div>
+                <div class="mx-4 -mt-8 bg-white px-4 py-2">
+                    <p class="uppercase text-sm">Saturday</p>
+                    <h3 class="text-2xl">Thurgood Marshall</h3>
+                </div>
+            </div>
+            <div>
+                <div class="h-2/3 bg-cover bg-center" style="background-image: url(https://pbs.twimg.com/media/Egjby7kWoAA1PRI?format=jpg&name=900x900);">
+                    <img src="https://pbs.twimg.com/media/Egjby7kWoAA1PRI?format=jpg&name=900x900" alt="Chadwick Bowsman" class="sr-only">
+                </div>
+                <div class="mx-4 -mt-8 bg-white px-4 py-2">
+                    <p class="uppercase text-sm">Friday</p>
+                    <h3 class="text-2xl">Chadwick Boseman</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-yellow-300 py-8">
+    <div class="container mx-auto grid grid-cols-5 gap-4">
+        <span class="text-black text-4xl text-center">382 <span class="uppercase block text-sm text-gray-600">days</span></span>
+        <span class="text-black text-4xl text-center">14 <span class="uppercase block text-sm text-gray-600">hours</span></span>
+        <span class="text-black text-4xl text-center">57 <span class="uppercase block text-sm text-gray-600">minutes</span></span>
+        <div class="col-span-2 h-full flex items-center">
+            <span class="text-black text-4xl text-center">until #mblgtacc2021</span>
+        </div>
+    </div>
+</section>
+
+<section class="bg-gray-300 py-12 my-8">
+    <div class="container mx-auto grid grid-cols-3 gap-12">
+        <article>
+            <span class="block text-sm text-gray-600 uppercase">Announcement</span>
+            <a href="#" class="text-xl block text-green-500">UW-Madison to host 29th annual MBLGTACC in 2021</a>
+            <span class="block text-sm text-gray-600">February 24, 2020</span>
+        </article>
+        <article>
+            <span class="block text-sm text-gray-600 uppercase">Registration</span>
+            <a href="#" class="text-xl block text-green-500">UW-Madison to host 29th annual MBLGTACC in 2021 with a third or maybe even a fourth line</a>
+            <span class="block text-sm text-gray-600">February 24, 2020</span>
+        </article>
+        <article>
+            <span class="block text-sm text-gray-600 uppercase">Workshops</span>
+            <a href="#" class="text-xl block text-green-500">UW-Madison to host 29th annual MBLGTACC in 2021</a>
+            <span class="block text-sm text-gray-600">February 24, 2020</span>
+        </article>
+    </div>
+</section>
+
+<section class="bg-white py-12 my-8">
+    <div class="container mx-auto">
+        <h2 class="text-3xl text-green-500 uppercase">Sponsors</h2>
+
+        <div class="grid grid-cols-4 gap-12 mt-6">
+            <div class="h-full flex items-center">
+                <img src="data:image/png;base64,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" alt="Spotify Logo">
+            </div>
+            <div class="h-full flex items-center">
+                <img src="https://www.freepnglogos.com/uploads/target-png-logo/target-logo-photo-3.png" alt="Target Logo">
+            </div>
+            <div class="h-full flex items-center">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASgAAACqCAMAAAAp1iJMAAAAkFBMVEX///8jHyAAAAAMAASlpaUgHB0bFhcfGhsdGBkXERP29vYYExRbWVr7+/sTDA6TkpN9fH08OTrw8PAIAADl5eXBwcHp6enIyMibmpq6urqGhYXQ0NDc3Nzm5uaxsbHPz891dHROS0w2NDVPTU5vbW6Af4ArJyhxb3BeXF07ODlHREWNjY1nZWZCQEGgoKAvKyyambRHAAAQAElEQVR4nO2dh5aqOhSGMRqqYhu7owgWxvr+b3eTgALZoSkKnsu31l3rHgtlm538u4SRpJqampqampqampqampqampqaynFtcYTeW/HvXeHnr2tJmoAXB49j8IfIwnXBvtr5HX/YGAnMUDPC0NxN7u/p3HtNtNcX4DVLkm78QdDsfow5//ksoB67tH7TvC1KsIkQV25E2VuPa1sNuffMndTToi/hxkxaIu5z6vE+FFr8W5kwRuSrE7Rbr1fopxy78Iz5G8E3a3l/86JybzYXEv952RlLc5M36Mk/wgTYScHpdlI31HPdae+8Wc3n5RiGp8vfI7at+2/4AwcK8VTeJl1JGnI3j/frmCM05KOTbimTGqfTX/Yux9moXZZpotz4yyaGuk/EwIjDltTmPFWx13DYyI53AN1QuHcUDG0nMBQb05uRddrr021JlomyBpeN+727oUx+oDR+BvznDbcjbQ3uxaa/cv7x8x9Gg1Yz1U7qhn17ZZ+WE+s2KscyHJbGXyXu73TvPTBQjK105W/TaEkdMM3ZnvO6/IhsoKVk84MMMvTt3Ntbll2NAaXzg4bc5WXe8d7c8kYczoCnKpelYG202Pd3YLSiCVwgIXh4XzIn1mEmvO6Ps4KXjY8nz1A6HCg6uE2TCJ4NvzaazFugMKDi6gRGGUA+l2oTIQ5/j2SMHLvee3CgzKUdd5tURP3CtZH6LhQGiMh6SUtf81BFRlEI0QqkHKfem0BEmVBEqURETfkx0qSWhi6GqLaC5gPgoV6mTYSI/EDZXNl7UEQ50gh4Hrn5Bjc7Y7ykkx8/Z9NIR7R4yBoHqsb0HUGkkhVnxd4DRiRrER/uYCKiFkBEueTbNi8MTJcdFQwo9bzrRQkCg8og9APVNxQQUfsfML3LRETx01ZjSL7f5l/UjuygQNdje5B0hRXhzAtFz1BsLhWJKKAVtRYcI9geSz1+HZBv3hl5Xc9WzcoDVLZvKJZlAUYcjoBWpCIKTls9KAwUVY85ozlJvMRq0OJ/d89QbRrQAi9TYkQUyNKYCzAYMfIVJND16qZ6KxxEHEyobTqZQhF1AskUKqKgQTcCYbCMO2OzW6YBMhITTMguDdT6/C1pC5BMoSIKjEptvgfCYB13RqYkKg9Yru6GGgtuSW6LRRQw6M3mJUcgtIHikCuSa0qkww8QH+M8EIsofnpX7IVoVAI7BcUKEIEPWwkXWBWApHkYShekLG+/YDYyzp0MIS46Pc4IJ/lGhYossQBJc7//QwfeknYQzEarDCGuF7h4gPCFHLX6gKLCw1CWWET9CUQUzI/y33NDp4SrYTWSl8mAmP/xM/cEa/5FLKJgiMt9ZhM6I/B1pf8N4Ysa5zRkLQNeRl7jZyMqouAYiSLb4TPC8KUihahE4p3GnII1H6tLgYgaiPKjkY80wrJbEL58g4gC+fAHzRbIRMkunN5pOc+JWQ88FBTxLBC+4Nu01WqtVrPZaDSZrBeLZQU9EcxCAWgmKueJRJQ4qH7YAUUHDAyYsNlsDodD9KCCc7s4HvasMsJ8pcUeg4qURkQUGCMRULS7Ir36gm8VDJBBPjx0vSC0iRNRoMgcpsmJ7nRpau7KsUUSST/v/ggCjREwrHJcpoyR4Sp6SlhA5EGVafAJAN0nYfg7Uo86mN6piEo8CD+i0qsv6rEkYyTRzNB6E9xyF3Rr4MYIxoPct66RM6ZJU/KFaUnGSAAkTJLAjSXwG9q/lHIQM5KSA4sBBP2WZY544uJhIUaMiBJWJkIfOYXPGJeqCKhiaipZ//CQWZlXp5iIqAQl5hkqsoal/zT85F8FYuNhEVgoonSYVOc/Y4XOmOGnQRUUUXwNPBHTgjah5bxjvBJjGOHCeLI0ZR+vYGoqNYkUNcoE2IRmolIbDCNzTnrzGKpgfe+QulKHUDc6aOuhfWIgHgRfdIIzQmkqm1GacmnmiCXDSh0iTkTx8SBAuQSnhNUXtxvlVL2WqNRZOGqU/RK0vNBMFGhhgYa6BacE4UsVoxUAiIf3CbdLRBSY0kwiofntCxCsPs4IZFh4tBXOoiDhCuYLbZegHIm64YMPmomCOWDoicPHKUH48rZoZbw6m/2CtoSAUBYlxKuKPQY2oZko2OYEUy7ofkbYXa29I1rRR3MFae1dUbMdAv3PCWrQ7MG8uLwS1QngKvgwFLCqUXzX76J7RAjt26dRUboVXHWzlZBXkiegb1i5/EChjQUbNx5SG2TWC+76/Wm5CJmGeXOnL1Yr2iErg7GA9HgBqjo6qJNSEQU678wTDP3upQVo1QJTvoOZZaKmjBWtv1296tBOqPsP3LfsJuRLyKTLx4VMRAGhjZaCMnBc81hh5bzJyUZIww0sq0frdZ/bhsNNEA+jUbywoiKKjwupiILbGB1RvdxffYBVCynnLa8O8Td6aKzt290CdNkJhX9AXlDjZkLESkQUEJZURMGeoJXIUJ49BJ1WnRdv6We1RWjozZ2q9nduFSEIVihchoTicZ4QtpkrICyZiAKN1SY5BeyL8n5lUafVC+ijXQMNfeWHZXnTmxVSNl2iSF4IxMP0Z49T2coFiijaEyXqCRK03vn5AGBV+/nff9G9+P7Grs8gPldQ0kEfRuq1QPqxygfYluhj7gQSaCX4PDMJ2H7k1X1hFtl67laWTAQEJ1HN/vlaWPNCX1bDYRWYtpkbxKRpMZ4ACURFFLC2wnpWzmK1dOCtajxRNx+smAgIXRtZ53qr4loVrGY0FQ3dYyB61UNu60AC0UQ4sLYXuYGAjp1ZMIZzLuOdydwTASEzaXvnNHl1SQhBo4+wNgALkBdLxKSWhkREceshE1FgG6NXZwKFeFYBBQGQmSseXk6d0KTkoZj9lyV4FBpVRMIqGA8zNxDrTXxbSnvOhHJ7IJSsFLB2sgoobAzqXVmvj9ftM6LdPguxCGIioMlv5yrY5xhUK0bCKhBLmPTVmIwnMbFQREHJ6p2CH32s9ieItw32RJJwsw9C4Mb1US8QAQEK8bn5pOhyzZneUfga4KMdWI0yJnlARBTvTUxE8fsSsOpNFqJ2xgzVF3bY6K2vu31uUvI/Z/6di/U5BpsdIqUQGA+zs4rrKcpRJKIkwSjzhb/oMS5Ztu5HS6WeCBB8i8VzL4e9ArzSSTiVCCYX/zEM4vQ3uX+hiAJz9l2ngdCaKN0MW/cbQaVqvDo0waTkm8nYO7vCUk0RbLY2hZP4YHLxlYMwwYkbE/hwkcsvnOceVSkQHRnbLFv3G16Gj4iAPRrGtPczn3tTOWI+fFzDHaACfOUg7J+QnY5QRIFx84jcYPDrZmgeo587L6cb4m8xn8WqfDwUEvaK8H9epR+8BLe++spB2M5pXsFEzESUy61EWLuvFnBTezu9puVZKhyZ8GZ6n88x/DEcTpGJIzRJsK7T67OX0o2bUqmIAnlM7dFhAKZApZ1U3smEotluEammWLb+3BBqD4S7Nvb+O6KJhNw/3NLRFYw+NIk9AbaftxD7PvG57dt8jvGYSEKN21Dm3DviRE2DxgzIeIUMMlA8xaFycIZSXw6Yz83e2woU7FgMpVhEaW4PQeecuhGIKFcwYYf7D3O1NKSgGMTn1gWGvUK2j7GAHvsGYZr7se9J8BwbMreB5Y2KKBDPhR/Ul2mJywLzueJSTbGElrcgdSB83IUHrPHi/QTs0qeZKEnmg+TwbjywlzjKfp/U4xA6OfW5osNeIUZwwYGhkKoQ1DuyHHrLkB+vKwzN0QdIliMvNuf0J1CioEiyy5SFKBjf7Nstk5XYOldoqime8Nh5WGNy618ux+Nxs3Eo7XY7EA4n8i/64mazIZ+4XC7921VaON6LDn2RvtYn68Lc7kf4+wtPtt02xD1vD+2+zadr4lCN4/YNYa+QyGQUDBv+N+rE/H/yiznosAN0FtONkdpz5oGNhtNbfWw3dmR1Q6VuAl9e2+JMgAjic+3iU03xRB8fg0rbYjlm6cmUxuEA1bh8zOcYnDwuZ6egPpqL0pOxYJn63Gc3eHAFTn7P3AfwapQ5JBVd5+ZvDHuF8LIyUiX+wOm5GmUGmM99vvMVhGL79O8UBGtUGubZjOT5nNUqYVMVTMF9Ztnr3BuVclGKz3nwEcZHtiwFjUq5ID53fmuqKYErTFW+eRPcbz4R8ID63PvSu2l0+H5fCqwtFoXfqPREygBTbVlMV9NTCEse5nueIbfOKwICmM+9PdWUgHhHJkbRT41fnzxja5QZID63sUrzOY+YGlpkN8UUIeS8shyPZ1yjUj4zlexzjNgtvqG+nx06rUfus9NWZzK/xdYoM6Bql/OHUk1JxBZlg4LSAE2Olr38OyUdJ4YFa1R6PtnLtOUH0rupJOxWfETGIyT15/ZPN+8esJ/VOW9kwptJu7V3n0s1JZHUX3OX52s0uMzbkuUmHyrCYNaT82QCRNB1bl6+z3kkTR3q3r9IdDjo82n2LTtxjUp5YOtcFXzOI/lBFbLfqbVEF2uLsj0XO1d6Mt5Mxq1tVcPnPFIeQiBjT7ro0+1unXIoiTUqDZ8XAQEKXedGFfE5RmrDVrSwlIQ+oo1Kz0QmHFjGzuGj6d0MxDweOQxyMujhxfT4kggImYn43AdLKlnJUvaXkZVoqp/WqyIgQDX6FfM5j/RnDjE05MZcPBEBRt70ZCzE5zaHbsV8ziPlSU4BMkLt1iJqLP2p9GQsCvW5VuV8jpHrGSJyE6GG2ztNr9dpd35wzAJEQAD1uZLSuxnI6HkBWNZMs9k0TVOLfWLwE1Cf204X1Zua7oCdXqXg+VxF/rCpmCJb3Z6F+JxbeqophWzbA94JlhWyzlX+AT6ZNua8Ebq1t+I+55FZHLzHTFrfLWij+LsprMk0P562rLzPeeR7qGahZiI+V3ZJJQcZN5wUjqL9nb/E5zxS/u7Be8Cqutl2M6S2KoRoz8+bUZjPVTLsTSDb5sEizaSReO6bfM4n/fmFRUK39m5LbR14mvQnqhdoJupz1Smp5ONzI4qsc+78I7tU3sKH5iiyzh3Lbdd5lY+Eelj+Yp/zyfX3E56D+dwXrnNRUh8s/iqqfDyfPrhL5W3k+tMleaHbDL/d5+68cdljreBf73N38v1lgBzQbYanb17neF7bNx9DZVrkCkTQiP8qimm7u3/G5+7k+yMKGaA+92U5lGxMi7SUt+Xpa/KW+ShulsLav+hzD9L/eF022DbDf9HnHuwKmM+rsP3i/Vxef1TTrV3dPpTi0BsvtYGVtLW3DAbK05bChlLUU8G/Ad1+LoOHzf17H49WPdwn1j7V/KtUw/xnaKGc2+k1bdNd/kNRb2bGDsrcj4kNtLdG/5uZiWdiZxlVimzKf9v/n8tFmDjJbb5Y0Qy7vZtV8K8Cf5rfro2GwnZfrBimvTlcJ//vsRRiOXU0NDQNVVEwQ1FlzUT743k6+l/O3gnoi9X87Fy8h/Dd+o5rdWfL/+3cnYY+GI/HP+S/wb8fxdXU1NTU1NTU1NTU1Hw5/wEDri0bRJI/PQAAAABJRU5ErkJggg==" alt="Nike">
+            </div>
+            <div class="h-full flex items-center">
+                <img src="data:image/png;base64,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" alt="Linkedin">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="stay-connected" class="py-8 bg-yellow-300 stay-conected">
+    <div class="container mx-auto">
+        <h2 class="mb-6 text-3xl text-black uppercase">Stay Connected</h2>
+    </div>
+</section>
+
+<footer>
+    <div class="bg-green-500 py-8">
+        <div class="container mx-auto grid grid-cols-5">
+            <div class="col-span-2 row-span-2">
+                <span class="text-4xl text-white mb-3 block">MBLGTACC</span>
+                <p class="text-xs text-gray-100 mb-6">The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is America's largest and oldest continuously-running conference for queer and trans+ college students.</p>
+
+                <div class="grid grid-cols-2 gap-6">
+                    <a href="#" class="block items-center px-6 py-3 border-2 border-white text-base uppercase leading-6 font-medium text-center block text-white bg-transparent hover:bg-white hover:text-green-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition ease-in-out duration-150">Register Now</a>
+                    <div class="text-sm text-gray-100 h-full flex items-center">
+                        <div>
+                            <a href="https://apps.sgdinstitute.org/register" class="block text-white hover:underline font-bold">Create an account ></a>
+                            Already have an account? <a href="https://apps.sgdinstitute.org/login" class="text-white hover:underline font-bold">Login ></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="bg-gray-800 py-6">
+        <div class="container mx-auto grid grid-cols-4">
+            <div class="text-gray-500">
+                INSTITUTE LOGO
+            </div>
+            <div class="col-span-3">
+                <p class="text-gray-500 text-sm">"MBLGTACC", "Midwest Bisexual Lesbian Gay Transgender Asexual College Conference," "Midwest Bisexual Lesbian Gay Transgender Ally College Conference," and the MBLGTACC logo are servicemarks of the Midwest Institute for Sexuality and Gender Diversity, a non-profit 501(c)(3) organization. Our Tax ID is: 81-1788851. <a href="#">Legal & Privacy</a> | <a href="#">Press/Media</a> | <a href="https://sgdinstitute.org">SGD Institute</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
