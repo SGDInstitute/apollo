@@ -1,0 +1,80 @@
+title: Pages
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+      -
+        handle: sections
+        field:
+          sets:
+            header:
+              display: Header
+              fields:
+                -
+                  import: background_image
+                  prefix: header_
+                -
+                  handle: title
+                  field:
+                    input_type: text
+                    type: text
+                    listable: hidden
+                    display: Title
+                -
+                  handle: subtitle
+                  field:
+                    input_type: text
+                    type: text
+                    listable: hidden
+                    display: Subtitle
+                -
+                  handle: has_tag
+                  field:
+                    type: toggle
+                    width: 25
+                    listable: hidden
+                    display: 'Has Tag'
+                -
+                  handle: tag
+                  field:
+                    input_type: text
+                    type: text
+                    listable: hidden
+                    display: 'Tag Text'
+                    if:
+                      has_tag: 'equals true'
+                    width: 75
+                -
+                  import: button
+          type: replicator
+          listable: hidden
+          display: Sections
+      -
+        handle: template
+        field:
+          type: template
+          display: Template
+          localizable: true
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          required: true
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true

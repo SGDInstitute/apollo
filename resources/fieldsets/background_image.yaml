@@ -1,0 +1,14 @@
+title: 'Background Image'
+fields:
+  -
+    handle: image
+    field:
+      mode: grid
+      container: assets
+      folder: headers
+      restrict: false
+      allow_uploads: true
+      max_files: 1
+      type: assets
+      listable: hidden
+      display: Image

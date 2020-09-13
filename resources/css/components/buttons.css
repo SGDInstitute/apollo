@@ -1,0 +1,60 @@
+.btn-xs {
+    @apply px-2.5 py-1.5 text-xs leading-4;
+}
+.btn-sm {
+    @apply px-3 py-2 text-sm leading-4;
+}
+.btn-base {
+    @apply px-4 py-2 text-sm leading-5;
+}
+.btn-lg {
+    @apply px-4 py-2 text-base leading-6;
+}
+.btn-xl {
+    @apply px-6 py-3 text-base leading-6;
+}
+
+.btn {
+    @apply inline-flex items-center border border-2 uppercase font-bold bg-transparent transition ease-in-out duration-150;
+}
+
+.btn-green {
+    @apply border-green-500 text-green-500;
+
+    &:hover {
+        @apply bg-green-500 text-white;
+    }
+
+    &:focus {
+        @apply outline-none border-green-600 shadow-outline-green;
+    }
+
+    &:active {
+        @apply bg-green-600;
+    }
+}
+
+.btn-white {
+    @apply border-white text-white;
+
+    &:hover {
+        @apply bg-white text-green-500;
+    }
+
+    &:focus {
+        @apply outline-none border-gray-100 shadow-outline-gray;
+    }
+
+    &:active {
+        @apply bg-gray-100;
+    }
+}
+
+.btn-green:disabled,
+.btn-white:disabled {
+    @apply opacity-75 cursor-not-allowed;
+}
+
+.btn-block {
+    @apply w-full block text-center;
+}

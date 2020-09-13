@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a4b4e404a204227601f0bffd79bc6af",
+    "content-hash": "93b20a3e90dbf1c0902908c7212c4b49",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3577,16 +3577,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v3.0.2",
+            "version": "v3.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "4e8f45ade7f0c70ab3bbad4f62ac3563728568e5"
+                "reference": "0bb5ac33785207d5ed185aad59969bb201680248"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/4e8f45ade7f0c70ab3bbad4f62ac3563728568e5",
-                "reference": "4e8f45ade7f0c70ab3bbad4f62ac3563728568e5",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/0bb5ac33785207d5ed185aad59969bb201680248",
+                "reference": "0bb5ac33785207d5ed185aad59969bb201680248",
                 "shasum": ""
             },
             "require": {
@@ -3654,7 +3654,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-08-27T21:34:50+00:00"
+            "time": "2020-09-08T20:11:00+00:00"
         },
         {
             "name": "statamic/stringy",

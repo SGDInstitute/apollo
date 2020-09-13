@@ -1,1 +1,21 @@
-/* This is all you. */
+@import 'components/buttons.css';
+
+.polygon {
+    -webkit-clip-path: polygon(12% 0, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(12% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.slanted {
+    -ms-transform: skewX(-20deg);
+    -webkit-transform: skewX(-20deg);
+    transform: skewX(-20deg);
+}
+
+.slanted a,
+.slanted span,
+.slanted svg {
+    -ms-transform: skewX(20deg);
+    -webkit-transform: skewX(20deg);
+    transform: skewX(20deg);
+    display: inline-block;
+  }
