@@ -8,6 +8,8 @@ sections:
         field:
           type: text
           required: true
+          validate:
+            - required
       -
         handle: sections
         field:
@@ -51,6 +53,263 @@ sections:
                     width: 75
                 -
                   import: button
+            two_column:
+              display: 'Two Column'
+              fields:
+                -
+                  handle: id
+                  field:
+                    input_type: text
+                    display: ID
+                    type: text
+                    instructions: 'Used as an ID in the html, useful for internal linking.'
+                    width: 50
+                    listable: hidden
+                -
+                  handle: column_widths
+                  field:
+                    options:
+                      half: 50/50
+                      third_left: 33/66
+                      third_right: 66/33
+                      quarter_left: 25/75
+                      quarter_right: 75/25
+                      two_fifths_left: 40/60
+                      two_fifths_right: 60/40
+                      one_fifth_left: 20/80
+                      one_fifth_right: 80/20
+                    multiple: false
+                    clearable: false
+                    searchable: true
+                    taggable: false
+                    push_tags: false
+                    cast_booleans: false
+                    display: 'Column Widths'
+                    type: select
+                    width: 50
+                    listable: hidden
+                    instructions: 'Pick the size of the left and right columns.'
+                -
+                  handle: left_column
+                  field:
+                    options:
+                      image: Image
+                      video: Video
+                      content: Content
+                      pricing: Pricing
+                    multiple: false
+                    clearable: false
+                    searchable: true
+                    taggable: false
+                    push_tags: false
+                    cast_booleans: false
+                    display: 'Left Column'
+                    type: select
+                    width: 50
+                    listable: hidden
+                -
+                  handle: right_column
+                  field:
+                    options:
+                      image: Image
+                      video: Video
+                      content: Content
+                      pricing: Pricing
+                    multiple: false
+                    clearable: false
+                    searchable: true
+                    taggable: false
+                    push_tags: false
+                    cast_booleans: false
+                    display: 'Right Column'
+                    type: select
+                    width: 50
+                    listable: hidden
+                -
+                  handle: bard
+                  field:
+                    always_show_set_button: false
+                    sets:
+                      image:
+                        display: Image
+                        fields:
+                          -
+                            import: image_block
+                      button_links:
+                        display: 'Button Links'
+                        fields:
+                          -
+                            handle: buttons
+                            field:
+                              fields:
+                                -
+                                  handle: link
+                                  field:
+                                    display: Link
+                                    type: link
+                                    listable: hidden
+                                -
+                                  handle: text
+                                  field:
+                                    input_type: text
+                                    display: Text
+                                    type: text
+                                    listable: hidden
+                                    width: 25
+                                -
+                                  handle: button_color
+                                  field:
+                                    options:
+                                      green: Green
+                                      white: White
+                                    multiple: false
+                                    clearable: false
+                                    searchable: true
+                                    taggable: false
+                                    push_tags: false
+                                    cast_booleans: false
+                                    display: 'Button Color'
+                                    type: select
+                                    listable: hidden
+                                    width: 25
+                                -
+                                  handle: outline
+                                  field:
+                                    display: 'Outline Styles'
+                                    type: toggle
+                                    listable: hidden
+                                    width: 25
+                                -
+                                  handle: target_blank
+                                  field:
+                                    display: 'New Tab'
+                                    type: toggle
+                                    listable: hidden
+                                    width: 25
+                              mode: stacked
+                              add_row: 'Add Link'
+                              reorderable: true
+                              display: Buttons
+                              type: grid
+                              listable: hidden
+                      table:
+                        display: Table
+                        fields:
+                          -
+                            handle: table
+                            field:
+                              display: Table
+                              type: table
+                              listable: hidden
+                      video:
+                        display: Video
+                        fields:
+                          -
+                            handle: video
+                            field:
+                              display: Video
+                              type: video
+                              listable: hidden
+                    buttons:
+                      - h2
+                      - h3
+                      - h4
+                      - h5
+                      - bold
+                      - italic
+                      - underline
+                      - strikethrough
+                      - unorderedlist
+                      - orderedlist
+                      - removeformat
+                      - quote
+                      - anchor
+                    save_html: false
+                    toolbar_mode: floating
+                    link_noopener: false
+                    link_noreferrer: false
+                    target_blank: false
+                    reading_time: false
+                    fullscreen: true
+                    allow_source: true
+                    display: Content
+                    type: bard
+                    listable: hidden
+                    container: assets
+                    if_any:
+                      left_column: 'equals content'
+                      right_column: 'equals content'
+                -
+                  handle: above_price
+                  field:
+                    input_type: text
+                    display: 'Above Price'
+                    type: text
+                    width: 33
+                    listable: hidden
+                    if_any:
+                      left_column: 'equals pricing'
+                      right_column: 'equals pricing'
+                -
+                  handle: price
+                  field:
+                    input_type: text
+                    display: Price
+                    type: text
+                    width: 33
+                    listable: hidden
+                    if_any:
+                      left_column: 'equals pricing'
+                      right_column: 'equals pricing'
+                -
+                  handle: below_price
+                  field:
+                    input_type: text
+                    display: 'Below Price'
+                    type: text
+                    width: 33
+                    listable: hidden
+                    if_any:
+                      left_column: 'equals pricing'
+                      right_column: 'equals pricing'
+                -
+                  handle: image
+                  field:
+                    mode: grid
+                    container: assets
+                    folder: /
+                    restrict: false
+                    allow_uploads: true
+                    max_files: 1
+                    display: Image
+                    type: assets
+                    width: 66
+                    listable: hidden
+                    if_any:
+                      left_column: 'equals image'
+                      right_column: 'equals image'
+                -
+                  handle: caption
+                  field: image_block.caption
+                  config:
+                    width: 33
+                    if_any:
+                      left_column: 'equals image'
+                      right_column: 'equals image'
+                -
+                  handle: video
+                  field:
+                    display: Video
+                    type: video
+                    listable: hidden
+                    if_any:
+                      left_column: 'equals video'
+                      right_column: 'equals video'
+                -
+                  import: background
+            content_image_callout:
+              display: 'Content Image Callout'
+              fields: {  }
           type: replicator
           listable: hidden
           display: Sections
@@ -69,6 +328,8 @@ sections:
           type: slug
           required: true
           localizable: true
+          validate:
+            - required
       -
         handle: parent
         field:

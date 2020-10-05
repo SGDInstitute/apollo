@@ -1,0 +1,46 @@
+title: Content
+fields:
+  -
+    handle: bard
+    field:
+      always_show_set_button: false
+      sets:
+        image:
+          display: Image
+          fields:
+            -
+              import: image_block
+        table:
+          display: Table
+          fields:
+            -
+              handle: table
+              field:
+                display: Table
+                type: table
+                listable: hidden
+      buttons:
+        - h2
+        - h3
+        - h4
+        - h5
+        - bold
+        - italic
+        - underline
+        - strikethrough
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      display: Content
+      type: bard
+      listable: hidden

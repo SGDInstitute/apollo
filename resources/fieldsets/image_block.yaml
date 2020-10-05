@@ -1,0 +1,22 @@
+title: 'Image Block'
+fields:
+  -
+    handle: image
+    field:
+      mode: grid
+      container: assets
+      folder: /
+      restrict: false
+      allow_uploads: true
+      max_files: 1
+      display: Image
+      type: assets
+      listable: hidden
+  -
+    handle: caption
+    field:
+      input_type: text
+      display: Caption
+      type: text
+      instructions: _Optional_
+      listable: hidden

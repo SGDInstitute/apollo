@@ -1,0 +1,14 @@
+<section class="{{ bg_color }} py-8">
+    <div class="container mx-auto">
+        <div class="grid {{ grid }}">
+            <div class="{{ grid:left }}">
+                <div class="text-xl text-white text-center">
+                    {{ above_price }} <span class="block text-7xl font-bold">{{ price }}</span> {{ below_price }}
+                </div>
+            </div>
+            <div class="{{ grid:right }}">
+                {{ partial src="bard/bard" }}
+            </div>
+        </div>
+    </div>
+</section>
