@@ -1,0 +1,30 @@
+<section class="py-12 bg-white">
+    <div class="container mx-auto">
+        <div class="flex items-center justify-between">
+            <h2 class="text-5xl text-green-500">{{ title }}</h2>
+            <a href="{{ url }}" class="font-bold text-green-500">{{ text }}</a>
+        </div>
+
+        <div class="grid grid-cols-5 gap-4 mt-8 h-96">
+            {{ collection from="speakers" event:is="{event}" sort="speaking_on" }}
+            <div>
+                <div class="bg-center bg-cover h-2/3" style="background-image: url({{ headshot }});">
+                    <img src="{{ headshot }}" alt="{{ title }}" class="sr-only">
+                </div>
+                <div class="px-4 py-2 mx-4 -mt-8 bg-white">
+                    {{ if date_format === 'month_date_year_full' }}
+                    <p class="text-sm uppercase">{{ speaking_on format="F j, Y" }}</p>
+                    {{ elseif date_format === 'month_date_year_short' }}
+                    <p class="text-sm uppercase">{{ speaking_on format="M j, Y" }}</p>
+                    {{ elseif date_format === 'day_of_week_full' }}
+                    <p class="text-sm uppercase">{{ speaking_on format="l" }}</p>
+                    {{ elseif date_format === 'day_of_week_short' }}
+                    <p class="text-sm uppercase">{{ speaking_on format="D" }}</p>
+                    {{ /if }}
+                    <h3 class="text-2xl">{{ title }}</h3>
+                </div>
+            </div>
+            {{ /collection }}
+        </div>
+    </div>
+</section>

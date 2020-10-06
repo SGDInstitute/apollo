@@ -1,0 +1,14 @@
+title: Speakers
+sites:
+  - sgdinstitute
+  - mblgtacc
+template: default
+layout: layout
+revisions: false
+route:
+  sgdinstitute: '/{event-slug}/{slug}'
+  mblgtacc: '/speakers-entertainment/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

@@ -68,8 +68,41 @@ sections:
     image: null
     caption: null
     video: null
+  -
+    event: transgender-justice-teach-in
+    bg_color: null
+    background_height: null
+    type: speakers
+    enabled: true
+    background_color: null
+    title: 'Speakers & Entertainers'
+    button: null
+    text: 'View the Whole Program'
+    url: '#'
+    target_blank: false
+    color: btn-green
+    size: btn-base
+    block: false
+    date_format: month_date_year_full
+  -
+    date: '2020-11-09 16:24'
+    hashtag: 'until #tjt'
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-yellow-300
+    type: countdown
+    enabled: true
+  -
+    limit: 3
+    type: news
+    enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1600746699
+updated_at: 1602001484
 id: home
 ---
 Welcome to your new Statamic website.

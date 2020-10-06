@@ -1,0 +1,80 @@
+title: Speakers
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+          display: Name
+          listable: hidden
+          input_type: text
+      -
+        handle: speaking_on
+        field:
+          mode: single
+          time_enabled: false
+          time_required: false
+          earliest_date: '2020-01-01'
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
+          display: 'Speaking On'
+          type: date
+          width: 50
+          listable: hidden
+      -
+        handle: event
+        field:
+          input_type: text
+          display: 'Event Slug'
+          type: text
+          width: 50
+          listable: hidden
+      -
+        handle: headshot
+        field:
+          mode: grid
+          container: assets
+          folder: headshots
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          display: Headshot
+          type: assets
+          listable: hidden
+      -
+        import: content
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          required: true
+          localizable: true
+          validate:
+            - required
+      -
+        handle: date
+        field:
+          type: date
+          required: true
+          validate:
+            - required
+          display: 'Announcement Date'
+          listable: hidden
+          mode: single
+          time_enabled: false
+          time_required: false
+          earliest_date: '1900-01-01'
+          full_width: false
+          inline: false
+          columns: 1
+          rows: 1
