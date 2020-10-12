@@ -1,0 +1,11 @@
+.simply-countdown {
+    @apply grid grid-cols-4;
+}
+
+.simply-countdown > .simply-section .simply-amount {
+    @apply block text-4xl text-center text-black;
+}
+
+.simply-countdown > .simply-section .simply-word {
+    @apply block text-sm text-center text-gray-600 uppercase;
+}

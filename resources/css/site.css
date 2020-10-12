@@ -1,4 +1,5 @@
 @import 'components/buttons.css';
+@import 'components/countdown.css';
 
 .polygon {
     -webkit-clip-path: polygon(12% 0, 100% 0, 100% 100%, 0% 100%);

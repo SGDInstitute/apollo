@@ -1,0 +1,23 @@
+<section>
+    <div class="h-2/3-screen bg-cover bg-center" style="background-image: url({{ header_image }})"></div>
+    <div class="h-1/4 bg-white py-6">
+        <div class="container mx-auto">
+            <div class="grid grid-cols-5">
+                <div class="col-span-4 bg-white -mt-48 relative p-8">
+                    {{ if has_tag }}
+                    <span class="absolute top-0 -mt-4 bg-yellow-300 text-black uppercase text-sm px-6 py-2">{{ tag }}</span>
+                    {{ /if }}
+                    <h1 class="uppercase text-6xl font-bold">{{ title }}</h1>
+                </div>
+            </div>
+            <div class="grid grid-cols-4 px-8 mb-8 mt-1">
+                <div class="col-span-3">
+                    <p class="text-xl text-gray-600">{{ subtitle }}</p>
+                </div>
+                <div>
+                    <a href="{{ url }}" {{ if target_blank }}target="_blank"{{ /if }} class="btn {{ color }} {{ size }} {{ if block}}btn-block{{ /if }}">{{ text }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

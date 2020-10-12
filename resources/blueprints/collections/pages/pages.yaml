@@ -14,8 +14,8 @@ sections:
         handle: sections
         field:
           sets:
-            header:
-              display: Header
+            header_large:
+              display: 'Header Large'
               fields:
                 -
                   import: background_image
@@ -53,6 +53,28 @@ sections:
                     width: 75
                 -
                   import: button
+            header:
+              display: Header
+              fields:
+                -
+                  import: background
+                -
+                  handle: title
+                  field:
+                    input_type: text
+                    display: Title
+                    type: text
+                    listable: hidden
+            header_small:
+              display: 'Header Small'
+              fields:
+                -
+                  handle: title
+                  field:
+                    input_type: text
+                    display: Title
+                    type: text
+                    listable: hidden
             two_column:
               display: 'Two Column'
               fields:
@@ -468,8 +490,8 @@ sections:
                   handle: date
                   field:
                     mode: single
-                    time_enabled: false
-                    time_required: false
+                    time_enabled: true
+                    time_required: true
                     earliest_date: '1900-01-01'
                     full_width: false
                     inline: false
@@ -499,6 +521,11 @@ sections:
                     type: integer
                     instructions: 'The number of posts that will show up'
                     listable: hidden
+            content:
+              display: Content
+              fields:
+                -
+                  import: content
           type: replicator
           listable: hidden
           display: Sections

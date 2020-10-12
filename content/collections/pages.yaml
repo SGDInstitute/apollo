@@ -10,6 +10,11 @@ structure:
     sgdinstitute:
       -
         entry: home
+      -
+        entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
+        children:
+          -
+            entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
     mblgtacc:
       -
         entry: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0

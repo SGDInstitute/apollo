@@ -6,7 +6,7 @@ sections:
     header_image: headers/blurry-background.jpg
     title: 'Transgender Justice Teach-In'
     subtitle: 'Join us in the launch of a new program.'
-    has_tag: true
+    has_tag: false
     tag: 'New Event'
     button: null
     text: Register
@@ -25,7 +25,7 @@ sections:
     background: null
     bg_type: color
     bg_image: null
-    num_colors: 2
+    num_colors: '3'
     from_color: null
     via_color: null
     to_color: null
@@ -83,9 +83,9 @@ sections:
     color: btn-green
     size: btn-base
     block: false
-    date_format: month_date_year_full
+    date_format: day_of_week_full
   -
-    date: '2020-11-09 16:24'
+    date: '2020-11-09 17:00'
     hashtag: 'until #tjt'
     background: null
     bg_type: color
@@ -102,7 +102,7 @@ sections:
     type: news
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1602001484
+updated_at: 1602030501
 id: home
 ---
 Welcome to your new Statamic website.

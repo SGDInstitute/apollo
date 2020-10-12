@@ -19,6 +19,172 @@ fields:
                 display: Table
                 type: table
                 listable: hidden
+        2_columns:
+          display: '2 Columns'
+          fields:
+            -
+              handle: left_column
+              field:
+                options:
+                  image: Image
+                  video: Video
+                  content: Content
+                multiple: false
+                clearable: false
+                searchable: true
+                taggable: false
+                push_tags: false
+                cast_booleans: false
+                display: 'Left Column'
+                type: select
+                width: 50
+                listable: hidden
+            -
+              handle: right_column
+              field:
+                options:
+                  image: Image
+                  video: Video
+                  content: Content
+                multiple: false
+                clearable: false
+                searchable: true
+                taggable: false
+                push_tags: false
+                cast_booleans: false
+                display: 'Right Column'
+                type: select
+                width: 50
+                listable: hidden
+            -
+              handle: left_column_section
+              field:
+                display: 'Left Column'
+                type: section
+                listable: hidden
+            -
+              handle: left_image
+              field:
+                mode: grid
+                container: assets
+                folder: /
+                restrict: false
+                allow_uploads: false
+                max_files: 1
+                display: 'Left Image'
+                type: assets
+                listable: hidden
+                if:
+                  left_column: 'equals image'
+            -
+              handle: left_video
+              field:
+                display: 'Left Video'
+                type: video
+                listable: hidden
+                if:
+                  left_column: 'equals video'
+            -
+              handle: left_content
+              field:
+                always_show_set_button: false
+                buttons:
+                  - h2
+                  - h3
+                  - h4
+                  - h5
+                  - bold
+                  - italic
+                  - underline
+                  - strikethrough
+                  - unorderedlist
+                  - orderedlist
+                  - removeformat
+                  - quote
+                  - anchor
+                save_html: false
+                toolbar_mode: fixed
+                link_noopener: false
+                link_noreferrer: false
+                target_blank: false
+                reading_time: false
+                fullscreen: true
+                allow_source: true
+                display: 'Left Content'
+                type: bard
+                listable: hidden
+                sets:
+                  inline_buttons:
+                    display: 'Inline Buttons'
+                    fields:
+                      -
+                        import: button
+                if:
+                  left_column: 'equals content'
+            -
+              handle: right_column_section
+              field:
+                display: 'Right Column'
+                type: section
+                listable: hidden
+            -
+              handle: right_image
+              field:
+                mode: grid
+                container: assets
+                folder: /
+                restrict: false
+                allow_uploads: false
+                display: 'Right Image'
+                type: assets
+                listable: hidden
+                if:
+                  right_column: 'equals image'
+            -
+              handle: right_video
+              field:
+                display: 'Right Video'
+                type: video
+                listable: hidden
+                if:
+                  right_column: 'equals video'
+            -
+              handle: right_content
+              field:
+                always_show_set_button: false
+                buttons:
+                  - h2
+                  - h3
+                  - h4
+                  - h5
+                  - bold
+                  - italic
+                  - underline
+                  - strikethrough
+                  - unorderedlist
+                  - orderedlist
+                  - removeformat
+                  - quote
+                  - anchor
+                save_html: false
+                toolbar_mode: fixed
+                link_noopener: false
+                link_noreferrer: false
+                target_blank: false
+                reading_time: false
+                fullscreen: true
+                allow_source: true
+                display: 'Right Content'
+                type: bard
+                listable: hidden
+                sets:
+                  inline_buttons:
+                    display: 'Inline Buttons'
+                    fields:
+                      -
+                        import: button
+                if:
+                  right_column: 'equals content'
       buttons:
         - h2
         - h3

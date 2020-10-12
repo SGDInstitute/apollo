@@ -1,0 +1,20 @@
+<div class="grid grid-cols-2 gap-6 mx-auto mt-6 mb-8 prose">
+    <div>
+        {{ if left_column === 'image' }}
+        {{ elseif left_column === 'video' }}
+        {{ else }}
+            {{ left_content }}
+                {{ partial src="bard/{type}" }}
+            {{ /left_content }}
+        {{ /if }}
+    </div>
+    <div>
+        {{ if right_column === 'image' }}
+        {{ elseif right_column === 'video' }}
+        {{ else }}
+            {{ right_content }}
+                {{ partial src="bard/{type}" }}
+            {{ /right_content }}
+        {{ /if }}
+    </div>
+</div>

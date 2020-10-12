@@ -1,0 +1,15 @@
+title: Articles
+sites:
+  - sgdinstitute
+  - mblgtacc
+template: articles/show
+layout: layout
+taxonomies:
+  - tags
+  - categories
+revisions: false
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

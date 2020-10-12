@@ -1,0 +1,13 @@
+<section class="py-12 my-8 bg-gray-300">
+    <div class="container grid grid-cols-{{ limit }} gap-12 mx-auto">
+        {{ collection from="articles" limit="{limit}" }}
+        <article>
+            {{ categories }}
+            <a href="{{ url }}" class="block text-sm text-gray-600 uppercase">{{ title }}</a>
+            {{ /categories }}
+            <a href="#" class="block text-xl text-green-500">{{ title }}</a>
+            <span class="block text-sm text-gray-600">{{ date format="F j, Y" }}</span>
+        </article>
+        {{ /collection }}
+    </div>
+</section>

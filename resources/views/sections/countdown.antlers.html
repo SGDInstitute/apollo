@@ -1,8 +1,22 @@
-<section class="py-8 {{ bg_color }}">
+{{ section:scripts }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<script src="https://unpkg.com/simplycountdown.js@1.5.0/dist/simplyCountdown.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+{{ /section:scripts }}
+
+<section class="py-8 {{ bg_color }}"
+    x-data
+    x-init="
+        simplyCountdown('#countdown', {
+            year: {{ date format='Y' }},
+            month: {{ date format='m' }},
+            day: {{ date format='d' }},
+            hours: {{ date format='G' }},
+            minutes: {{ date format='i' }}
+        })
+    ">
     <div class="container grid grid-cols-5 gap-4 mx-auto">
-        <span class="text-4xl text-center text-black">382 <span class="block text-sm text-gray-600 uppercase">days</span></span>
-        <span class="text-4xl text-center text-black">14 <span class="block text-sm text-gray-600 uppercase">hours</span></span>
-        <span class="text-4xl text-center text-black">57 <span class="block text-sm text-gray-600 uppercase">minutes</span></span>
+        <div id="countdown" class="col-span-3 simply-countdown"></div>
         <div class="flex items-center h-full col-span-2">
             <span class="text-4xl text-center text-black">{{ hashtag }}</span>
         </div>
