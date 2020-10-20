@@ -1,0 +1,22 @@
+<section class="mb-4">
+    {{ if bard }}
+        {{ partial src="bard/bard" }}
+    {{ /if }}
+
+    <div class="container mx-auto">
+        <div class="grid grid-cols-5 gap-4 mt-16">
+            {{ users }}
+            <div class="h-96">
+                <div class="bg-center bg-cover h-2/3" style="background-image: url({{ avatar }});">
+                    <img src="{{ avatar }}" alt="{{ name }}" class="sr-only">
+                </div>
+                <div class="px-4 py-2 mx-4 -mt-8 bg-white">
+                    <p class="text-2xl text-gray-900">{{ name }}</p>
+                    <p class="text-gray-700">{{ position }}</p>
+                    <p class="text-sm text-gray-700 text-italic">{{ pronouns }}</p>
+                </div>
+            </div>
+            {{ /users }}
+        </div>
+    </div>
+</section>

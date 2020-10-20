@@ -15,8 +15,16 @@ sections:
     color: btn-green
     size: btn-lg
     block: true
-    type: header
+    type: header_large
     enabled: true
+    background: null
+    bg_type: image
+    bg_image: headers/blurry-background.jpg
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: null
   -
     id: pricing
     column_widths: two_fifths_left
@@ -101,8 +109,19 @@ sections:
     limit: 3
     type: news
     enabled: true
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-200
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1602030501
+updated_at: 1603208554
 id: home
 ---
 Welcome to your new Statamic website.

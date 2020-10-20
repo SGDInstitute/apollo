@@ -511,6 +511,26 @@ sections:
                     listable: hidden
                 -
                   import: background
+            content:
+              display: Content
+              fields:
+                -
+                  import: content
+            users:
+              display: Users
+              fields:
+                -
+                  import: content
+                -
+                  handle: users
+                  field:
+                    mode: default
+                    display: Users
+                    type: users
+                    icon: users
+                    listable: hidden
+                -
+                  import: background
             news:
               display: News
               fields:
@@ -521,11 +541,54 @@ sections:
                     type: integer
                     instructions: 'The number of posts that will show up'
                     listable: hidden
-            content:
-              display: Content
+                    width: 50
+                -
+                  handle: num_per_row
+                  field:
+                    display: 'Num per Row'
+                    type: integer
+                    icon: integer
+                    instructions: 'Number of articles per row'
+                    listable: hidden
+                    if:
+                      limit: '> 5'
+                    width: 50
+                -
+                  handle: pagination
+                  field:
+                    display: Pagination
+                    type: toggle
+                    icon: toggle
+                    listable: hidden
+                    if:
+                      limit: '> 5'
+                    width: 50
+                -
+                  handle: exclude
+                  field:
+                    display: 'Exclude News Feature Articles'
+                    type: toggle
+                    icon: toggle
+                    width: 50
+                    listable: hidden
+                -
+                  import: background
+            news_feature:
+              display: 'News Feature'
               fields:
                 -
-                  import: content
+                  handle: articles
+                  field:
+                    max_items: 5
+                    mode: default
+                    collections:
+                      - articles
+                    display: Articles
+                    type: entries
+                    icon: entries
+                    listable: hidden
+                -
+                  import: background
           type: replicator
           listable: hidden
           display: Sections

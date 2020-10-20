@@ -1,0 +1,17 @@
+title: 'Video Block'
+fields:
+  -
+    handle: video
+    field:
+      display: Video
+      type: video
+      icon: video
+      listable: hidden
+  -
+    handle: caption
+    field:
+      input_type: text
+      display: Caption
+      type: text
+      instructions: _Optional_
+      listable: hidden

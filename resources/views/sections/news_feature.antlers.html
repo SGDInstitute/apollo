@@ -1,0 +1,14 @@
+<section class="py-12 my-8">
+    <div class="container grid grid-cols-3 gap-12 mx-auto">
+        {{ articles }}
+        <article {{ if first }} class="col-span-2" {{ /if }}>
+            <img src="{{ card_image }}" class="w-full mb-4"/>
+            {{ categories }}
+            <a href="{{ url }}" class="block text-sm text-gray-600 uppercase">{{ title }}</a>
+            {{ /categories }}
+            <a href="{{ url }}" class="block text-3xl text-green-500">{{ title }}</a>
+            <span class="block text-sm text-gray-600">{{ date format="F j, Y" }}</span>
+        </article>
+        {{ /articles }}
+    </div>
+</section>

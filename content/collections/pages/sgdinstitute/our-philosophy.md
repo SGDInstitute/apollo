@@ -1,8 +1,8 @@
 ---
-title: 'Mission & History'
+title: 'Our Philosophy'
 sections:
   -
-    title: 'Mission & History'
+    title: 'Our Philosophy'
     type: header_small
     enabled: true
   -
@@ -362,6 +362,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1602095712
+updated_at: 1603150364
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---

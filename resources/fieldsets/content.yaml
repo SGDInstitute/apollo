@@ -10,6 +10,11 @@ fields:
           fields:
             -
               import: image_block
+        video:
+          display: Video
+          fields:
+            -
+              import: video_block
         table:
           display: Table
           fields:
@@ -200,7 +205,7 @@ fields:
         - quote
         - anchor
       save_html: false
-      toolbar_mode: fixed
+      toolbar_mode: floating
       link_noopener: false
       link_noreferrer: false
       target_blank: false

@@ -11,6 +11,19 @@ sections:
           validate:
             - required
       -
+        handle: card_image
+        field:
+          mode: grid
+          container: assets
+          folder: /
+          restrict: false
+          allow_uploads: false
+          max_files: 1
+          display: 'Card Image'
+          type: assets
+          icon: assets
+          listable: hidden
+      -
         import: content
   sidebar:
     display: Sidebar
