@@ -11,7 +11,7 @@ sections:
     button: null
     text: Register
     url: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
-    target_blank: true
+    target_blank: false
     color: btn-green
     size: btn-lg
     block: true
@@ -25,6 +25,8 @@ sections:
     via_color: null
     to_color: null
     bg_color: null
+    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+    outline: true
   -
     id: pricing
     column_widths: two_fifths_left
@@ -62,7 +64,7 @@ sections:
         type: set
         attrs:
           values:
-            type: button_links
+            type: buttons
             buttons:
               -
                 link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
@@ -70,6 +72,11 @@ sections:
                 button_color: green
                 outline: true
                 target_blank: true
+                title: Register
+                color: btn-white
+                size: btn-lg
+                block: false
+            contain: true
     above_price: 'Starting at'
     price: $10
     below_price: 'per person'
@@ -92,6 +99,8 @@ sections:
     size: btn-base
     block: false
     date_format: day_of_week_full
+    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+    outline: true
   -
     date: '2020-11-09 17:00'
     hashtag: 'until #tjt'
@@ -121,7 +130,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1603208554
+updated_at: 1603219376
 id: home
 ---
 Welcome to your new Statamic website.

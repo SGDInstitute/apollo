@@ -1,5 +1,9 @@
 module.exports = {
   purge: [],
+  future: {
+    removeDeprecatedGapUtilities: true,
+    standardFontWeights: true,
+  },
   theme: {
     extend: {
         colors: {
@@ -20,11 +24,18 @@ module.exports = {
             '2/3-screen': '66vh',
             '2/3': '66.666667%',
             '1/3': '33.333333%',
-            '1/4': '25%'
+            '1/4': '25%',
+            '18': '4.5rem',
         },
         fontSize: {
             '7xl': '5rem'
-        }
+        },
+        maxWidth: {
+            'prose': '65ch',
+        },
+        screens: {
+            'dark': {'raw': '(prefers-color-scheme: dark)'},
+        },
     },
     typography: (theme) => ({
         dark: {

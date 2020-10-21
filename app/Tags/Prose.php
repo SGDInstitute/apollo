@@ -17,6 +17,14 @@ class Prose extends Tags
         return $this->whichIsBetter($color);
     }
 
+    public function dark()
+    {
+        $backgroundColor = $this->context->raw('bg_color');
+        if($backgroundColor === null || $backgroundColor === 'bg-gray-200') {
+            return 'dark:prose-dark';
+        }
+    }
+
     private function whichIsBetter($color) {
         list($r1, $g1, $b1) = sscanf($color, "#%02x%02x%02x");
         list($r2, $g2, $b2) = sscanf('#ffffff', "#%02x%02x%02x"); // white

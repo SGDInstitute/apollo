@@ -119,11 +119,11 @@ fields:
                 type: bard
                 listable: hidden
                 sets:
-                  inline_buttons:
-                    display: 'Inline Buttons'
+                  buttons:
+                    display: Buttons
                     fields:
                       -
-                        import: button
+                        import: content_buttons
                 if:
                   left_column: 'equals content'
             -
@@ -183,13 +183,18 @@ fields:
                 type: bard
                 listable: hidden
                 sets:
-                  inline_buttons:
-                    display: 'Inline Buttons'
+                  buttons:
+                    display: Buttons
                     fields:
                       -
-                        import: button
+                        import: content_buttons
                 if:
                   right_column: 'equals content'
+        buttons:
+          display: Buttons
+          fields:
+            -
+              import: content_buttons
       buttons:
         - h2
         - h3

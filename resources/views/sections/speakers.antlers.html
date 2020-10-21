@@ -1,27 +1,27 @@
-<section class="py-12 bg-white">
+<section class="py-12 bg-white dark:bg-gray-800">
     <div class="container mx-auto">
         <div class="flex items-center justify-between">
-            <h2 class="text-5xl text-green-500">{{ title }}</h2>
-            <a href="{{ url }}" class="font-bold text-green-500">{{ text }}</a>
+            <h2 class="text-5xl text-green-500 dark:text-green-400">{{ title }}</h2>
+            <a href="{{ url }}" class="font-bold text-green-500 dark:text-green-400">{{ text }}</a>
         </div>
 
-        <div class="grid grid-cols-5 gap-4 mt-8 h-96">
+        <div class="grid grid-cols-1 gap-4 mt-8 md:grid-cols-5 md:h-96">
             {{ collection from="speakers" event:is="{event}" sort="speaking_on" }}
-            <div>
+            <div class="h-96">
                 <div class="bg-center bg-cover h-2/3" style="background-image: url({{ headshot }});">
                     <img src="{{ headshot }}" alt="{{ title }}" class="sr-only">
                 </div>
-                <div class="px-4 py-2 mx-4 -mt-8 bg-white">
+                <div class="px-4 py-2 mx-4 -mt-8 bg-white dark:bg-gray-800">
                     {{ if date_format === 'month_date_year_full' }}
-                    <p class="text-sm uppercase">{{ speaking_on format="F j, Y" }}</p>
+                    <p class="text-sm uppercase dark:text-gray-400">{{ speaking_on format="F j, Y" }}</p>
                     {{ elseif date_format === 'month_date_year_short' }}
-                    <p class="text-sm uppercase">{{ speaking_on format="M j, Y" }}</p>
+                    <p class="text-sm uppercase dark:text-gray-400">{{ speaking_on format="M j, Y" }}</p>
                     {{ elseif date_format === 'day_of_week_full' }}
-                    <p class="text-sm uppercase">{{ speaking_on format="l" }}</p>
+                    <p class="text-sm uppercase dark:text-gray-400">{{ speaking_on format="l" }}</p>
                     {{ elseif date_format === 'day_of_week_short' }}
-                    <p class="text-sm uppercase">{{ speaking_on format="D" }}</p>
+                    <p class="text-sm uppercase dark:text-gray-400">{{ speaking_on format="D" }}</p>
                     {{ /if }}
-                    <h3 class="text-2xl">{{ title }}</h3>
+                    <h3 class="text-2xl dark:text-gray-200">{{ title }}</h3>
                 </div>
             </div>
             {{ /collection }}

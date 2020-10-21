@@ -1,50 +1,37 @@
 title: Button
 fields:
   -
-    handle: button
+    handle: link
     field:
-      type: section
+      display: Link
+      type: link
+      icon: link
       listable: hidden
-      display: Button
   -
     handle: text
     field:
       input_type: text
-      type: text
-      width: 25
-      listable: hidden
       display: Text
-  -
-    handle: url
-    field:
-      input_type: url
       type: text
-      width: 50
+      icon: text
       listable: hidden
-      display: Url
-  -
-    handle: target_blank
-    field:
-      type: toggle
-      width: 25
-      listable: hidden
-      display: 'New Tab'
   -
     handle: color
     field:
       options:
-        btn-green: Green
         btn-white: White
-      clearable: false
+        btn-green: Green
       multiple: false
+      clearable: false
       searchable: true
       taggable: false
       push_tags: false
       cast_booleans: false
+      display: Color
       type: select
+      icon: select
       width: 33
       listable: hidden
-      display: Color
   -
     handle: size
     field:
@@ -54,20 +41,38 @@ fields:
         btn-base: Base
         btn-lg: Large
         btn-xl: 'Extra Large'
-      clearable: false
       multiple: false
+      clearable: false
       searchable: true
       taggable: false
       push_tags: false
       cast_booleans: false
+      display: Size
       type: select
+      icon: select
       width: 33
       listable: hidden
-      display: Size
   -
     handle: block
     field:
+      display: 'Full Width'
       type: toggle
+      icon: toggle
+      width: 33
+      listable: hidden
+  -
+    handle: outline
+    field:
+      display: Outline
+      type: toggle
+      icon: toggle
       width: 25
       listable: hidden
-      display: 'Full Width'
+  -
+    handle: target_blank
+    field:
+      display: 'Target Blank'
+      type: toggle
+      icon: toggle
+      width: 25
+      listable: hidden

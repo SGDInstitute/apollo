@@ -7,9 +7,25 @@
         <title>{{ title ?? site:name }}</title>
         <link rel="stylesheet" href="{{ mix src='css/tailwind.css' }}">
         <script src="{{ mix src='/js/site.js' }}"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+        <script src="https://unpkg.com/simplycountdown.js@1.5.0/dist/simplyCountdown.min.js" defer></script>
+        <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
         {{ yield:scripts }}
     </head>
-    <body>
+    <body class="dark:bg-gray-800">
+        {{ partial src="{site.handle}/nav" }}
+
         {{ template_content }}
+
+        <section id="stay-connected" class="py-8 bg-yellow-300 stay-conected">
+            <div class="container mx-auto">
+                <h2 class="mb-6 text-3xl text-black uppercase">Stay Connected</h2>
+            </div>
+        </section>
+
+        {{ partial src="{site.handle}/footer" }}
+
+        <script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+        <script type="text/javascript">window.Beacon('init', '18095fd6-4d50-4bad-890e-6e0091bbf384')</script>
     </body>
 </html>

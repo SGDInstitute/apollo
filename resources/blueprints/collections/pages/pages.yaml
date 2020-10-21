@@ -157,63 +157,6 @@ sections:
                         fields:
                           -
                             import: image_block
-                      button_links:
-                        display: 'Button Links'
-                        fields:
-                          -
-                            handle: buttons
-                            field:
-                              fields:
-                                -
-                                  handle: link
-                                  field:
-                                    display: Link
-                                    type: link
-                                    listable: hidden
-                                -
-                                  handle: text
-                                  field:
-                                    input_type: text
-                                    display: Text
-                                    type: text
-                                    listable: hidden
-                                    width: 25
-                                -
-                                  handle: button_color
-                                  field:
-                                    options:
-                                      green: Green
-                                      white: White
-                                    multiple: false
-                                    clearable: false
-                                    searchable: true
-                                    taggable: false
-                                    push_tags: false
-                                    cast_booleans: false
-                                    display: 'Button Color'
-                                    type: select
-                                    listable: hidden
-                                    width: 25
-                                -
-                                  handle: outline
-                                  field:
-                                    display: 'Outline Styles'
-                                    type: toggle
-                                    listable: hidden
-                                    width: 25
-                                -
-                                  handle: target_blank
-                                  field:
-                                    display: 'New Tab'
-                                    type: toggle
-                                    listable: hidden
-                                    width: 25
-                              mode: stacked
-                              add_row: 'Add Link'
-                              reorderable: true
-                              display: Buttons
-                              type: grid
-                              listable: hidden
                       table:
                         display: Table
                         fields:
@@ -227,11 +170,12 @@ sections:
                         display: Video
                         fields:
                           -
-                            handle: video
-                            field:
-                              display: Video
-                              type: video
-                              listable: hidden
+                            import: video_block
+                      buttons:
+                        display: Buttons
+                        fields:
+                          -
+                            import: content_buttons
                     buttons:
                       - h2
                       - h3

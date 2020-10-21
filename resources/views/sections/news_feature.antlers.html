@@ -4,10 +4,10 @@
         <article {{ if first }} class="col-span-2" {{ /if }}>
             <img src="{{ card_image }}" class="w-full mb-4"/>
             {{ categories }}
-            <a href="{{ url }}" class="block text-sm text-gray-600 uppercase">{{ title }}</a>
+            <a href="{{ url }}" class="block text-sm text-gray-600 uppercase dark:text-gray-400">{{ title }}</a>
             {{ /categories }}
-            <a href="{{ url }}" class="block text-3xl text-green-500">{{ title }}</a>
-            <span class="block text-sm text-gray-600">{{ date format="F j, Y" }}</span>
+            <a href="{{ url }}" class="block text-3xl text-green-500 dark:text-green-400">{{ title }}</a>
+            <span class="block text-sm text-gray-600 dark:text-gray-400">{{ date format="F j, Y" }}</span>
         </article>
         {{ /articles }}
     </div>

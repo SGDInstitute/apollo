@@ -1,0 +1,41 @@
+title: Socials
+fields:
+  -
+    handle: socials
+    field:
+      fields:
+        -
+          handle: network
+          field:
+            options:
+              facebook: Facebook
+              twitter: Twitter
+              youtube: YouTube
+              rss: RSS
+              instagram: Instagram
+              flickr: Flickr
+              linkedin: LinkedIn
+            multiple: false
+            clearable: false
+            searchable: true
+            taggable: false
+            push_tags: false
+            cast_booleans: false
+            display: Network
+            type: select
+            icon: select
+            listable: hidden
+        -
+          handle: link
+          field:
+            input_type: text
+            display: Link
+            type: text
+            icon: text
+            listable: hidden
+      mode: table
+      reorderable: true
+      display: Socials
+      type: grid
+      icon: grid
+      listable: hidden

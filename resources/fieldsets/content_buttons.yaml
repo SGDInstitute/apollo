@@ -1,0 +1,12 @@
+title: 'Content Buttons'
+fields:
+  -
+    import: buttons
+  -
+    handle: contain
+    field:
+      display: Contain
+      type: hidden
+      icon: hidden
+      listable: hidden
+      default: true

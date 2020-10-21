@@ -1,0 +1,7 @@
+{{ buttons }}
+    {{ if target_blank }}
+        <a href="{{ link }}" class="btn {{ color }} {{ size }} {{ block ? 'btn-block' : '' }}" target="_blank">{{ text }}</a>
+    {{ else }}
+        <a href="{{ link }}" class="btn {{ color }} {{ size }} {{ block ? 'btn-block' : '' }}">{{ text }}</a>
+    {{ /if}}
+{{ /buttons }}

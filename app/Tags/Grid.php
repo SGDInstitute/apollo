@@ -11,13 +11,13 @@ class Grid extends Tags
         $widths = (string) $this->context->get('column_widths');
 
         if ($widths === 'half') {
-            return 'grid-cols-2 gap-12';
+            return 'grid-cols-1 md:grid-cols-2 gap-12';
         } elseif ($widths === 'third_left' || $widths === 'third_right') {
-            return 'grid-cols-3 gap-12';
+            return 'grid-cols-1 md:grid-cols-3 gap-12';
         } elseif ($widths === 'quarter_left' || $widths === 'quarter_right') {
-            return 'grid-cols-4 gap-12';
+            return 'grid-cols-1 md:grid-cols-4 gap-12';
         } elseif ($widths === 'two_fifths_left' || $widths === 'two_fifths_right' || $widths === 'one_fifth_left' || $widths === 'one_fifth_right') {
-            return 'grid-cols-5 gap-12';
+            return 'grid-cols-1 md:grid-cols-5 gap-12';
         }
     }
 

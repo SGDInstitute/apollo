@@ -1,18 +1,18 @@
 <section>
-    <div class="h-2/3-screen bg-cover bg-center" style="background-image: url({{ header_image }})"></div>
-    <div class="h-1/4 bg-white py-6">
+    <div class="bg-center bg-cover h-2/3-screen" style="background-image: url({{ header_image }})"></div>
+    <div class="py-6 bg-white dark:bg-gray-800 h-1/4">
         <div class="container mx-auto">
             <div class="grid grid-cols-5">
-                <div class="col-span-4 bg-white -mt-48 relative p-8">
+                <div class="relative col-span-4 p-8 -mt-48 bg-white dark:bg-gray-800">
                     {{ if has_tag }}
-                    <span class="absolute top-0 -mt-4 bg-yellow-300 text-black uppercase text-sm px-6 py-2">{{ tag }}</span>
+                    <span class="absolute top-0 px-6 py-2 -mt-4 text-sm text-black uppercase bg-yellow-300">{{ tag }}</span>
                     {{ /if }}
-                    <h1 class="uppercase text-6xl font-bold">{{ title }}</h1>
+                    <h1 class="text-xl font-bold uppercase md:text-6xl dark:text-gray-200">{{ title }}</h1>
                 </div>
             </div>
-            <div class="grid grid-cols-4 px-8 mb-8 mt-1">
+            <div class="grid grid-cols-4 px-8 mt-1 mb-8">
                 <div class="col-span-3">
-                    <p class="text-xl text-gray-600">{{ subtitle }}</p>
+                    <p class="text-xl text-gray-600 dark:text-gray-400">{{ subtitle }}</p>
                 </div>
                 <div>
                     <a href="{{ url }}" {{ if target_blank }}target="_blank"{{ /if }} class="btn {{ color }} {{ size }} {{ if block}}btn-block{{ /if }}">{{ text }}</a>

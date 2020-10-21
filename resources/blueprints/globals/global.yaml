@@ -1,0 +1,58 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        import: socials
+      -
+        handle: logo_light
+        field:
+          mode: grid
+          container: assets
+          folder: brand
+          restrict: false
+          allow_uploads: false
+          max_files: 1
+          display: 'Light Theme Logo'
+          type: assets
+          icon: assets
+          listable: hidden
+      -
+        handle: logo_dark
+        field:
+          mode: grid
+          container: assets
+          folder: brand
+          restrict: false
+          allow_uploads: false
+          max_files: 1
+          display: 'Dark Theme Logo'
+          type: assets
+          icon: assets
+          listable: hidden
+      -
+        handle: wordmark_light
+        field:
+          mode: grid
+          container: assets
+          folder: brand
+          restrict: false
+          allow_uploads: false
+          max_files: 1
+          display: 'Light Theme Wordmark'
+          type: assets
+          icon: assets
+          listable: hidden
+      -
+        handle: wordmark_dark
+        field:
+          mode: grid
+          container: assets
+          folder: brand
+          restrict: false
+          allow_uploads: false
+          max_files: 1
+          display: 'Dark Theme Wordmark'
+          type: assets
+          icon: assets
+          listable: hidden

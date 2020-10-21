@@ -19,4 +19,6 @@
     -webkit-transform: skewX(20deg);
     transform: skewX(20deg);
     display: inline-block;
-  }
+}
+
+[x-cloak] { display: none; }
