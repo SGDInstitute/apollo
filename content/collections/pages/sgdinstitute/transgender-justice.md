@@ -186,7 +186,7 @@ sections:
             buttons:
               -
                 link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
-                text: 'Register +'
+                text: Register
                 color: btn-green
                 size: btn-base
                 block: false
@@ -216,7 +216,7 @@ sections:
     type: content
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1603412484
+updated_at: 1603417292
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
