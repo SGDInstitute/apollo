@@ -194,8 +194,6 @@ sections:
                 target_blank: true
             contain: true
       -
-        type: paragraph
-      -
         type: heading
         attrs:
           level: 2
@@ -218,6 +216,7 @@ sections:
     type: content
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1603412450
+updated_at: 1603412484
+template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
