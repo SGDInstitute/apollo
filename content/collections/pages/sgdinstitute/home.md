@@ -78,7 +78,7 @@ sections:
                 block: false
             contain: true
     above_price: 'Starting at'
-    price: $10
+    price: $5
     below_price: 'per person'
     image: null
     caption: null
@@ -130,7 +130,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1603219376
+updated_at: 1603412170
 id: home
 ---
 Welcome to your new Statamic website.
