@@ -3,6 +3,5 @@ super: true
 avatar: team/justin.jpg
 position: 'Executive Director'
 pronouns: they/them
-password: $2y$10$g6jJWcr/j7uxjlGJfljnCudz0hjo5PkLuwlwE.ZnH3NebcpYkn0Ue
 id: dcd190a9-db32-4705-ad6a-2795ef6f415b
 password_hash: $2y$10$xy55Ggx.xFpZ2NWg/oMUKu5Ej9wip1RJBXlNyq8w/3tAwKFOWy2TO
