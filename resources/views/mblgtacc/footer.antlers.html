@@ -1,7 +1,7 @@
 <footer>
     <div class="py-8 bg-green-500">
-        <div class="container grid grid-cols-5 mx-auto">
-            <div class="col-span-2 row-span-2">
+        <div class="container grid grid-cols-5 gap-12 mx-auto">
+            <div class="col-span-2">
                 <span class="block mb-3 text-4xl text-white">MBLGTACC</span>
                 <p class="mb-6 text-xs text-gray-100">The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is America's largest and oldest continuously-running conference for queer and trans+ college students.</p>
 
@@ -15,7 +15,28 @@
                     </div>
                 </div>
             </div>
-
+            {{ nav:mblgtacc_footer_nav }}
+                <div>
+                    {{ children scope="item" }}
+                    <div class="mb-4">
+                        <a href="{{ item.url }}" class="text-base font-semibold leading-5 tracking-wider text-white hover:text-gray-200">
+                            {{ item.title }}
+                        </a>
+                        {{ if item.children }}
+                        <ul class="mt-2">
+                            {{ item.children }}
+                            <li>
+                                <a href="{{ url }}" class="text-sm leading-4 text-gray-300 hover:text-gray-100">
+                                    {{ title }}
+                                </a>
+                            </li>
+                            {{ /item.children }}
+                        </ul>
+                        {{ /if }}
+                    </div>
+                    {{ /children }}
+                </div>
+            {{ /nav:mblgtacc_footer_nav }}
         </div>
     </div>
     <div class="py-6 bg-gray-800">
@@ -23,7 +44,7 @@
             <div class="text-gray-500">
                 INSTITUTE LOGO
             </div>
-            <div class="col-span-3">
+            <div class="col-span-3 pr-12">
                 <p class="text-sm text-gray-500">"MBLGTACC", "Midwest Bisexual Lesbian Gay Transgender Asexual College Conference," "Midwest Bisexual Lesbian Gay Transgender Ally College Conference," and the MBLGTACC logo are servicemarks of the Midwest Institute for Sexuality and Gender Diversity, a non-profit 501(c)(3) organization. Our Tax ID is: 81-1788851. <a href="#">Legal & Privacy</a> | <a href="#">Press/Media</a> | <a href="https://sgdinstitute.org">SGD Institute</a></p>
             </div>
         </div>
