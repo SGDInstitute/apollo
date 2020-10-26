@@ -3,7 +3,7 @@ title: Home
 template: default
 sections:
   -
-    header_image: headers/trans-justice-teach-in.png
+    header_image: headers/blurry-background.jpg
     title: 'Transgender Justice Teach-In'
     subtitle: 'Join us in the launch of a new program.'
     has_tag: false
@@ -130,7 +130,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603730329
+updated_at: 1603730359
 id: home
 ---
 Welcome to your new Statamic website.
