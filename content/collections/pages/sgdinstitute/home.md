@@ -103,7 +103,7 @@ sections:
     outline: true
   -
     date: '2020-11-09 17:00'
-    hashtag: 'until #tjt'
+    hashtag: 'until #TransJusticeTeachIn'
     background: null
     bg_type: color
     bg_image: null
@@ -130,7 +130,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603730359
+updated_at: 1603730389
 id: home
 ---
 Welcome to your new Statamic website.
