@@ -5,7 +5,7 @@
           <img class="h-10 dark:hidden" src="{{ wordmark_light }}" alt="Midwest Institute for Sexuality and Gender Diversity wordmark">
           <img class="hidden h-10 dark:inline-block" src="{{ wordmark_dark }}" alt="Midwest Institute for Sexuality and Gender Diversity wordmark">
           <p class="text-sm leading-6 text-gray-400">
-            We empower students of diverse sexualities and genders to inspire sustainable change; lead higher education colleagues in relevant and inclusive practices; and advance knowledge of sexuality and gender through advocacy and expansive programming.
+            {{ footer_text }}
           </p>
           <div class="flex space-x-6">
             {{ socials }}
@@ -82,7 +82,9 @@
           PO Box 1053, East Lansing, MI 48826-1053 | 81-1788851
         </p>
         <p class="text-xs leading-6 text-gray-400 xl:text-center">
-            Legal & Privacy | Webmaster | Media | Contact
+            {{ nav:sgd_footer_bottom_nav }}
+            <a href="{{ url }}" class="hover:underline">{{ title }}</a>{{ if !last }} |{{ /if }}
+            {{ /nav:sgd_footer_bottom_nav }}
         </p>
       </div>
     </div>
