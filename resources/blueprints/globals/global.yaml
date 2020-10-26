@@ -5,6 +5,20 @@ sections:
       -
         import: socials
       -
+        handle: footer_text
+        field:
+          display: 'Footer Text'
+          type: textarea
+          icon: textarea
+          listable: hidden
+      -
+        handle: branding_section
+        field:
+          display: Branding
+          type: section
+          icon: section
+          listable: hidden
+      -
         handle: logo_light
         field:
           mode: grid
@@ -17,6 +31,7 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+          width: 50
       -
         handle: logo_dark
         field:
@@ -30,6 +45,7 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+          width: 50
       -
         handle: wordmark_light
         field:
@@ -43,6 +59,7 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+          width: 50
       -
         handle: wordmark_dark
         field:
@@ -56,3 +73,4 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+          width: 50
