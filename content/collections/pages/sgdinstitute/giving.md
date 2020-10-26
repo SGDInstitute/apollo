@@ -125,7 +125,7 @@ sections:
                 color: btn-green
                 size: btn-lg
                 block: false
-                link: null
+                link: 'https://apps.sgdinstitute.org/donations/create/institute'
                 outline: false
             contain: true
       -
@@ -165,7 +165,7 @@ sections:
             text: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
     type: content
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1603232738
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1603728130
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
