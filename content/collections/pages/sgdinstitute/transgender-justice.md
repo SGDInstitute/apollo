@@ -23,7 +23,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+            text: '[***ADD LEAD TEXT STYLE***] The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: heading
         attrs:
@@ -112,6 +112,26 @@ sections:
               -
                 type: bold
             text: Panelists
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '[***'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'ADD SPEAKERS COMPONENT?'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '***]'
       -
         type: heading
         attrs:
@@ -298,7 +318,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603767681
+updated_at: 1603767882
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
