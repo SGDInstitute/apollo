@@ -31,6 +31,64 @@ sections:
         content:
           -
             type: text
+            text: 'The Rise of a Trans Abolitionist Vision'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Tuesday, November 10, 2020'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '5:30PM - 7:00PM ET / 4:30 - 6:00PM CT'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Virtual via Zoom'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Join the Institute and the University of Minnesota Duluth''s '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.d.umn.edu/sgei/'
+                  target: _blank
+                  rel: null
+            text: 'Sexuality & Gender Equity Initiatives'
+          -
+            type: text
+            text: ' for a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we aim to highlight efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             marks:
               -
                 type: bold
@@ -219,7 +277,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603765907
+updated_at: 1603767532
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
