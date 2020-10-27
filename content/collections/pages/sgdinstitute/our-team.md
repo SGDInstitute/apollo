@@ -2,7 +2,7 @@
 title: 'Our Team'
 sections:
   -
-    title: 'Our Team'
+    title: 'Our team'
     type: header_small
     enabled: true
   -
@@ -12,28 +12,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Institute is a 501(c)(3) organization, incorporated in the state of Michigan and serving the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin. We are governed by a board of directors, and our programs, resources, and operations are organized by the leadership team.'
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Leadership Team'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "The leadership team manages the organization on a day-to-day basis. Our humans include experienced advocates and graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_"
+            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates and graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_"
           -
             type: text
             marks:
@@ -74,7 +53,7 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603727949
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1603768948
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
