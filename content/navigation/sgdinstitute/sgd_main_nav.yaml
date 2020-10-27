@@ -5,7 +5,7 @@ tree:
     entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
     children:
       -
-        title: 'Who We Are'
+        title: 'About the Institute'
         url: /about
       -
         entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
@@ -13,6 +13,8 @@ tree:
         entry: ad088f33-ab22-428b-a582-cd5a53022895
       -
         entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+      -
+        entry: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
   -
     entry: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
     children:
