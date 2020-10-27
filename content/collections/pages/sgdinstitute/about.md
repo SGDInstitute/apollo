@@ -2,7 +2,7 @@
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603760815
+updated_at: 1603768760
 sections:
   -
     background: null
@@ -122,6 +122,12 @@ sections:
           -
             type: text
             text: "\_how we can better support you. We vow to be accountable to the community we serve."
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Institute is a 501(c)(3) organization, incorporated in the state of Michigan and serving the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin. We are governed by a board of directors, and our programs, resources, and operations are organized by the leadership team.'
     type: content
     enabled: true
   -
