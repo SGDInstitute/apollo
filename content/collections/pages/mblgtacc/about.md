@@ -50,30 +50,16 @@ sections:
                         type: bold
                     text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
             right_column_section: null
-            right_image:
-              - history/mission-history-CONTENT.jpg
+            right_image: {  }
             right_video: null
             right_content: null
       -
         type: paragraph
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603773847
+updated_at: 1603773986
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
