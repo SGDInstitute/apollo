@@ -1,8 +1,8 @@
 ---
 title: About
 template: default
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1602096028
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1603760815
 sections:
   -
     background: null
@@ -19,13 +19,12 @@ sections:
   -
     bard:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: Welcome
       -
         type: paragraph
@@ -123,24 +122,44 @@ sections:
           -
             type: text
             text: "\_how we can better support you. We vow to be accountable to the community we serve."
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'With pride,'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Justin Drwencke'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Executive Director'
     type: content
+    enabled: true
+  -
+    limit: 3
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
+  -
+    id: null
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    bard: null
+    above_price: null
+    price: null
+    below_price: null
+    image: headers/blurry-background.jpg
+    caption: null
+    video: null
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-green-800
+    type: two_column
     enabled: true
 id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 ---
