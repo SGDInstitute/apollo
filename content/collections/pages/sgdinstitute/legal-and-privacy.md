@@ -14,10 +14,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'PRIVACY POLICY'
+            text: 'Privacy policy'
       -
         type: heading
         attrs:
@@ -25,10 +22,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'General Policy Statement'
+            text: 'General policy statement'
       -
         type: paragraph
         content:
@@ -42,10 +36,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Best Practices and Procedures'
+            text: 'Best practices and procedures'
       -
         type: ordered_list
         attrs:
@@ -178,21 +169,15 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: "COPYRIGHT AND INTELLECTUAL PROPERTY\_"
+            text: 'Copyright and intellectual property'
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'General Policy Statement'
+            text: 'General policy statement'
       -
         type: paragraph
         content:
@@ -206,9 +191,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: Copyright
       -
         type: paragraph
@@ -244,9 +226,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: 'Copyright infringement'
       -
         type: paragraph
@@ -402,10 +381,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'NON-DISCRIMINATION POLICY'
+            text: 'Non-discrimination policy'
       -
         type: paragraph
         content:
@@ -474,7 +450,7 @@ sections:
             text: ).
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603731956
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1603767051
 id: fca78f6d-023b-4830-860d-e3ed26a30ff4
 ---
