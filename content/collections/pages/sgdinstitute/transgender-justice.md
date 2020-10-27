@@ -83,6 +83,25 @@ sections:
             type: text
             text: ' for a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we aim to highlight efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
+                text: Register
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -255,6 +274,8 @@ sections:
                 target_blank: true
             contain: true
       -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -277,7 +298,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603767532
+updated_at: 1603767681
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
