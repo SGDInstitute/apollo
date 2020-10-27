@@ -1,8 +1,8 @@
 ---
-title: 'Our philosophy'
+title: 'Our Philosophy'
 sections:
   -
-    title: 'Our philosophy'
+    title: 'Our Philosophy'
     type: header_small
     enabled: true
   -
@@ -275,6 +275,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603771427
+updated_at: 1603807298
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
