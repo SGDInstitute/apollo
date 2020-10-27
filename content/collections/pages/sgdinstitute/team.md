@@ -12,7 +12,7 @@ sections:
         content:
           -
             type: text
-            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates and graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_"
+            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates, professionals, graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_"
           -
             type: text
             marks:
@@ -58,6 +58,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603771441
+updated_at: 1603807223
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
