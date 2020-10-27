@@ -1,8 +1,8 @@
 ---
-title: 'Our mission, vision, and values'
+title: 'Our Mission, Vision, and Values'
 sections:
   -
-    title: 'Our mission, vision, and values'
+    title: 'Our Mission, Vision, and Values'
     type: header_small
     enabled: true
   -
@@ -194,6 +194,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603770918
+updated_at: 1603807353
 id: ad088f33-ab22-428b-a582-cd5a53022895
 ---
