@@ -108,7 +108,7 @@ sections:
         content:
           -
             type: text
-            text: Eligibility
+            text: 'Putting together your bid'
       -
         type: heading
         attrs:
@@ -590,6 +590,6 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603773482
+updated_at: 1603773553
 id: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
 ---
