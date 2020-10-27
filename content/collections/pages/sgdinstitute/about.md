@@ -2,7 +2,7 @@
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603768760
+updated_at: 1603769966
 sections:
   -
     background: null
@@ -19,19 +19,25 @@ sections:
   -
     bard:
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '[***LEAD TEXT STYLE***] At the Midwest Institute for Sexuality and Gender Diversity, we re-envision a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Institute is a 501(c)(3) organization, incorporated in the state of Michigan and serving the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin. We are governed by a board of directors, and our programs, resources, and operations are organized by the leadership team.'
+      -
         type: heading
         attrs:
           level: 2
         content:
           -
             type: text
-            text: Welcome
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'At the Midwest Institute for Sexuality and Gender Diversity, we re-envision a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
+            text: 'Our programs'
       -
         type: paragraph
         content:
@@ -51,6 +57,14 @@ sections:
           -
             type: text
             text: '), the largest conference hosted by and for LGBTQIA+ college students. Through this and other programs, we advance knowledge of sexuality and gender and we empower students to inspire sustainable change. We lead our higher education colleagues in relevant and inclusive practices.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Learn more'
       -
         type: paragraph
         content:
@@ -122,12 +136,6 @@ sections:
           -
             type: text
             text: "\_how we can better support you. We vow to be accountable to the community we serve."
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Institute is a 501(c)(3) organization, incorporated in the state of Michigan and serving the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin. We are governed by a board of directors, and our programs, resources, and operations are organized by the leadership team.'
     type: content
     enabled: true
   -
