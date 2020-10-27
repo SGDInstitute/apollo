@@ -5,7 +5,7 @@ tree:
     entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
     children:
       -
-        title: 'About us'
+        title: 'About Us'
         url: /about
       -
         entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
