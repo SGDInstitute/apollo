@@ -1,8 +1,132 @@
 ---
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1598897481
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1603928606
+sections:
+  -
+    background: null
+    bg_type: image
+    bg_image: headers/blurry-background.jpg
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: null
+    title: 'Present at MBLGTACC 2021'
+    type: header
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Lead a workshop'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Proposals are reviewed by a committee comprising students, staff, and advisors. By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Workshop applications will open no earlier than April 2021.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Keynote or perform'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Over its '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/about/history'
+                  target: null
+                  rel: null
+            text: '29 year history'
+          -
+            type: text
+            text: ', MBLGTACC has become a destination for acclaimed entertainers, activists, and thought leaders, including Kate Borenstein, J Mace III, Chely Wright, Janet Mock, Jujubee, and others. From the very beginning, conference organizers sought to create an oasis in what Justin Connor (MBLGCC ‘94) says was seen as “a queer desert.”'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'MBLGTACC has also given a platform for countless local and regional leaders and performers. Much of this success is the product of rich ties to our communities around the Midwest, and we''re excited to expand our circles.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'If you or someone you represent would like to learn more about keynoting or performing, '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:support@sgdinstitute.org'
+                  target: _blank
+                  rel: null
+            text: 'reach out to us'
+          -
+            type: text
+            text: .
+    type: content
+    enabled: true
+  -
+    limit: 3
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
+template: default
 id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 ---
 Hello world
