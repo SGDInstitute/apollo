@@ -2,7 +2,7 @@
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603923894
+updated_at: 1603926172
 sections:
   -
     header_image: headers/blurry-background.jpg
@@ -13,7 +13,7 @@ sections:
     link: 'https://apps.sgdinstitute.org/'
     text: 'Register Now'
     color: btn-green
-    size: btn-lg
+    size: btn-xl
     block: true
     outline: true
     target_blank: true
@@ -21,7 +21,7 @@ sections:
     enabled: true
   -
     id: pricing
-    column_widths: third_left
+    column_widths: two_fifths_left
     left_column: pricing
     right_column: content
     bard:
@@ -32,7 +32,13 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC is now in October.'
+            text: 'Registration will open in April 2021'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Register at the $75 rate starting in April 2021. Not ready? No problem, because regular registration will continue through October X. On or after October 8, you can still register onsite for $100. '
     above_price: 'Starting at'
     price: $75
     below_price: 'per person'
