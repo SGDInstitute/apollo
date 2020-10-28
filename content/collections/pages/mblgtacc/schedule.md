@@ -2,7 +2,7 @@
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603928143
+updated_at: 1603928210
 sections:
   -
     background: null
@@ -19,11 +19,19 @@ sections:
   -
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '😶😶😶 Ope! The schedule isn''t ready yet.'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: '😶😶😶 The schedule isn''t ready yet.'
+            text: 'Come back in late summer 2021 for a conference schedule.'
     type: content
     enabled: true
   -
