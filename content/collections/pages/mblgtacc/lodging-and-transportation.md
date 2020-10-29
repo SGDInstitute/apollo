@@ -71,7 +71,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603931964
-template: layout
+updated_at: 1603931991
+template: default
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 ---
