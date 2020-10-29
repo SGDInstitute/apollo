@@ -62,6 +62,18 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Registration opens in April 2021'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
                     text: 'Like '
                   -
                     type: text
@@ -266,6 +278,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603933949
+updated_at: 1603933995
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
