@@ -90,73 +90,54 @@ sections:
   -
     bard:
       -
-        type: paragraph
-      -
-        type: set
+        type: heading
         attrs:
-          values:
-            type: 2_columns
-            left_column: image
-            right_column: content
-            left_column_section: null
-            left_image: history/mission-history-CONTENT.jpg
-            left_video: null
-            left_content: null
-            right_column_section: null
-            right_image: {  }
-            right_video: null
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'MBLGTACC and the Institute'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'The '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'http://sgdinstitute.org'
-                          target: _blank
-                          rel: null
-                    text: 'Midwest Institute for Sexuality and Gender Diversity'
-                  -
-                    type: text
-                    text: ' represents a new chapter in the broader, prouder history of a movement of students dedicated to building queer success in the Midwest. Over the past 27 years, MBLGTACC has become a destination and refuge for LGBTQIA+ and ally students to engage with their peers from around the region and the nation.'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'The '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://sgdinstitute.org/news/post/our-next-quarter-century'
-                          target: _blank
-                          rel: null
-                    text: 'Institute was formed in 2016'
-                  -
-                    type: text
-                    text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual February conference.'
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC and the Institute'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'The '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'http://sgdinstitute.org'
+                  target: _blank
+                  rel: null
+            text: 'Midwest Institute for Sexuality and Gender Diversity'
+          -
+            type: text
+            text: ' represents a new chapter in the broader, prouder history of a movement of students dedicated to building queer success in the Midwest. Over the past 27 years, MBLGTACC has become a destination and refuge for LGBTQIA+ and ally students to engage with their peers from around the region and the nation.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/news/post/our-next-quarter-century'
+                  target: _blank
+                  rel: null
+            text: 'Institute was formed in 2016'
+          -
+            type: text
+            text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual February conference.'
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603933581
+updated_at: 1603933619
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
