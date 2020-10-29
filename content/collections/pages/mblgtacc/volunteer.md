@@ -259,7 +259,6 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603935310
+updated_at: 1603935372
 id: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
-published: false
 ---
