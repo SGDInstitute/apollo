@@ -22,6 +22,119 @@ sections:
         content:
           -
             type: text
+            text: '#mblgtacc2021: From Protest and Beyond Pride'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The 29th annual MBLGTACC will take place from Friday, October 8 to Sunday, October 10, 2021 in Madison, Wisconsin. The theme for the weekend of empowerment, education, and connection is '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'From Protest, Beyond Pride'
+          -
+            type: text
+            text: ', and will be led by student organizers from the University of Wisconsin-Madison and Edgewood College. To be among the first to know about updates and announcements, be sure to connect with the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org'
+                  target: _blank
+                  rel: null
+            text: Institute
+          -
+            type: text
+            text: ' and MBLGTACC planners:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Like '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://facebook.com/mblgtacc'
+                          target: _blank
+                          rel: null
+                    text: 'MBLGTACC on Facebook'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Tell us you’re “Interested” or “Going” to '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.facebook.com/events/3198465453514257'
+                          target: _blank
+                          rel: null
+                    text: 'MBLGTACC 2021 on Facebook'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Follow MBLGTACC on '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://twitter.com/mblgtacc'
+                          target: _blank
+                          rel: null
+                    text: Twitter
+                  -
+                    type: text
+                    text: ' and '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://instagram.com/mblgtacc'
+                          target: _blank
+                          rel: null
+                    text: Instagram
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Connect. Educate. Empower.'
       -
         type: paragraph
@@ -137,7 +250,22 @@ sections:
             text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual February conference.'
     type: content
     enabled: true
+  -
+    limit: 3
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603933619
+updated_at: 1603933949
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
