@@ -2,7 +2,7 @@
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603928606
+updated_at: 1603935490
 sections:
   -
     background: null
@@ -46,13 +46,21 @@ sections:
             text: 'Proposals are reviewed by a committee comprising students, staff, and advisors. By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            marks:
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: italic
-            text: 'Workshop applications will open no earlier than April 2021.'
+                link: null
+                text: 'Workshop apps not yet open'
+                color: null
+                size: null
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
     type: content
     enabled: true
   -
