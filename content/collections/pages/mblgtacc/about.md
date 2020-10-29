@@ -16,6 +16,14 @@ sections:
   -
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Connect. Educate. Empower.'
+      -
         type: paragraph
         content:
           -
@@ -60,6 +68,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603773986
+updated_at: 1603933318
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
