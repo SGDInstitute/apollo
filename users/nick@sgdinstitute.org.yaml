@@ -5,7 +5,3 @@ position: 'Director of Marketing and Communications'
 pronouns: 'he/him, they/them'
 id: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
 password_hash: $2y$10$LpUO9/ZaWSJQpEisZS5x8ufZ6ncm6q6kt5EseeKXeV.OKmZ6Q8q5.
-preferences:
-  collections:
-    pages:
-      after_save: continue_editing
