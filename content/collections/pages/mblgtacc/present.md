@@ -2,7 +2,7 @@
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603935514
+updated_at: 1603935532
 sections:
   -
     background: null
@@ -59,7 +59,7 @@ sections:
                 size: btn-lg
                 block: false
                 outline: true
-                target_blank: true
+                target_blank: false
             contain: true
     type: content
     enabled: true
