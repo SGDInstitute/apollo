@@ -198,9 +198,24 @@ sections:
             text: ' We work in earnest to accommodate requests whenever and wherever possible; however, we cannot guarantee that all components of all sessions will be accessible for all attendees.'
     type: content
     enabled: true
+  -
+    limit: 3
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603931080
+updated_at: 1603931122
 template: default
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
 ---
