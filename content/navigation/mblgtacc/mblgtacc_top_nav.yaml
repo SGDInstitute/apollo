@@ -7,4 +7,5 @@ tree:
     title: Login
     url: 'https://apps.sgdinstitute.org'
   -
-    entry: 61f88a21-098d-4d34-abc8-68ae2161f486
+    title: Give
+    url: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
