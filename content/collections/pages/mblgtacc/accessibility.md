@@ -199,6 +199,109 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Frequently asked questions'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'We''ll continue to add questions based on feedback. Is there more info we should include? '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+              -
+                type: link
+                attrs:
+                  href: 'mailto:support@sgdinstitute.org'
+                  target: _blank
+                  rel: null
+            text: 'Let us know.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Will you require a doctor''s note or other proof of disability?'
+                  -
+                    type: text
+                    text: ' No. We encourage you to make your specific accommodations request through registration as soon as possible.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Where can I find information about accessibility in the host hotel?'
+                  -
+                    type: text
+                    text: ' Good question! We highly recommend you review the websites of the hotels. A list of conference hotel partners is listed on the [*'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'LODGING PAGE*'
+                  -
+                    type: text
+                    text: '].'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Who can I contact with questions or for information not listed here?'
+                  -
+                    type: text
+                    text: ' You may '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'mailto:support@sgdinstitute.org'
+                          target: _blank
+                          rel: null
+                    text: 'email us'
+                  -
+                    type: text
+                    text: ' with accessibility questions or concerns. Once you’ve registered for the conference, we will work with you individually based on your requested accommodations. We encourage you to make your specific accommodations request through registration.'
+    type: content
+    enabled: true
+  -
     limit: 3
     num_per_row: null
     pagination: false
@@ -215,7 +318,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603931122
+updated_at: 1603931294
 template: default
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
 ---
