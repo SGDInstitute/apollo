@@ -1,0 +1,16 @@
+{{ if column === 'pricing' }}
+<div class="w-full text-xl text-center text-white">
+    {{ above_price }} <span class="block font-bold text-7xl">{{ price }}</span> {{ below_price }}
+</div>
+{{ elseif column === 'image' }}
+<figure class="-mx-12">
+    <img src="{{ image }}" alt="{{ caption }}" />
+    <figcaption>{{ caption }}</figcaption>
+</figure>
+{{ elseif column === 'video' }}
+
+{{ else }}
+<div>
+    {{ partial src="bard/bard" }}
+</div>
+{{ /if }}

@@ -160,6 +160,38 @@ sections:
         type: set
         attrs:
           values:
+            type: image
+            image: history/mission-history-CONTENT.jpg
+            caption: null
+            inline: true
+            direction: float-right
+            margin_directions: all
+            margin: null
+            margin_top: null
+            margin_right: null
+            margin_bottom: mb-1
+            margin_left: ml-4
+            width: w-1/2
+            margin_direction: all
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
+      -
+        type: set
+        attrs:
+          values:
             type: 2_columns
             left_column: content
             right_column: image
@@ -183,9 +215,13 @@ sections:
                         type: bold
                     text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
             right_column_section: null
-            right_image: {  }
+            right_image: history/mission-history-CONTENT.jpg
             right_video: null
             right_content: null
+            left_caption: null
+            right_caption: 'Blah blah blah'
+            leftimage: null
+            leftcaption: null
       -
         type: paragraph
       -
@@ -277,7 +313,7 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603933995
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1604178611
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---

@@ -1,3 +1,5 @@
+const { colors, fontFamily } = require('tailwindcss/defaultTheme')
+
 module.exports = {
   purge: [],
   future: {
@@ -19,6 +21,10 @@ module.exports = {
                 800: '#033A37',
                 900: '#022625',
             },
+            gray: {
+                ...colors.gray,
+                700: '#404040'
+            }
         },
         height: {
             '2/3-screen': '66vh',

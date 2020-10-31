@@ -10,6 +10,120 @@ fields:
           fields:
             -
               import: image_block
+            -
+              handle: inline
+              field:
+                display: Inline
+                type: toggle
+                icon: toggle
+                listable: hidden
+                width: 25
+            -
+              handle: direction
+              field:
+                options:
+                  float-left: Left
+                  float-right: Right
+                inline: true
+                cast_booleans: false
+                display: Direction
+                type: radio
+                icon: radio
+                listable: hidden
+                if:
+                  inline: 'equals true'
+                width: 25
+            -
+              handle: width
+              field:
+                options:
+                  w-1/5: 20%
+                  w-1/4: 25%
+                  w-1/2: 50%
+                multiple: false
+                clearable: false
+                searchable: true
+                taggable: false
+                push_tags: false
+                cast_booleans: false
+                display: Width
+                type: select
+                icon: select
+                listable: hidden
+                width: 25
+                if:
+                  inline: 'equals true'
+            -
+              handle: margin_direction
+              field: margin.margin_directions
+              config:
+                options:
+                  all: 'Top, Right, Bottom, Left'
+                  'y': 'Top and Bottom'
+                  x: 'Left and Right'
+                  same: 'Same for all'
+                if:
+                  inline: 'equals true'
+            -
+              handle: margin
+              field: margin.margin
+              config:
+                options:
+                  m-1: .25rem
+                  m-2: .5rem
+                  m-4: 1rem
+                  m-5: 1.25rem
+                if:
+                  inline: 'equals true'
+                  margin_direction: 'equals same'
+            -
+              handle: margin_top
+              field: margin.margin_top
+              config:
+                options:
+                  mt-1: .25rem
+                  mt-2: .5rem
+                  mt-4: 1rem
+                  mt-5: 1.25rem
+                if:
+                  inline: 'equals true'
+                  margin_direction: 'contains_any all, y'
+            -
+              handle: margin_right
+              field: margin.margin_right
+              config:
+                options:
+                  mr-1: .25rem
+                  mr-2: .5rem
+                  mr-4: 1rem
+                  mr-5: 1.25rem
+                if:
+                  inline: 'equals true'
+                  margin_direction: 'contains_any all, x'
+            -
+              handle: margin_bottom
+              field: margin.margin_bottom
+              config:
+                options:
+                  mb-1: .25rem
+                  mb-2: .5rem
+                  mb-4: 1rem
+                  mb-5: 1.25rem
+                if:
+                  inline: 'equals true'
+                  margin_direction: 'contains_any any, all'
+            -
+              handle: margin_left
+              field: margin.margin_left
+              config:
+                options:
+                  ml-1: .25rem
+                  ml-2: .5rem
+                  ml-4: 1rem
+                  ml-5: 1.25rem
+                if:
+                  inline: 'equals true'
+                  margin_direction: 'contains_any all, x'
         video:
           display: Video
           fields:
@@ -68,19 +182,8 @@ fields:
                 type: section
                 listable: hidden
             -
-              handle: left_image
-              field:
-                mode: grid
-                container: assets
-                folder: /
-                restrict: false
-                allow_uploads: false
-                max_files: 1
-                display: 'Left Image'
-                type: assets
-                listable: hidden
-                if:
-                  left_column: 'equals image'
+              import: image_block
+              prefix: left
             -
               handle: left_video
               field:
@@ -143,6 +246,7 @@ fields:
                 display: 'Right Image'
                 type: assets
                 listable: hidden
+                max_files: 1
                 if:
                   right_column: 'equals image'
             -

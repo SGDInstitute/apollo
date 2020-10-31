@@ -1,6 +1,15 @@
+{{ if inline }}
+<div class="{{ direction }} {{ width }} {{ prose }} {{ prose:dark }} {{ expand:margin }}">
+    <figure>
+        <img src="{{ image }}" alt="{{ caption }}" />
+        <figcaption>{{ caption }}</figcaption>
+    </figure>
+</div>
+{{ else }}
 <div class="mx-auto mt-6 mb-8 {{ prose }} {{ prose:dark }}">
     <figure class="-mx-12">
         <img src="{{ image }}" alt="{{ caption }}" />
         <figcaption>{{ caption }}</figcaption>
     </figure>
 </div>
+{{ /if }}
