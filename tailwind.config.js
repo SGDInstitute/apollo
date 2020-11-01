@@ -33,6 +33,11 @@ module.exports = {
             '1/4': '25%',
             '18': '4.5rem',
         },
+        fontFamily: {
+            'raleway': ['Raleway', ...fontFamily.sans],
+            'news-cycle': ['"News Cycle"', ...fontFamily.sans],
+            'sans': ['Lato', ...fontFamily.sans],
+        },
         fontSize: {
             '7xl': '5rem'
         },
