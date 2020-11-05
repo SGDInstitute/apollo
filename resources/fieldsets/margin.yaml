@@ -1,0 +1,111 @@
+title: Margin
+fields:
+  -
+    handle: margin_directions
+    field:
+      inline: false
+      options:
+        all: 'Top, Right, Bottom, Left'
+        'y': 'Top and Bottom'
+        x: 'Left and Right'
+        same: 'Same for all'
+      display: 'Margin Direction'
+      type: radio
+      icon: radio
+      instructions: 'What sides need to be defined'
+      listable: hidden
+      cast_booleans: false
+  -
+    handle: margin
+    field:
+      options:
+        m-1: .25rem
+        m-2: .5rem
+        m-4: 1rem
+        m-5: 1.25rem
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      display: Margin
+      type: select
+      icon: select
+      listable: hidden
+  -
+    handle: margin_top
+    field:
+      options:
+        mt-1: .25rem
+        mt-2: .5rem
+        mt-4: 1rem
+        mt-5: 1.25rem
+      multiple: false
+      clearable: true
+      searchable: true
+      taggable: true
+      push_tags: false
+      cast_booleans: false
+      display: 'Margin Top'
+      type: select
+      icon: select
+      listable: hidden
+      width: 25
+  -
+    handle: margin_right
+    field:
+      options:
+        mr-1: .25rem
+        mr-2: .5rem
+        mr-4: 1rem
+        mr-5: 1.25rem
+      multiple: false
+      clearable: true
+      searchable: true
+      taggable: true
+      push_tags: false
+      cast_booleans: false
+      display: 'Margin Right'
+      type: select
+      icon: select
+      listable: hidden
+      width: 25
+  -
+    handle: margin_bottom
+    field:
+      options:
+        mb-1: .25rem
+        mb-2: .5rem
+        mb-4: 1rem
+        mb-5: 1.25rem
+      multiple: false
+      clearable: true
+      searchable: true
+      taggable: true
+      push_tags: false
+      cast_booleans: false
+      display: 'Margin Bottom'
+      type: select
+      icon: select
+      listable: hidden
+      width: 25
+  -
+    handle: margin_left
+    field:
+      options:
+        ml-1: .25rem
+        ml-2: .5rem
+        ml-4: 1rem
+        ml-5: 1.25rem
+      multiple: false
+      clearable: true
+      searchable: true
+      taggable: true
+      push_tags: false
+      cast_booleans: false
+      display: 'Margin Left'
+      type: select
+      icon: select
+      listable: hidden
+      width: 25

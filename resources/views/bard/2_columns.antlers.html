@@ -1,6 +1,10 @@
 <div class="grid grid-cols-2 gap-6 mx-auto mt-6 mb-8 {{ prose }} {{ prose:dark }}">
     <div>
         {{ if left_column === 'image' }}
+        <figure>
+            <img src="{{ left_image }}" alt="{{ left_caption }}" />
+            <figcaption>{{ left_caption }}</figcaption>
+        </figure>
         {{ elseif left_column === 'video' }}
         {{ else }}
             {{ left_content }}
@@ -10,6 +14,10 @@
     </div>
     <div>
         {{ if right_column === 'image' }}
+        <figure>
+            <img src="{{ right_image }}" alt="{{ right_caption }}" />
+            <figcaption>{{ right_caption }}</figcaption>
+        </figure>
         {{ elseif right_column === 'video' }}
         {{ else }}
             {{ right_content }}

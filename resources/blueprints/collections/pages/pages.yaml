@@ -127,7 +127,7 @@ sections:
                     cast_booleans: false
                     display: 'Left Column'
                     type: select
-                    width: 50
+                    width: 33
                     listable: hidden
                 -
                   handle: right_column
@@ -145,7 +145,15 @@ sections:
                     cast_booleans: false
                     display: 'Right Column'
                     type: select
-                    width: 50
+                    width: 33
+                    listable: hidden
+                -
+                  handle: center_columns
+                  field:
+                    display: 'Center Smaller Column'
+                    type: toggle
+                    icon: toggle
+                    width: 33
                     listable: hidden
                 -
                   handle: bard

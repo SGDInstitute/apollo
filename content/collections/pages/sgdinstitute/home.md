@@ -83,6 +83,7 @@ sections:
     image: null
     caption: null
     video: null
+    center_columns: true
   -
     event: transgender-justice-teach-in
     bg_color: null
@@ -129,8 +130,8 @@ sections:
     via_color: null
     to_color: null
     bg_color: bg-gray-200
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603762902
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1604174550
 id: home
 ---
 Welcome to your new Statamic website.

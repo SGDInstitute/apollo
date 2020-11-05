@@ -1,3 +1,5 @@
+const { colors, fontFamily } = require('tailwindcss/defaultTheme')
+
 module.exports = {
   purge: [],
   future: {
@@ -19,6 +21,11 @@ module.exports = {
                 800: '#033A37',
                 900: '#022625',
             },
+            gray: {
+                ...colors.gray,
+                600: '#757575',
+                700: '#404040',
+            }
         },
         height: {
             '2/3-screen': '66vh',
@@ -26,6 +33,11 @@ module.exports = {
             '1/3': '33.333333%',
             '1/4': '25%',
             '18': '4.5rem',
+        },
+        fontFamily: {
+            'raleway': ['Raleway', ...fontFamily.sans],
+            'news-cycle': ['"News Cycle"', ...fontFamily.sans],
+            'sans': ['Lato', ...fontFamily.sans],
         },
         fontSize: {
             '7xl': '5rem'
@@ -38,6 +50,38 @@ module.exports = {
         },
     },
     typography: (theme) => ({
+        default: {
+            css: {
+                color: theme('colors.black'),
+                h1: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontSize: theme('fontSize.5xl'),
+                },
+                h2: {
+                    color: theme('colors.green.500'),
+                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontSize: theme('fontSize.4xl'),
+                \,
+                h3: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.sans'),
+                    fontSize: theme('fontSize.xl'),
+                },
+                h4: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.sans'),
+                    fontWeight: theme('fontWeight.semibold'),
+                    textTransform: theme('textTransform.uppercase'),
+                    letterSpacing: theme('letterSpacing.wider'),
+                    fontSize: theme('fontSize.lg'),
+                },
+                'figure figcaption': {
+                    fontSize: theme('fontSize.sm'),
+                    color: theme('colors.gray.600'),
+                },
+            }
+        },
         dark: {
           css: {
             color: theme('colors.gray.300'),

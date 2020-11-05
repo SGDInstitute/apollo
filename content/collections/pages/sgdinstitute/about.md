@@ -1,8 +1,8 @@
 ---
 title: About
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603808055
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1604191456
 sections:
   -
     background: null
@@ -23,7 +23,10 @@ sections:
         content:
           -
             type: text
-            text: '[***LEAD TEXT STYLE***] At the Midwest Institute for Sexuality and Gender Diversity, we re-envision a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
+            marks:
+              -
+                type: lead
+            text: 'At the Midwest Institute for Sexuality and Gender Diversity, we re-envision a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
       -
         type: heading
         attrs:
@@ -169,5 +172,6 @@ sections:
     bg_color: bg-green-800
     type: two_column
     enabled: true
+    center_columns: false
 id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 ---
