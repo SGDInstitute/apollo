@@ -22,8 +22,8 @@ sections:
             type: text
             marks:
               -
-                type: bold
-            text: '[***ADD LEAD TEXT STYLE***] The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+                type: lead
+            text: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: heading
         attrs:
@@ -317,8 +317,8 @@ sections:
             text: "\_Contact R.B. Brooks (rb@sgdinstitute.org)"
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603767882
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1604618575
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
