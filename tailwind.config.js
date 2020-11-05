@@ -23,7 +23,8 @@ module.exports = {
             },
             gray: {
                 ...colors.gray,
-                700: '#404040'
+                600: '#757575',
+                700: '#404040',
             }
         },
         height: {
@@ -49,6 +50,38 @@ module.exports = {
         },
     },
     typography: (theme) => ({
+        default: {
+            css: {
+                color: theme('colors.black'),
+                h1: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontSize: theme('fontSize.5xl'),
+                },
+                h2: {
+                    color: theme('colors.green.500'),
+                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontSize: theme('fontSize.4xl'),
+                \,
+                h3: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.sans'),
+                    fontSize: theme('fontSize.xl'),
+                },
+                h4: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: theme('fontFamily.sans'),
+                    fontWeight: theme('fontWeight.semibold'),
+                    textTransform: theme('textTransform.uppercase'),
+                    letterSpacing: theme('letterSpacing.wider'),
+                    fontSize: theme('fontSize.lg'),
+                },
+                'figure figcaption': {
+                    fontSize: theme('fontSize.sm'),
+                    color: theme('colors.gray.600'),
+                },
+            }
+        },
         dark: {
           css: {
             color: theme('colors.gray.300'),
