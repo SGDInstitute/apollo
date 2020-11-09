@@ -50,9 +50,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: 'Transgender Justice Teach In'
       -
         type: paragraph
@@ -131,7 +128,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1604174550
+updated_at: 1604950521
 id: home
 ---
 Welcome to your new Statamic website.

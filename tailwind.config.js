@@ -36,7 +36,7 @@ module.exports = {
         },
         fontFamily: {
             'raleway': ['Raleway', ...fontFamily.sans],
-            'news-cycle': ['"News Cycle"', ...fontFamily.sans],
+            'newscycle': ['Raleway', ...fontFamily.sans],
             'sans': ['Lato', ...fontFamily.sans],
         },
         fontSize: {
@@ -55,22 +55,22 @@ module.exports = {
                 color: theme('colors.black'),
                 h1: {
                     color: theme('colors.gray.700'),
-                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.5xl'),
                 },
                 h2: {
                     color: theme('colors.green.500'),
-                    fontFamily: theme('fontFamily.news-cycle'),
+                    fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.4xl'),
-                \,
+                },
                 h3: {
                     color: theme('colors.gray.700'),
-                    fontFamily: theme('fontFamily.sans'),
+                    fontFamily: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.xl'),
                 },
                 h4: {
                     color: theme('colors.gray.700'),
-                    fontFamily: theme('fontFamily.sans'),
+                    fontFamily: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontWeight: theme('fontWeight.semibold'),
                     textTransform: theme('textTransform.uppercase'),
                     letterSpacing: theme('letterSpacing.wider'),
