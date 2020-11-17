@@ -178,7 +178,87 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605630755
+  -
+    id: mblgtacc
+    column_widths: half
+    left_column: content
+    right_column: image
+    center_columns: true
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: MBLGTACC
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
+    above_price: null
+    price: null
+    below_price: null
+    image: headers/header-hug.JPG
+    caption: null
+    video: null
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
+  -
+    id: tjt
+    column_widths: half
+    left_column: image
+    right_column: content
+    center_columns: true
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Trans(Gender) Justice Teach-In'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Trans(Gender) Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    above_price: null
+    price: null
+    below_price: null
+    image: headers/trans-justice-teach-in.png
+    caption: null
+    video: null
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: null
+    type: two_column
+    enabled: true
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1605630991
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
