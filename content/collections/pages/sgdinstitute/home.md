@@ -60,7 +60,7 @@ sections:
   -
     limit: 3
     type: news
-    enabled: true
+    enabled: false
     num_per_row: null
     pagination: false
     exclude: true
@@ -73,7 +73,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605574085
+updated_at: 1605574099
 id: home
 ---
 Welcome to your new Statamic website.
