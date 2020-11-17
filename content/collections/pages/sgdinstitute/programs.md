@@ -198,10 +198,9 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
+      -
+        type: paragraph
     above_price: null
     price: null
     below_price: null
@@ -215,7 +214,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-gray-100
+    bg_color: bg-yellow-100
     type: two_column
     enabled: true
   -
@@ -259,6 +258,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1605631047
+updated_at: 1605631088
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
