@@ -34,10 +34,10 @@ sections:
     bg_type: color
     bg_image: null
     num_colors: 2
-    from_color: null
+    from_color: from-black
     via_color: null
     to_color: null
-    bg_color: bg-yellow-300
+    bg_color: bg-black
     type: countdown
     enabled: false
   -
@@ -73,7 +73,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605574030
+updated_at: 1605574085
 id: home
 ---
 Welcome to your new Statamic website.
