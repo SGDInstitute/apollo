@@ -23,7 +23,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empowers queer and trans students to inspire sustainable change, and builds community among queer and trans students in the Midwest.'
+            text: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empower queer and trans students to inspire sustainable change, and build community among queer and trans students in the Midwest.'
       -
         type: set
         attrs:
@@ -179,6 +179,6 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605630735
+updated_at: 1605630755
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
