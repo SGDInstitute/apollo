@@ -5,16 +5,16 @@ sections:
   -
     header_image: headers/blurry-background.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Discover our new program, the Transgender Justice Teach-in'
+    subtitle: 'Building queer success in the Midwest'
     has_tag: false
     tag: 'New Event'
     button: null
-    text: Register
+    text: DONATE
     url: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
     target_blank: false
     color: btn-green
     size: btn-lg
-    block: true
+    block: false
     type: header_large
     enabled: true
     background: null
@@ -25,7 +25,7 @@ sections:
     via_color: null
     to_color: null
     bg_color: null
-    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+    link: /giving
     outline: true
   -
     id: pricing
@@ -41,7 +41,7 @@ sections:
     to_color: null
     bg_color: bg-green-500
     type: two_column
-    enabled: true
+    enabled: false
     bard:
       -
         type: heading
@@ -86,7 +86,7 @@ sections:
     bg_color: null
     background_height: null
     type: speakers
-    enabled: true
+    enabled: false
     background_color: null
     title: 'Speakers & Entertainers'
     button: null
@@ -111,7 +111,7 @@ sections:
     to_color: null
     bg_color: bg-yellow-300
     type: countdown
-    enabled: true
+    enabled: false
   -
     limit: 3
     type: news
@@ -127,8 +127,8 @@ sections:
     via_color: null
     to_color: null
     bg_color: bg-gray-200
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1604950521
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1605572771
 id: home
 ---
 Welcome to your new Statamic website.
