@@ -28,18 +28,6 @@ sections:
     link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
     outline: true
   -
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-transparent
-    title: 'Latest News'
-    type: header
-    enabled: true
-  -
     articles:
       - 5ec9896f-169f-4790-b16a-571785f81fe5
       - 82c1ccb2-5739-4887-a2ee-95388bd80122
@@ -72,54 +60,6 @@ sections:
     to_color: null
     bg_color: bg-gray-200
   -
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-white
-    title: 'Support Our Work'
-    type: header
-    enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-              -
-                type: lead
-            text: 'You can fuel powerful college experiences, catalyze game-changing advocacy, and transform the climate of our campuses. With your support, students and young leaders from the Midwest and beyond will have access to valuable opportunities and resources regardless of their financial means.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
-                text: 'Make an Impact'
-                color: btn-green
-                size: btn-xl
-                block: true
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-      -
-        type: paragraph
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
     date: '2021-10-08 12:00'
     hashtag: 'until MBLGTACC 2021'
     background: null
@@ -133,7 +73,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605635066
+updated_at: 1605635102
 id: home
 ---
 Welcome to your new Statamic website.
