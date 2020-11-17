@@ -14,7 +14,7 @@ sections:
     target_blank: false
     color: btn-green
     size: btn-lg
-    block: true
+    block: false
     type: header_large
     enabled: true
     background: null
@@ -26,7 +26,7 @@ sections:
     to_color: null
     bg_color: null
     link: null
-    outline: true
+    outline: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -128,7 +128,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605573703
+updated_at: 1605573727
 id: home
 ---
 Welcome to your new Statamic website.
