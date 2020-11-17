@@ -79,7 +79,7 @@ sections:
             type: buttons
             buttons:
               -
-                link: mblgtacc.org
+                link: 'https://www.mblgtacc.org'
                 text: 'Learn More'
                 color: btn-green
                 size: btn-lg
@@ -172,6 +172,6 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605630199
+updated_at: 1605630242
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
