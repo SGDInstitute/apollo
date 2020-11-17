@@ -214,7 +214,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-yellow-100
+    bg_color: bg-green-300
     type: two_column
     enabled: true
   -
@@ -222,7 +222,7 @@ sections:
     column_widths: two_fifths_left
     left_column: image
     right_column: content
-    center_columns: true
+    center_columns: false
     bard:
       -
         type: heading
@@ -258,6 +258,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1605631088
+updated_at: 1605631121
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
