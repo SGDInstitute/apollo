@@ -244,7 +244,7 @@ sections:
     above_price: null
     price: null
     below_price: null
-    image: headers/trans-justice-teach-in.png
+    image: headers/header-hug.JPG
     caption: null
     video: null
     background: null
@@ -257,7 +257,7 @@ sections:
     bg_color: null
     type: two_column
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1605631121
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1605655125
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
