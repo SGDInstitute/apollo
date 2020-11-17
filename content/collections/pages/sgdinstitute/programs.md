@@ -180,7 +180,7 @@ sections:
     enabled: true
   -
     id: mblgtacc
-    column_widths: half
+    column_widths: two_fifths_right
     left_column: content
     right_column: image
     center_columns: true
@@ -220,7 +220,7 @@ sections:
     enabled: true
   -
     id: tjt
-    column_widths: half
+    column_widths: two_fifths_left
     left_column: image
     right_column: content
     center_columns: true
@@ -259,6 +259,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1605630991
+updated_at: 1605631047
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
