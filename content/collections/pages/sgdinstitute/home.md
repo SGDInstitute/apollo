@@ -28,78 +28,6 @@ sections:
     link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
     outline: true
   -
-    id: pricing
-    column_widths: two_fifths_left
-    left_column: pricing
-    right_column: content
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: '3'
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-green-500
-    type: two_column
-    enabled: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Transgender Justice Teach In'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The safety of every attendee is our highest priority, so we''re having our inaugural Transgender Justice Teach In virtually. This event will have a limited number of available spots. Registration costs will be a sliding scale with the majority of tickets reserved for trans folks.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
-                text: Register
-                button_color: green
-                outline: true
-                target_blank: true
-                title: Register
-                color: btn-white
-                size: btn-lg
-                block: false
-            contain: true
-    above_price: 'Starting at'
-    price: $5
-    below_price: 'per person'
-    image: null
-    caption: null
-    video: null
-    center_columns: true
-  -
-    event: transgender-justice-teach-in
-    bg_color: null
-    background_height: null
-    type: speakers
-    enabled: false
-    background_color: null
-    title: 'Speakers & Entertainers'
-    button: null
-    text: 'View the Whole Program'
-    url: '#'
-    target_blank: false
-    color: btn-green
-    size: btn-base
-    block: false
-    date_format: day_of_week_full
-    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
-    outline: true
-  -
     date: '2020-11-09 17:00'
     hashtag: 'until #TransJusticeTeachIn'
     background: null
@@ -113,12 +41,29 @@ sections:
     type: countdown
     enabled: false
   -
+    articles:
+      - 5ec9896f-169f-4790-b16a-571785f81fe5
+      - 82c1ccb2-5739-4887-a2ee-95388bd80122
+      - c65454a6-828b-4c7b-99fa-8f2a79f1c11e
+      - cf06ede9-98e5-464d-86a4-69a78ca7ede2
+      - 44753461-76f6-42b3-8b55-d6a8ec532df1
+    background: null
+    bg_type: gradient
+    bg_image: null
+    num_colors: 2
+    from_color: from-black
+    via_color: null
+    to_color: to-white
+    bg_color: bg-pink-500
+    type: news_feature
+    enabled: true
+  -
     limit: 3
     type: news
     enabled: true
     num_per_row: null
     pagination: false
-    exclude: false
+    exclude: true
     background: null
     bg_type: color
     bg_image: null
@@ -128,7 +73,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605573780
+updated_at: 1605574030
 id: home
 ---
 Welcome to your new Statamic website.
