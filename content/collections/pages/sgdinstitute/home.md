@@ -5,16 +5,16 @@ sections:
   -
     header_image: headers/header-hug.JPG
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Building queer success in the Midwest'
+    subtitle: 'Building Queer Success in the Midwest'
     has_tag: false
     tag: 'New Event'
     button: null
-    text: null
+    text: 'Learn More'
     url: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
     target_blank: false
     color: btn-green
     size: btn-lg
-    block: false
+    block: true
     type: header_large
     enabled: true
     background: null
@@ -25,8 +25,8 @@ sections:
     via_color: null
     to_color: null
     bg_color: null
-    link: null
-    outline: false
+    link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
+    outline: true
   -
     id: pricing
     column_widths: two_fifths_left
@@ -128,7 +128,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605573727
+updated_at: 1605573780
 id: home
 ---
 Welcome to your new Statamic website.
