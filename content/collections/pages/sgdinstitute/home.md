@@ -29,8 +29,8 @@ sections:
     outline: true
   -
     articles:
-      - 5ec9896f-169f-4790-b16a-571785f81fe5
       - 82c1ccb2-5739-4887-a2ee-95388bd80122
+      - 5ec9896f-169f-4790-b16a-571785f81fe5
       - c65454a6-828b-4c7b-99fa-8f2a79f1c11e
       - cf06ede9-98e5-464d-86a4-69a78ca7ede2
       - 44753461-76f6-42b3-8b55-d6a8ec532df1
@@ -73,7 +73,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605635102
+updated_at: 1605643081
 id: home
 ---
 Welcome to your new Statamic website.
