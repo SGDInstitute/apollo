@@ -1,8 +1,8 @@
 ---
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603927091
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1605908012
 sections:
   -
     header_image: headers/blurry-background.jpg
@@ -32,15 +32,15 @@ sections:
         content:
           -
             type: text
-            text: 'Registration will open in April 2021'
+            text: 'Registration opens in April 2021'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Register at the $75 rate starting in April 2021. Not ready? No problem, because regular registration will continue through October X. On or after October 8, you can still register onsite for $100. '
-    above_price: 'Starting at'
-    price: $75
+            text: 'Register for $85 starting in April 2021. Not ready? No problem! Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
+    above_price: null
+    price: $85
     below_price: 'per person'
     image: null
     caption: null
@@ -55,13 +55,14 @@ sections:
     bg_color: bg-green-500
     type: two_column
     enabled: true
+    center_columns: false
   -
     title: 'Speakers & Entertainers'
     event: mblgtacc-2021
     date_format: day_of_week_full
     background_height: full
     background_color: null
-    link: /speakers-entertainers
+    link: null
     text: 'View the Whole Program'
     color: btn-green
     size: btn-lg
@@ -80,7 +81,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-yellow-500
+    bg_color: bg-yellow-300
     type: countdown
     enabled: true
   -
