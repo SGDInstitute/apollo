@@ -165,9 +165,11 @@ sections:
               -
                 type: italic
             text: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
+      -
+        type: paragraph
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606775753
+updated_at: 1606775774
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
