@@ -60,12 +60,6 @@ sections:
         content:
           -
             type: text
-            text: 'At the conference venue, the William T. Evjue Gardens is a non-smoking area as designated by Madison ordinance. The international no-smoking symbol is posted in multiple locations. Smoking is allowed on Olin Terrace and outside the main entrance on Level 4, which is the top level of the parking structure.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
             text: 'The State of Wisconsin Smoking Law 101.123 went into effect July 5, 2010. The law eliminates smoking in '
           -
             type: text
@@ -80,6 +74,12 @@ sections:
           -
             type: text
             text: '. Under Wisconsin law, persons under 18 years of age cannot purchase cigarettes, nicotine products, including e-cigarettes, or tobacco products.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'At the conference venue, the William T. Evjue Gardens is a non-smoking area as designated by Madison ordinance. The international no-smoking symbol is posted in multiple locations. Smoking is allowed on Olin Terrace and outside the main entrance on Level 4, which is the top level of the parking structure.'
       -
         type: paragraph
         content:
@@ -373,7 +373,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603930624
+updated_at: 1606777523
 template: default
 id: e117e019-bc65-41b2-9cde-fad0b8a5c20c
 ---
