@@ -48,18 +48,7 @@ sections:
         content:
           -
             type: text
-            text: '['
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'RESTROOM SITUATION'
-          -
-            type: text
-            text: ']'
+            text: 'Gender inclusive restrooms will be available in the conference space and will be marked in maps provided of the facility.'
       -
         type: heading
         attrs:
@@ -129,7 +118,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603934759
+updated_at: 1606780153
 template: default
 id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
 ---
