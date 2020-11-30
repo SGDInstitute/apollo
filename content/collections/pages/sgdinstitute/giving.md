@@ -132,13 +132,20 @@ sections:
         type: paragraph
       -
         type: paragraph
+      -
+        type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: "*2017 GLSEN National School Climate Survey -\_"
           -
             type: text
             marks:
+              -
+                type: italic
               -
                 type: link
                 attrs:
@@ -148,14 +155,25 @@ sections:
             text: 'https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf'
           -
             type: hard_break
-          -
-            type: text
-            text: '**McConnell, E. A., Birkett, M. A., & Mustanki, B. (2015). Typologies of Social Support and Associations with Mental Health Outcomes Among LGBT Youth. LGBT Health, 2(1), 55-61.'
-          -
-            type: hard_break
+            marks:
+              -
+                type: italic
           -
             type: text
             marks:
+              -
+                type: italic
+            text: '**McConnell, E. A., Birkett, M. A., & Mustanki, B. (2015). Typologies of Social Support and Associations with Mental Health Outcomes Among LGBT Youth. LGBT Health, 2(1), 55-61.'
+          -
+            type: hard_break
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
               -
                 type: link
                 attrs:
@@ -165,7 +183,7 @@ sections:
             text: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603728130
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1606775689
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
