@@ -188,7 +188,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -211,8 +211,8 @@ sections:
             type: buttons
             buttons:
               -
-                link: null
-                text: Giving
+                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                text: Donate
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -234,10 +234,10 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-green-900
+    bg_color: bg-green-700
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606774360
+updated_at: 1606774434
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
