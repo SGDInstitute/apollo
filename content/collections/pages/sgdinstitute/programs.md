@@ -48,7 +48,7 @@ sections:
         content:
           -
             type: text
-            text: 'Current Programs'
+            text: 'Current programs'
       -
         type: paragraph
       -
@@ -88,7 +88,7 @@ sections:
         content:
           -
             type: text
-            text: 'Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+            text: 'Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Patrisse Cullors, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
       -
         type: paragraph
         content:
@@ -121,13 +121,13 @@ sections:
         content:
           -
             type: text
-            text: 'Trans(Gender) Justice Teach-In'
+            text: 'Transgender Justice Teach-In'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Trans(Gender) Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+            text: 'The Trangender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: set
         attrs:
@@ -152,7 +152,7 @@ sections:
         content:
           -
             type: text
-            text: 'Support Our Programs'
+            text: 'Support our programs'
       -
         type: paragraph
         content:
@@ -258,6 +258,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1605655125
+updated_at: 1606774179
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
