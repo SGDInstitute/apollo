@@ -192,46 +192,7 @@ sections:
         content:
           -
             type: text
-            text: MBLGTACC
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
-      -
-        type: paragraph
-    above_price: null
-    price: null
-    below_price: null
-    image: headers/header-hug.JPG
-    caption: null
-    video: null
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-green-300
-    type: two_column
-    enabled: true
-  -
-    id: tjt
-    column_widths: two_fifths_left
-    left_column: image
-    right_column: content
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Trans(Gender) Justice Teach-In'
+            text: 'Support our programs'
       -
         type: paragraph
         content:
@@ -240,7 +201,26 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Trans(Gender) Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation provides space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: null
+                text: Giving
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     above_price: null
     price: null
     below_price: null
@@ -254,10 +234,10 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: null
+    bg_color: bg-green-900
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606774179
+updated_at: 1606774360
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
