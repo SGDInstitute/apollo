@@ -1,5 +1,5 @@
 ---
-title: 'Organize a Delegation'
+title: 'Organize a Delegation | SGD Institute'
 sections:
   -
     title: 'Organize a delegation'
@@ -26,6 +26,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603932865
+updated_at: 1606777633
 id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
 ---
