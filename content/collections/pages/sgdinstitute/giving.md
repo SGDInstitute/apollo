@@ -130,8 +130,10 @@ sections:
             contain: true
       -
         type: paragraph
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: paragraph
         content:
@@ -140,19 +142,7 @@ sections:
             marks:
               -
                 type: italic
-            text: "*2017 GLSEN National School Climate Survey -\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-              -
-                type: link
-                attrs:
-                  href: 'https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf'
-                  target: null
-                  rel: null
-            text: 'https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf'
+            text: "*2017 GLSEN National School Climate Survey -\_https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf"
           -
             type: hard_break
             marks:
@@ -174,16 +164,10 @@ sections:
             marks:
               -
                 type: italic
-              -
-                type: link
-                attrs:
-                  href: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
-                  target: null
-                  rel: null
             text: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606775689
+updated_at: 1606775753
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
