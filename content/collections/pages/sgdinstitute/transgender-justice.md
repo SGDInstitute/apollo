@@ -108,9 +108,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: Panelists
       -
         type: paragraph
@@ -315,10 +312,12 @@ sections:
           -
             type: text
             text: "\_Contact R.B. Brooks (rb@sgdinstitute.org)"
+      -
+        type: paragraph
     type: content
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1604618575
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1606774919
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
