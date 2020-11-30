@@ -215,9 +215,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: Register
       -
         type: paragraph
@@ -317,7 +314,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606774919
+updated_at: 1606774963
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
