@@ -144,36 +144,9 @@ sections:
                 target_blank: false
             contain: true
       -
-        type: paragraph
-      -
         type: heading
         attrs:
           level: 2
-        content:
-          -
-            type: text
-            text: 'Support our programs'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation provides space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
-                text: Donate
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
       -
         type: paragraph
     type: content
@@ -234,10 +207,10 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-green-700
+    bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606774434
+updated_at: 1606774585
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
