@@ -15,7 +15,7 @@ sections:
             marks:
               -
                 type: lead
-            text: "Our work is rooted in and inspired by the fight and efforts of those before us. Fulfilling this work is an iterative process, taking what has been executed previously and adjusting, adapting, and reenvisioning according to new social situations and changing contexts. Our work requires constant analysis, exposure, and consideration of these situations and contexts in order to both model improved practices as well as contribute to continued efforts and fights for our collective liberation.\_ We do not see ourselves as leaders of liberation, but as contributors and facilitators, participating in, creating and holding space for others to also be exposed to and inspired by new possibilities.\_"
+            text: "Our work is rooted in and inspired by the fight and efforts of those before us. Fulfilling this work is an iterative process, taking what has been executed previously and adjusting, adapting, and re-envisioning according to new social situations and changing contexts. Our work requires constant analysis, exposure, and consideration of these situations and contexts in order to both model improved practices as well as contribute to continued efforts and fights for our collective liberation.\_ We do not see ourselves as leaders of liberation, but as contributors and facilitators, participating in, creating and holding space for others to also be exposed to and inspired by new possibilities.\_"
       -
         type: paragraph
         content:
@@ -284,11 +284,58 @@ sections:
             text: "Simultaneously, our youth are being fooled by this myth within an existing system of capitalism that places value on certain labor, skills and people. Systemically disenfranchised people are impacted by concurrent systems that pose restrictions on their possibilities, both in college and in pursuits for employment. As navigators of these exact systems, we seek valuation of labor that has routinely been dismissed and subscribe to the notion of all labor being properly compensated as well as laborers being credited for their work. We are plagued with the reality of intergenerational wealth disparities, while others’ lineage continues to provide uninterrupted security. All efforts toward liberation must take into account reparations and the global redistribution of wealth.\_"
       -
         type: paragraph
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'mailto:justin@sgdinstitute.org'
+                text: null
+                color: null
+                size: null
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: image
+            right_column: content
+            left_column_section: null
+            leftimage: news/2020-rb-justin-welcome-teaser-1090x681.jpg
+            leftcaption: null
+            left_video: null
+            left_content: null
+            right_column_section: null
+            right_image: null
+            right_video: null
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'We would love to collaborate'
+              -
+                type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607189659
+updated_at: 1607190055
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
