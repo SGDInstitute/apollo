@@ -286,7 +286,7 @@ sections:
     enabled: true
   -
     id: collaboration
-    column_widths: quarter_left
+    column_widths: third_left
     left_column: image
     right_column: content
     center_columns: false
@@ -343,6 +343,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607191539
+updated_at: 1607191578
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
