@@ -3,7 +3,7 @@ title: Home
 template: default
 sections:
   -
-    header_image: headers/header-hug.JPG
+    header_image: headers/homepage-hero1.jpg
     title: 'Connect. Educate. Empower.'
     subtitle: 'Building queer success in the Midwest'
     has_tag: false
@@ -73,7 +73,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607207236
+updated_at: 1607207747
 id: home
 ---
 Welcome to your new Statamic website.
