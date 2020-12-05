@@ -41,7 +41,20 @@ sections:
         content:
           -
             type: text
-            text: 'Often referred to as the fly over states, the Midwest is forgotten and underfunded by foundations and the non-profit industrial complex. Queer and trans youth in the Midwest are more likely to experience “biased language, victimization, and anti-LGBTQ discriminatory school policies and practices” than in the Northeast or West.*'
+            text: 'Often referred to as the fly over states, the Midwest is forgotten and underfunded by foundations and the non-profit industrial complex. Queer and trans youth in the Midwest are more likely to experience “biased language, victimization, and anti-LGBTQ discriminatory school policies and practices” than in the Northeast or West ('
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf'
+                  target: _blank
+                  rel: null
+            text: 'GLSEN, 2017'
+          -
+            type: text
+            text: ).
       -
         type: paragraph
         content:
@@ -62,7 +75,20 @@ sections:
             text: 'we provide community and connection to the next generation of leaders in the movement for our collective liberation.'
           -
             type: text
-            text: "\_Community care “plays a crucial role in LGBT youth loneliness, hopelessness, and mental health outcomes over and above experiences of victimization.”** We are dedicated to furthering queer success in the Midwest."
+            text: "\_Community care “plays a crucial role in LGBT youth loneliness, hopelessness, and mental health outcomes over and above experiences of victimization”("
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
+                  target: _blank
+                  rel: null
+            text: 'McConnell, E. A., Birkett, M. A., & Mustanki, B., 2015'
+          -
+            type: text
+            text: '). We are dedicated to furthering queer success in the Midwest.'
       -
         type: paragraph
         content:
@@ -195,44 +221,7 @@ sections:
             text: 'Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: "*2017 GLSEN National School Climate Survey -\_https://www.glsen.org/sites/default/files/2019-12/Full_NSCS_Report_English_2017.pdf"
-          -
-            type: hard_break
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: '**McConnell, E. A., Birkett, M. A., & Mustanki, B. (2015). Typologies of Social Support and Associations with Mental Health Outcomes Among LGBT Youth. LGBT Health, 2(1), 55-61.'
-          -
-            type: hard_break
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'https://www.liebertpub.com/doi/10.1089/lgbt.2014.0051'
-      -
-        type: paragraph
-    type: content
-    enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607204576
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1607211944
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
