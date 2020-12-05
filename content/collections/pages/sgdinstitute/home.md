@@ -33,7 +33,7 @@ sections:
       - 5ec9896f-169f-4790-b16a-571785f81fe5
       - c65454a6-828b-4c7b-99fa-8f2a79f1c11e
       - cf06ede9-98e5-464d-86a4-69a78ca7ede2
-      - 44753461-76f6-42b3-8b55-d6a8ec532df1
+      - b118820a-7f44-43e5-8b1f-6a31ef5557f0
     background: null
     bg_type: gradient
     bg_image: null
@@ -73,7 +73,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607202969
+updated_at: 1607207236
 id: home
 ---
 Welcome to your new Statamic website.
