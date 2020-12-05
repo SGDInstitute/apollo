@@ -1,8 +1,8 @@
 ---
 title: About
 template: default
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1604191456
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1607188972
 sections:
   -
     background: null
@@ -54,6 +54,25 @@ sections:
           -
             type: text
             text: '), the largest conference hosted by and for LGBTQIA+ college students. Through this and other programs, we advance knowledge of sexuality and gender and we empower students to inspire sustainable change. We lead our higher education colleagues in relevant and inclusive practices.'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::12bd6a1f-1e76-4eec-ab59-16ede7709c1c'
+                text: 'Discover our programs'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -133,6 +152,25 @@ sections:
           -
             type: text
             text: "\_how we can better support you. We vow to be accountable to the community we serve."
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
