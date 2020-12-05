@@ -41,9 +41,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Often referred to as the fly over states, the Midwest is forgotten and underfunded by foundations and the non-profit industrial complex. Queer and trans youth in the Midwest are more likely to experience “biased language, victimization, and anti-LGBTQ discriminatory school policies and practices” than in the Northeast or West.*'
       -
         type: paragraph
@@ -236,6 +233,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607197330
+updated_at: 1607197341
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
