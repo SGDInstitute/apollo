@@ -55,9 +55,40 @@ sections:
     bg_color: bg-gray-200
     type: users
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Not sure who to contact?'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
+                text: 'Send us a note'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603807311
+updated_at: 1607189262
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
