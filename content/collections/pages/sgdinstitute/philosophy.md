@@ -12,6 +12,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: "Our work is rooted in and inspired by the fight and efforts of those before us. Fulfilling this work is an iterative process, taking what has been executed previously and adjusting, adapting, and reenvisioning according to new social situations and changing contexts. Our work requires constant analysis, exposure, and consideration of these situations and contexts in order to both model improved practices as well as contribute to continued efforts and fights for our collective liberation.\_ We do not see ourselves as leaders of liberation, but as contributors and facilitators, participating in, creating and holding space for others to also be exposed to and inspired by new possibilities.\_"
       -
         type: paragraph
@@ -94,6 +97,15 @@ sections:
             type: image
             image: history/mission-history-CONTENT.jpg
             caption: 'Roze R.B. Brooks and Justin Drwencke introduced the Institute at MBLGTACC 2017. (Photo: Ed Negron)'
+            inline: false
+            direction: null
+            width: null
+            margin_direction: null
+            margin: null
+            margin_top: null
+            margin_right: null
+            margin_bottom: null
+            margin_left: null
       -
         type: heading
         attrs:
@@ -275,6 +287,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603807298
+updated_at: 1607189588
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
