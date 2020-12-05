@@ -16,20 +16,26 @@ sections:
   -
     bard:
       -
-        type: blockquote
+        type: heading
+        attrs:
+          level: 2
         content:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'IN THE MIDWEST, WE HAD THIS KIND OF QUEER DESERT, WITH AN ABSENCE OF ACTIVITIES, AN ABSENCE OF EVENTS OR POSITIVE IMAGES OR PERFORMERS. LET’S BRING IT TO US.'
+            type: text
+            text: '"In the Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
       -
         type: paragraph
         content:
           -
             type: text
-            text: '- JUSTIN CONNOR, MBLGCC 1994 PLANNER'
+            marks:
+              -
+                type: italic
+            text: 'Justin Connor, MBLGCC 1994 planner'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: paragraph
         content:
@@ -169,7 +175,84 @@ sections:
         type: paragraph
     type: content
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'OPE! Become a monthly donor'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'By becoming a monthly donor, you join the OPE (Our Partners in Equity) Giving Program and can receive exclusive benefits:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'With a monthly gift of $10 or more, you’ll receive a donor-exclusive quarterly newsletter with updates and behind-the-scenes information about Institute programs.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'With a monthly gift of $50 or more, you’ll receive an exclusive invitation to an annual virtual event.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "If you have questions or would like to discuss a unique sponsorship opportunity, please contact us at\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:fundraising@sgdinstitute.org'
+                  target: null
+                  rel: null
+            text: fundraising@sgdinstitute.org
+          -
+            type: text
+            text: '.Thank you for your support and ongoing partnership.'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: null
+                text: null
+                color: null
+                size: null
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607196019
+updated_at: 1607196526
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
