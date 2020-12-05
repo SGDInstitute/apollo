@@ -285,6 +285,53 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Learn more'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://apollo.sgdinstitute.org/about/mission'
+                          target: _blank
+                          rel: null
+                    text: 'Our mission, vision, and values'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://apollo.sgdinstitute.org/about/team'
+                          target: _blank
+                          rel: null
+                    text: 'Our team'
+    type: content
+    enabled: true
+  -
     id: collaboration
     column_widths: third_left
     left_column: image
@@ -358,6 +405,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607193915
+updated_at: 1607199097
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
