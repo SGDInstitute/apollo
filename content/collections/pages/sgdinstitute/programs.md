@@ -29,6 +29,38 @@ sections:
                 type: lead
             text: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empower queer and trans students to inspire sustainable change, and build community among queer and trans students in the Midwest.'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our programs are rooted in our organization''s '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /about/philosophy
+                  target: _blank
+                  rel: null
+            text: 'guiding philosophy'
+          -
+            type: text
+            text: ' and in our '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /about/mission
+                  target: _blank
+                  rel: null
+            text: 'mission, vision, and values'
+          -
+            type: text
+            text: '. If you''re interested in a programming collaboration, please contact R.B. Brooks (rb[at]sgdinstitute.org).'
+      -
         type: heading
         attrs:
           level: 2
@@ -190,6 +222,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607200756
+updated_at: 1607201060
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
