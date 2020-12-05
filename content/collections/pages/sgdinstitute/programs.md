@@ -2,6 +2,10 @@
 title: Programs
 sections:
   -
+    title: 'Our programs'
+    type: header_small
+    enabled: true
+  -
     background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
@@ -9,10 +13,10 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: null
+    bg_color: bg-black
     title: Programs
     type: header
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -203,6 +207,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607192299
+updated_at: 1607194176
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
