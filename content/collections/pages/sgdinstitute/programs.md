@@ -121,9 +121,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: paragraph
@@ -206,6 +203,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607192197
+updated_at: 1607192223
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
