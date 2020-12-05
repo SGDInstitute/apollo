@@ -2,7 +2,7 @@
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607188972
+updated_at: 1607191751
 sections:
   -
     background: null
@@ -188,28 +188,5 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-  -
-    id: null
-    column_widths: third_left
-    left_column: image
-    right_column: content
-    bard: null
-    above_price: null
-    price: null
-    below_price: null
-    image: headers/blurry-background.jpg
-    caption: null
-    video: null
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-green-800
-    type: two_column
-    enabled: true
-    center_columns: false
 id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 ---
