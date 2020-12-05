@@ -41,7 +41,13 @@ sections:
         content:
           -
             type: text
-            text: "Often referred to as the fly over states, the Midwest is forgotten and underfunded by foundations and the non-profit industrial complex. Queer and trans youth in the Midwest are more likely to experience “biased language, victimization, and anti-LGBTQ discriminatory school policies and practices” than in the Northeast or West.*The Midwest Institute for Sexuality and Gender Diversity re-envisions an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity. Through programs, such as the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC),\_"
+            text: 'Often referred to as the fly over states, the Midwest is forgotten and underfunded by foundations and the non-profit industrial complex. Queer and trans youth in the Midwest are more likely to experience “biased language, victimization, and anti-LGBTQ discriminatory school policies and practices” than in the Northeast or West.*The Midwest Institute for Sexuality and Gender Diversity re-envisions an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Through programs, such as the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC),\_"
           -
             type: text
             marks:
@@ -122,7 +128,7 @@ sections:
         content:
           -
             type: text
-            text: 'Every. Single. Gift. Counts. '
+            text: 'Every. Single. Gift. Counts. Make yours today.'
       -
         type: paragraph
       -
@@ -205,6 +211,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607196982
+updated_at: 1607197021
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
