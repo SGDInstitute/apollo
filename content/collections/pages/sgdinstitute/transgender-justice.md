@@ -3,13 +3,13 @@ title: 'Transgender Justice Teach-in'
 sections:
   -
     background: null
-    bg_type: image
+    bg_type: color
     bg_image: headers/blurry-background.jpg
     num_colors: 2
     from_color: null
     via_color: null
     to_color: null
-    bg_color: null
+    bg_color: bg-gray-300
     title: 'Transgender Justice Teach-in'
     type: header
     enabled: true
@@ -314,7 +314,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607193653
+updated_at: 1607194514
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
