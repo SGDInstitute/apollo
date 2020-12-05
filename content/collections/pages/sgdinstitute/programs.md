@@ -60,8 +60,8 @@ sections:
         attrs:
           values:
             type: image
-            image: headers/header-hug.JPG
-            caption: null
+            image: mblgtacc-2020-feat-voice-session-1090x681.jpg
+            caption: 'Credit: Tyler Williams / Midwest Institute for Sexuality and Gender Diversity'
             inline: false
             direction: float-left
             width: w-1/2
@@ -207,6 +207,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607194176
+updated_at: 1607199448
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
