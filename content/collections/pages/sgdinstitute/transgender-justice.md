@@ -50,6 +50,9 @@ sections:
               -
                 type: bold
             text: 'Virtual via Zoom'
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Join the Institute and the University of Minnesota Duluth''s '
@@ -302,7 +305,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607202774
+updated_at: 1607202808
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
