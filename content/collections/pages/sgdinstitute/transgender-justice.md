@@ -111,24 +111,24 @@ sections:
             text: Panelists
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: '[***'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'ADD SPEAKERS COMPONENT?'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '***]'
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: news/tj-f20_web-headshots.jpg
+            caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''tesha Saballos'
+            inline: false
+            direction: null
+            width: null
+            margin_direction: null
+            margin: null
+            margin_top: null
+            margin_right: null
+            margin_bottom: null
+            margin_left: null
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -314,7 +314,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606774963
+updated_at: 1607193653
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
