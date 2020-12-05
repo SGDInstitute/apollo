@@ -22,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: '"In the "Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
+            text: '"In the Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
       -
         type: paragraph
         content:
@@ -233,6 +233,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607200410
+updated_at: 1607200423
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
