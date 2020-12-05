@@ -64,6 +64,14 @@ sections:
             type: text
             text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will provide space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'OPE! Become a monthly donor'
+      -
         type: paragraph
         content:
           -
@@ -91,33 +99,6 @@ sections:
                     type: text
                     text: 'With a monthly gift of $50 or more, you’ll receive an exclusive invitation to an annual virtual event.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "If you have questions or would like to discuss a unique sponsorship opportunity, please contact us at\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:fundraising@sgdinstitute.org'
-                  target: null
-                  rel: null
-            text: fundraising@sgdinstitute.org
-          -
-            type: text
-            text: .
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Thank you for your support and ongoing partnership.'
-      -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
@@ -135,7 +116,57 @@ sections:
                 outline: false
             contain: true
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Make a one-time gift'
+      -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Every. Single. Gift. Counts. '
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/donations/create/institute'
+                text: Donate
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "If you have questions or would like to discuss a unique sponsorship opportunity, please contact us at\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:fundraising@sgdinstitute.org'
+                  target: null
+                  rel: null
+            text: fundraising@sgdinstitute.org
+          -
+            type: text
+            text: '.Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
   -
@@ -175,84 +206,7 @@ sections:
         type: paragraph
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'OPE! Become a monthly donor'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'By becoming a monthly donor, you join the OPE (Our Partners in Equity) Giving Program and can receive exclusive benefits:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'With a monthly gift of $10 or more, you’ll receive a donor-exclusive quarterly newsletter with updates and behind-the-scenes information about Institute programs.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'With a monthly gift of $50 or more, you’ll receive an exclusive invitation to an annual virtual event.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "If you have questions or would like to discuss a unique sponsorship opportunity, please contact us at\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:fundraising@sgdinstitute.org'
-                  target: null
-                  rel: null
-            text: fundraising@sgdinstitute.org
-          -
-            type: text
-            text: '.Thank you for your support and ongoing partnership.'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: null
-                text: null
-                color: null
-                size: null
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607196615
+updated_at: 1607196836
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
