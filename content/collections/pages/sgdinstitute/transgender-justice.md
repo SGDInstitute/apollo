@@ -29,7 +29,13 @@ sections:
                 type: lead
             text: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'The Rise of a Trans Abolitionist Vision'
       -
         type: set
         attrs:
@@ -46,16 +52,6 @@ sections:
             margin_right: null
             margin_bottom: null
             margin_left: null
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'The Rise of a Trans Abolitionist Vision'
       -
         type: paragraph
         content:
@@ -338,7 +334,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607194713
+updated_at: 1607194738
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
