@@ -340,9 +340,24 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
+  -
+    limit: 3
+    num_per_row: null
+    pagination: false
+    exclude: false
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-300
+    type: news
+    enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607191578
+updated_at: 1607191682
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
