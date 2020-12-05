@@ -67,6 +67,10 @@ sections:
             text: 'Not sure who to contact?'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'No problem. We can help make sure your message gets to the right human.'
       -
         type: set
         attrs:
@@ -104,6 +108,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607189302
+updated_at: 1607189366
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
