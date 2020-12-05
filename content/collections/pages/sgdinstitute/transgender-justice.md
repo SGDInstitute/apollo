@@ -234,6 +234,15 @@ sections:
           -
             type: text
             text: 'Black Visions Collective'
+    type: content
+    enabled: true
+  -
+    id: reg-cost
+    column_widths: third_left
+    left_column: pricing
+    right_column: content
+    center_columns: true
+    bard:
       -
         type: heading
         attrs:
@@ -308,13 +317,31 @@ sections:
                 link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
                 text: Register
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
-                outline: true
+                outline: false
                 target_blank: true
             contain: true
       -
         type: paragraph
+    above_price: 'Starting at'
+    price: $5
+    below_price: null
+    image: null
+    caption: null
+    video: null
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-transparent
+    type: two_column
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -335,12 +362,10 @@ sections:
           -
             type: text
             text: "\_Contact R.B. Brooks (rb@sgdinstitute.org)"
-      -
-        type: paragraph
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607194999
+updated_at: 1607201438
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
