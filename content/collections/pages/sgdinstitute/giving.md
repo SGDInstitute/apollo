@@ -10,7 +10,7 @@ sections:
     via_color: null
     to_color: null
     bg_color: null
-    title: Giving
+    title: 'Support the Institute and students across the Midwest'
     type: header
     enabled: true
   -
@@ -233,6 +233,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607200423
+updated_at: 1607200461
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
