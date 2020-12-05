@@ -198,6 +198,29 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::8a6ba15f-784c-468b-9f33-c7d99bfbae8a'
+                text: 'Learn about our philosophy'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
     limit: 3
     num_per_row: null
     pagination: false
@@ -215,6 +238,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607191648
+updated_at: 1607198666
 id: ad088f33-ab22-428b-a582-cd5a53022895
 ---
