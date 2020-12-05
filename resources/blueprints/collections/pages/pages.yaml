@@ -570,3 +570,10 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        handle: comments
+        field:
+          display: Comments
+          type: textarea
+          icon: textarea
+          listable: true
