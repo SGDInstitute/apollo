@@ -2,8 +2,20 @@
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607191751
+updated_at: 1607194385
 sections:
+  -
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-green-600
+    title: 'About the Institute'
+    type: header
+    enabled: true
   -
     background: null
     bg_type: image
@@ -15,7 +27,7 @@ sections:
     bg_color: null
     title: 'About the Institute'
     type: header
-    enabled: true
+    enabled: false
   -
     bard:
       -
