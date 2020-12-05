@@ -285,8 +285,8 @@ sections:
     type: content
     enabled: true
   -
-    id: null
-    column_widths: third_left
+    id: collaboration
+    column_widths: quarter_left
     left_column: image
     right_column: content
     center_columns: false
@@ -306,13 +306,15 @@ sections:
             type: text
             text: 'As we continue to grow and evolve, we''re eager to continue building relationships and developing mutually beneficial partnerships with others working in mission- and/or philosophy-aligned movements, initiatives, community spaces, and organizations. If we haven''t met, please reach out and let us introduce ourselves.'
       -
+        type: paragraph
+      -
         type: set
         attrs:
           values:
             type: buttons
             buttons:
               -
-                link: null
+                link: 'mailto:justin@sgdinstitute.org'
                 text: 'Contact our executive director'
                 color: btn-white
                 size: btn-lg
@@ -325,7 +327,7 @@ sections:
     above_price: null
     price: null
     below_price: null
-    image: news/2020-rb-justin-welcome-teaser-1090x681.jpg
+    image: team/justin-mblgtacc-2018-board-room-teaser-1090x681.jpg
     caption: null
     video: null
     background: null
@@ -341,6 +343,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607190961
+updated_at: 1607191539
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
