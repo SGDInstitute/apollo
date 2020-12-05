@@ -282,10 +282,29 @@ sections:
           -
             type: text
             text: "Simultaneously, our youth are being fooled by this myth within an existing system of capitalism that places value on certain labor, skills and people. Systemically disenfranchised people are impacted by concurrent systems that pose restrictions on their possibilities, both in college and in pursuits for employment. As navigators of these exact systems, we seek valuation of labor that has routinely been dismissed and subscribe to the notion of all labor being properly compensated as well as laborers being credited for their work. We are plagued with the reality of intergenerational wealth disparities, while others’ lineage continues to provide uninterrupted security. All efforts toward liberation must take into account reparations and the global redistribution of wealth.\_"
+    type: content
+    enabled: true
+  -
+    id: null
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Let''s collaborate'
       -
         type: paragraph
-      -
-        type: paragraph
+        content:
+          -
+            type: text
+            text: 'As we continue to grow and evolve, we''re eager to continue building relationships and developing mutually beneficial partnerships with others working in mission- and/or philosophy-aligned movements, initiatives, community spaces, and organizations. If we haven''t met, please reach out and let us introduce ourselves.'
       -
         type: set
         attrs:
@@ -293,49 +312,35 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'mailto:justin@sgdinstitute.org'
-                text: null
-                color: null
-                size: null
+                link: null
+                text: 'Contact our executive director'
+                color: btn-white
+                size: btn-lg
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: image
-            right_column: content
-            left_column_section: null
-            leftimage: news/2020-rb-justin-welcome-teaser-1090x681.jpg
-            leftcaption: null
-            left_video: null
-            left_content: null
-            right_column_section: null
-            right_image: null
-            right_video: null
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'We would love to collaborate'
-              -
-                type: paragraph
-      -
-        type: paragraph
-    type: content
+    above_price: null
+    price: null
+    below_price: null
+    image: news/2020-rb-justin-welcome-teaser-1090x681.jpg
+    caption: null
+    video: null
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607190055
+updated_at: 1607190961
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
