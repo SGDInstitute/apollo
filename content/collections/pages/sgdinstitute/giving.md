@@ -97,6 +97,8 @@ sections:
                     type: text
                     text: 'With a monthly gift of $50 or more, you’ll receive an exclusive invitation to an annual virtual event.'
       -
+        type: paragraph
+      -
         type: set
         attrs:
           values:
@@ -113,8 +115,10 @@ sections:
                 link: 'https://apps.sgdinstitute.org/donations/create/institute'
                 outline: false
             contain: true
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -211,6 +215,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607197021
+updated_at: 1607197108
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
