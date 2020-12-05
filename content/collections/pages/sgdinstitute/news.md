@@ -2,6 +2,10 @@
 title: News
 sections:
   -
+    title: News
+    type: header_small
+    enabled: true
+  -
     background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
@@ -12,7 +16,7 @@ sections:
     bg_color: null
     title: News
     type: header
-    enabled: true
+    enabled: false
   -
     articles:
       - 82c1ccb2-5739-4887-a2ee-95388bd80122
@@ -45,7 +49,7 @@ sections:
     to_color: null
     bg_color: bg-gray-200
     exclude: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1603730890
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1607195084
 id: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
 ---
