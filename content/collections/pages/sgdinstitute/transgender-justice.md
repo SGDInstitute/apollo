@@ -2,32 +2,26 @@
 title: 'Transgender Justice Teach-in'
 sections:
   -
-    title: 'Transgender Justice Teach-in'
-    type: header_small
+    header_image: headers/tj-f20-web@2x.jpg
+    title: 'The Rise of a Trans Abolitionist Vision'
+    subtitle: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    has_tag: true
+    tag: 'Transgender Justice Teach-in'
+    link: null
+    text: 'Registration closed'
+    color: btn-green
+    size: btn-lg
+    block: false
+    outline: false
+    target_blank: true
+    type: header_large
     enabled: true
   -
-    background: null
-    bg_type: color
-    bg_image: headers/blurry-background.jpg
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-gray-300
     title: 'Transgender Justice Teach-in'
-    type: header
+    type: header_small
     enabled: false
   -
     bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: heading
         attrs:
@@ -35,43 +29,10 @@ sections:
         content:
           -
             type: text
-            text: 'The Rise of a Trans Abolitionist Vision'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: tj-f20_email.png
-            caption: null
-            inline: false
-            direction: null
-            width: null
-            margin_direction: null
-            margin: null
-            margin_top: null
-            margin_right: null
-            margin_bottom: null
-            margin_left: null
-      -
-        type: paragraph
-      -
-        type: paragraph
+            text: 'Tuesday, November 10, 2020'
       -
         type: paragraph
         content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Tuesday, November 10, 2020'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
           -
             type: text
             marks:
@@ -89,9 +50,6 @@ sections:
               -
                 type: bold
             text: 'Virtual via Zoom'
-      -
-        type: paragraph
-        content:
           -
             type: text
             text: 'Join the Institute and the University of Minnesota Duluth''s '
@@ -117,16 +75,20 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
-                text: Register
+                link: null
+                text: 'Registration closed'
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
-                outline: true
+                outline: false
                 target_blank: true
             contain: true
       -
         type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -257,56 +219,33 @@ sections:
           -
             type: text
             text: 'Register now to attend on November 10! We offer tiered registration costs:'
-      -
-        type: bullet_list
-        content:
           -
-            type: list_item
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "QTIBIPOC:\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: $5
+                type: bold
+            text: ' $5'
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Trans & Non-Conforming Folks:\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: $15
+            type: text
+            text: ' for queer, trans, intersex, Black, Indigenous, and people of color; '
           -
-            type: list_item
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Aspiring Accomplice:\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: $25
-      -
-        type: paragraph
+                type: bold
+            text: '$15 '
+          -
+            type: text
+            text: 'for trans and gender non-confirming folx; and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: $25
+          -
+            type: text
+            text: ' for aspiring accomplices.'
       -
         type: set
         attrs:
@@ -316,14 +255,12 @@ sections:
               -
                 link: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
                 text: Register
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: true
             contain: true
-      -
-        type: paragraph
     above_price: 'Starting at'
     price: $5
     below_price: null
@@ -337,7 +274,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-transparent
+    bg_color: bg-green-500
     type: two_column
     enabled: true
   -
@@ -365,7 +302,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607201438
+updated_at: 1607202748
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
