@@ -48,7 +48,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our programs'
+            text: MBLGTACC
       -
         type: paragraph
       -
@@ -68,15 +68,9 @@ sections:
             margin_bottom: null
             margin_left: null
       -
-        type: paragraph
-      -
         type: heading
         attrs:
           level: 3
-        content:
-          -
-            type: text
-            text: MBLGTACC
       -
         type: paragraph
         content:
@@ -88,7 +82,7 @@ sections:
         content:
           -
             type: text
-            text: 'Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Patrisse Cullors, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+            text: 'Over its nearly 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Patrisse Cullors, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
       -
         type: paragraph
         content:
@@ -108,16 +102,16 @@ sections:
                 size: btn-lg
                 block: false
                 outline: true
-                target_blank: false
+                target_blank: true
             contain: true
-      -
-        type: paragraph
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -127,7 +121,12 @@ sections:
         content:
           -
             type: text
-            text: 'The Trangender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+            marks:
+              -
+                type: lead
+            text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+      -
+        type: paragraph
       -
         type: set
         attrs:
@@ -136,17 +135,13 @@ sections:
             buttons:
               -
                 link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
-                text: 'Learn More'
+                text: 'Learn more'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
-      -
-        type: heading
-        attrs:
-          level: 2
       -
         type: paragraph
     type: content
@@ -211,6 +206,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607191786
+updated_at: 1607192197
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
