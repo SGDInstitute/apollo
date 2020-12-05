@@ -282,11 +282,13 @@ sections:
           -
             type: text
             text: "Simultaneously, our youth are being fooled by this myth within an existing system of capitalism that places value on certain labor, skills and people. Systemically disenfranchised people are impacted by concurrent systems that pose restrictions on their possibilities, both in college and in pursuits for employment. As navigators of these exact systems, we seek valuation of labor that has routinely been dismissed and subscribe to the notion of all labor being properly compensated as well as laborers being credited for their work. We are plagued with the reality of intergenerational wealth disparities, while others’ lineage continues to provide uninterrupted security. All efforts toward liberation must take into account reparations and the global redistribution of wealth.\_"
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607189588
+updated_at: 1607189659
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
