@@ -35,7 +35,7 @@ sections:
     type: news_feature
     enabled: true
   -
-    limit: 24
+    limit: 30
     type: news
     enabled: true
     num_per_row: 3
@@ -50,6 +50,6 @@ sections:
     bg_color: bg-gray-200
     exclude: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607216272
+updated_at: 1607216293
 id: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
 ---
