@@ -59,7 +59,20 @@ sections:
             text: 'mission, vision, and values'
           -
             type: text
-            text: '. If you''re interested in a programming collaboration, please contact R.B. Brooks (rb[at]sgdinstitute.org).'
+            text: '. If you''re interested in a programming collaboration, please contact '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:rb@sgdinstitute.org'
+                  target: _blank
+                  rel: null
+            text: 'R.B. Brooks'
+          -
+            type: text
+            text: .
       -
         type: heading
         attrs:
@@ -68,8 +81,6 @@ sections:
           -
             type: text
             text: MBLGTACC
-      -
-        type: paragraph
       -
         type: set
         attrs:
@@ -222,6 +233,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607201060
+updated_at: 1607216454
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
