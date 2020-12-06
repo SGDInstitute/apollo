@@ -112,7 +112,25 @@ sections:
         content:
           -
             type: text
-            text: 'By becoming a monthly donor, you join the OPE (Our Partners in Equity) Giving Program and can receive exclusive benefits:'
+            text: 'By becoming a monthly donor, you join the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'OPE (Our Partners in Equity)'
+          -
+            type: text
+            text: ' Giving Program and can receive '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'exclusive benefits'
+          -
+            type: text
+            text: ':'
       -
         type: bullet_list
         content:
@@ -221,7 +239,7 @@ sections:
             text: 'Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1607211987
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1607217836
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
