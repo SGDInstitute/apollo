@@ -157,16 +157,9 @@ sections:
             text: '. '
       -
         type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: '[[[ INSERT SOCIAL BUTTONS ]]] '
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607200646
+updated_at: 1607217989
 id: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
 ---
