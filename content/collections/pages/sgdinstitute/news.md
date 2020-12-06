@@ -38,7 +38,7 @@ sections:
     limit: 90
     type: news
     enabled: true
-    num_per_row: 1
+    num_per_row: 3
     pagination: true
     background: null
     bg_type: color
@@ -50,6 +50,6 @@ sections:
     bg_color: bg-gray-200
     exclude: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607216623
+updated_at: 1607216644
 id: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
 ---
