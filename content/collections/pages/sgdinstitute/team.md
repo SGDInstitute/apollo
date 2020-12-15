@@ -8,32 +8,14 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Let us introduce ourselves'
-      -
         type: paragraph
         content:
           -
             type: text
-            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates, professionals, graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_"
-          -
-            type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'http://mblgtacc.org/'
-                  target: _blank
-                  rel: null
-            text: MBLGTACC
-          -
-            type: text
-            text: "\_conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest."
+                type: lead
+            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates, professionals, graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_MBLGTACC\_conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest."
     type: content
     enabled: true
   -
@@ -41,7 +23,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -72,7 +54,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -89,7 +71,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-white
+    bg_color: bg-gray-200
     type: users
     enabled: true
   -
@@ -145,6 +127,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608075043
+updated_at: 1608076360
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
