@@ -37,7 +37,15 @@ sections:
     type: content
     enabled: true
   -
-    bard: null
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Staff
     users:
       - dcd190a9-db32-4705-ad6a-2795ef6f415b
       - 19a591a2-66c3-420a-9e1e-d76651f2bf19
@@ -49,6 +57,27 @@ sections:
       - 7f42dd16-20ab-4975-a14c-25ce48be94a6
       - 55e452ec-2a93-4c16-a9a4-f4f8981044cf
       - 67003621-9088-401e-8179-40b984ddbcc0
+    background: null
+    bg_type: color
+    bg_image: null
+    num_colors: 2
+    from_color: null
+    via_color: null
+    to_color: null
+    bg_color: bg-gray-200
+    type: users
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Board of Directors'
+    users:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
       - 02412e98-c0f6-4624-add0-5dbb57f95da7
@@ -60,7 +89,7 @@ sections:
     from_color: null
     via_color: null
     to_color: null
-    bg_color: bg-gray-200
+    bg_color: bg-white
     type: users
     enabled: true
   -
@@ -116,6 +145,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607203272
+updated_at: 1608075043
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
