@@ -15,7 +15,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Institute is governed by a board of directors, and our programs, resources, and operations are managed by volunteer staff. Our humans include experienced advocates, educators, and professionals working in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize MBLGTACC conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest.'
+            text: 'Our humans include experienced advocates, educators, and professionals working in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize MBLGTACC conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest.'
     type: content
     enabled: true
   -
@@ -28,6 +28,12 @@ sections:
           -
             type: text
             text: Staff
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our volunteer staff manage our programs, resources, and operations.'
     users:
       - dcd190a9-db32-4705-ad6a-2795ef6f415b
       - 19a591a2-66c3-420a-9e1e-d76651f2bf19
@@ -61,6 +67,12 @@ sections:
           -
             type: text
             text: 'Board of Directors'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Institute is governed by a board of directors, led by the board president, and incorporated in the state of Michigan.'
     users:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
@@ -129,6 +141,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608077680
+updated_at: 1608078680
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
