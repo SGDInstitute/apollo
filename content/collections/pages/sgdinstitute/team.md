@@ -15,7 +15,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Our humans include experienced advocates, educators, and professionals working in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize MBLGTACC conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest.'
+            text: 'Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize MBLGTACC conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest.'
     type: content
     enabled: true
   -
@@ -72,7 +72,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Institute is governed by a board of directors, led by the board president, and incorporated in the state of Michigan.'
+            text: 'The Institute is governed by a volunteer board of directors.'
     users:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
@@ -141,6 +141,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608078680
+updated_at: 1608079139
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
