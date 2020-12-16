@@ -127,7 +127,7 @@ sections:
             buttons:
               -
                 link: 'https://www.mblgtacc.org'
-                text: 'Learn More'
+                text: 'Visit the MBLGTACC website'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -233,6 +233,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607216454
+updated_at: 1608079628
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 ---
