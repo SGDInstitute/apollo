@@ -15,7 +15,7 @@ sections:
             marks:
               -
                 type: lead
-            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by the leadership team. Our humans include experienced advocates, professionals, graduate students in the higher education, financial services, marketing/communications, and information technologies fields. We’ve helped organize\_MBLGTACC\_conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest."
+            text: "The Institute is governed by a board of directors, and our programs, resources, and operations are managed by volunteer staff. Our humans include experienced advocates, educators, and professionals working in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize\_MBLGTACC\_conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest."
     type: content
     enabled: true
   -
@@ -51,6 +51,8 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -127,6 +129,6 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608076360
+updated_at: 1608077574
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
