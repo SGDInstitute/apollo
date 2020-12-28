@@ -6,6 +6,7 @@
     "require": {
         "php": "^7.2.5",
         "austenc/statamic-instagram-feed": "^2.2",
+        "doublethreedigital/duplicator": "^1.2",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^7.2",

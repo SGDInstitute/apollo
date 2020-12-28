@@ -53,7 +53,19 @@ module.exports = {
         default: {
             css: {
                 color: theme('colors.black'),
+                a: {
+                    color: theme('colors.green.600'),
+                    textDecoration: 'none',
+                    '&:hover': {
+                        textDecoration: 'underline',
+                    }
+                },
                 h1: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+                    fontSize: theme('fontSize.5xl'),
+                },
+                'h1 strong': {
                     color: theme('colors.gray.700'),
                     fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.5xl'),
@@ -63,7 +75,17 @@ module.exports = {
                     fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.4xl'),
                 },
+                'h2 strong': {
+                    color: theme('colors.green.500'),
+                    fontFamily: '"News Cycle", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+                    fontSize: theme('fontSize.4xl'),
+                },
                 h3: {
+                    color: theme('colors.gray.700'),
+                    fontFamily: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+                    fontSize: theme('fontSize.xl'),
+                },
+                'h3 strong': {
                     color: theme('colors.gray.700'),
                     fontFamily: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
                     fontSize: theme('fontSize.xl'),
@@ -76,10 +98,30 @@ module.exports = {
                     letterSpacing: theme('letterSpacing.wider'),
                     fontSize: theme('fontSize.lg'),
                 },
+                'h4 strong': {
+                    color: theme('colors.gray.700'),
+                    fontFamily: 'Lato, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+                    fontWeight: theme('fontWeight.semibold'),
+                    textTransform: theme('textTransform.uppercase'),
+                    letterSpacing: theme('letterSpacing.wider'),
+                    fontSize: theme('fontSize.lg'),
+                },
                 'figure figcaption': {
                     fontSize: theme('fontSize.sm'),
                     color: theme('colors.gray.600'),
                 },
+                blockquote: {
+                    fontSize: theme('fontSize.xl'),
+                    fontWeight: '500',
+                    fontStyle: 'italic',
+                    color: theme('colors.green.500'),
+                    marginLeft: '-3rem',
+                    marginRight: '-3rem',
+                    borderLeft: 0,
+                    paddingLeft: 0,
+                },
+                'blockquote p:first-of-type::before': false,
+                'blockquote p:last-of-type::after': false,
             }
         },
         dark: {
@@ -89,8 +131,8 @@ module.exports = {
                 color: theme('colors.gray.300'),
             },
             a: {
-                color: theme('colors.gray.100'),
-                textDecoration: 'underline',
+                color: theme('colors.green.300'),
+                textDecoration: 'none',
             },
             strong: {
                 color: theme('colors.gray.100'),
@@ -106,19 +148,30 @@ module.exports = {
                 borderColor: theme('colors.gray.700'),
             },
             blockquote: {
-                color: theme('colors.gray.100'),
-                borderLeftColor: theme('colors.gray.700'),
+                color: theme('colors.green.300'),
             },
             h1: {
+                color: theme('colors.gray.100'),
+            },
+            'h1 strong': {
                 color: theme('colors.gray.100'),
             },
             h2: {
                 color: theme('colors.gray.100'),
             },
+            'h2 strong': {
+                color: theme('colors.gray.100'),
+            },
             h3: {
                 color: theme('colors.gray.100'),
             },
+            'h3 strong': {
+                color: theme('colors.gray.100'),
+            },
             h4: {
+                color: theme('colors.gray.100'),
+            },
+            'h4 strong': {
                 color: theme('colors.gray.100'),
             },
             'figure figcaption': {
@@ -140,7 +193,7 @@ module.exports = {
             },
           },
         },
-      }),
+    }),
   },
   variants: {},
   plugins: [

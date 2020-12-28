@@ -1,12 +1,12 @@
 <section class="py-12 my-8">
     <div class="container grid grid-cols-3 gap-12 mx-auto">
         {{ articles }}
-        <article {{ if first }} class="col-span-2" {{ /if }}>
-            <img src="{{ card_image }}" class="w-full mb-4"/>
+        <article {{ if first }} class="col-span-2 mb-8" {{ /if }}>
+            <a href="{{ url }}"><img src="{{ card_image }}" class="w-full mb-4"/></a>
             {{ categories }}
-            <a href="{{ url }}" class="block text-sm text-gray-600 uppercase dark:text-gray-400">{{ title }}</a>
+            <a href="{{ url }}" class="block text-sm tracking-widest text-gray-600 uppercase dark:text-gray-400">{{ title }}</a>
             {{ /categories }}
-            <a href="{{ url }}" class="block text-3xl text-green-500 dark:text-green-400">{{ title }}</a>
+            <a href="{{ url }}" class="block {{ if first || count === 2 }}text-3xl{{ else }}text-xl{{ /if }} text-green-500 dark:text-green-400">{{ title }}</a>
             <span class="block text-sm text-gray-600 dark:text-gray-400">{{ date format="F j, Y" }}</span>
         </article>
         {{ /articles }}

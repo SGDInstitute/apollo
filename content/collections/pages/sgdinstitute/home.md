@@ -7,7 +7,7 @@ sections:
     title: 'Connect. Educate. Empower.'
     subtitle: 'Building queer success in the Midwest'
     has_tag: false
-    tag: null
+    tag: asdfasdfasdfasdf
     button: null
     text: 'Learn More'
     url: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
@@ -72,8 +72,8 @@ sections:
     bg_color: bg-white
     type: countdown
     enabled: false
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607207747
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1608667418
 id: home
 ---
 Welcome to your new Statamic website.

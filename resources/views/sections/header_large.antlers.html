@@ -6,8 +6,10 @@
                 <div class="relative col-span-4 p-8 -mt-24 bg-white dark:bg-gray-800">
                     {{ if has_tag }}
                     <span class="absolute top-0 px-6 py-2 -mt-4 text-black uppercase bg-yellow-300">{{ tag }}</span>
-                    {{ /if }}
+                    <h1 class="mt-4 font-bold leading-none text-green-500 uppercase text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
+                    {{ else }}
                     <h1 class="font-bold leading-none text-green-500 uppercase text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
+                    {{ /if }}
                 </div>
             </div>
             <div class="grid grid-cols-4 px-8 mt-1 mb-8">
