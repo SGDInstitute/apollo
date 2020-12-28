@@ -1,0 +1,8 @@
+title: 'Contact Us'
+honeypot: last_name
+email:
+  -
+    to: support@sgdinstitute.com
+    from: "{{ email }}"
+    subject: '{{ subject ?? "Email Form Submission" }}'
+store: false

@@ -1,0 +1,38 @@
+<div class="flex flex-col sm:-mx-12 lg:-mx-24">
+    <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+      <div class="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
+        <div class="overflow-hidden border-b border-gray-200 shadow dark:border-gray-800 sm:rounded-lg">
+          <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
+            {{ table }}
+                {{ if first && first_row_header }}
+                <thead class="bg-gray-100 dark:bg-gray-900">
+                    <tr>
+                        {{ cells }}
+                        <th scope="col" class="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase">
+                        {{ value | markdown }}
+                        </th>
+                        {{ /cells }}
+                    </tr>
+                </thead>
+                {{ /if }}
+                {{ if !first && first_row_header || !first_row_header }}
+                {{ if first }}
+                    <tbody>
+                {{ /if }}
+                    <tr class="bg-white dark:bg-gray-700">
+                    {{ cells }}
+                        <td class="px-6 py-4 text-sm text-gray-500 whitespace-nowrap">
+                            {{ value | markdown }}
+                        </td>
+                    {{ /cells }}
+                    </tr>
+                {{ if last }}
+                    </tbody>
+                {{ /if }}
+                {{ /if }}
+            {{ /table }}
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>

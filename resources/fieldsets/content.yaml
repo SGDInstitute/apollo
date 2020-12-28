@@ -133,6 +133,22 @@ fields:
           display: Table
           fields:
             -
+              handle: first_row_header
+              field:
+                display: 'First Row Header'
+                type: toggle
+                icon: toggle
+                width: 50
+                listable: hidden
+            -
+              handle: last_row_footer
+              field:
+                display: 'Last Row Footer'
+                type: toggle
+                icon: toggle
+                width: 50
+                listable: hidden
+            -
               handle: table
               field:
                 display: Table
@@ -299,6 +315,17 @@ fields:
           fields:
             -
               import: content_buttons
+        form:
+          display: Form
+          fields:
+            -
+              handle: formset
+              field:
+                max_items: 1
+                display: Form
+                type: form
+                icon: form
+                listable: hidden
       buttons:
         - h2
         - h3

@@ -108,6 +108,8 @@ sections:
                   - '**Great Blue Heron**<br><small><i>Great Blue Herons have a wingspan of up 6 feet that lifts them up and leaves a massive silhouette below them as they soar in the sky.  Their powerful wings allow them to migrate enormous distances, just as how your gift will provide visibility and empowerment to the LGBTQ+ community members that have traveled across the country to this transformative conference.</i></small>'
                   - '+Ad/flyer/coupon in swag bag'
                   - 'Full page ad'
+            first_row_header: true
+            last_row_footer: false
       -
         type: paragraph
     type: content
@@ -152,7 +154,7 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606779568
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1609188668
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---

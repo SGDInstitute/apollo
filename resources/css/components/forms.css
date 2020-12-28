@@ -1,0 +1,21 @@
+.form-control {
+    input {
+        @apply block w-full px-3 py-2 leading-6 border-gray-300 rounded-md shadow-sm;
+    }
+
+    textarea {
+        @apply block w-full px-3 py-2 leading-6 border-gray-300 rounded-md shadow-sm;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .form-control {
+        input {
+            @apply block w-full px-3 py-2 leading-6 text-gray-200 bg-gray-900 border-gray-300 rounded-md shadow-sm;
+        }
+
+        textarea {
+            @apply block w-full px-3 py-2 leading-6 text-gray-200 bg-gray-900 border-gray-300 rounded-md shadow-sm;
+        }
+    }
+}

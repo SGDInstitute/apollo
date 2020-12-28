@@ -1,0 +1,24 @@
+<div class="my-8">
+    {{ form:create in="contact" }}
+        {{ if success }}
+            <div class="p-2 text-white bg-green-300">
+                {{ success }}
+            </div>
+        {{ /if }}
+
+        <div class="space-y-4">
+            {{ fields }}
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">{{ display }}</label>
+                    <div class="form-control">{{ field }}</div>
+                    {{ if error }}
+                        <p class="text-gray-500">{{ error }}</p>
+                    {{ /if }}
+                </div>
+            {{ /fields }}
+            <button type="submit" class="btn btn-green btn-lg">Submit</button>
+        </div>
+
+
+    {{ /form:create }}
+</div>

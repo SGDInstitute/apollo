@@ -1,4 +1,4 @@
-<nav class="fixed z-50 w-full">
+<nav id="navbar" class="fixed z-50 w-full">
     <div class="bg-white dark:bg-gray-900">
         <div class="container px-6 mx-auto sm:px-0">
             <div class="flex items-center justify-between">
@@ -223,3 +223,6 @@
         </div>
     </div>
 </nav>
+<div x-data="{navHeight: 0 }" x-init="navHeight = document.getElementById('navbar').offsetHeight">
+    <div :style="'height: ' + navHeight + 'px'" style="height: 80px"></div>
+</div>
