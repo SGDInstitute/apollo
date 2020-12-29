@@ -55,7 +55,7 @@ sections:
           restrict: false
           allow_uploads: false
           max_files: 1
-          display: 'Light Theme Wordmark'
+          display: 'Light Theme Mark'
           type: assets
           icon: assets
           listable: hidden
@@ -69,7 +69,7 @@ sections:
           restrict: false
           allow_uploads: false
           max_files: 1
-          display: 'Dark Theme Wordmark'
+          display: 'Dark Theme Mark'
           type: assets
           icon: assets
           listable: hidden
