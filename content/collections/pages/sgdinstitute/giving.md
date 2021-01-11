@@ -16,20 +16,16 @@ sections:
   -
     bard:
       -
-        type: blockquote
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '"In the Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
-      -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            text: '— '
+            text: '"In the Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
+      -
+        type: paragraph
+        content:
           -
             type: text
             marks:
@@ -245,6 +241,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1610404964
+updated_at: 1610405009
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
