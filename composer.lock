@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d65696cd75e825249a30b0aa80f6c1c2",
+    "content-hash": "64ea046d46fa9c55b7cf90e52e9e5d14",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2574,6 +2574,52 @@
             "time": "2020-11-07T02:01:34+00:00"
         },
         {
+            "name": "pattern/statamic-business-mode",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pttrnco/statamic-business-mode.git",
+                "reference": "4707998e108aa98d29e393366e7a3b6965a8c2a4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pttrnco/statamic-business-mode/zipball/4707998e108aa98d29e393366e7a3b6965a8c2a4",
+                "reference": "4707998e108aa98d29e393366e7a3b6965a8c2a4",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4",
+                "statamic/cms": "^3.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Business Mode",
+                    "description": "Removes 'rad mode' from your CP login pages"
+                },
+                "laravel": {
+                    "providers": [
+                        "Pattern\\BusinessMode\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Pattern\\BusinessMode\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Business mode for Statamic CMS",
+            "support": {
+                "issues": "https://github.com/pttrnco/statamic-business-mode/issues",
+                "source": "https://github.com/pttrnco/statamic-business-mode/tree/master"
+            },
+            "time": "2020-09-01T04:51:28+00:00"
+        },
+        {
             "name": "pgrimaud/instagram-user-feed",
             "version": "6.6.4",
             "source": {
@@ -3712,6 +3758,50 @@
                 }
             ],
             "time": "2021-01-06T17:05:39+00:00"
+        },
+        {
+            "name": "statamic/seo-pro",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/statamic/seo-pro.git",
+                "reference": "5003fad9a41581567343f100f3eb4d1c0db47747"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/statamic/seo-pro/zipball/5003fad9a41581567343f100f3eb4d1c0db47747",
+                "reference": "5003fad9a41581567343f100f3eb4d1c0db47747",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "~3.0.33"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^6.4"
+            },
+            "type": "library",
+            "extra": {
+                "statamic": {
+                    "name": "Seo Pro",
+                    "description": "Seo Pro addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "Statamic\\SeoPro\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Statamic\\SeoPro\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/statamic/seo-pro/issues",
+                "source": "https://github.com/statamic/seo-pro/tree/2.1.0"
+            },
+            "time": "2020-12-08T22:07:56+00:00"
         },
         {
             "name": "statamic/stringy",

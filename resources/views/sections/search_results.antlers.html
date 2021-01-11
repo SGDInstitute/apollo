@@ -26,6 +26,32 @@
         </div>
     </div>
     <div class="container px-8 py-4 mx-auto md:px-0">
-        <h1 class="text-4xl text-white">{{ title }}</h1>
+        <h1 class="text-4xl text-white">{{ title }} for: <em>{{ get:q }}</em></h1>
+    </div>
+</section>
+<section class="py-12 bg-white dark:bg-gray-800">
+    <div class="px-8 mx-auto space-y-8 md:px-0 max-w-prose">
+        {{ search:results }}
+            {{ if no_results }}
+                <h2>No results.</h2>
+            {{ else }}
+                <div class="p-4 bg-gray-100 dark:bg-gray-700">
+                    <a href="{{ url }}"><h2 class="block {{ if first || count === 2 }}text-3xl{{ else }}text-xl{{ /if }} text-green-500 dark:text-green-400 hover:underline">{{ title }}</h2></a>
+                    <p>{{ description | truncate:180 }}</p>
+                    <div class="flex items-center mt-2">
+                        <span class="block mr-8 text-sm text-gray-600 dark:text-gray-400">{{ date format="F j, Y" }}</span>
+                        {{ if is_term }}
+                        <span class="uppercase inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
+                            Tag
+                        </span>
+                        {{ else }}
+                        <span class="uppercase inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
+                            {{ collection | singular }}
+                        </span>
+                        {{ /if }}
+                    </div>
+                </div>
+            {{ /if }}
+        {{ /search:results }}
     </div>
 </section>

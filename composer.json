@@ -12,7 +12,9 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
+        "pattern/statamic-business-mode": "^1.0",
         "statamic/cms": "3.0.*",
+        "statamic/seo-pro": "^2.1",
         "wildbit/swiftmailer-postmark": "^3.3"
     },
     "require-dev": {

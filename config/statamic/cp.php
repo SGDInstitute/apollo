@@ -38,7 +38,10 @@ return [
     */
 
     'widgets' => [
-        'getting_started',
+        [
+            'type' => 'seo_pro',
+            'width' => 50,
+        ]
     ],
 
     /*

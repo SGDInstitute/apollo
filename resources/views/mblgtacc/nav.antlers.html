@@ -1,52 +1,45 @@
-<nav id="navbar" class="fixed z-50 w-full">
+<div id="navbar" class="fixed z-50 w-full bg-white shadow-md dark:bg-gray-900">
     <div class="bg-white dark:bg-gray-900">
         <div class="container px-6 mx-auto sm:px-0">
-            <div class="flex items-center justify-between">
+            <div class="text-center lg:flex lg:items-center lg:justify-between">
                 <a href="https://sgdinstitute.org" target="_blank" class="py-2 text-sm text-green-500 hover:underline hover:text-gray-700 dark:text-green-400 dark:hover:text-green-300">A program of the Midwest Institute for Sexuality and Gender Diversity</a>
-                <div>
+                <div class="px-2 mt-2 lg:mt-0">
                     {{ nav:mblgtacc_top_nav }}
                     <span class="inline-block slanted {{ title === 'Give' ? 'bg-green-500' : 'hover:bg-green-500' }}">
                         <a href="{{ url }}" class="px-4 py-2 text-sm {{ title === 'Give' ? 'text-white' : 'text-green-500 dark:text-green-400' }} hover:text-white">{{ title }}</a>
                     </span>
                     {{ /nav:mblgtacc_top_nav}}
-                    <span class="inline-block ml-4 text-green-500 dark:text-green-400 slanted hover:text-green-700 dark:hover:text-green-300">
+                    <button type="button" @click="isSearchOpen = !isSearchOpen" class="inline-block ml-4 text-green-500 dark:text-green-400 slanted hover:text-green-700 dark:hover:text-green-300">
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                         </svg>
-                    </span>
+                    </button>
                 </div>
             </div>
         </div>
     </div>
-
-    <div class="bg-green-500 shadow-md" x-data="{ isOpen: false }">
-        <div class="flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start md:space-x-10">
+    <div class="bg-green-500 shadow-md" x-data="{ isOpen: false, isSearchOpen: false }">
+        <div class="flex items-center justify-between px-4 py-6 sm:px-6 lg:justify-start lg:space-x-10">
             <div class="lg:w-0 lg:flex-1">
                 <a href="/" class="flex">
-                    <img class="w-auto h-8 sm:h-10 dark:hidden" src="{{ logo_light }}" alt="MBLGTACC">
-                    <img class="hidden w-auto h-8 sm:h-10 dark:block" src="{{ logo_dark }}" alt="MBLGTACC">
+                    <img class="w-auto h-8 sm:h-10 dark:hidden" src="{{ logo_light }}" alt="Midwest Institute for Sexuality and Gender Diversity">
+                    <img class="hidden w-auto h-8 sm:h-10 dark:block" src="{{ logo_dark }}" alt="Midwest Institute for Sexuality and Gender Diversity">
                 </a>
             </div>
-            <div class="-my-2 -mr-2 md:hidden">
-                <button type="button" class="inline-flex items-center justify-center p-2 text-gray-400 transition duration-150 ease-in-out rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500">
+            <div class="-my-2 -mr-2 lg:hidden">
+                <button type="button" @click="isOpen = !isOpen" class="inline-flex items-center justify-center p-2 text-gray-700 transition duration-150 ease-in-out rounded-md dark:text-gray-400 hover:text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-700">
                     <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                     </svg>
                 </button>
             </div>
-            <nav class="hidden space-x-10 md:flex">
+            <nav class="hidden space-x-10 lg:flex">
                 {{ nav:mblgtacc_main_nav}}
                     {{ if children }}
                         <div class="relative" x-data="{open: false}">
-                            <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
-                            <button type="button" @click="open = !open" class="inline-flex items-center space-x-2 text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out dark:text-gray-200 group hover:text-gray-900 dark:hover:text-gray-100 focus:outline-none focus:text-gray-900 dark:focus:text-gray-100">
+                            <button type="button" @click="open = !open" class="inline-flex items-center space-x-2 text-base font-medium leading-6 text-gray-700 transition duration-150 ease-in-out dark:text-gray-200 group hover:text-gray-900 dark:hover:text-gray-100 focus:outline-none focus:text-gray-900 dark:focus:text-gray-100">
                                 <span>{{ title }}</span>
-                                <!--
-                                Heroicon name: chevron-down
-
-                                Item active: "text-gray-600", Item inactive: "text-gray-400"
-                                -->
-                                <svg class="w-5 h-5 text-gray-400 transition duration-150 ease-in-out dark:text-gray-200 group-hover:text-gray-500 dark:group-hover:text-gray-100 group-focus:text-gray-500 dark:group-focus:text-gray-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <svg class="w-5 h-5 text-gray-700 transition duration-150 ease-in-out dark:text-gray-200 group-hover:text-gray-900 dark:group-hover:text-gray-100 group-focus:text-gray-900 dark:group-focus:text-gray-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                                     <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
                                 </svg>
                             </button>
@@ -64,165 +57,121 @@
                                 <div class="bg-white rounded-md shadow-xs dark:bg-gray-700">
                                     <div class="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
                                         {{ children }}
+                                        {{ if url | starts_with:https }}
+                                        <a href="{{ url }}" target="_blank" class="block px-4 py-2 text-sm leading-5 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-900 dark:hover:text-gray-100 hover:text-gray-900 focus:outline-none focus:bg-gray-100 focus:text-gray-900 dark:focus:bg-gray-900 dark:focus:bg-gray-100" role="menuitem">{{ title }}</a>
+                                        {{ else }}
                                         <a href="{{ url }}" class="block px-4 py-2 text-sm leading-5 text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-900 dark:hover:text-gray-100 hover:text-gray-900 focus:outline-none focus:bg-gray-100 focus:text-gray-900 dark:focus:bg-gray-900 dark:focus:bg-gray-100" role="menuitem">{{ title }}</a>
+                                        {{ /if }}
                                         {{ /children }}
                                     </div>
                                 </div>
                             </div>
                         </div>
                     {{ else }}
-                        <a href="{{ url }}" class="text-base font-medium leading-6 text-gray-500 transition duration-150 ease-in-out dark:text-gray-200 hover:text-gray-900 dark:hover:text-gray-100 focus:outline-none focus:text-gray-900 dark:focus:text-gray-100">
+                        <a href="{{ url }}" class="text-base font-medium leading-6 text-gray-700 transition duration-150 ease-in-out dark:text-gray-200 hover:text-gray-900 dark:hover:text-gray-100 focus:outline-none focus:text-gray-900 dark:focus:text-gray-100">
                             {{ title }}
                         </a>
                     {{ /if }}
                 {{ /nav:mblgtacc_main_nav}}
             </nav>
         </div>
-
-        <!--
-        Mobile menu, show/hide based on mobile menu state.
-
-        Entering: "duration-200 ease-out"
-        From: "opacity-0 scale-95"
-        To: "opacity-100 scale-100"
-        Leaving: "duration-100 ease-in"
-        From: "opacity-100 scale-100"
-        To: "opacity-0 scale-95"
-        -->
-        <div class="absolute inset-x-0 top-0 p-2 transition origin-top-right transform md:hidden">
-            <div class="rounded-lg shadow-lg">
-                <div class="bg-white divide-y-2 rounded-lg shadow-xs divide-gray-50">
+        <div
+            x-show="isOpen"
+            x-transition:enter="transition ease-out duration-100 transform"
+            x-transition:enter-start="opacity-0 scale-95"
+            x-transition:enter-end="opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75 transform"
+            x-transition:leave-start="opacity-100 scale-100"
+            x-transition:leave-end="opacity-0 scale-95" x-cloak
+            class="absolute inset-x-0 top-0 p-2 transition origin-top-right transform lg:hidden">
+            <div class="max-h-screen overflow-scroll rounded-lg shadow-lg">
+                <div class="bg-white divide-y-2 rounded-lg shadow-xs dark:bg-gray-800 divide-gray-50 dark:divide-gray-700">
                     <div class="px-5 pt-5 pb-6 space-y-6">
                         <div class="flex items-center justify-between">
                             <div>
-                            <img class="w-auto h-8" src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg" alt="Workflow">
+                                <img class="w-auto h-8 dark:hidden" src="{{ logo_light }}" alt="Midwest Institute for Sexuality and Gender Diversity">
+                                <img class="hidden w-auto h-8 dark:block" src="{{ logo_dark }}" alt="Midwest Institute for Sexuality and Gender Diversity">
                             </div>
                             <div class="-mr-2">
-                            <button type="button" class="inline-flex items-center justify-center p-2 text-gray-400 transition duration-150 ease-in-out rounded-md hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500">
-                            <!-- Heroicon name: x -->
-                            <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                            </svg>
-                            </button>
+                                <button type="button" @click="isOpen = !isOpen" class="inline-flex items-center justify-center p-2 text-gray-700 transition duration-150 ease-in-out rounded-md dark:text-gray-400 hover:text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500">
+                                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                                    </svg>
+                                </button>
                             </div>
                         </div>
-                    <div>
-                    <nav class="grid grid-cols-1 gap-7">
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: chart-bar -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-                    </svg>
+                        <div>
+                            <nav class="grid grid-cols-1 gap-7">
+                                {{ nav:mblgtacc_main_nav}}
+                                <a href="{{ url }}" class="p-3 -m-3 space-x-4 font-medium leading-6 text-gray-900 transition duration-150 ease-in-out rounded-lg dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700">
+                                    {{ title }}
+                                </a>
+                                {{ if children }}
+                                <div class="grid grid-cols-1 gap-4 ml-3">
+                                    {{ children }}
+                                    <a href="{{ url }}" class="p-3 -m-3 space-x-4 font-medium leading-6 text-gray-700 transition duration-150 ease-in-out rounded-lg dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700">
+                                        {{ title }}
+                                    </a>
+                                    {{ /children }}
+                                </div>
+                                {{ /if }}
+                                {{ /nav:mblgtacc_main_nav }}
+                            </nav>
+                        </div>
                     </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Analytics
+                    <div class="px-5 py-6 space-y-6">
+                        <div class="space-y-6">
+                            <div class="flex justify-center flex-1 lg:ml-6 lg:justify-end">
+                                <form action="search" class="w-full max-w-lg lg:max-w-xs">
+                                    <label for="search" class="sr-only">Search</label>
+                                    <div class="relative">
+                                        <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                                            <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                                            <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                                            </svg>
+                                        </div>
+                                        <input id="search" name="q" class="block w-full py-2 pl-10 pr-3 leading-5 text-gray-300 placeholder-gray-400 transition duration-150 ease-in-out border border-transparent rounded-md bg-gray-grat-100 dark:bg-gray-700 focus:outline-none sm:text-sm" placeholder="Search" type="search">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
                     </div>
-                    </a>
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: cursor-click -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
-                    </svg>
-                    </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Engagement
-                    </div>
-                    </a>
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: shield-check -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                    </svg>
-                    </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Security
-                    </div>
-                    </a>
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: view-grid -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
-                    </svg>
-                    </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Integrations
-                    </div>
-                    </a>
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: refresh -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                    </svg>
-                    </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Automations
-                    </div>
-                    </a>
-                    <a href="#" class="flex items-center p-3 -m-3 space-x-4 transition duration-150 ease-in-out rounded-lg hover:bg-gray-50">
-                    <div class="flex items-center justify-center flex-shrink-0 w-10 h-10 text-white bg-indigo-500 rounded-md">
-                    <!-- Heroicon name: document-report -->
-                    <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                    </svg>
-                    </div>
-                    <div class="text-base font-medium leading-6 text-gray-900">
-                    Reports
-                    </div>
-                    </a>
-                    </nav>
-                    </div>
-                    </div>
-                <div class="px-5 py-6 space-y-6">
-                <div class="grid grid-cols-2 gap-4">
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Pricing
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Docs
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Enterprise
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Blog
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Help Center
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Guides
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Security
-                </a>
-                <a href="#" class="text-base font-medium leading-6 text-gray-900 transition duration-150 ease-in-out hover:text-gray-700">
-                Events
-                </a>
                 </div>
-                <div class="space-y-6">
-                <span class="flex w-full rounded-md shadow-sm">
-                <a href="#" class="flex items-center justify-center w-full px-4 py-2 text-base font-medium leading-6 text-white transition duration-150 ease-in-out bg-indigo-600 border border-transparent rounded-md hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700">
-                Sign up
-                </a>
-                </span>
-                <p class="text-base font-medium leading-6 text-center text-gray-500">
-                Existing customer?
-                <a href="#" class="text-indigo-600 transition duration-150 ease-in-out hover:text-indigo-500">
-                Sign in
-                </a>
-                </p>
-                </div>
-                </div>
+            </div>
+        </div>
+        <div
+            x-show="isSearchOpen"
+            x-transition:enter="transition ease-out duration-100 transform"
+            x-transition:enter-start="opacity-0 scale-95"
+            x-transition:enter-end="opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75 transform"
+            x-transition:leave-start="opacity-100 scale-100"
+            x-transition:leave-end="opacity-0 scale-95" x-cloak
+            @click.away="isSearchOpen = false"
+            class="absolute inset-x-0 top-0 p-2 transition origin-top-right transform z-100">
+            <div class="rounded-lg shadow-lg">
+                <div class="flex p-3 bg-white rounded-lg shadow-xs dark:bg-gray-800">
+                    <div class="flex-1">
+                        <label for="search" class="sr-only">Search</label>
+                        <form class="relative" action="search">
+                            <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                                <svg class="w-5 h-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                                </svg>
+                            </div>
+                            <input id="q" name="q" class="block w-full py-2 pl-10 pr-3 text-2xl leading-5 text-gray-900 placeholder-gray-400 transition duration-150 ease-in-out bg-transparent border border-transparent rounded-md dark:text-gray-300 focus:outline-none focus:text-gray-900 dark:focus:text-white" placeholder="Search" type="search">
+                        </form>
+                    </div>
+                    <button type="button" @click="isSearchOpen = !isSearchOpen" class="inline-flex items-center justify-center p-2 text-gray-700 transition duration-150 ease-in-out rounded-md dark:text-gray-400 hover:text-gray-700 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500">
+                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
                 </div>
             </div>
         </div>
     </div>
-</nav>
+</div>
 <div x-data="{navHeight: 0 }" x-init="navHeight = document.getElementById('navbar').offsetHeight">
     <div :style="'height: ' + navHeight + 'px'" style="height: 80px"></div>
 </div>

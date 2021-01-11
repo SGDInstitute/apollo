@@ -485,6 +485,9 @@ sections:
                     listable: hidden
                 -
                   import: background
+            search_results:
+              display: 'Search Results'
+              fields: {  }
           type: replicator
           listable: hidden
           display: Sections
