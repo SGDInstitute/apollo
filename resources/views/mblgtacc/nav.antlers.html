@@ -5,8 +5,8 @@
                 <a href="https://sgdinstitute.org" target="_blank" class="py-2 text-sm text-green-500 hover:underline hover:text-gray-700 dark:text-green-400 dark:hover:text-green-300">A program of the Midwest Institute for Sexuality and Gender Diversity</a>
                 <div>
                     {{ nav:mblgtacc_top_nav }}
-                    <span class="inline-block slanted hover:bg-green-500">
-                        <a href="{{ url }}" class="px-4 py-2 text-sm text-green-500 dark:text-green-400 hover:text-white">{{ title }}</a>
+                    <span class="inline-block slanted {{ title === 'Give' ? 'bg-green-500' : 'hover:bg-green-500' }}">
+                        <a href="{{ url }}" class="px-4 py-2 text-sm {{ title === 'Give' ? 'text-white' : 'text-green-500 dark:text-green-400' }} hover:text-white">{{ title }}</a>
                     </span>
                     {{ /nav:mblgtacc_top_nav}}
                     <span class="inline-block ml-4 text-green-500 dark:text-green-400 slanted hover:text-green-700 dark:hover:text-green-300">

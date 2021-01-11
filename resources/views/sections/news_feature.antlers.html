@@ -1,7 +1,7 @@
-<section class="py-12 my-8">
-    <div class="container grid grid-cols-3 gap-12 mx-auto">
+<section class="py-6 my-4 md:my-8 md:py-12">
+    <div class="container grid grid-cols-1 gap-12 px-8 mx-auto md:px-0 lg:grid-cols-3">
         {{ articles }}
-        <article {{ if first }} class="col-span-2 mb-8" {{ /if }}>
+        <article {{ if first }} class="mb-8 lg:col-span-2" {{ /if }}>
             <a href="{{ url }}"><img src="{{ card_image }}" class="w-full mb-4"/></a>
             {{ categories }}
             <a href="{{ url }}" class="block text-sm tracking-widest text-gray-600 uppercase dark:text-gray-400">{{ title }}</a>

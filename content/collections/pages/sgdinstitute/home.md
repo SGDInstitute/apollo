@@ -10,7 +10,6 @@ sections:
     tag: asdfasdfasdfasdf
     button: null
     text: 'Learn More'
-    url: 'https://apps.sgdinstitute.org/events/transgender-justice-teach-in'
     target_blank: false
     color: btn-green
     size: btn-lg
@@ -27,6 +26,7 @@ sections:
     bg_color: null
     link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
     outline: true
+    has_button: true
   -
     articles:
       - 82c1ccb2-5739-4887-a2ee-95388bd80122
@@ -73,7 +73,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1608667418
+updated_at: 1610390299
 id: home
 ---
 Welcome to your new Statamic website.

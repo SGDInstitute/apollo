@@ -2,22 +2,24 @@
     <div class="bg-center bg-cover h-2/3-screen" style="background-image: url({{ header_image }})"></div>
     <div class="py-6 bg-white dark:bg-gray-800 h-1/4">
         <div class="container mx-auto">
-            <div class="grid grid-cols-5">
+            <div class="md:grid md:grid-cols-5">
                 <div class="relative col-span-4 p-8 -mt-24 bg-white dark:bg-gray-800">
                     {{ if has_tag }}
                     <span class="absolute top-0 px-6 py-2 -mt-4 text-black uppercase bg-yellow-300">{{ tag }}</span>
-                    <h1 class="mt-4 font-bold leading-none text-green-500 uppercase text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
+                    <h1 class="mt-4 text-4xl font-bold leading-none text-green-500 uppercase lg:text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
                     {{ else }}
-                    <h1 class="font-bold leading-none text-green-500 uppercase text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
+                    <h1 class="text-4xl font-bold leading-none text-green-500 uppercase lg:text-7xl font-raleway md:text-6xl dark:text-green-200">{{ title }}</h1>
                     {{ /if }}
                 </div>
             </div>
-            <div class="grid grid-cols-4 px-8 mt-1 mb-8">
-                <div class="col-span-3">
+            <div class="grid grid-cols-1 px-8 mt-1 mb-8 space-y-4 md:grid-cols-4">
+                <div class="md:col-span-3">
                     <p class="text-xl text-gray-600 dark:text-gray-400">{{ subtitle }}</p>
                 </div>
                 <div>
-                    <a href="{{ url }}" {{ if target_blank }}target="_blank"{{ /if }} class="btn {{ color }} {{ size }} {{ if block}}btn-block{{ /if }}">{{ text }}</a>
+                    {{ if has_button }}
+                    <a href="{{ link }}" {{ if target_blank }}target="_blank"{{ /if }} class="btn {{ color }} {{ size }} {{ if block}}btn-block{{ /if }}">{{ text }}</a>
+                    {{ /if }}
                 </div>
             </div>
         </div>
