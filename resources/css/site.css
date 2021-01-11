@@ -23,3 +23,9 @@
 }
 
 [x-cloak] { display: none; }
+
+@screen md {
+    .prose blockquote {
+        @apply -mx-12;
+    }
+}

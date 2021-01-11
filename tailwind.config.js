@@ -115,8 +115,6 @@ module.exports = {
                     fontWeight: '500',
                     fontStyle: 'italic',
                     color: theme('colors.green.500'),
-                    marginLeft: '-3rem',
-                    marginRight: '-3rem',
                     borderLeft: 0,
                     paddingLeft: 0,
                 },

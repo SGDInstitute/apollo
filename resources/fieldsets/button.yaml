@@ -1,6 +1,13 @@
 title: Button
 fields:
   -
+    handle: button
+    field:
+      display: Button
+      type: section
+      icon: section
+      listable: hidden
+  -
     handle: link
     field:
       display: Link

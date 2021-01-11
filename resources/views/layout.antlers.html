@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ title ?? site:name }}</title>
+        {{ seo_pro:meta }}
 
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=News+Cycle:wght@400;700&family=Raleway:wght@700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
@@ -21,11 +22,7 @@
 
         {{ template_content }}
 
-        <section id="stay-connected" class="py-8 bg-yellow-300 stay-conected">
-            <div class="container mx-auto">
-                <h2 class="mb-6 text-3xl text-black uppercase">Stay Connected</h2>
-            </div>
-        </section>
+        {{ partial src="partials/newsletter" }}
 
         {{ partial src="{site.handle}/footer" }}
 

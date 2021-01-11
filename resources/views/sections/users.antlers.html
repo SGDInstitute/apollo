@@ -3,8 +3,8 @@
         {{ partial src="bard/bard" }}
     {{ /if }}
 
-    <div class="container mx-auto">
-        <div class="grid grid-cols-5 gap-4 mt-16">
+    <div class="container px-8 mx-auto md:px-0">
+        <div class="grid grid-cols-1 gap-4 mt-16 md:grid-cols-5">
             {{ users }}
             <div class="transition duration-150 ease-in-out group h-96 hover:bg-green-500 hover:shadow">
                 <div class="bg-center bg-cover h-2/3" style="background-image: url({{ avatar }});">
