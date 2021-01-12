@@ -3673,16 +3673,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v3.0.37",
+            "version": "v3.0.38",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "1ba606450df966c26572f9339367c24d3715a0c8"
+                "reference": "f80a4bb04fa3ff539823c7eb3a3798f54241221f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/1ba606450df966c26572f9339367c24d3715a0c8",
-                "reference": "1ba606450df966c26572f9339367c24d3715a0c8",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/f80a4bb04fa3ff539823c7eb3a3798f54241221f",
+                "reference": "f80a4bb04fa3ff539823c7eb3a3798f54241221f",
                 "shasum": ""
             },
             "require": {
@@ -3749,7 +3749,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v3.0.37"
+                "source": "https://github.com/statamic/cms/tree/v3.0.38"
             },
             "funding": [
                 {
@@ -3757,7 +3757,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-01-06T17:05:39+00:00"
+            "time": "2021-01-11T20:46:40+00:00"
         },
         {
             "name": "statamic/seo-pro",
