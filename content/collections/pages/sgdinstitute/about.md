@@ -1,8 +1,8 @@
 ---
 title: About
 template: default
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1608667905
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1610467321
 sections:
   -
     title: 'About the Institute'
@@ -51,13 +51,26 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/mblgtacc'
+                  href: 'https://mblgtacc.org'
                   target: _blank
                   rel: null
             text: MBLGTACC
           -
             type: text
-            text: '), the largest conference hosted by and for LGBTQIA+ college students. Through this and other programs, we advance knowledge of sexuality and gender and we empower students to inspire sustainable change. We lead our higher education colleagues in relevant and inclusive practices.'
+            text: '), the largest conference hosted by and for LGBTQIA+ college students. Through this and '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /programs
+                  target: null
+                  rel: null
+            text: 'other programs'
+          -
+            type: text
+            text: ', we advance knowledge of sexuality and gender and we empower students to inspire sustainable change. We lead our higher education colleagues in relevant and inclusive practices.'
       -
         type: paragraph
       -
@@ -74,6 +87,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
@@ -90,30 +104,17 @@ sections:
         content:
           -
             type: text
-            text: "While you’re here, learn more about the\_"
+            text: 'While you’re here, learn more about '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/about/history'
-                  target: _blank
+                  href: /about/philosophy
+                  target: null
                   rel: null
-            text: 'history of the Institute'
-          -
-            type: text
-            text: ", or the\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/mblgtacc'
-                  target: _blank
-                  rel: null
-            text: 'history of MBLGTACC'
+            text: 'our philosophy'
           -
             type: text
             text: ". Discover how you can\_"
@@ -123,39 +124,26 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/giving'
+                  href: /giving
                   target: _blank
                   rel: null
-            text: support
+            text: "support\_"
           -
             type: text
-            text: "\_our mission. Check out\_"
+            text: "our mission. Or,\_"
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/higher-ed'
-                  target: _blank
-                  rel: null
-            text: resources
-          -
-            type: text
-            text: "\_you can use on your campus. Or,\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:hello@sgdinstitute.org'
+                  href: /contact
                   target: null
                   rel: null
             text: 'let us know'
           -
             type: text
-            text: "\_how we can better support you. We vow to be accountable to the community we serve."
+            text: "\_how we can better support you."
       -
         type: paragraph
       -
@@ -172,6 +160,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
