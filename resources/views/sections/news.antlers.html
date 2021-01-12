@@ -1,4 +1,4 @@
-<section class="py-12 my-12 bg-gray-300 dark:bg-gray-700">
+<section class="py-12 my-12 bg-gray-300 dark:bg-transparent">
     <div class="container px-8 md:px-0 grid grid-cols-1 md:grid-cols-{{ num_per_row ?? limit }} gap-12 mx-auto">
         {{ collection:articles limit="{limit}" paginate="{pagination ? limit : false}" as="posts"  }}
             {{ if no_results }}

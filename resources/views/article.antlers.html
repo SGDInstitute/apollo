@@ -30,7 +30,23 @@
     </div>
 </section>
 <article class="px-8 py-12 md:px-0">
+    <div class="mx-auto prose dark:prose-dark">
+        <p>
+            Published
+            {{ if categories }}
+                in {{ categories }}<a href="{{ url }}">{{ title }}</a>{{ /categories }}
+            {{ /if }}
+         on <time datetime="{{ date format="Y-m-d" }}">{{ date }}</time>.
+        </p>
+    </div>
     {{ partial src="bard/bard" }}
+    <div class="mx-auto max-w-prose">
+        <div class="space-x-2">
+            {{ if tags }}
+                {{ tags }}<a class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800" href="{{ url }}">{{ title }}</a>{{ /tags }}
+            {{ /if }}
+        </div>
+    </div>
 </article>
 <section class="py-12 my-8 bg-gray-300 dark:bg-gray-700">
     <div class="container px-8 mx-auto md:px-0">

@@ -1,4 +1,4 @@
-<div id="navbar" class="fixed z-50 w-full bg-white shadow-md dark:bg-gray-900">
+<div id="navbar" x-data="{ isOpen: false, isSearchOpen: false }" class="fixed z-50 w-full bg-white shadow-md dark:bg-gray-900">
     <div class="bg-white dark:bg-gray-900">
         <div class="container px-6 mx-auto sm:px-0">
             <div class="text-center lg:flex lg:items-center lg:justify-between">
@@ -18,7 +18,7 @@
             </div>
         </div>
     </div>
-    <div class="bg-green-500 shadow-md" x-data="{ isOpen: false, isSearchOpen: false }">
+    <div class="bg-green-500 shadow-md">
         <div class="flex items-center justify-between px-4 py-6 sm:px-6 lg:justify-start lg:space-x-10">
             <div class="lg:w-0 lg:flex-1">
                 <a href="/" class="flex">
