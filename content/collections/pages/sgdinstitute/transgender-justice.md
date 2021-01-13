@@ -16,6 +16,8 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
+    has_button: false
+    button: null
   -
     title: 'Transgender Justice Teach-in'
     type: header_small
@@ -70,24 +72,12 @@ sections:
             type: text
             text: ' for a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we aim to highlight efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
-            type: buttons
-            buttons:
-              -
-                link: null
-                text: 'Registration closed'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
+            type: video
+            video: 'https://youtu.be/E3Ey97tf0SA'
+            caption: null
     type: content
     enabled: true
   -
@@ -152,6 +142,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
     above_price: 'Starting at'
     price: $5
@@ -304,8 +295,8 @@ sections:
             text: "\_Contact R.B. Brooks (rb@sgdinstitute.org)"
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607217922
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1610500906
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
