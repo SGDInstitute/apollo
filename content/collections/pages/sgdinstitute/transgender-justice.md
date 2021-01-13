@@ -81,86 +81,6 @@ sections:
     type: content
     enabled: true
   -
-    id: reg-cost
-    column_widths: third_left
-    left_column: pricing
-    right_column: content
-    center_columns: true
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Register
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Register now to attend on November 10! We offer tiered registration costs:'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' $5'
-          -
-            type: text
-            text: ' for queer, trans, intersex, Black, Indigenous, and people of color; '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '$15 '
-          -
-            type: text
-            text: 'for trans and gender non-confirming folx; and '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: $25
-          -
-            type: text
-            text: ' for aspiring accomplices.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: null
-                text: 'Registration closed'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-                button: null
-            contain: true
-    above_price: 'Starting at'
-    price: $5
-    below_price: null
-    image: null
-    caption: null
-    video: null
-    background: null
-    bg_type: color
-    bg_image: null
-    num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: bg-green-500
-    type: two_column
-    enabled: true
-  -
     bard:
       -
         type: heading
@@ -296,7 +216,7 @@ sections:
     type: content
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1610500906
+updated_at: 1610501503
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
