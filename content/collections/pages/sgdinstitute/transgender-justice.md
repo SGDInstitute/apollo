@@ -4,7 +4,7 @@ sections:
   -
     header_image: headers/tj-f20-web@2x.jpg
     title: 'The Rise of a Trans Abolitionist Vision'
-    subtitle: 'The 4th annual Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
     tag: 'Transgender Justice Teach-in'
     link: null
@@ -29,7 +29,7 @@ sections:
         content:
           -
             type: text
-            text: 'Join the Institute and the University of Minnesota Duluth''s '
+            text: 'For the 4th annual Teach-In, the Institute and the University of Minnesota Duluth''s '
           -
             type: text
             marks:
@@ -42,7 +42,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' for a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we aim to highlight efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: ' held a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
         type: heading
         attrs:
@@ -50,7 +50,7 @@ sections:
         content:
           -
             type: text
-            text: Recording
+            text: 'Watch the Conversation'
       -
         type: set
         attrs:
@@ -58,6 +58,15 @@ sections:
             type: video
             video: 'https://youtu.be/E3Ey97tf0SA'
             caption: null
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Please note, closed captioning is available for this video; however, due to a technical difficulty, the ASL interpretation that was available during the live session was not recorded.'
     type: content
     enabled: true
   -
@@ -78,7 +87,7 @@ sections:
           values:
             type: image
             image: news/tj-f20_web-headshots.jpg
-            caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''tesha Saballos'
+            caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos'
             inline: false
             direction: null
             width: null
@@ -151,7 +160,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Artesha Saballos'
+            text: 'Ar''Tesha Saballos'
       -
         type: paragraph
         content:
@@ -195,8 +204,61 @@ sections:
             text: "\_Contact R.B. Brooks (rb@sgdinstitute.org)"
     type: content
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1610501561
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Support our programs'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Programs like\_"
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'The Rise of a Trans Abolitionist Vision'
+          -
+            type: text
+            text: "\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /giving
+                  target: null
+                  rel: null
+            text: 'make a contribution'
+          -
+            type: text
+            text: ". To support future programs, please consider joining the\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
+                  target: null
+                  rel: null
+            text: 'OPE Giving Program'
+          -
+            type: text
+            text: "\_and sign up for a monthly recurring gift.\_"
+    type: content
+    enabled: true
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1610561058
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
