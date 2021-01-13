@@ -25,34 +25,6 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Tuesday, November 10, 2020'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '5:30PM - 7:00PM ET / 4:30 - 6:00PM CT'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Virtual via Zoom'
-      -
         type: paragraph
         content:
           -
@@ -216,7 +188,7 @@ sections:
     type: content
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1610501503
+updated_at: 1610501530
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
