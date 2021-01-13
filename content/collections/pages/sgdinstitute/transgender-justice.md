@@ -44,6 +44,14 @@ sections:
             type: text
             text: ' for a panel engaging with T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation with folks doing incredible work across the region, we aim to highlight efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Recording
+      -
         type: set
         attrs:
           values:
@@ -188,7 +196,7 @@ sections:
     type: content
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1610501530
+updated_at: 1610501561
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
