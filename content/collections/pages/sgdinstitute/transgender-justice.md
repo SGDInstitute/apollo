@@ -19,10 +19,6 @@ sections:
     has_button: false
     button: null
   -
-    title: 'Transgender Justice Teach-in'
-    type: header_small
-    enabled: false
-  -
     bard:
       -
         type: paragraph
@@ -43,6 +39,10 @@ sections:
           -
             type: text
             text: ' hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -67,6 +67,26 @@ sections:
               -
                 type: italic
             text: 'Please note, closed captioning is available for this video; however, due to a technical difficulty, the ASL interpretation that was available during the live session was not recorded.'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
+                text: 'Read the written reflection'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -252,7 +272,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1610647780
+updated_at: 1610647992
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
