@@ -13,6 +13,7 @@
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "pattern/statamic-business-mode": "^1.0",
+        "rias/statamic-redirect": "^1.3",
         "statamic/cms": "3.0.*",
         "statamic/seo-pro": "^2.1",
         "wildbit/swiftmailer-postmark": "^3.3"

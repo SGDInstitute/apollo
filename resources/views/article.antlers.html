@@ -30,14 +30,15 @@
     </div>
 </section>
 <article class="px-8 py-12 md:px-0">
-    <div class="mx-auto prose dark:prose-light">
-        <p>
+    <div class="mx-auto mb-8 prose dark:prose-light">
+        {{# <p>
             Published
             {{ if categories }}
                 in {{ categories }}<a href="{{ url }}">{{ title }}</a>{{ /categories }}
             {{ /if }}
-         on <time datetime="{{ date format="Y-m-d" }}">{{ date }}</time>.
-        </p>
+         on <time datetime="{{ date format="Y-m-d" }}">{{ date format="F j, Y" }}</time>.
+        </p> #}}
+        <p><time datetime="{{ date format="Y-m-d" }}">{{ date format="F j, Y" }}</time></p>
     </div>
     {{ partial src="bard/bard" }}
     <div class="mx-auto mt-8 max-w-prose">
