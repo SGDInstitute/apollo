@@ -25,7 +25,7 @@ sections:
         content:
           -
             type: text
-            text: 'On November 11, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
           -
             type: text
             marks:
@@ -271,8 +271,8 @@ sections:
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1610647992
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1610650978
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
