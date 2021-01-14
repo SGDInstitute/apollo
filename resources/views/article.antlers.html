@@ -26,7 +26,7 @@
         </div>
     </div>
     <div class="container px-8 py-4 mx-auto md:px-0">
-        <h1 class="text-4xl text-white">{{ title }}</h1>
+        <h1 class="text-xl text-white md:text-2xl lg:text-4xl">{{ title }}</h1>
     </div>
 </section>
 <article class="px-8 py-12 md:px-0">
@@ -40,7 +40,7 @@
         </p>
     </div>
     {{ partial src="bard/bard" }}
-    <div class="mx-auto max-w-prose">
+    <div class="mx-auto mt-8 max-w-prose">
         <div class="space-x-2">
             {{ if tags }}
                 {{ tags }}<a class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800" href="{{ url }}">{{ title }}</a>{{ /tags }}

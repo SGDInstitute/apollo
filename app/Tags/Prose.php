@@ -9,12 +9,16 @@ class Prose extends Tags
     public function index()
     {
         $backgroundColor = (string) $this->context->get('bg_color');
-        $searchString = $backgroundColor . ' {  --bg-opacity: 1;  background-color: ';
-        $file = str_replace(["\r", "\n"], "", file_get_contents(public_path('css/tailwind.css')));
-        $postition = strpos($file, $searchString);
+        if($backgroundColor !== "") {
+            $searchString = $backgroundColor . ' {  --bg-opacity: 1;  background-color: ';
+            $file = str_replace(["\r", "\n"], "", file_get_contents(public_path('css/tailwind.css')));
+            $postition = strpos($file, $searchString);
 
-        $color = substr($file, $postition + strlen($searchString), 7);
-        return $this->whichIsBetter($color);
+            $color = substr($file, $postition + strlen($searchString), 7);
+            return $this->whichIsBetter($color);
+        }
+
+        return 'prose';
     }
 
     public function dark()
