@@ -25,7 +25,7 @@ class Prose extends Tags
     {
         $backgroundColor = $this->context->raw('bg_color');
         if($backgroundColor === null || $backgroundColor === 'bg-gray-200') {
-            return 'dark:prose-dark';
+            return 'dark:prose-light';
         }
     }
 
@@ -38,7 +38,7 @@ class Prose extends Tags
         $darkText = $this->luminosityContrast($r1, $g1, $b1, $r3, $g3, $b3);
 
         if($lightText > $darkText) {
-            return 'prose prose-dark'; // contrast is better with light text, thus dark prose
+            return 'prose prose-light'; // contrast is better with light text, thus dark prose
         } else {
             return 'prose'; // contrast is better with dark text, thus normal prose
         }

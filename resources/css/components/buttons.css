@@ -15,58 +15,22 @@
 }
 
 .btn {
-    @apply inline-flex items-center font-bold uppercase transition duration-150 ease-in-out bg-transparent border border-2;
+    @apply inline-flex items-center font-bold uppercase transition duration-150 ease-in-out bg-transparent border-2;
 }
 
 
 .btn-green {
-    @apply text-green-500 border-green-500;
-
-    &:hover {
-        @apply text-white bg-green-500;
-    }
-
-    &:focus {
-        @apply border-green-600 outline-none shadow-outline-green;
-    }
-
-    &:active {
-        @apply bg-green-600;
-    }
+    @apply text-green-500 border-green-500 hover:text-white hover:bg-green-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500;
 }
 
 @media (prefers-color-scheme: dark) {
     .btn-green {
-        @apply text-green-400 border-green-400;
-
-        &:hover {
-            @apply text-white bg-green-400;
-        }
-
-        &:focus {
-            @apply border-green-400 outline-none shadow-outline-green;
-        }
-
-        &:active {
-            @apply bg-green-400;
-        }
+        @apply text-green-400 border-green-400 hover:text-white hover:bg-green-400 focus:border-green-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-400;
     }
 }
 
 .btn-white {
-    @apply text-white border-white;
-
-    &:hover {
-        @apply text-green-500 bg-white;
-    }
-
-    &:focus {
-        @apply border-gray-100 outline-none shadow-outline-gray;
-    }
-
-    &:active {
-        @apply bg-gray-100;
-    }
+    @apply text-white border-white hover:text-green-500 hover:bg-white focus:border-gray-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-400;
 }
 
 .btn-green:disabled,
