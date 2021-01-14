@@ -6,7 +6,7 @@
             {{ categories }}
             <a href="{{ url }}" class="block text-sm tracking-widest text-gray-600 uppercase dark:text-gray-400">{{ title }}</a>
             {{ /categories }}
-            <a href="{{ url }}" class="block {{ if first || count === 2 }}text-3xl{{ else }}text-xl{{ /if }} text-green-500 dark:text-green-400">{{ title }}</a>
+            <a href="{{ url }}" class="block {{ if first || count === 2 }}text-3xl{{ else }}text-xl{{ /if }} text-green-500 dark:text-green-400 hover:underline">{{ title }}</a>
             <span class="block text-sm text-gray-600 dark:text-gray-400">{{ date format="F j, Y" }}</span>
         </article>
         {{ /articles }}

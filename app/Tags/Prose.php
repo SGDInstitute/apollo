@@ -9,19 +9,23 @@ class Prose extends Tags
     public function index()
     {
         $backgroundColor = (string) $this->context->get('bg_color');
-        $searchString = $backgroundColor . ' {  --bg-opacity: 1;  background-color: ';
-        $file = str_replace(["\r", "\n"], "", file_get_contents(public_path('css/tailwind.css')));
-        $postition = strpos($file, $searchString);
+        if($backgroundColor !== "") {
+            $searchString = $backgroundColor . ' {  --bg-opacity: 1;  background-color: ';
+            $file = str_replace(["\r", "\n"], "", file_get_contents(public_path('css/tailwind.css')));
+            $postition = strpos($file, $searchString);
 
-        $color = substr($file, $postition + strlen($searchString), 7);
-        return $this->whichIsBetter($color);
+            $color = substr($file, $postition + strlen($searchString), 7);
+            return $this->whichIsBetter($color);
+        }
+
+        return 'prose';
     }
 
     public function dark()
     {
         $backgroundColor = $this->context->raw('bg_color');
         if($backgroundColor === null || $backgroundColor === 'bg-gray-200') {
-            return 'dark:prose-dark';
+            return 'dark:prose-light';
         }
     }
 
@@ -34,7 +38,7 @@ class Prose extends Tags
         $darkText = $this->luminosityContrast($r1, $g1, $b1, $r3, $g3, $b3);
 
         if($lightText > $darkText) {
-            return 'prose prose-dark'; // contrast is better with light text, thus dark prose
+            return 'prose prose-light'; // contrast is better with light text, thus dark prose
         } else {
             return 'prose'; // contrast is better with dark text, thus normal prose
         }
