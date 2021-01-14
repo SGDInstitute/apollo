@@ -252,6 +252,8 @@ sections:
                   href: /giving
                   target: null
                   rel: null
+              -
+                type: underline
             text: 'make a contribution'
           -
             type: text
@@ -265,6 +267,8 @@ sections:
                   href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
                   target: null
                   rel: null
+              -
+                type: underline
             text: 'OPE Giving Program'
           -
             type: text
@@ -272,7 +276,7 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1610650978
+updated_at: 1610651109
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
