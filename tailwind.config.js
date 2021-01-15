@@ -204,6 +204,7 @@ module.exports = {
     },
     variants: {
         extend: {
+            display: ['dark'],
             typography: ['dark']
         }
     },
