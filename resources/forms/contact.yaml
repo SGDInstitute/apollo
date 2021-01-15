@@ -3,6 +3,7 @@ honeypot: last_name
 email:
   -
     to: support@sgdinstitute.com
-    from: "{{ email }}"
+    from: support@sgdinstitute.com
     subject: '{{ subject ?? "Email Form Submission" }}'
+    reply_to: '{{ email }}'
 store: false
