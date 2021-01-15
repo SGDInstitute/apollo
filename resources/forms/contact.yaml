@@ -2,8 +2,8 @@ title: 'Contact Us'
 honeypot: last_name
 email:
   -
-    to: support@sgdinstitute.com
-    from: support@sgdinstitute.com
+    to: support@sgdinstitute.org
+    from: support@sgdinstitute.org
     subject: '{{ subject ?? "Email Form Submission" }}'
     reply_to: '{{ email }}'
 store: false
