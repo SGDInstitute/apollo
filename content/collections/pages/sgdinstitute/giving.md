@@ -207,8 +207,40 @@ sections:
                 target_blank: true
                 button: null
             contain: true
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Mail a check'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'If you prefer to donate by mail, please make your check payable to "Midwest Institute for Sexuality and Gender Diversity" and mail it to:'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Midwest Institute for Sexuality and Gender Diversity'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'P.O. Box 1053'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'East Lansing, MI 48826-1053'
     type: content
     enabled: true
   -
@@ -240,7 +272,7 @@ sections:
             text: 'Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1610405009
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1611083303
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---

@@ -1,0 +1,6 @@
+id: 017a2d87-aa76-40d2-93cd-930a1fb9b002
+enabled: true
+source: /about/leadership/khamille-de-lara
+destination: /about/team
+type: '302'
+match_type: exact

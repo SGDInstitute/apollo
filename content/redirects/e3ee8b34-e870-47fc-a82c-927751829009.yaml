@@ -1,0 +1,6 @@
+id: e3ee8b34-e870-47fc-a82c-927751829009
+enabled: true
+source: /about/leadership/noah-barth
+destination: /about/team
+type: '302'
+match_type: exact

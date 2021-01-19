@@ -1,0 +1,6 @@
+id: 7bb2c214-9014-4eec-aa78-de00710ac02e
+enabled: true
+source: /about/leadership
+destination: /about/team
+type: '302'
+match_type: exact

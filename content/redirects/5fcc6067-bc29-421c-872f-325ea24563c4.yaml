@@ -1,0 +1,6 @@
+id: 5fcc6067-bc29-421c-872f-325ea24563c4
+enabled: true
+source: /about/governance/michelle-walters
+destination: /about/team
+type: '302'
+match_type: exact

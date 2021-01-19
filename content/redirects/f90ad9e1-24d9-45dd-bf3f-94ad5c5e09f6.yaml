@@ -1,0 +1,6 @@
+id: f90ad9e1-24d9-45dd-bf3f-94ad5c5e09f6
+enabled: true
+source: /about/board/tk-morton
+destination: /about/team
+type: '302'
+match_type: exact

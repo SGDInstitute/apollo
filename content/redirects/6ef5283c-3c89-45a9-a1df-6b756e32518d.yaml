@@ -1,0 +1,6 @@
+id: 6ef5283c-3c89-45a9-a1df-6b756e32518d
+enabled: true
+source: /news-events
+destination: /news
+type: '302'
+match_type: exact
