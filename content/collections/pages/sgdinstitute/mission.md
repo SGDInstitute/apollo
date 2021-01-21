@@ -22,12 +22,6 @@ sections:
             type: text
             text: 'We empower students of diverse sexualities and genders to inspire sustainable change; lead higher education colleagues in relevant and inclusive practices; and advance knowledge of sexuality and gender through advocacy and expansive programming.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We empower students of diverse sexualities and genders to inspire sustainable change; lead higher education colleagues in relevant and inclusive practices; and advance knowledge of sexuality and gender through advocacy and expansive programming.'
-      -
         type: heading
         attrs:
           level: 2
@@ -215,6 +209,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
@@ -237,7 +232,7 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607198666
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1611264706
 id: ad088f33-ab22-428b-a582-cd5a53022895
 ---
