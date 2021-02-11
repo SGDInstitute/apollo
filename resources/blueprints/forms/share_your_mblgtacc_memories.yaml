@@ -1,0 +1,16 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: share_a_photo
+        field:
+          mode: grid
+          container: assets
+          folder: alumnx_photos
+          restrict: true
+          allow_uploads: true
+          display: 'Share a photo'
+          type: assets
+          icon: assets
+          listable: hidden
