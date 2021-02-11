@@ -54,11 +54,13 @@ sections:
             type: text
             text: 'The Institute invites all MBLGTACC alumnx to share their favorite memories, stories, and photos to be compiled in a mixed-media celebration. Your memories may be shared leading up to and during the 30th annual MBLGTACC.'
       -
+        type: set
+        attrs:
+          values:
+            type: form
+            formset: share_your_mblgtacc_memories
+      -
         type: paragraph
-        content:
-          -
-            type: text
-            text: '[[insert form to submit a story/photo]]'
       -
         type: heading
         attrs:
@@ -107,7 +109,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1612992477
+updated_at: 1613066655
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
