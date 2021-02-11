@@ -3,6 +3,50 @@ sections:
     display: Main
     fields:
       -
+        handle: name
+        field:
+          input_type: text
+          antlers: false
+          display: Name
+          type: text
+          icon: text
+          width: 66
+          listable: hidden
+          validate:
+            - required
+      -
+        handle: pronouns
+        field:
+          input_type: text
+          antlers: false
+          display: Pronouns
+          type: text
+          icon: text
+          width: 33
+          listable: hidden
+          validate:
+            - required
+      -
+        handle: email
+        field:
+          input_type: text
+          antlers: false
+          display: Email
+          type: text
+          icon: text
+          listable: hidden
+          validate:
+            - required
+      -
+        handle: share_a_story
+        field:
+          antlers: false
+          display: 'Share a story'
+          type: textarea
+          icon: textarea
+          instructions: 'Share your favorite memory or story from MBLGTACC'
+          listable: hidden
+      -
         handle: share_a_photo
         field:
           mode: grid
