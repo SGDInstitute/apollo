@@ -97,6 +97,55 @@ sections:
         content:
           -
             type: text
+            text: 'Interested in joining the board?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Institute is currently recruiting members to fill vacancies on the board of directors. To learn more about the role and responsibilities of board members, '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/assets/documents/Institute_Board_Roles_and_Responsibilities.pdf'
+                  target: _blank
+                  rel: null
+            text: 'check out the position summary'
+          -
+            type: text
+            text: .
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'mailto:justin@sgdinstitute.org,stephanie@sgdinstitute.org?subject=Board%20of%20Directors'
+                text: 'Contact Us About Joining the Board'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Not sure who to contact?'
       -
         type: paragraph
@@ -118,6 +167,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
@@ -140,7 +190,7 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608079139
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1613065990
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
