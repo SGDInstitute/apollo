@@ -4,7 +4,7 @@ sections:
   -
     header_image: headers/header-hug.JPG
     title: 'Alumnx Program'
-    subtitle: 'The alumnx program connects MBLGTACC attendees and other Institute program participants to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at Institute programs.'
+    subtitle: 'The alumnx program connects past MBLGTACC attendees and other Institute program participants to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at Institute programs.'
     has_tag: false
     tag: null
     has_button: false
@@ -105,7 +105,7 @@ sections:
             text: 'OPE Monthly Giving program'
           -
             type: text
-            text: ' and becoming a sustaining donor. Those who are able to give are challenged to give $30 for 30. A $30 monthly recurring donation will help position the Institute and MBLGTACC to continue providing transformative experiences for queer and trans students for at least 30 years to come.'
+            text: ' and becoming a sustaining donor. Your monthly recurring donation will help position the Institute and MBLGTACC to continue providing transformative experiences for queer and trans students for decades to come.'
       -
         type: set
         attrs:
@@ -159,7 +159,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1613143768
+updated_at: 1613143932
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
