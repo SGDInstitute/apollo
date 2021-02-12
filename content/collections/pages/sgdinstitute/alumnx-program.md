@@ -2,9 +2,9 @@
 title: 'Alumnx Program (DRAFT)'
 sections:
   -
-    header_image: headers/blurry-background.jpg
+    header_image: headers/header-hug.JPG
     title: 'Alumnx Program'
-    subtitle: 'The alumnx program connects current and former students, staff and faculty in higher education, and community partners who have formerly engaged with MBLGTACC and other Institute programs to facilitate relationship and coalition building across the region and to provide opportunities to continue the conversations started at MBLGTACC and during other programs.'
+    subtitle: 'The alumnx program connects MBLGTACC attendees and other Institute program participants to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at Institute programs.'
     has_tag: false
     tag: null
     has_button: false
@@ -21,6 +21,12 @@ sections:
   -
     bard:
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Through the alumnx program, we seek to engage current and former students, higher education professionals, and community members who have previously attended an Institute program with the ongoing work of the Institute and the larger queer and trans movement across the Midwest. The program promotes intergenerational strategy and story sharing, enabling future movement leaders to understand past tactics and emerging tactics to be widely shared across generations.'
+      -
         type: heading
         attrs:
           level: 2
@@ -33,7 +39,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Institute looks forward to the 30th annual '
+            text: 'The Midwest Institute for Sexuality and Gender Diversity looks forward to the 30th annual '
           -
             type: text
             marks:
@@ -46,19 +52,21 @@ sections:
             text: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
           -
             type: text
-            text: ' in 2022. In celebration of this milestone in queer and trans community building, education, and empowerment, the Institute seeks to gather stories, reflections, and memories of MBLGTACC across its three-decade history.'
+            text: ' in 2022. In celebration of this milestone in queer and trans community building, education, and empowerment, we hope to gather stories, reflections, and memories of MBLGTACC across its three-decade history.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Institute invites all MBLGTACC alumnx to share their favorite memories, stories, and photos to be compiled in a mixed-media celebration. Your memories may be shared leading up to and during the 30th annual MBLGTACC.'
+            text: 'We invite all MBLGTACC alumnx to share their favorite memories, stories, and photos to be compiled in a mixed-media celebration. Your memories may be shared leading up to and during the 30th annual MBLGTACC.'
       -
         type: set
         attrs:
           values:
             type: form
             formset: share_your_mblgtacc_memories
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -84,7 +92,20 @@ sections:
         content:
           -
             type: text
-            text: 'To fund this work, the Institute asks conference alumnx to endow the next 30 years of MBLGTACC and Institute programs by joining the OPE Monthly Giving program and becoming a sustaining donor. Those who are able to give are challenged to give $30 for 30. A $30 monthly recurring donation will help position the Institute and MBLGTACC to continue providing transformative experiences for queer and trans students for at least 30 years to come.'
+            text: 'To fund this work, the Institute asks conference alumnx to endow the next 30 years of MBLGTACC and Institute programs by joining the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /news/announcing-ope-giving-program
+                  target: null
+                  rel: null
+            text: 'OPE Monthly Giving program'
+          -
+            type: text
+            text: ' and becoming a sustaining donor. Those who are able to give are challenged to give $30 for 30. A $30 monthly recurring donation will help position the Institute and MBLGTACC to continue providing transformative experiences for queer and trans students for at least 30 years to come.'
       -
         type: set
         attrs:
@@ -103,11 +124,42 @@ sections:
             contain: true
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'What’s Next for the Alumnx Program?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Through the alumnx program, we intend to build opportunities to strengthen relationships formed through Institute programs and connect queer and trans people across generations. To share ideas about the next steps of the program, please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /contact
+                  target: null
+                  rel: null
+            text: 'contact us'
+          -
+            type: text
+            text: .
+          -
+            type: hard_break
+          -
+            type: hard_break
     type: content
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1613068372
+updated_at: 1613143768
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
