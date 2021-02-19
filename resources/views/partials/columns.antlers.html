@@ -1,6 +1,8 @@
 {{ if column === 'pricing' }}
-<div class="w-full text-xl text-center text-white">
-    {{ above_price }} <span class="block font-bold text-7xl">{{ price }}</span> {{ below_price }}
+<div class="flex items-center h-full">
+    <div class="w-full text-xl text-center text-white">
+        {{ above_price }} <span class="block my-8 font-bold text-7xl">{{ price }}</span> {{ below_price }}
+    </div>
 </div>
 {{ elseif column === 'image' }}
 <figure class="-mx-12">
