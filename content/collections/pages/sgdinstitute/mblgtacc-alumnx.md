@@ -1,10 +1,10 @@
 ---
-title: 'Alumnx Program (DRAFT)'
+title: 'MBLGTACC Alumnx (DRAFT)'
 sections:
   -
     header_image: headers/header-hug.JPG
-    title: 'Alumnx Program'
-    subtitle: 'The alumnx program connects past MBLGTACC attendees and other Institute program participants to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at Institute programs.'
+    title: 'MBLGTACC Alumnx'
+    subtitle: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
     has_tag: false
     tag: null
     has_button: false
@@ -25,7 +25,20 @@ sections:
         content:
           -
             type: text
-            text: 'Through the alumnx program, we seek to engage current and former students, higher education professionals, and community members who have previously attended an Institute program with the ongoing work of the Institute and the larger queer and trans movement across the Midwest. The program promotes intergenerational strategy and story sharing, enabling future movement leaders to understand past tactics and emerging tactics to be widely shared across generations.'
+            text: 'Through the MBLGTACC Alumnx program, we seek to engage current and former students, higher education professionals, and community members who have previously attended the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org'
+                  target: null
+                  rel: null
+            text: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+          -
+            type: text
+            text: ' with the ongoing work of the Institute and the larger queer and trans movement across the Midwest. The program promotes intergenerational strategy and story sharing, enabling future movement leaders to understand past tactics and emerging tactics to be widely shared across generations.'
       -
         type: heading
         attrs:
@@ -52,7 +65,7 @@ sections:
             text: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
           -
             type: text
-            text: ' in 2022. In celebration of this milestone in queer and trans community building, education, and empowerment, we hope to gather stories, reflections, and memories of MBLGTACC across its three-decade history.'
+            text: ' in 2022. In celebration of this milestone in queer and trans community building, education, and empowerment, we are gathering stories, reflections, and memories of MBLGTACC across its three-decade history.'
       -
         type: paragraph
         content:
@@ -137,29 +150,30 @@ sections:
         content:
           -
             type: text
-            text: 'Through the alumnx program, we intend to build opportunities to strengthen relationships formed through Institute programs and connect queer and trans people across generations. To share ideas about the next steps of the program, please '
-          -
-            type: text
-            marks:
+            text: 'Through the alumnx program, we intend to build opportunities to strengthen relationships formed through Institute programs and connect queer and trans people across generations. Let us know your ideas about the next steps of the program.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: /contact
-                  target: null
-                  rel: null
-            text: 'contact us'
-          -
-            type: text
-            text: .
-          -
-            type: hard_break
-          -
-            type: hard_break
+                button: null
+                link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
+                text: 'Contact Us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1613143932
+updated_at: 1614190649
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
