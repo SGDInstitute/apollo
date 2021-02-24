@@ -1,0 +1,6 @@
+id: b738bcdf-111b-443f-b04d-8d45e7b70197
+enabled: true
+source: /programs/alumnx-program
+destination: /programs/mblgtacc-alumnx
+type: '301'
+match_type: exact
