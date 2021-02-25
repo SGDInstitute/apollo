@@ -56,6 +56,19 @@ sections:
           instructions: 'Share your favorite memory or story from MBLGTACC'
           listable: hidden
       -
+        handle: upload_a_photo
+        field:
+          mode: grid
+          container: assets
+          folder: alumnx_photos
+          restrict: true
+          allow_uploads: true
+          max_files: 3
+          display: 'Upload a Photo'
+          type: assets
+          icon: assets
+          listable: hidden
+      -
         handle: confirm
         field:
           inline: false
