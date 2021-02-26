@@ -51,7 +51,7 @@ sections:
         attrs:
           values:
             type: form
-            formset: contact
+            formset: cpontact
       -
         type: paragraph
       -

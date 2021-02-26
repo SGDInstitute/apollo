@@ -1,5 +1,5 @@
 <div class="my-8">
-    {{ form:create in="contact" }}
+    {{ form:create in="{formset|raw}" }}
         {{ if success }}
             <div class="p-2 text-white bg-green-300">
                 {{ success }}
