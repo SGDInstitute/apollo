@@ -22,17 +22,12 @@ sections:
             type: text
             text: Impact
       -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
             type: 2_columns
             left_column: content
             right_column: content
-            left_column_section: null
-            left_image: null
-            left_video: null
             left_content:
               -
                 type: heading
@@ -55,9 +50,6 @@ sections:
                           target: _blank
                           rel: null
                     text: 'View on Issuu →'
-            right_column_section: null
-            right_image: {  }
-            right_video: null
             right_content:
               -
                 type: heading
@@ -81,10 +73,89 @@ sections:
                           rel: null
                     text: 'View on Issuu →'
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Tax Forms'
+      -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/990/2019-990.pdf'
+                          target: _blank
+                          rel: null
+                    text: '2019 990-EZ'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/990/2018-990.pdf'
+                          target: _blank
+                          rel: null
+                    text: '2018 990-EZ'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/990/2017-990.pdf'
+                          target: _blank
+                          rel: null
+                    text: '2017 990-EZ'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/990/2016-990.pdf'
+                          target: _blank
+                          rel: null
+                    text: '2016 990-EZ'
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603807842
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1614362018
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 ---
