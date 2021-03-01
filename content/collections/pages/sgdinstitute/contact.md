@@ -35,6 +35,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
@@ -51,7 +52,7 @@ sections:
         attrs:
           values:
             type: form
-            formset: cpontact
+            formset: contact
       -
         type: paragraph
       -
@@ -159,7 +160,7 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1609201650
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1614619278
 id: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
 ---
