@@ -6,13 +6,7 @@ sections:
     title: 'MBLGTACC Alumnx'
     subtitle: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
     has_tag: false
-    tag: null
     has_button: false
-    button: null
-    link: null
-    text: null
-    color: null
-    size: null
     block: false
     outline: false
     target_blank: false
@@ -170,8 +164,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1614190854
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1615998252
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
