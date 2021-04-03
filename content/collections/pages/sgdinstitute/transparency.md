@@ -22,6 +22,12 @@ sections:
             type: text
             text: Impact
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our annual report, Impact, highlights the Institute''s financial position, programming, challenges, and future.'
+      -
         type: set
         attrs:
           values:
@@ -85,6 +91,12 @@ sections:
             type: text
             text: 'Tax forms'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review. '
+      -
         type: set
         attrs:
           values:
@@ -92,13 +104,6 @@ sections:
             left_column: content
             right_column: content
             left_content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review.'
-            right_content:
               -
                 type: bullet_list
                 content:
@@ -134,6 +139,10 @@ sections:
                                   target: _blank
                                   rel: null
                             text: '2018 990-EZ'
+            right_content:
+              -
+                type: bullet_list
+                content:
                   -
                     type: list_item
                     content:
@@ -202,6 +211,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617468558
+updated_at: 1617468731
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 ---
