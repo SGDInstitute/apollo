@@ -79,7 +79,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tax Forms'
+            text: 'Tax forms'
       -
         type: paragraph
         content:
@@ -153,9 +153,36 @@ sections:
                           target: _blank
                           rel: null
                     text: '2016 990-EZ'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Audit reports'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/audit/FYE2020-Audit-Report-2020-12-18.pdf'
+                          target: _blank
+                          rel: null
+                    text: '2020 audit report'
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1614362018
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617468311
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 ---
