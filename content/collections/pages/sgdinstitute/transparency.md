@@ -85,78 +85,89 @@ sections:
             type: text
             text: 'Tax forms'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review.'
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review.'
+            right_content:
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2019-990.pdf'
+                                  target: _blank
+                                  rel: null
+                            text: '2019 990-EZ'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2018-990.pdf'
+                                  target: _blank
+                                  rel: null
+                            text: '2018 990-EZ'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2017-990.pdf'
+                                  target: _blank
+                                  rel: null
+                            text: '2017 990-EZ'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2016-990.pdf'
+                                  target: _blank
+                                  rel: null
+                            text: '2016 990-EZ'
       -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://sgdinstitute.org/assets/transparency/990/2019-990.pdf'
-                          target: _blank
-                          rel: null
-                    text: '2019 990-EZ'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://sgdinstitute.org/assets/transparency/990/2018-990.pdf'
-                          target: _blank
-                          rel: null
-                    text: '2018 990-EZ'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://sgdinstitute.org/assets/transparency/990/2017-990.pdf'
-                          target: _blank
-                          rel: null
-                    text: '2017 990-EZ'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://sgdinstitute.org/assets/transparency/990/2016-990.pdf'
-                          target: _blank
-                          rel: null
-                    text: '2016 990-EZ'
+        type: paragraph
       -
         type: heading
         attrs:
@@ -184,9 +195,13 @@ sections:
                           target: _blank
                           rel: null
                     text: '2020 audit report'
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617468444
+updated_at: 1617468558
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 ---
