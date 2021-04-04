@@ -1,8 +1,8 @@
 ---
-title: 'Our Mission, Vision, and Values'
+title: 'Our mission, vision, and values'
 sections:
   -
-    title: 'Our Mission, Vision, and Values'
+    title: 'Our mission, vision, and values'
     type: header_small
     enabled: true
   -
@@ -50,9 +50,6 @@ sections:
             type: 2_columns
             left_column: content
             right_column: content
-            left_column_section: null
-            left_image: null
-            left_video: null
             left_content:
               -
                 type: heading
@@ -68,9 +65,6 @@ sections:
                   -
                     type: text
                     text: 'We provide opportunities that are considerate of varying intellectual, physical, and financial capacities and levels of college readiness'
-            right_column_section: null
-            right_image: null
-            right_video: null
             right_content:
               -
                 type: heading
@@ -89,8 +83,6 @@ sections:
                   -
                     type: text
                     text: 'Through intentional collaboration, we liaise for various social justice efforts to build sustainable coalitions and strengthen relationships across difference.'
-            leftimage: null
-            leftcaption: null
       -
         type: paragraph
       -
@@ -100,9 +92,6 @@ sections:
             type: 2_columns
             left_column: content
             right_column: content
-            left_column_section: null
-            left_image: null
-            left_video: null
             left_content:
               -
                 type: heading
@@ -118,9 +107,6 @@ sections:
                   -
                     type: text
                     text: 'We uplift the voices of systemically disadvantaged students and colleagues as well as act as accomplices to all those participating in anti-oppression work.'
-            right_column_section: null
-            right_image: null
-            right_video: null
             right_content:
               -
                 type: heading
@@ -136,8 +122,6 @@ sections:
                   -
                     type: text
                     text: 'We emphasize the importance of culturally relevant academic experiences and expanding understandings of students’ integration into campus life.'
-            leftimage: null
-            leftcaption: null
       -
         type: paragraph
       -
@@ -147,9 +131,6 @@ sections:
             type: 2_columns
             left_column: content
             right_column: content
-            left_column_section: null
-            left_image: null
-            left_video: null
             left_content:
               -
                 type: heading
@@ -165,9 +146,6 @@ sections:
                   -
                     type: text
                     text: 'We vow transparency in our processes, take ownership of our limitations and commit to continuous self-work. Through this modeling, we expect and challenge our colleagues and partners to do the same.'
-            right_column_section: null
-            right_image: null
-            right_video: null
             right_content:
               -
                 type: heading
@@ -183,8 +161,6 @@ sections:
                   -
                     type: text
                     text: 'We situate ourselves in this work with determination to annihilate systemic barriers, combat deeply ingrained beliefs and practices that negatively impact our communities, and conduct our work with urgency toward an inevitable revolution.'
-            leftimage: null
-            leftcaption: null
       -
         type: paragraph
       -
@@ -217,22 +193,16 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1611264706
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617503118
 id: ad088f33-ab22-428b-a582-cd5a53022895
 ---
