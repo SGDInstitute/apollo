@@ -450,7 +450,17 @@ sections:
             text: ).
     type: content
     enabled: true
+  -
+    bard:
+      -
+        type: paragraph
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603767145
+updated_at: 1617502257
 id: fca78f6d-023b-4830-860d-e3ed26a30ff4
 ---
