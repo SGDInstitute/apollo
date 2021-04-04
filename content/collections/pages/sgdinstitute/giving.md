@@ -267,7 +267,15 @@ sections:
             text: 'Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
+  -
+    bard:
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617501975
+updated_at: 1617502081
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
