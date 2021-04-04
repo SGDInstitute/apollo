@@ -1,8 +1,8 @@
 ---
-title: 'Our Team'
+title: 'Our team'
 sections:
   -
-    title: 'Our Team'
+    title: 'Our team'
     type: header_small
     enabled: true
   -
@@ -45,13 +45,8 @@ sections:
       - 7f42dd16-20ab-4975-a14c-25ce48be94a6
       - 55e452ec-2a93-4c16-a9a4-f4f8981044cf
       - 67003621-9088-401e-8179-40b984ddbcc0
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-200
     type: users
     enabled: true
@@ -78,13 +73,8 @@ sections:
       - 54d0b97c-683d-4f07-933a-27910efc16c1
       - 02412e98-c0f6-4624-add0-5dbb57f95da7
       - 36b53773-675f-4559-a25d-7f40e7cfc2bd
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-200
     type: users
     enabled: true
@@ -175,22 +165,16 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1613065990
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617503048
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 ---
