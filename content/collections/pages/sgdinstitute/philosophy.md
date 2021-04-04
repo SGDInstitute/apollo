@@ -98,14 +98,6 @@ sections:
             image: history/mission-history-CONTENT.jpg
             caption: 'Roze R.B. Brooks and Justin Drwencke introduced the Institute at MBLGTACC 2017. (Photo: Ed Negron)'
             inline: false
-            direction: null
-            width: null
-            margin_direction: null
-            margin: null
-            margin_top: null
-            margin_right: null
-            margin_bottom: null
-            margin_left: null
       -
         type: heading
         attrs:
@@ -151,7 +143,7 @@ sections:
         content:
           -
             type: text
-            text: "Our Guiding Principles\_"
+            text: "Our guiding principles\_"
       -
         type: heading
         attrs:
@@ -368,43 +360,28 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
-    above_price: null
-    price: null
-    below_price: null
     image: team/justin-mblgtacc-2018-board-room-teaser-1090x681.jpg
-    caption: null
-    video: null
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1607199097
+updated_at: 1617502205
 id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
 ---
