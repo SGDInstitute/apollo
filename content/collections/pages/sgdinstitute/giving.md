@@ -2,14 +2,9 @@
 title: Giving
 sections:
   -
-    background: null
     bg_type: image
     bg_image: headers/header-test2.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: 'Giving to the Institute'
     type: header
     enabled: true
@@ -272,7 +267,7 @@ sections:
             text: 'Thank you for your support and ongoing partnership.'
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1611083303
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617501866
 id: 1d908676-c027-44d3-b60a-ebab30250d45
 ---
