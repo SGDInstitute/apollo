@@ -2,6 +2,18 @@ tree:
   -
     entry: home
   -
+    entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
+    children:
+      -
+        title: 'About us'
+        url: /about
+      -
+        entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
+      -
+        entry: ad088f33-ab22-428b-a582-cd5a53022895
+      -
+        entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+  -
     entry: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
     children:
       -
@@ -14,18 +26,6 @@ tree:
         url: 'https://mblgtacc.org'
   -
     entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
-  -
-    entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-    children:
-      -
-        title: 'About us'
-        url: /about
-      -
-        entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
-      -
-        entry: ad088f33-ab22-428b-a582-cd5a53022895
-      -
-        entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
   -
     entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
   -
