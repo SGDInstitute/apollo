@@ -4,7 +4,7 @@ sections:
   -
     header_image: headers/header-hug.JPG
     title: 'MBLGTACC Alumnx'
-    subtitle: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
+    subtitle: 'Alumnx of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: false
     has_button: false
     block: false
@@ -14,6 +14,15 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
       -
         type: paragraph
         content:
@@ -40,7 +49,7 @@ sections:
         content:
           -
             type: text
-            text: 'Celebrating 30 Years of MBLGTACC'
+            text: 'Celebrating 30 years of MBLGTACC'
       -
         type: paragraph
         content:
@@ -79,7 +88,7 @@ sections:
         content:
           -
             type: text
-            text: 'Fund the Next 30 Years'
+            text: 'Fund the next 30 years'
       -
         type: paragraph
         content:
@@ -136,7 +145,7 @@ sections:
         content:
           -
             type: text
-            text: 'What’s Next for the Alumnx Program?'
+            text: 'What’s next for the alumnx program?'
       -
         type: paragraph
         content:
@@ -164,8 +173,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1615998252
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617502930
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 published: false
 ---
