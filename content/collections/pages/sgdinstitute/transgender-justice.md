@@ -7,7 +7,6 @@ sections:
     subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
     tag: 'Transgender Justice Teach-in'
-    link: null
     text: 'Registration closed'
     color: btn-green
     size: btn-lg
@@ -17,30 +16,6 @@ sections:
     type: header_large
     enabled: true
     has_button: false
-    button: null
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.d.umn.edu/sgei/'
-                  target: _blank
-                  rel: null
-            text: 'Sexuality & Gender Equity Initiatives'
-          -
-            type: text
-            text: ' hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
-    type: content
-    enabled: true
   -
     bard:
       -
@@ -57,7 +32,6 @@ sections:
           values:
             type: video
             video: 'https://youtu.be/E3Ey97tf0SA'
-            caption: null
       -
         type: paragraph
         content:
@@ -92,6 +66,29 @@ sections:
   -
     bard:
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.d.umn.edu/sgei/'
+                  target: _blank
+                  rel: null
+            text: 'Sexuality & Gender Equity Initiatives'
+          -
+            type: text
+            text: ' hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
         type: heading
         attrs:
           level: 2
@@ -109,14 +106,6 @@ sections:
             image: news/tj-f20_web-headshots.jpg
             caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos'
             inline: false
-            direction: null
-            width: null
-            margin_direction: null
-            margin: null
-            margin_top: null
-            margin_right: null
-            margin_bottom: null
-            margin_left: null
       -
         type: paragraph
       -
@@ -275,8 +264,8 @@ sections:
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1610651109
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617501458
 template: default
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
