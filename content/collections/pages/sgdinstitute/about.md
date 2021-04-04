@@ -1,22 +1,17 @@
 ---
 title: About
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1610467321
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617503093
 sections:
   -
     title: 'About the Institute'
     type: header_small
     enabled: true
   -
-    background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: 'About the Institute'
     type: header
     enabled: false
@@ -168,16 +163,10 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
