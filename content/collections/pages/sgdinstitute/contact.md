@@ -14,6 +14,22 @@ sections:
         content:
           -
             type: text
+            text: 'Send us a message'
+      -
+        type: set
+        attrs:
+          values:
+            type: form
+            formset: contact
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Find just the right person'
       -
         type: paragraph
@@ -37,22 +53,6 @@ sections:
                 target_blank: false
                 button: null
             contain: true
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Send us a message'
-      -
-        type: set
-        attrs:
-          values:
-            type: form
-            formset: contact
       -
         type: paragraph
       -
@@ -160,7 +160,7 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1614619278
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1617501819
 id: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
 ---
