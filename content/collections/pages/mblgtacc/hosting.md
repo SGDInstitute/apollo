@@ -12,18 +12,10 @@ sections:
         content:
           -
             type: text
-            text: '['
-          -
-            type: text
             marks:
               -
-                type: bold
-              -
-                type: italic
-            text: 'LEAD TEXT STYLE'
-          -
-            type: text
-            text: '] Hosting the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is a rewarding adventure presented to one group of student leaders in the Midwest each year, and you could be next. Your journey begins here.'
+                type: lead
+            text: 'Hosting the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is a rewarding adventure presented to one group of student leaders in the Midwest each year, and you could be next. Your journey begins here.'
       -
         type: heading
         attrs:
@@ -81,13 +73,13 @@ sections:
             type: text
             marks:
               -
-                type: italic
-              -
                 type: link
                 attrs:
                   href: 'http://mblgtacc.org/about/history'
                   target: _blank
                   rel: null
+              -
+                type: italic
             text: 'Learn more about MBLGTACC history »'
       -
         type: paragraph
@@ -360,13 +352,13 @@ sections:
                     type: text
                     marks:
                       -
-                        type: italic
-                      -
                         type: link
                         attrs:
                           href: 'https://sgdinstitute.org/about/leadership/justin-drwencke'
                           target: _blank
                           rel: null
+                      -
+                        type: italic
                     text: 'Justin Drwencke'
                   -
                     type: text
@@ -378,13 +370,13 @@ sections:
                     type: text
                     marks:
                       -
-                        type: italic
-                      -
                         type: link
                         attrs:
                           href: 'mailto:justin@sgdinstitute.org'
                           target: _blank
                           rel: null
+                      -
+                        type: italic
                     text: justin@sgdinstitute.org
                   -
                     type: text
@@ -589,7 +581,7 @@ sections:
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603773553
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1617665048
 id: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
 ---
