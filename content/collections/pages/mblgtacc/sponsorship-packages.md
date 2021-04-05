@@ -2,14 +2,9 @@
 title: 'Sponsorship Packages'
 sections:
   -
-    background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: 'Sponsorship Packages'
     type: header
     enabled: true
@@ -43,6 +38,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
               -
                 link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Donate to MBLGTACC'
@@ -51,6 +47,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
@@ -64,50 +61,34 @@ sections:
                 cells:
                   - Amount
                   - Tier
-                  - Benefits
-                  - 'Program ad'
               -
                 cells:
                   - $200
                   - '**American Robin**<br><small><i>Robins appear the end of winter and the beginning of spring.  Their songs, like the mission of MBLGTACC, signify bright future months of change and renewal.</i></small>'
-                  - 'Name listed on website'
-                  - 'Program ad'
               -
                 cells:
                   - $500
                   - '**Bergamot**<br><small><i>Bergamot is a rich fruit that heals and uplifts with its medicinal qualities.  As it has been anciently known to protect the heart and aid in emotional stability, a gift of Bergamot rejuvenates our community from the heart.</i></small>'
-                  - '+Name listed in program'
-                  - null
               -
                 cells:
                   - '$1,000'
                   - '**Painted Turtle**<br><small><i>Painted turtles are often found basking peacefully together in the sun in a group known as a “bale.”  The brilliant colors on their shell are unique to each individual, representing the vibrant spectrum of the queer community that is working together to envision the future.</i></small>'
-                  - '+Vendor table'
-                  - null
               -
                 cells:
                   - '$2,500'
                   - '**Copper**<br><small><i>Copper oxidizes to create a gentle green patina that protects the metal underneath from harsh elements, just as the LGBTQ+ community creates a safe space for diversity.  Copper’s sizzling electric conductivity represents a community is energized by your positive contribution.</i></small>'
-                  - +Ad
-                  - '⅛ page ad'
               -
                 cells:
                   - '$5,000'
                   - '**Apple Blossom**<br><small><i>These delicate pink blossoms of Michigan’s state flower transform into a giving tree that is rich with nourishing fruit.  With this gift, we work together to nurture and empower the budding knowledge of students so they may be prepared to face the current climate in full bloom.</i></small>'
-                  - '+Logo on T-Shirt'
-                  - '¼ page ad'
               -
                 cells:
                   - '$7,500'
                   - '**Petoskey Stone**<br><small><i>Petoskey stones look like ordinary limestone until they are polished or wet, which is when they reveal their true nature as a spiral fossil shell.  Just as the waters of Lake Michigan create a clear view of the petoskey stone, we strive to maintain humility while we uncover our own blind spots and realize how we can best represent a marginalized community.</i></small>'
-                  - '+Advertising on website'
-                  - '½ page ad'
               -
                 cells:
                   - '$10,000'
                   - '**Great Blue Heron**<br><small><i>Great Blue Herons have a wingspan of up 6 feet that lifts them up and leaves a massive silhouette below them as they soar in the sky.  Their powerful wings allow them to migrate enormous distances, just as how your gift will provide visibility and empowerment to the LGBTQ+ community members that have traveled across the country to this transformative conference.</i></small>'
-                  - '+Ad/flyer/coupon in swag bag'
-                  - 'Full page ad'
             first_row_header: true
             last_row_footer: false
       -
@@ -140,6 +121,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
               -
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: 'Program ads'
@@ -148,6 +130,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
@@ -155,6 +138,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1609188668
+updated_at: 1617664643
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
