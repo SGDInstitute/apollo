@@ -141,8 +141,6 @@ sections:
             type: text
             text: 'All exhibit spaces come with one 8'' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. Exhibit spaces are in prominent, high-traffic locations, and exhibitors are responsible for the security and storage of their property.'
       -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
@@ -155,7 +153,7 @@ sections:
               -
                 cells:
                   - $150
-                  - 'Higher ed institution offices/departments & <br>Small Non-Profits <i>(less than $100k annual budget)</i>'
+                  - 'Higher ed institution offices/departments & Small Non-Profits <i>(less than $100k annual budget)</i>'
               -
                 cells:
                   - $250
@@ -163,7 +161,7 @@ sections:
               -
                 cells:
                   - $350
-                  - 'Small businesses & <br>Organizations selling items at the fair'
+                  - 'Small businesses & Organizations selling items at the fair'
               -
                 cells:
                   - $500
@@ -177,6 +175,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617906464
+updated_at: 1617906508
 id: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
 ---
