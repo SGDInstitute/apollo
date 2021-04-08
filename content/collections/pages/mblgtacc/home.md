@@ -2,7 +2,7 @@
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617900056
+updated_at: 1617901904
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -33,13 +33,13 @@ sections:
         content:
           -
             type: text
-            text: 'Registration opens in April 2021'
+            text: 'Registration opens April 26, 2021'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Register for $85 starting in April 2021. Not ready? No problem! Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
+            text: 'Register for $85 starting April 26, 2021. Not ready? No problem! Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
     price: $85
     below_price: 'per person'
     bg_type: color
@@ -50,10 +50,10 @@ sections:
     center_columns: false
   -
     title: 'Speakers & Entertainers'
-    event: mblgtacc-2021
+    event: mblgtacc-2021-home
     date_format: day_of_week_full
     background_height: full
-    text: 'View the Whole Program'
+    text: 'View the Full Program Schedule'
     color: btn-green
     size: btn-lg
     block: false
@@ -61,6 +61,7 @@ sections:
     target_blank: false
     type: speakers
     enabled: true
+    link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
   -
     date: '2021-10-10 19:19'
     hashtag: 'until #mblgtacc2021'
