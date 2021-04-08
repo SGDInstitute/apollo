@@ -111,7 +111,7 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc-2021'
+                link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Reserve an exhibit table'
                 color: btn-green
                 size: btn-lg
@@ -135,46 +135,72 @@ sections:
             type: text
             text: 'Exhibitor pricing'
       -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '$150 - Higher ed institution offices/departments & small non-profits ('
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'less than $100k annual budget'
+                  -
+                    type: text
+                    text: )
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '$250 -  Large non-profit organizations ('
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: '$100k+ annual budget'
+                  -
+                    type: text
+                    text: )
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '$350 - Small businesses & organizations selling items at the fair'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '$500 - Corporations'
+      -
         type: paragraph
         content:
           -
             type: text
             text: 'All exhibit spaces come with one 8'' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. Exhibit spaces are in prominent, high-traffic locations, and exhibitors are responsible for the security and storage of their property.'
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            table:
-              -
-                cells:
-                  - Price
-                  - 'Organization type'
-              -
-                cells:
-                  - $150
-                  - 'Higher ed institution offices/departments & Small Non-Profits <i>(less than $100k annual budget)</i>'
-              -
-                cells:
-                  - $250
-                  - 'Large non-profit organizations <i>($100k+ annual budget)</i>'
-              -
-                cells:
-                  - $350
-                  - 'Small businesses & Organizations selling items at the fair'
-              -
-                cells:
-                  - $500
-                  - Corporations
-            first_row_header: true
-            last_row_footer: false
-            full_width: true
-      -
-        type: paragraph
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617906526
+updated_at: 1617906865
 id: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
 ---
