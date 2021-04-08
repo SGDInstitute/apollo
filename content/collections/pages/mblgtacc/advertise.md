@@ -129,7 +129,7 @@ sections:
                   - '7"W x 9.5"H with .125" bleed on all sides'
             first_row_header: true
             last_row_footer: false
-            full_width: true
+            full_width: false
       -
         type: paragraph
     type: content
@@ -201,6 +201,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617907034
+updated_at: 1617907052
 id: 8fe5c804-da7c-474e-bf42-75f8dbf3a914
 ---
