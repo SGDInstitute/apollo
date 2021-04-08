@@ -154,6 +154,13 @@ fields:
                 display: Table
                 type: table
                 listable: hidden
+            -
+              handle: full_width
+              field:
+                display: 'Fill X Space'
+                type: toggle
+                icon: toggle
+                listable: hidden
         2_columns:
           display: '2 Columns'
           fields:
@@ -351,3 +358,5 @@ fields:
       display: Content
       type: bard
       listable: hidden
+      enable_input_rules: true
+      enable_paste_rules: true

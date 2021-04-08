@@ -169,6 +169,7 @@ sections:
                   - '0'
             first_row_header: true
             last_row_footer: false
+            full_width: true
       -
         type: paragraph
     type: content
@@ -195,7 +196,7 @@ sections:
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: false
                 target_blank: true
@@ -216,6 +217,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1617665322
+updated_at: 1617900586
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---

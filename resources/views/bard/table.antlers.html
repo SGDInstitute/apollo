@@ -1,14 +1,14 @@
-<div class="flex flex-col sm:-mx-12 lg:-mx-24">
+<div class="flex flex-col mt-12 {{ full_width ? 'container mx-auto' : 'max-w-prose sm:-mx-12 lg:-mx-24' }}">
     <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
       <div class="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
-        <div class="overflow-hidden border-b border-gray-200 shadow dark:border-gray-800 sm:rounded-lg">
+        <div class="overflow-hidden overflow-x-scroll border-b border-gray-200 shadow dark:border-gray-800 sm:rounded-lg">
           <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
             {{ table }}
                 {{ if first && first_row_header }}
                 <thead class="bg-gray-100 dark:bg-gray-900">
                     <tr>
                         {{ cells }}
-                        <th scope="col" class="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase">
+                        <th scope="col" class="px-6 py-3 text-xs font-medium tracking-wider text-left text-gray-500 uppercase dark:text-gray-300">
                         {{ value | markdown }}
                         </th>
                         {{ /cells }}
@@ -21,7 +21,7 @@
                 {{ /if }}
                     <tr class="bg-white dark:bg-transparent">
                     {{ cells }}
-                        <td class="px-6 py-4 text-sm text-gray-500 whitespace-nowrap">
+                        <td class="px-6 py-4 text-sm text-gray-500 dark:text-gray-300 whitespace-nowrap">
                             {{ value | markdown }}
                         </td>
                     {{ /cells }}
