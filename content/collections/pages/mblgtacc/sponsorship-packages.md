@@ -15,42 +15,21 @@ sections:
         content:
           -
             type: text
-            text: 'Each level of sponsorship builds on the prior tier, and sponsorships of $2,500 or more receive complimentary ad space to show our appreciation and help place your ad in front of 2,000+ attendees. Your support makes a difference in the lives of thousands of LGBTQIA+ college students in the Midwest. '
-          -
-            type: text
             marks:
               -
                 type: bold
-            text: 'How will you support this extraordinary conference and its attendees?'
+            text: 'MBLGTACC 2021: From Protest and Beyond Pride'
+          -
+            type: text
+            text: ' is a commemoration to foundational protests in LGBTQ+ history: Cooper’s Do-nuts, Compton’s Cafeteria, and Stonewall. It is also rooted in Madison’s history of protests and activism both at UW-Madison and throughout the greater community. The connection to the lives of LGBTQ+ peoples extends further and embraces the vibrant experiences of Pride festivals across the nation while focusing forward. *From Protest and Beyond Pride* invites attendees to honor the origins of the LGBTQ+ movement, the accompanying resiliency, embrace the present, while inspiring and energizing others toward an LGBTQ+ inclusive and affirming future; prompting the questions… what’s next? What will these innovative leaders contribute?'
       -
-        type: paragraph
-      -
-        type: set
+        type: heading
         attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc-2021'
-                text: 'Sponsor MBLGTACC'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-                button: null
-              -
-                link: 'https://apps.sgdinstitute.org/donations/create'
-                text: 'Donate to MBLGTACC'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-                button: null
-            contain: true
-      -
-        type: paragraph
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Sponsorship Packages and Benefits'
       -
         type: set
         attrs:
@@ -64,8 +43,8 @@ sections:
                   - '$25,000+'
                   - '$10,000+'
                   - '$7,500+'
-                  - '$5,000'
-                  - '$2,500'
+                  - '$5,000+'
+                  - '$2,500+'
                   - '$1,000+'
                   - $500+
               -
@@ -81,7 +60,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Recognition from Stage at Plenary'
+                  - 'Recognition from stage during plenary session'
                   - X
                   - X
                   - ''
@@ -92,7 +71,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo on Registration Bag'
+                  - 'Logo printed on registration bag'
                   - X
                   - X
                   - X
@@ -103,7 +82,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Promotional Item in Registration Bag'
+                  - 'Opportunity to include promotional material/item in registration bag'
                   - X
                   - X
                   - X
@@ -114,7 +93,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo on Plenary Screen'
+                  - 'Logo displayed on screen during plenary sessions'
                   - X
                   - X
                   - X
@@ -125,7 +104,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo on signage and in program book'
+                  - 'Logo printed in program and on signage'
                   - X
                   - X
                   - X
@@ -136,7 +115,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Program Book Advertisement'
+                  - 'Complimentary Program Ad'
                   - 'Full page'
                   - 'Full page'
                   - 'Half page'
@@ -147,7 +126,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Exhibit table location'
+                  - 'Complimentary Exhibit Table'
                   - Premium
                   - Premium
                   - Premium
@@ -158,7 +137,7 @@ sections:
                   - Regular
               -
                 cells:
-                  - Registrations
+                  - 'Complimentary tickets'
                   - '20'
                   - '10'
                   - '4'
@@ -216,7 +195,7 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1617900586
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1617902761
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
