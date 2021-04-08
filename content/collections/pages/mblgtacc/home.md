@@ -2,10 +2,10 @@
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1605908012
+updated_at: 1617900056
 sections:
   -
-    header_image: headers/blurry-background.jpg
+    header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
     title: 'From Protest and Beyond Pride'
     subtitle: 'Hosted by the University of Wisconsin-Madison and Edgewood College communities in Madison, Wisconsin'
     has_tag: true
@@ -19,6 +19,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
+    has_button: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -39,19 +40,10 @@ sections:
           -
             type: text
             text: 'Register for $85 starting in April 2021. Not ready? No problem! Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
-    above_price: null
     price: $85
     below_price: 'per person'
-    image: null
-    caption: null
-    video: null
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-green-500
     type: two_column
     enabled: true
@@ -61,8 +53,6 @@ sections:
     event: mblgtacc-2021
     date_format: day_of_week_full
     background_height: full
-    background_color: null
-    link: null
     text: 'View the Whole Program'
     color: btn-green
     size: btn-lg
@@ -74,28 +64,17 @@ sections:
   -
     date: '2021-10-10 19:19'
     hashtag: 'until #mblgtacc2021'
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-yellow-300
     type: countdown
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-300
     type: news
     enabled: true
