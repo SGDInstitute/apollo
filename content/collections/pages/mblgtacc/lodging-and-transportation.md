@@ -14,7 +14,7 @@ sections:
         content:
           -
             type: text
-            text: Hotels
+            text: 'Hotel accommodations'
       -
         type: paragraph
         content:
@@ -69,6 +69,7 @@ sections:
                   - '75'
                   - '$159-189*'
                   - 9/6/2021
+            full_width: false
       -
         type: paragraph
         content:
@@ -135,6 +136,7 @@ sections:
                   - '100'
                   - $179
                   - 9/10/2021
+            full_width: false
       -
         type: paragraph
       -
@@ -164,7 +166,7 @@ sections:
         content:
           -
             type: text
-            text: 'To book by phone, call 800-356-8293 and reference code “MBLGTACC”'
+            text: 'To book by phone, call 800-356-8293 and reference code “MBLGTACC.”'
       -
         type: heading
         attrs:
@@ -207,6 +209,7 @@ sections:
                   - '90'
                   - $149
                   - 9/10/2021
+            full_width: false
       -
         type: set
         attrs:
@@ -228,7 +231,7 @@ sections:
         content:
           -
             type: text
-            text: 'To book by phone, call 608-251-2300 and reference code "BLG" or "2021 Midwest BLGTA"'
+            text: 'To book by phone, call 608-251-2300 and reference code "BLG" or "2021 Midwest BLGTA."'
       -
         type: heading
         attrs:
@@ -271,6 +274,7 @@ sections:
                   - '10'
                   - $129
                   - 9/8/2021
+            full_width: false
       -
         type: set
         attrs:
@@ -337,7 +341,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617898122
+updated_at: 1617907339
 template: default
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 ---
