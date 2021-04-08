@@ -53,7 +53,7 @@ sections:
         content:
           -
             type: text
-            text: 'Sponsorship Packages and Benefits'
+            text: 'Sponsorship packages and benefits'
       -
         type: set
         attrs:
@@ -526,7 +526,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Other Opportunities'
+            text: 'Other opportunities'
       -
         type: paragraph
         content:
@@ -558,7 +558,7 @@ sections:
         content:
           -
             type: text
-            text: 'Exhibit or Advertise'
+            text: 'Exhibit or advertise'
       -
         type: set
         attrs:
@@ -593,7 +593,7 @@ sections:
         content:
           -
             type: text
-            text: 'Become a Donor'
+            text: 'Become a donor'
       -
         type: paragraph
         content:
@@ -625,7 +625,7 @@ sections:
         content:
           -
             type: text
-            text: 'Get in Touch'
+            text: 'Get in touch'
       -
         type: paragraph
         content:
@@ -652,6 +652,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617906234
+updated_at: 1617907181
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
