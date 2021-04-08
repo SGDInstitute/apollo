@@ -78,4 +78,8 @@ return [
 
     'link_to_docs' => true,
 
+    'theme' => env('STATAMIC_THEME', 'business'),
+    'custom_cms_name' => env('STATAMIC_CUSTOM_CMS_NAME', 'Midwest Institute for Sexuality and Gender Diversity'),
+    'custom_logo_url' => env('STATAMIC_CUSTOM_CMS_NAME', '/assets/brand/institute-logo.png'),
+
 ];
