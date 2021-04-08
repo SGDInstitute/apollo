@@ -2,7 +2,7 @@
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617901904
+updated_at: 1617902202
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -49,7 +49,7 @@ sections:
     enabled: true
     center_columns: false
   -
-    title: 'Speakers & Entertainers'
+    title: 'Keynote Speakers'
     event: mblgtacc-2021-home
     date_format: day_of_week_full
     background_height: full
@@ -63,7 +63,7 @@ sections:
     enabled: true
     link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
   -
-    date: '2021-10-10 19:19'
+    date: '2021-10-08 19:00'
     hashtag: 'until #mblgtacc2021'
     bg_type: color
     num_colors: 2
