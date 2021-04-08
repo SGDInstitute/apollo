@@ -37,6 +37,7 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
+                button: null
             contain: true
       -
         type: paragraph
@@ -212,13 +213,13 @@ sections:
             type: text
             marks:
               -
-                type: italic
-              -
                 type: link
                 attrs:
                   href: 'mailto:support@sgdinstitute.org'
                   target: _blank
                   rel: null
+              -
+                type: italic
             text: 'Let us know.'
       -
         type: bullet_list
@@ -252,16 +253,17 @@ sections:
                     text: 'Where can I find information about accessibility in the host hotel?'
                   -
                     type: text
-                    text: ' Good question! We highly recommend you review the websites of the hotels. A list of conference hotel partners is listed on the [*'
+                    text: ' Good question! We highly recommend you review the websites of the hotels. A list of conference hotel partners is listed on the '
                   -
                     type: text
                     marks:
                       -
-                        type: bold
-                    text: 'LODGING PAGE*'
-                  -
-                    type: text
-                    text: '].'
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          target: null
+                          rel: null
+                    text: 'Lodging and Accommodations page.'
           -
             type: list_item
             content:
@@ -294,21 +296,15 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606777468
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1617907297
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
 ---
