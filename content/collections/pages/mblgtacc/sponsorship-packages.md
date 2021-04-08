@@ -541,7 +541,7 @@ sections:
             buttons:
               -
                 button: null
-                link: null
+                link: 'https://sgdinstitute.org/assets/documents/Prospectus_MBLGTACC2021.pdf'
                 text: 'Download Prospectus'
                 color: btn-green
                 size: btn-lg
@@ -652,6 +652,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617904194
+updated_at: 1617906234
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
