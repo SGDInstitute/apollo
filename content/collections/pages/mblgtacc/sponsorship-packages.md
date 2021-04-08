@@ -29,6 +29,24 @@ sections:
             type: text
             text: ' is a commemoration to foundational protests in LGBTQ+ history: Cooper’s Do-nuts, Compton’s Cafeteria, and Stonewall. It is also rooted in Madison’s history of protests and activism both at UW-Madison and throughout the greater community. The connection to the lives of LGBTQ+ peoples extends further and embraces the vibrant experiences of Pride festivals across the nation while focusing forward. *From Protest and Beyond Pride* invites attendees to honor the origins of the LGBTQ+ movement, the accompanying resiliency, embrace the present, while inspiring and energizing others toward an LGBTQ+ inclusive and affirming future; prompting the questions… what’s next? What will these innovative leaders contribute?'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://apps.sgdinstitute.org/donations/create'
+                text: 'Become a Sponsor Today'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -494,8 +512,6 @@ sections:
                 outline: false
                 target_blank: false
             contain: true
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -507,6 +523,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'Other Opportunities'
       -
         type: paragraph
@@ -581,21 +600,6 @@ sections:
           -
             type: text
             text: "Want to support us without being a sponsor? Become a donor!\_Every little bit counts! Donate to MBLGTACC today and help support LGBTQA+ Midwest students. $5, $10, $25, it all makes a difference!\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://apps.sgdinstitute.org/donations/create'
-                  target: _blank
-                  rel: null
-              -
-                type: bold
-            text: 'Become a donor today'
-          -
-            type: text
-            text: "\_→"
       -
         type: set
         attrs:
@@ -605,7 +609,7 @@ sections:
               -
                 button: null
                 link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
-                text: 'Become a Donor'
+                text: 'Donate Now'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -637,7 +641,7 @@ sections:
               -
                 button: null
                 link: 'mailto:development@mblgtacc.org'
-                text: 'Get in Touch'
+                text: 'Email Us'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -648,6 +652,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617903958
+updated_at: 1617904194
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
