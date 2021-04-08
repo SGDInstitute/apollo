@@ -15,6 +15,12 @@ sections:
         content:
           -
             type: text
+            text: 'For 28 years, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others. In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally competitive drag performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             marks:
               -
                 type: bold
@@ -33,6 +39,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: table
             table:
@@ -150,455 +157,345 @@ sections:
             last_row_footer: false
             full_width: true
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$500 - $999'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: $500
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$1,000-2,499'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$1,000'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, 1/8 page'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$2,500-4,999'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$2,500'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, 1/8 page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: '1 complimentary ticket'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$5,000-7,499'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$5,000'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, 1/4 page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: '2 complimentary tickets'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo displayed on screen during plenary sessions'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$7,500-9,999'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$7,500'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, 1/4 page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: '3 complimentary tickets'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo displayed on screen during plenary sessions'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Opportunity to include promotional material/item in registration bag'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$10,000-24,999'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$10,000'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Complimentary exhibit table, premium location'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                    text: 'Complimentary exhibit table'
+                  -
+                    type: hard_break
                   -
                     type: text
-                    text: 'Complimentary program ad, 1/2 page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                    text: 'Complimentary program ad, 1/4 page'
+                  -
+                    type: hard_break
                   -
                     type: text
-                    text: '4 complimentary tickets'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                    text: '3 complimentary tickets'
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo displayed on screen during plenary sessions'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Opportunity to include promotional material/item in registration bag'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed on registration bag'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$25,000-49,999'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$25,000'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table, premium location'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, full page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: '10 complimentary tickets'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo displayed on screen during plenary sessions'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Opportunity to include promotional material/item in registration bag'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed on registration bag'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Recognition from stage during keynote/plenary sessions'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '$50,000+'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '$50,000'
               -
                 type: paragraph
                 content:
                   -
                     type: text
                     text: 'Complimentary exhibit table, premium location'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Complimentary program ad, full page'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: '20 complimentary tickets'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed in program and on signage'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo displayed on screen during plenary sessions'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Opportunity to include promotional material/item in registration bag'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Logo printed on registration bag'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'Recognition from stage during keynote/plenary sessions'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hard_break
                   -
                     type: text
                     text: 'On stage speaking opportunity'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://apps.sgdinstitute.org/donations/create'
+                text: 'Become a Sponsor Today'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -610,9 +507,39 @@ sections:
         content:
           -
             type: text
-            text: 'Other sponsorships'
+            text: 'Other Opportunities'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Additional sponsorship opportunities exist for underwriting specific components of the conference. Download the sponsorship prospectus for more information.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: null
+                text: 'Download Prospectus'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Exhibit or Advertise'
       -
         type: set
         attrs:
@@ -640,10 +567,87 @@ sections:
             contain: true
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Become a Donor'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Want to support us without being a sponsor? Become a donor!\_Every little bit counts! Donate to MBLGTACC today and help support LGBTQA+ Midwest students. $5, $10, $25, it all makes a difference!\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://apps.sgdinstitute.org/donations/create'
+                  target: _blank
+                  rel: null
+              -
+                type: bold
+            text: 'Become a donor today'
+          -
+            type: text
+            text: "\_→"
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
+                text: 'Become a Donor'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Get in Touch'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''d love to hear from you to discuss a unique sponsorship opportunity.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'mailto:development@mblgtacc.org'
+                text: 'Get in Touch'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617903154
+updated_at: 1617903958
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
