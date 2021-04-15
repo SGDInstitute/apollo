@@ -1,0 +1,6 @@
+id: 2622337d-825f-4237-ba6d-555a9f6113eb
+enabled: true
+source: /speakers-entertainment/to-be-announced
+destination: /speakers-entertainment/tab
+type: '301'
+match_type: exact
