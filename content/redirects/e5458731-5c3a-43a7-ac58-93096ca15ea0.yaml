@@ -1,0 +1,6 @@
+id: e5458731-5c3a-43a7-ac58-93096ca15ea0
+enabled: true
+source: /speakers-entertainment/to-be-announced-2
+destination: /speakers-entertainment/tba-2
+type: '301'
+match_type: exact
