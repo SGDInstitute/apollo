@@ -2,7 +2,7 @@
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617902202
+updated_at: 1618502603
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -39,8 +39,27 @@ sections:
         content:
           -
             type: text
-            text: 'Register for $85 starting April 26, 2021. Not ready? No problem! Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
-    price: $85
+            text: 'Virtual tickets start at $25 per person. Tickets for in-person participants are $85. Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: null
+                text: 'Register to Attend'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    price: $25
     below_price: 'per person'
     bg_type: color
     num_colors: 2
@@ -48,6 +67,7 @@ sections:
     type: two_column
     enabled: true
     center_columns: false
+    above_price: 'Starting at'
   -
     title: 'Keynote Speakers'
     event: mblgtacc-2021-home
