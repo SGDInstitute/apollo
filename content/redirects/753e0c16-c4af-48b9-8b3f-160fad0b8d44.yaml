@@ -1,0 +1,6 @@
+id: 753e0c16-c4af-48b9-8b3f-160fad0b8d44
+enabled: true
+source: /speakers-entertainment/tab
+destination: /speakers-entertainment/tba
+type: '301'
+match_type: exact
