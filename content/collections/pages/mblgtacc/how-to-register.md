@@ -96,7 +96,7 @@ sections:
         content:
           -
             type: text
-            text: 'Once you reserve tickets, you''ll have the option to download an invoice and pay by check. Checks should be made payable to "Midwest Institute for Sexuality and Gender Diversity" and mailed to P.O. BOX 1053, East Lansing, MI 48826-1053. As soon as we receive your check, your order will be marked as paid.'
+            text: 'Once you reserve tickets, you''ll have the option to download an invoice and pay by check. Checks should be made payable to "Midwest Institute for Sexuality and Gender Diversity" and mailed to P.O. BOX 1053, East Lansing, MI 48826-1053. As soon as we receive your check, your order will be marked as paid. '
       -
         type: heading
         attrs:
@@ -117,12 +117,39 @@ sections:
                 text: 'Reserve Tickets Now'
                 color: btn-green
                 size: btn-lg
-                block: true
+                block: false
                 outline: false
                 target_blank: false
             contain: true
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Need Help?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  target: null
+                  rel: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
       -
         type: heading
         attrs:
@@ -225,37 +252,6 @@ sections:
     type: two_column
     enabled: true
   -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Questions?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Please '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  target: null
-                  rel: null
-            text: 'contact us'
-          -
-            type: text
-            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
-    type: content
-    enabled: true
-  -
     limit: 3
     pagination: false
     exclude: false
@@ -266,6 +262,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618584942
+updated_at: 1618585060
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
