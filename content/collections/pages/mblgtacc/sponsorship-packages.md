@@ -27,7 +27,16 @@ sections:
             text: 'MBLGTACC 2021: From Protest and Beyond Pride'
           -
             type: text
-            text: ' is a commemoration to foundational protests in LGBTQ+ history: Cooper’s Do-nuts, Compton’s Cafeteria, and Stonewall. It is also rooted in Madison’s history of protests and activism both at UW-Madison and throughout the greater community. The connection to the lives of LGBTQ+ peoples extends further and embraces the vibrant experiences of Pride festivals across the nation while focusing forward. *From Protest and Beyond Pride* invites attendees to honor the origins of the LGBTQ+ movement, the accompanying resiliency, embrace the present, while inspiring and energizing others toward an LGBTQ+ inclusive and affirming future; prompting the questions… what’s next? What will these innovative leaders contribute?'
+            text: ' is a commemoration to foundational protests in LGBTQ+ history: Cooper’s Do-nuts, Compton’s Cafeteria, and Stonewall. It is also rooted in Madison’s history of protests and activism both at UW-Madison and throughout the greater community. The connection to the lives of LGBTQ+ peoples extends further and embraces the vibrant experiences of Pride festivals across the nation while focusing forward. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'From Protest and Beyond Pride'
+          -
+            type: text
+            text: ' invites attendees to honor the origins of the LGBTQ+ movement, the accompanying resiliency, embrace the present, while inspiring and energizing others toward an LGBTQ+ inclusive and affirming future; prompting the questions… what’s next? What will these innovative leaders contribute?'
       -
         type: set
         attrs:
@@ -652,6 +661,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617907181
+updated_at: 1618587609
 id: db847b46-c043-41ef-b602-d963a8624cbf
 ---
