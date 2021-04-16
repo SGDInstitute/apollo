@@ -40,6 +40,16 @@ sections:
             text: 'Visit the registration web app and login or create an account. Once you are logged in, select the type and number of tickets you want to reserve. You can reserve a single ticket for yourself, or several tickets for a group.'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Once you select how many tickets you want to reserve, you''ll have the option to assign a name and email address to each ticket. This allows each ticket holder to access the information on their ticket and update their name, pronouns, and other information. You do not need to assign names to tickets at the time of reservation; if a ticket is unassigned, you will receive periodic email reminders to assign tickets to an attendee.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Reservations are valid for 60 days. If your tickets are still unpaid after 60 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 60 days and have not been extended will be automatically deleted.'
       -
         type: heading
         attrs:
@@ -53,7 +63,26 @@ sections:
         content:
           -
             type: text
-            text: .
+            text: 'You can pay for your order with any major credit card. Simply click the "Pay with Card" button. Once the payment is successful, you''ll receive a receipt and confirmation that your order is paid.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'If you have any issues with your credit card payment, please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  target: null
+                  rel: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' and we''ll do our best to troubleshoot.'
       -
         type: heading
         attrs:
@@ -67,7 +96,7 @@ sections:
         content:
           -
             type: text
-            text: .
+            text: 'Once you reserve tickets, you''ll have the option to download an invoice and pay by check. Checks should be made payable to "Midwest Institute for Sexuality and Gender Diversity" and mailed to P.O. BOX 1053, East Lansing, MI 48826-1053. As soon as we receive your check, your order will be marked as paid.'
       -
         type: heading
         attrs:
@@ -157,7 +186,32 @@ sections:
                 target_blank: false
             contain: true
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Questions?'
+      -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  target: null
+                  rel: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
     type: content
     enabled: true
   -
@@ -171,6 +225,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618583654
+updated_at: 1618584385
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
