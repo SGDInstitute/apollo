@@ -2,14 +2,9 @@
 title: About
 sections:
   -
-    background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: About
     type: header
     enabled: true
@@ -62,10 +57,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Registration opens in April 2021'
+                    text: 'Registration opens April 26, 2021'
           -
             type: list_item
             content:
@@ -156,25 +148,6 @@ sections:
             text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.'
       -
         type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: history/mission-history-CONTENT.jpg
-            caption: null
-            inline: true
-            direction: float-right
-            margin_directions: all
-            margin: null
-            margin_top: null
-            margin_right: null
-            margin_bottom: mb-1
-            margin_left: ml-4
-            width: w-1/2
-            margin_direction: all
-      -
-        type: paragraph
         content:
           -
             type: text
@@ -192,36 +165,15 @@ sections:
         type: set
         attrs:
           values:
-            type: 2_columns
-            left_column: content
-            right_column: image
-            left_column_section: null
-            left_image: null
-            left_video: null
-            left_content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
-            right_column_section: null
-            right_image: history/mission-history-CONTENT.jpg
-            right_video: null
-            right_content: null
-            left_caption: null
-            right_caption: 'Blah blah blah'
-            leftimage: null
-            leftcaption: null
+            type: image
+            image: history/mission-history-CONTENT.jpg
+            inline: false
+            direction: float-right
+            margin_directions: all
+            margin_bottom: mb-1
+            margin_left: ml-4
+            width: w-1/2
+            margin_direction: all
       -
         type: paragraph
       -
@@ -237,7 +189,7 @@ sections:
         content:
           -
             type: text
-            text: 'A conference for all of us (convert to content image callout)'
+            text: 'A conference for all of us'
       -
         type: paragraph
         content:
@@ -300,20 +252,14 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1604178611
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1618588071
 id: 59865639-7c77-43d1-a56c-333bc38efccc
 ---
