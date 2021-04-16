@@ -23,6 +23,107 @@ sections:
         content:
           -
             type: text
+            text: 'Ticket Options'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'In Person'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Tickets to attend MBLGTACC 2021 in person are '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '$85 each'
+          -
+            type: text
+            text: '. You''ll have access to all programming taking place at the Monona Terrace conference center '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: and
+          -
+            type: text
+            text: ' digital only programming.Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.In person tickets are available until 11:59 p.m. CT October 1, 2021.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Virtual Only'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Virtual only tickets are available on a sliding scale from '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '$25 to $60 per person'
+          -
+            type: text
+            text: '.We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person.Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                  target: null
+                  rel: null
+            text: schedule
+          -
+            type: text
+            text: ' page.Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'On-Site Registration (In Person)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Tickets to attend MBLGTACC 2021 in person can be purchased on-site during the conference for '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '$100 per person'
+          -
+            type: text
+            text: .
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'How to Register'
       -
         type: heading
@@ -127,6 +228,10 @@ sections:
         type: heading
         attrs:
           level: 2
+      -
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
@@ -150,151 +255,7 @@ sections:
           -
             type: text
             text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Ticket Options'
     type: content
-    enabled: true
-  -
-    column_widths: two_fifths_left
-    left_column: pricing
-    right_column: content
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'In Person'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Tickets to attend MBLGTACC 2021 in person are $85 each. You''ll have access to all programming taking place at the Monona Terrace conference center '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: and
-          -
-            type: text
-            text: ' digital only programming.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In person tickets are available until 11:59 p.m. CT October 1, 2021'
-    price: $85
-    below_price: 'per person'
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-green-500
-    type: two_column
-    enabled: true
-  -
-    column_widths: two_fifths_left
-    left_column: pricing
-    right_column: content
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Virtual Only'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Virtual only tickets are available on a sliding scale from $25 to $60 per person.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We recommend  individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                  target: null
-                  rel: null
-            text: schedule
-          -
-            type: text
-            text: ' page.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
-    above_price: 'Starting at'
-    price: $25
-    below_price: 'per person'
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-500
-    type: two_column
-    enabled: true
-  -
-    column_widths: two_fifths_left
-    left_column: pricing
-    right_column: content
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'On-Site Registration (In Person)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Tickets to attend MBLGTACC 2021 in person can be purchased on-site during the conference for $100 per person.'
-    price: $100
-    below_price: 'per person'
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-green-500
-    type: two_column
     enabled: true
   -
     limit: 3
@@ -307,6 +268,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618587034
+updated_at: 1618591431
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
