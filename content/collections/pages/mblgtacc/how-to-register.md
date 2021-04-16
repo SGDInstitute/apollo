@@ -229,7 +229,13 @@ sections:
         content:
           -
             type: text
-            text: 'Virtual only tickets are available on a sliding scale from $25 to $65 per person.'
+            text: 'Virtual only tickets are available on a sliding scale from $25 to $60 per person.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We recommend  individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person.'
       -
         type: paragraph
         content:
@@ -301,6 +307,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618586453
+updated_at: 1618586748
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
