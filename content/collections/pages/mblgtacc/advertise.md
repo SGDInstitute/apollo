@@ -36,7 +36,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/about/history'
+                  href: 'statamic://entry::5071f79b-1d59-4cd6-92b0-f04b1953ad66'
                   target: null
                   rel: null
             text: 'Find past program guides '
@@ -201,6 +201,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617907052
+updated_at: 1618591520
 id: 8fe5c804-da7c-474e-bf42-75f8dbf3a914
 ---
