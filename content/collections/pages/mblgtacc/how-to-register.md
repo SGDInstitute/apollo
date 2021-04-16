@@ -49,7 +49,7 @@ sections:
         content:
           -
             type: text
-            text: 'Reservations are valid for 60 days. If your tickets are still unpaid after 60 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 60 days and have not been extended will be automatically deleted.'
+            text: 'Reservations are valid for 60 days (or until October 1, 2021). If your tickets are still unpaid after 60 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 60 days and have not been extended will be automatically deleted.'
       -
         type: heading
         attrs:
@@ -179,7 +179,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2021 in person are $85 each. You''ll have access to all programming taking place in the conference center '
+            text: 'Tickets to attend MBLGTACC 2021 in person are $85 each. You''ll have access to all programming taking place at the Monona Terrace conference center '
           -
             type: text
             marks:
@@ -197,6 +197,12 @@ sections:
           -
             type: text
             text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In person tickets are available until 11:59 p.m. CT October 1, 2021'
     price: $85
     below_price: 'per person'
     bg_type: color
@@ -243,12 +249,45 @@ sections:
           -
             type: text
             text: ' page.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
     above_price: 'Starting at'
     price: $25
     below_price: 'per person'
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-500
+    type: two_column
+    enabled: true
+  -
+    column_widths: two_fifths_left
+    left_column: pricing
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'On-Site Registration (In Person)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Tickets to attend MBLGTACC 2021 in person can be purchased on-site during the conference for $100 per person.'
+    price: $100
+    below_price: 'per person'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-500
     type: two_column
     enabled: true
   -
@@ -262,6 +301,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618585060
+updated_at: 1618586453
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
