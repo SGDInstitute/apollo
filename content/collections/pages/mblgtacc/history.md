@@ -308,20 +308,557 @@ sections:
             type: text
             text: 'Past hosts and themes'
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1993 - Iowa State University and Drake University '
+      -
         type: paragraph
         content:
           -
             type: text
-            text: '[INSERT '
+            text: 'First annual MBLGCC'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1994 - Earlham College (Indiana)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Greetings from the 90''s... Wish You Were '
+          -
+            type: text
+            marks:
+              -
+                type: strike
+            text: Here
+          -
+            type: text
+            text: ' Queer'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgcc_1994_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1995 - Southern Illinois University at Carbondale'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Building Queer Success in the Midwest'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1996 - Beloit College (Wisconsin)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Building Queer Success in the Midwest'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1997 - Indiana State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''re Here! We''re Queer! We''re Fabulous!'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1998 - University of Illinois at Chicago'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Across the Fruited Plain'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '1999 - University of Wisconsin-Madison'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Moving Forward, Looking Back'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2000 - Saint Cloud State University (Minnesota)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Making Waves Into the New Millennium'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2001 - University of Illinois at Urbana-Champaign'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2002 - Michigan State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Still Moving Forward'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2002_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2003 - The Ohio State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Loving With Pride'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2004 - Iowa State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Speak Up! Speak Out! Celebrating the Power of Communication to Fight Hate and Fear'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2005 - Saint Cloud State University (Minnesota)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Building the Bridge to Bring It All Together'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2006 - University of South Dakota'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Painting the Rainbow: Celebrating Unity Through Diversity'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2007 - University of Minnesota at Twin Cities'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Alphabet Soup: No Matter The Letter We Stand Together'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2007_program_guide_192c0d66c3e7b1'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2008 - University of Illinois at Urbana-Champaign'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Voting for Change: Liberty and Justice For All'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2008_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2009 - Indiana University Bloomington'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Living Out Loud: Examining Our Past to Enhance Our Future'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2009_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2010 - University of Wisconsin-Madison'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Get Real! Confronting Privilege, Provoking Dialogue and Building New Foundations'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2010_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2011 - University of Michigan'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Justice or Just Us? Achieving Liberty for All'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2011_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2012 - Iowa State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Butterfly Effect: Evolution to Revolution'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2012_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2013 - Michigan State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mosaic: Putting the Pieces Together'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2014 - University of Missouri-Kansas City'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Jazzin'' It Up'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2015 - Illinois State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Narrating a New Normal'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2016 - Purdue University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Introspection at the Crossroads'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2017 - Chicago Coalition of Queer and Allied Students '
+      -
+        type: paragraph
+        content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: TABLE
+            text: '(DePaul University, Loyola University Chicago, Northeastern Illinois University)'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: ']'
+            text: 'United in Solidarity'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2018 - University of Nebraska-Omaha'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'All Roads Lead to Intersectionality'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2019 - Wichita State University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Beyond the Rainbow and to the Stars'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2020 - Western Michigan University'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Envisioning a Future Together'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2021 - University of Wisconsin-Madison'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'From Protest and Beyond Pride'
     type: content
     enabled: true
   -
@@ -379,22 +916,16 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603934530
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1618589221
 id: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
 ---
