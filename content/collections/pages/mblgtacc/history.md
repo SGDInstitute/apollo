@@ -1026,17 +1026,17 @@ sections:
             text: 'Were you an early MBGLCC, MBLGCC, or MBLGTCC planner?'
           -
             type: text
-            text: ' Connect with '
+            text: ' '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/about/leadership/noah-barth'
-                  target: _blank
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  target: null
                   rel: null
-            text: Noah
+            text: 'Connect with us'
           -
             type: text
             text: ' about our MBLGTACC history project.'
@@ -1054,6 +1054,6 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618589439
+updated_at: 1618589515
 id: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
 ---
