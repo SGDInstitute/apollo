@@ -576,12 +576,12 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Bids to host the 30th annual conference in 2022 have now closed. A selection will be formally announced in February 2021.'
+            text: 'Bids to host the 30th annual conference in 2022 have now closed. A selection will be formally announced in Summer 2021.'
     type: content
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617665048
+updated_at: 1618589563
 id: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
 ---
