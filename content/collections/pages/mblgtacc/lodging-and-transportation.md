@@ -20,11 +20,11 @@ sections:
         content:
           -
             type: text
-            text: 'Several hotels in Madison, Wisconsin are offering special rates for MBLGTACC 2021 attendees. Pleas note, the quoted rates do not include taxes or fees. Please contact the hotels directly for more information about taxes and fees.'
+            text: 'Several hotels in Madison, Wisconsin are offering special rates for MBLGTACC 2021 attendees. Please note, the quoted rates do not include taxes or fees. Please contact the hotels directly for more information about taxes and fees.'
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -103,7 +103,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -170,7 +170,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -235,13 +235,15 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
             text: 'Holiday Inn Express & Suites'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
@@ -341,7 +343,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617907390
+updated_at: 1618591648
 template: default
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 ---
