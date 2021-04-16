@@ -104,15 +104,49 @@ sections:
         content:
           -
             type: text
-            text: 'Ticket Options'
+            text: ' '
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: null
+                text: 'Reserve Tickets Now'
+                color: btn-green
+                size: btn-lg
+                block: true
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
-            text: In-Person
+            text: 'Ticket Options'
+    type: content
+    enabled: true
+  -
+    column_widths: two_fifths_left
+    left_column: pricing
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'In Person'
       -
         type: paragraph
         content:
@@ -136,10 +170,23 @@ sections:
           -
             type: text
             text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.'
+    price: $85
+    below_price: 'per person'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-500
+    type: two_column
+    enabled: true
+  -
+    column_widths: two_fifths_left
+    left_column: pricing
+    right_column: content
+    center_columns: false
+    bard:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -169,22 +216,16 @@ sections:
           -
             type: text
             text: ' page.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: null
-                text: 'Reserve Tickets Now'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
+    above_price: 'Starting at'
+    price: $25
+    below_price: 'per person'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-500
+    type: two_column
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -225,6 +266,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618584385
+updated_at: 1618584814
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
