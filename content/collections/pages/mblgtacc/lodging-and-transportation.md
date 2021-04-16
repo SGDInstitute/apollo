@@ -24,7 +24,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -34,7 +34,17 @@ sections:
         content:
           -
             type: text
-            text: 'Address: 9 E Wilson St, Madison, WI 53703'
+            text: 'Address: '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://g.page/Hilton-Madison?share'
+                  target: _blank
+                  rel: null
+            text: '9 E Wilson St, Madison, WI 53703'
       -
         type: paragraph
         content:
@@ -69,7 +79,7 @@ sections:
                   - '75'
                   - '$159-189*'
                   - 9/6/2021
-            full_width: false
+            full_width: true
       -
         type: paragraph
         content:
@@ -103,7 +113,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -113,7 +123,17 @@ sections:
         content:
           -
             type: text
-            text: 'Address: 1 W Dayton St, Madison, WI 53703'
+            text: 'Address: '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://goo.gl/maps/mBcwrLw8mUQ7odv26'
+                  target: _blank
+                  rel: null
+            text: '1 W Dayton St, Madison, WI 53703'
       -
         type: paragraph
       -
@@ -136,7 +156,7 @@ sections:
                   - '100'
                   - $179
                   - 9/10/2021
-            full_width: false
+            full_width: true
       -
         type: paragraph
       -
@@ -170,7 +190,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -180,9 +200,17 @@ sections:
         content:
           -
             type: text
-            text: 'Address: 706 John Nolen Dr, Madison, WI 53713'
-      -
-        type: paragraph
+            text: 'Address: '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://g.page/SheratonMadison?share'
+                  target: _blank
+                  rel: null
+            text: '706 John Nolen Dr, Madison, WI 53713'
       -
         type: set
         attrs:
@@ -209,7 +237,7 @@ sections:
                   - '90'
                   - $149
                   - 9/10/2021
-            full_width: false
+            full_width: true
       -
         type: set
         attrs:
@@ -235,21 +263,27 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
             text: 'Holiday Inn Express & Suites'
       -
-        type: heading
-        attrs:
-          level: 2
+        type: paragraph
         content:
           -
             type: text
-            text: 'Address: 610 John Nolen Dr, Madison, WI 53713'
-      -
-        type: paragraph
+            text: 'Address: '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://goo.gl/maps/AcLRhmLBtwasKNZA9'
+                  target: _blank
+                  rel: null
+            text: '610 John Nolen Dr, Madison, WI 53713'
       -
         type: set
         attrs:
@@ -276,7 +310,7 @@ sections:
                   - '10'
                   - $129
                   - 9/8/2021
-            full_width: false
+            full_width: true
       -
         type: set
         attrs:
@@ -343,7 +377,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618591648
+updated_at: 1618591952
 template: default
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 ---
