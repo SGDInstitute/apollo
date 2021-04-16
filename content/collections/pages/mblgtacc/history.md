@@ -739,6 +739,22 @@ sections:
             type: text
             text: 'Mosaic: Putting the Pieces Together'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2013_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
         type: heading
         attrs:
           level: 3
@@ -752,6 +768,22 @@ sections:
           -
             type: text
             text: 'Jazzin'' It Up'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2014_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: heading
         attrs:
@@ -767,6 +799,22 @@ sections:
             type: text
             text: 'Narrating a New Normal'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2015_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
         type: heading
         attrs:
           level: 3
@@ -780,6 +828,22 @@ sections:
           -
             type: text
             text: 'Introspection at the Crossroads'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2016_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: heading
         attrs:
@@ -804,6 +868,22 @@ sections:
             type: text
             text: 'United in Solidarity'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2017_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
         type: heading
         attrs:
           level: 3
@@ -817,6 +897,22 @@ sections:
           -
             type: text
             text: 'All Roads Lead to Intersectionality'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2018_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: heading
         attrs:
@@ -832,6 +928,22 @@ sections:
             type: text
             text: 'Beyond the Rainbow and to the Stars'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2019_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
         type: heading
         attrs:
           level: 3
@@ -845,6 +957,22 @@ sections:
           -
             type: text
             text: 'Envisioning a Future Together'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2020_program_guide'
+                text: 'View Program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: heading
         attrs:
@@ -926,6 +1054,6 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618589221
+updated_at: 1618589439
 id: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
 ---
