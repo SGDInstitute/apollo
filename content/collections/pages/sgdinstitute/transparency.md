@@ -119,6 +119,22 @@ sections:
                               -
                                 type: link
                                 attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2020-990.pdf'
+                                  target: _blank
+                                  rel: null
+                            text: '2020 990-EZ'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
                                   href: 'https://sgdinstitute.org/assets/transparency/990/2019-990.pdf'
                                   target: _blank
                                   rel: null
@@ -212,7 +228,7 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617468786
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1618848317
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 ---
