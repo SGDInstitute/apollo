@@ -77,7 +77,6 @@ sections:
           display: 'Confirm Submission'
           type: checkboxes
           icon: checkboxes
-          instructions: 'I grant permission to the Midwest Institute for Sexuality and Gender Diversity to use the submitted text and/or images in promotional materials, news releases, and/or other publications. These materials may include, but are not limited to, printed or electronic publications, websites, or other electronic communications. I further agree that my name and identity may be revealed in descriptive text or commentary in connection with my submission. I authorize the use of submitted text and/or images without compensation to me.'
           listable: hidden
           validate:
             - required
