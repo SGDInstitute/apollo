@@ -2,7 +2,7 @@
 title: 'MBLGTACC Alumnx'
 sections:
   -
-    header_image: headers/header-hug.JPG
+    header_image: headers/header_open-mic.jpg
     title: 'MBLGTACC Alumnx'
     subtitle: 'Alumnx of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: false
@@ -174,6 +174,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618849784
+updated_at: 1618849825
 id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
 ---
