@@ -2,7 +2,7 @@
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619111048
+updated_at: 1619111227
 sections:
   -
     bg_type: image
@@ -33,6 +33,12 @@ sections:
           -
             type: text
             text: 'Please know that this schedule may be adjusted slightly as details are confirmed. All times listed in Central Daylight Time.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Most programming will be available both in-person and virtually. Additional details will be posted on this page as they are finalized.'
       -
         type: heading
         attrs:
