@@ -80,7 +80,7 @@ sections:
             text: '$25 to $60 per person'
           -
             type: text
-            text: '.We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person.Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
+            text: '. We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person. Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
           -
             type: text
             marks:
@@ -93,7 +93,7 @@ sections:
             text: schedule
           -
             type: text
-            text: ' page.Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
+            text: ' page. Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
       -
         type: heading
         attrs:
@@ -268,6 +268,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618591431
+updated_at: 1619199475
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
