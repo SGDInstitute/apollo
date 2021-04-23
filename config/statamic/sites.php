@@ -22,7 +22,7 @@ return [
         'mblgtacc' => [
             'name' => 'MBLGTACC',
             'locale' => 'en_US',
-            'url' => 'mblgtacc.org',
+            'url' => '/',
         ],
     ],
 ];
