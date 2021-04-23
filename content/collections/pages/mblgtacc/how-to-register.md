@@ -57,7 +57,13 @@ sections:
             text: and
           -
             type: text
-            text: ' digital only programming.Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.In person tickets are available until 11:59 p.m. CT October 1, 2021.'
+            text: ' digital only programming.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.In person tickets are available until 11:59 p.m. CT October 1, 2021.'
       -
         type: heading
         attrs:
@@ -80,7 +86,13 @@ sections:
             text: '$25 to $60 per person'
           -
             type: text
-            text: '. We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person. Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
+            text: '. We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
           -
             type: text
             marks:
@@ -268,6 +280,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619199475
+updated_at: 1619199800
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 ---
