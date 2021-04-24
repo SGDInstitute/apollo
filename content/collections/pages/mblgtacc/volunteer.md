@@ -1,15 +1,12 @@
 ---
+id: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
+published: false
 title: Volunteer
 sections:
   -
-    background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: Volunteer
     type: header
     enabled: true
@@ -121,6 +118,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
@@ -200,6 +198,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+                button: null
               -
                 link: null
                 text: 'Sign-up to volunteer'
@@ -208,6 +207,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+                button: null
             contain: true
     type: content
     enabled: true
@@ -244,21 +244,14 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603935372
-id: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1619276146
 ---
