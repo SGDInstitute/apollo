@@ -1,14 +1,14 @@
 <section class="mb-4">
     {{ if bg_type === 'image' }}
-    <div class="bg-center bg-no-repeat bg-cover h-96" style="background-image: url({{ bg_image }})">
+    <div class="bg-center bg-no-repeat bg-cover h-60 md:h-96" style="background-image: url({{ bg_image }})">
     {{ elseif bg_type === 'color' }}
-    <div class="h-96 ">
+    <div class="h-60 md:h-96 ">
     {{ elseif bg_type === 'gradient' }}
-    <div class="h-96 ">
+    <div class="h-60 md:h-96 ">
     {{ /if }}
     {{# breadcrumbs w/ overlay #}}
     </div>
-    <div class="w-2/3 px-8 py-4 -mt-6 bg-yellow-300">
+    <div class="w-4/5 px-8 py-4 -mt-6 bg-yellow-300 md:w-2/3">
         <h1 class="text-4xl text-gray-700 font-news-cycle">{{ title }}</h1>
     </div>
 </section>
