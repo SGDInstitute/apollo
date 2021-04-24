@@ -1,4 +1,6 @@
 ---
+id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+published: false
 title: 'Organize a Delegation'
 sections:
   -
@@ -19,21 +21,14 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606779978
-id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1619275932
 ---
