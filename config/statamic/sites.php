@@ -17,13 +17,12 @@ return [
         'sgdinstitute' => [
             'name' => 'SGD Institute',
             'locale' => 'en_US',
-            'url' => '/',
+            'url' => env('APP_URL'),
         ],
         'mblgtacc' => [
             'name' => 'MBLGTACC',
             'locale' => 'en_US',
-            'domain' => 'mblgtacc.org',
-            'url' => '/',
+            'url' => env('MBLGTACC_URL'),
         ],
     ],
 ];
