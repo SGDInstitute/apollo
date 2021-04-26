@@ -1,4 +1,5 @@
 ---
+id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
 title: 'How to Register'
 sections:
   -
@@ -63,7 +64,7 @@ sections:
         content:
           -
             type: text
-            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses.In person tickets are available until 11:59 p.m. CT October 1, 2021.'
+            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. CT October 1, 2021.'
       -
         type: heading
         attrs:
@@ -280,6 +281,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619200008
-id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
+updated_at: 1619444792
 ---
