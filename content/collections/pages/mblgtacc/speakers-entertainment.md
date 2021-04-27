@@ -1,12 +1,13 @@
 ---
+id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619111379
+updated_at: 1619529345
 sections:
   -
     bg_type: image
-    bg_image: headers/blurry-background.jpg
+    bg_image: headers/Header_Entertainment.jpg
     num_colors: 2
     bg_color: bg-green-600
     title: 'Look who''s coming to MBLGTACC'
@@ -42,5 +43,4 @@ sections:
     type: news
     enabled: true
 template: default
-id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
 ---
