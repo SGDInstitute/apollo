@@ -1,18 +1,14 @@
 ---
+id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603935702
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1619530570
 sections:
   -
-    background: null
     bg_type: image
-    bg_image: headers/blurry-background.jpg
+    bg_image: headers/header_group.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
-    bg_color: null
     title: 'Present at MBLGTACC 2021'
     type: header
     enabled: true
@@ -60,6 +56,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                button: null
             contain: true
     type: content
     enabled: true
@@ -121,20 +118,13 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 template: default
-id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 ---
 Hello world
