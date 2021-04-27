@@ -16,7 +16,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Registration for MBLGTACC 2021 opens April 26, 2021.'
+            text: 'Registration for MBLGTACC 2021 opens April 28, 2021.'
       -
         type: heading
         attrs:
@@ -281,5 +281,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619444792
+updated_at: 1619485441
 ---
