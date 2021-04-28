@@ -3,7 +3,7 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619485425
+updated_at: 1619615665
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -11,7 +11,7 @@ sections:
     subtitle: 'Hosted by the University of Wisconsin-Madison and Edgewood College communities in Madison, Wisconsin'
     has_tag: true
     tag: '29th Annual MBLGTACC  |  October 8-10, 2021'
-    link: 'https://apps.sgdinstitute.org/'
+    link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
     text: 'Register Now'
     color: btn-green
     size: btn-xl
@@ -20,7 +20,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: false
+    has_button: true
   -
     id: pricing
     column_widths: two_fifths_left
