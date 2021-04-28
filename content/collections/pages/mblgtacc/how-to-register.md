@@ -9,15 +9,6 @@ sections:
   -
     bard:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Registration for MBLGTACC 2021 opens April 28, 2021.'
-      -
         type: heading
         attrs:
           level: 2
@@ -227,7 +218,7 @@ sections:
             buttons:
               -
                 button: null
-                link: null
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
                 text: 'Reserve Tickets Now'
                 color: btn-green
                 size: btn-lg
@@ -281,5 +272,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619485441
+updated_at: 1619615886
 ---
