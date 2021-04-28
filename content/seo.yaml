@@ -1,0 +1,10 @@
+title: '@seo:title'
+description: 'MBLGTACC is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond. To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students and it remains proudly student-run.'
+site_name: MBLGTACC
+site_name_position: after
+site_name_separator: '|'
+canonical_url: '@seo:permalink'
+image: false
+twitter_handle: '@mblgtacc'
+priority: 0.5
+change_frequency: monthly
