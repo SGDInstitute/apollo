@@ -3,7 +3,7 @@ id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619530570
+updated_at: 1619804895
 sections:
   -
     bg_type: image
@@ -49,8 +49,8 @@ sections:
             type: buttons
             buttons:
               -
-                link: null
-                text: 'Workshop apps not yet open'
+                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2021-workshop-proposal'
+                text: 'Submit a Proposal'
                 color: btn-green
                 size: btn-lg
                 block: false
