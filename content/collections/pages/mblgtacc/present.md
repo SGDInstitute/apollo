@@ -3,7 +3,7 @@ id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619804895
+updated_at: 1620052011
 sections:
   -
     bg_type: image
@@ -40,6 +40,12 @@ sections:
           -
             type: text
             text: 'Proposals are reviewed by a committee comprising students, staff, and advisors. By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Proposals to present a workshop at MBLGTACC 2021 will be accepted until 11:59 p.m. CT on July 15, 2021.'
       -
         type: paragraph
       -
