@@ -1,4 +1,5 @@
 ---
+id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
 title: Transparency
 sections:
   -
@@ -35,6 +36,27 @@ sections:
             left_column: content
             right_column: content
             left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: '2019-20 annual report and financials'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://issuu.com/sgdinstitute/docs/annual-report-2020'
+                          target: _blank
+                          rel: null
+                    text: 'View on Issuu →'
               -
                 type: heading
                 attrs:
@@ -228,7 +250,6 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618848317
-id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1620163919
 ---
