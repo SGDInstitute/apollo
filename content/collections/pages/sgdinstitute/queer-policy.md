@@ -40,7 +40,7 @@ sections:
         content:
           -
             type: text
-            text: 'Join us for a discussion with Katie Barnes, feature writer as ESPN, Chris Mosier, Olympic athlete and founder of TransAthlete.com, and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
+            text: 'Join us for a discussion with Katie Barnes, feature writer at ESPN; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
           -
             type: text
             marks:
@@ -96,7 +96,34 @@ sections:
         content:
           -
             type: text
-            text: 'Katie Barnes (they/them) is a feature writer at ESPN, covering culture, LGBTQ issues, women’s basketball, collegiate softball and women’s combat sports. Since joining ESPN, Barnes has written on a variety of topics, such as transgender athletes, racial justice and Hollywood stunt doubles. Their articles on high school transgender athletes have earned them two GLAAD Award nominations. They were also a producer on the 30 for 30 short Mack Wrestles. Barnes holds a B.A. in History, Russian Studies and American Studies from St. Olaf College, and an M.S. in Student Affairs and Higher Education from Miami University (OH). They were the 2017 NLGJA: The Association of LGBTQ Journalists Journalist of the year.'
+            text: 'Katie Barnes (they/them) is a feature writer at '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ESPN
+          -
+            type: text
+            text: ', covering culture, LGBTQ issues, women’s basketball, collegiate softball and women’s combat sports. Since joining '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ESPN
+          -
+            type: text
+            text: ', Barnes has written on a variety of topics, such as transgender athletes, racial justice and Hollywood stunt doubles. Their articles on high school transgender athletes have earned them two GLAAD Award nominations. They were also a producer on the 30 for 30 short '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Mack Wrestles'
+          -
+            type: text
+            text: '. Barnes holds a BA in history, Russian studies and American studies from St. Olaf College, and an MS in student affairs and higher education from Miami University (OH). They were named the 2017 Journalist of the Year by The Association of LGBTQ Journalists.'
       -
         type: heading
         attrs:
@@ -124,7 +151,66 @@ sections:
         content:
           -
             type: text
-            text: 'Chris Mosier (he/him) is a trailblazing athlete, coach, and founder of TransAthlete.com. In 2020 he made history by becoming the first transgender athlete to compete in the Olympic Trials in the gender with which they identify. Prior to that, in 2015 he became the first openly trans man to make a Men''s US National Team. Following the national championship race, he was instrumental in getting the International Olympic Committee policy on transgender athletes changed, and in June 2016 he became the first trans athlete to compete in a world championship race under the new rules. Chris is a six-time member of Team USA, representing the United States in the sprint triathlon and the short course and long course duathlon, a two-time Men''s National Champion, and a Men''s All-American. Chris is also a nationally recognized four-time Ironman triathlete, and inductee into the National Gay and Lesbian Sports Hall of Fame. He is sponsored by Nike and has been featured in multiple global Nike campaigns. Chris has been featured in publications including ESPN The Magazine, The New York Times, Wall Street Journal, Rolling Stone, Esquire, and more.  Chris''s website transathlete.com is the go-to source for information about transgender athletes in sport. Chris has written and advocated for change in policies from the high school level to national governing bodies and professional leagues. He has become one of the leading grassroots organizers against the current wave of anti-trans legislation across the United States, and when not fighting the good fight, he mentors transgender and non-binary athletes around the world in hopes that he can live by his motto of "be who you needed when you were younger."'
+            text: 'Chris Mosier (he/him) is a trailblazing athlete, coach, and founder of '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://TransAthlete.com'
+                  rel: null
+                  target: null
+                  title: null
+            text: TransAthlete.com
+          -
+            type: text
+            text: '. In 2020 he made history by becoming the first transgender athlete to compete in the Olympic Trials in the gender with which they identify. Prior to that, in 2015 he became the first openly trans man to make a Men''s US National Team. Following the national championship race, he was instrumental in getting the International Olympic Committee policy on transgender athletes changed, and in June 2016 he became the first trans athlete to compete in a world championship race under the new rules. Chris is a six-time member of Team USA, representing the United States in the sprint triathlon and the short course and long course duathlon, a two-time Men''s National Champion, and a Men''s All-American. Chris is also a nationally recognized four-time Ironman triathlete, and inductee into the National Gay and Lesbian Sports Hall of Fame. He is sponsored by Nike and has been featured in multiple global Nike campaigns. Chris has been featured in publications including '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'ESPN The Magazine'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'The New York Times,'
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Wall Street Journal'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Rolling Stone'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: Esquire
+          -
+            type: text
+            text: ', and more.  Chris''s website transathlete.com is the go-to source for information about transgender athletes in sport. Chris has written and advocated for change in policies from the high school level to national governing bodies and professional leagues. He has become one of the leading grassroots organizers against the current wave of anti-trans legislation across the United States, and when not fighting the good fight, he mentors transgender and non-binary athletes around the world in hopes that he can live by his motto of "be who you needed when you were younger."'
     type: content
     enabled: true
   -
@@ -237,5 +323,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625780526
+updated_at: 1625781447
 ---
