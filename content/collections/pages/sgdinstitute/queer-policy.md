@@ -6,7 +6,7 @@ sections:
   -
     header_image: headers/blurry-background.jpg
     title: 'Trans policy issues: Why are we talking about sports?'
-    has_tag: false
+    has_tag: true
     has_button: true
     link: 'https://docs.google.com/forms/d/e/1FAIpQLSci9vvo4vFmTW25tpZCm0aUrPTvl50ddPYazgk4-vFsQ8wvtQ/viewform'
     text: 'Register for a reminder'
@@ -17,6 +17,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
+    tag: 'Queer Policy Series'
   -
     bard:
       -
@@ -216,5 +217,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625779673
+updated_at: 1625779724
 ---
