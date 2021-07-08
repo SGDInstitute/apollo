@@ -40,7 +40,16 @@ sections:
         content:
           -
             type: text
-            text: 'Join us for a discussion with Katie Barnes, feature writer at ESPN; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
+            text: 'Join us for a discussion with Katie Barnes, feature writer at '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ESPN
+          -
+            type: text
+            text: '; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
           -
             type: text
             marks:
@@ -114,7 +123,21 @@ sections:
             text: ESPN
           -
             type: text
-            text: ', Barnes has written on a variety of topics, such as transgender athletes, racial justice and Hollywood stunt doubles. Their articles on high school transgender athletes have earned them two GLAAD Award nominations. They were also a producer on the 30 for 30 short '
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://kebarnes.com/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Barnes
+          -
+            type: text
+            text: ' has written on a variety of topics, such as transgender athletes, racial justice and Hollywood stunt doubles. Their articles on high school transgender athletes have earned them two GLAAD Award nominations. They were also a producer on the 30 for 30 short '
           -
             type: text
             marks:
@@ -137,7 +160,21 @@ sections:
         content:
           -
             type: text
-            text: 'Naomi Goldberg (she/her) has worked for 14 years in the LGBTQ movement as a researcher and policy expert. She’s the deputy director and LGBTQ program director at the Movement Advancement Project, which works to speed equality and opportunity for all through messaging and communications, policy analysis, and collaboration.  Her team tracks LGBTQ laws and policies across the states, authors reports about key LGBTQ issues, and frequently partners with leading LGBTQ and progressive organizations to draw attention to how issues of nondiscrimination, religious exemptions, and equality impact LGBTQ people, their families, and all people in the United States. She received her MPP from the Ford School of Public Policy and is an avid Michigan sports fan.'
+            text: 'Naomi Goldberg (she/her) has worked for 14 years in the LGBTQ movement as a researcher and policy expert. She’s the deputy director and LGBTQ program director at the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.lgbtmap.org/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Movement Advancement Project'
+          -
+            type: text
+            text: ', which works to speed equality and opportunity for all through messaging and communications, policy analysis, and collaboration.  Her team tracks LGBTQ laws and policies across the states, authors reports about key LGBTQ issues, and frequently partners with leading LGBTQ and progressive organizations to draw attention to how issues of nondiscrimination, religious exemptions, and equality impact LGBTQ people, their families, and all people in the United States. She received her MPP from the Ford School of Public Policy and is an avid Michigan sports fan.'
       -
         type: heading
         attrs:
@@ -323,5 +360,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625781447
+updated_at: 1625781542
 ---
