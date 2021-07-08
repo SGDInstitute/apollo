@@ -22,20 +22,39 @@ sections:
   -
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'July 20, 2021, 4:00-5:00 pm EDT'
+      -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Trans rights are currently being challenged at all levels of government. This event will discuss issues and policies related to trans rights and what is happening on the ground now. The panelists will also talk about why sports have been a key issue—why the freedom to compete is about much more than sports. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Join us for a discussion with Katie Barnes, feature writer as ESPN, Chris Mosier, Olympic athlete and founder of TransAthlete.com, and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project.'
+            text: 'Join us for a discussion with Katie Barnes, feature writer as ESPN, Chris Mosier, Olympic athlete and founder of TransAthlete.com, and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://docs.google.com/forms/d/e/1FAIpQLSci9vvo4vFmTW25tpZCm0aUrPTvl50ddPYazgk4-vFsQ8wvtQ/viewform'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Register for a reminder'
+          -
+            type: text
+            text: ' or visit this page again after 3pm on the day of the event.'
       -
         type: paragraph
         content:
@@ -218,5 +237,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625779960
+updated_at: 1625780290
 ---
