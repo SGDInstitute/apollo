@@ -18,6 +18,7 @@ sections:
     type: header_large
     enabled: true
     tag: 'Queer Policy Series'
+    subtitle: 'A conversation with Katie Barnes, Chris Mosier, and Naomi Goldberg'
   -
     bard:
       -
@@ -217,5 +218,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625779724
+updated_at: 1625779960
 ---
