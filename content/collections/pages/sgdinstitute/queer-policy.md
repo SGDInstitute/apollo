@@ -73,7 +73,7 @@ sections:
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
-            caption: 'Trans policy issues: Why are we talking about sports?'
+            caption: 'Stream live on July 20 at 4pm EDT/5pm CDT'
       -
         type: paragraph
     type: content
@@ -366,5 +366,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626713156
+updated_at: 1626713207
 ---
