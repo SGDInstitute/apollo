@@ -27,7 +27,7 @@ sections:
         content:
           -
             type: text
-            text: 'July 20, 2021, 4:00-5:00 pm EDT'
+            text: 'July 20, 2021, 4:00-5:00 pm EDT (3:00-4:00 pm CDT)'
       -
         type: paragraph
         content:
@@ -359,5 +359,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1625857313
+updated_at: 1626712033
 ---
