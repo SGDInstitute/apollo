@@ -7,8 +7,8 @@ sections:
     title: 'Trans policy issues: Why are we talking about sports?'
     has_tag: true
     has_button: true
-    link: 'https://docs.google.com/forms/d/e/1FAIpQLSci9vvo4vFmTW25tpZCm0aUrPTvl50ddPYazgk4-vFsQ8wvtQ/viewform'
-    text: 'Register for a reminder'
+    link: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
+    text: 'Watch on YouTube'
     color: btn-green
     size: btn-lg
     block: false
@@ -48,27 +48,34 @@ sections:
             text: ESPN
           -
             type: text
-            text: '; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://docs.google.com/forms/d/e/1FAIpQLSci9vvo4vFmTW25tpZCm0aUrPTvl50ddPYazgk4-vFsQ8wvtQ/viewform'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'Register for a reminder'
-          -
-            type: text
-            text: ' or visit this page again after 3pm on the day of the event.'
+            text: '; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project.'
       -
         type: paragraph
         content:
           -
             type: text
             text: 'This event is co-sponsored by the Gerald R. Ford School of Public Policy at the University of Michigan.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Watch on YouTube'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
+            caption: 'Trans policy issues: Why are we talking about sports?'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -359,5 +366,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626712033
+updated_at: 1626713156
 ---
