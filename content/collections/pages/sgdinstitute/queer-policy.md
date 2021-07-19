@@ -73,9 +73,27 @@ sections:
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
-            caption: 'Stream live on July 20 at 4pm EDT/5pm CDT'
+            caption: 'Trans policy issues: Why are we talking about sports?'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Stream will go live on July 20 at 4pm EDT / 5pm CDT. Return here to watch or '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'set a reminder on YouTube'
+          -
+            type: text
+            text: .
     type: content
     enabled: true
   -
@@ -366,5 +384,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626713207
+updated_at: 1626713306
 ---
