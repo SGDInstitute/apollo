@@ -3,7 +3,7 @@ id: 857e03a1-fd97-468a-afd6-86fc7331ff87
 title: 'Queer Policy Series'
 sections:
   -
-    header_image: headers/policyevent-hero-july2019-01.jpg
+    header_image: headers/queer-policy-event-july2021-hero-01.jpg
     title: 'Trans policy issues: Why are we talking about sports?'
     has_tag: true
     has_button: true
@@ -384,5 +384,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626798964
+updated_at: 1626799060
 ---
