@@ -1,4 +1,5 @@
 ---
+id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
 title: Programs
 sections:
   -
@@ -6,13 +7,9 @@ sections:
     type: header_small
     enabled: true
   -
-    background: null
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-black
     title: Programs
     type: header
@@ -41,8 +38,9 @@ sections:
                 type: link
                 attrs:
                   href: /about/philosophy
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'guiding philosophy'
           -
             type: text
@@ -54,8 +52,9 @@ sections:
                 type: link
                 attrs:
                   href: /about/mission
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'mission, vision, and values'
           -
             type: text
@@ -67,8 +66,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:rb@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'R.B. Brooks'
           -
             type: text
@@ -91,12 +91,6 @@ sections:
             inline: false
             direction: float-left
             width: w-1/2
-            margin_direction: null
-            margin: null
-            margin_top: null
-            margin_right: null
-            margin_bottom: null
-            margin_left: null
       -
         type: heading
         attrs:
@@ -133,6 +127,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+                button: null
             contain: true
     type: content
     enabled: true
@@ -162,6 +157,58 @@ sections:
             buttons:
               -
                 link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+                text: 'Learn more'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+                button: null
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Queer Policy Series'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Queer Policy Series is designed to bring diverse audiences together to examine policies at various levels that impact queer and trans students and youth, and that introduce tools and frameworks for effecting policy changes that embrace and affirm diverse sexualities and genders. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our inaugural event, "Trans policy issues: Why are we talking about sports?," brings into conversation Katie Barnes, feature writer for '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ESPN
+          -
+            type: text
+            text: '; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ programs director of the Movement Advancement Project.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::857e03a1-fd97-468a-afd6-86fc7331ff87'
                 text: 'Learn more'
                 color: btn-green
                 size: btn-lg
@@ -213,26 +260,16 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
-    above_price: null
-    price: null
-    below_price: null
     image: mblgtacc-2018-candid1-1090x681.jpg
-    caption: null
-    video: null
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1608079628
-id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
+updated_at: 1626805926
 ---
