@@ -79,20 +79,17 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
+                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
                   rel: null
                   target: null
                   title: null
-            text: 'set a reminder on YouTube'
-          -
-            type: text
-            text: .
+            text: 'set a reminder on YouTube.'
       -
         type: set
         attrs:
           values:
             type: video
-            video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
+            video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
             caption: 'Trans policy issues: Why are we talking about sports?'
     type: content
     enabled: true
@@ -384,5 +381,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626799446
+updated_at: 1626805297
 ---
