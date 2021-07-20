@@ -27,6 +27,42 @@ sections:
         content:
           -
             type: text
+            text: 'Watch on YouTube'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'set a reminder on YouTube.'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
+            caption: 'Trans policy issues: Why are we talking about sports?'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'July 20, 2021, 4:00-5:00 pm EDT (3:00-4:00 pm CDT)'
       -
         type: paragraph
@@ -55,42 +91,6 @@ sections:
           -
             type: text
             text: 'This event is co-sponsored by the Gerald R. Ford School of Public Policy at the University of Michigan.'
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Watch on YouTube'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'set a reminder on YouTube.'
-      -
-        type: set
-        attrs:
-          values:
-            type: video
-            video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
-            caption: 'Trans policy issues: Why are we talking about sports?'
     type: content
     enabled: true
   -
@@ -381,5 +381,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626805297
+updated_at: 1626805357
 ---
