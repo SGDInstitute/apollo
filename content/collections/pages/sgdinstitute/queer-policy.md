@@ -48,7 +48,7 @@ sections:
             text: ESPN
           -
             type: text
-            text: '; Chris Mosier, Olympic athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project.'
+            text: '; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project.'
       -
         type: paragraph
         content:
@@ -72,7 +72,7 @@ sections:
         content:
           -
             type: text
-            text: 'Stream will go live on July 20 at 4pm EDT / 5pm CDT. Return here to watch or '
+            text: 'Stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
           -
             type: text
             marks:
@@ -384,5 +384,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626713328
+updated_at: 1626787614
 ---
