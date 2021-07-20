@@ -27,13 +27,13 @@ sections:
         content:
           -
             type: text
-            text: 'Watch on YouTube'
+            text: Watch
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
+            text: 'The stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
           -
             type: text
             marks:
@@ -381,5 +381,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626805357
+updated_at: 1626805393
 ---
