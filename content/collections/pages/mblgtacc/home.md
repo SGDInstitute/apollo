@@ -1,9 +1,8 @@
 ---
-id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619615665
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1627611451
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -34,7 +33,7 @@ sections:
         content:
           -
             type: text
-            text: 'Registration opens April 28, 2021'
+            text: 'Registration is Open'
       -
         type: paragraph
         content:
@@ -100,5 +99,6 @@ sections:
     type: news
     enabled: true
 template: default
+id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 ---
 Hello world
