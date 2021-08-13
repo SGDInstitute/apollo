@@ -1,9 +1,8 @@
 ---
-id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619530227
+updated_at: 1628878338
 sections:
   -
     bg_type: image
@@ -68,8 +67,8 @@ sections:
                   - TBD
               -
                 cells:
-                  - '4:00 p.m. - 7:00 p.m.'
-                  - 'Social & Entertainment Spaces'
+                  - '5:00 p.m. - 7:00 p.m.'
+                  - 'Pre-Conference Programming'
                   - TBD
               -
                 cells:
@@ -84,7 +83,7 @@ sections:
               -
                 cells:
                   - '9:00 p.m. - 11:00 p.m.'
-                  - Entertainment
+                  - 'Entertainment & Socials'
                   - TBD
             full_width: true
       -
@@ -218,4 +217,5 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
+id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 ---
