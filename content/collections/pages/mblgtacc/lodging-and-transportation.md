@@ -1,5 +1,6 @@
 ---
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
+blueprint: pages
 title: 'Lodging & Transportation'
 sections:
   -
@@ -43,8 +44,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://g.page/Hilton-Madison?share'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: '9 E Wilson St, Madison, WI 53703'
       -
         type: paragraph
@@ -132,8 +134,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://goo.gl/maps/mBcwrLw8mUQ7odv26'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: '1 W Dayton St, Madison, WI 53703'
       -
         type: paragraph
@@ -209,8 +212,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://g.page/SheratonMadison?share'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: '706 John Nolen Dr, Madison, WI 53713'
       -
         type: set
@@ -260,7 +264,7 @@ sections:
         content:
           -
             type: text
-            text: 'To book by phone, call 608-251-2300 and reference code "BLG" or "2021 Midwest BLGTA."'
+            text: 'To book by phone, call 1-888-625-4988 and reference code "BLG" or "2021 Midwest BLGTA."'
       -
         type: heading
         attrs:
@@ -282,8 +286,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://goo.gl/maps/AcLRhmLBtwasKNZA9'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: '610 John Nolen Dr, Madison, WI 53713'
       -
         type: set
@@ -383,8 +388,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:support@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'contact us'
           -
             type: text
@@ -402,6 +408,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619444934
+updated_at: 1629205597
 template: default
 ---
