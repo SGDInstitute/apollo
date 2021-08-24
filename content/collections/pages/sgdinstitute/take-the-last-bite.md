@@ -46,7 +46,7 @@ sections:
         content:
           -
             type: text
-            text: Spotify
+            text: 'Spotify (link when available)'
       -
         type: heading
         attrs:
@@ -54,7 +54,7 @@ sections:
         content:
           -
             type: text
-            text: 'Apple Podcasts'
+            text: 'Apple Podcasts (link when available)'
       -
         type: heading
         attrs:
@@ -62,7 +62,7 @@ sections:
         content:
           -
             type: text
-            text: 'Google Podcasts'
+            text: 'Google Podcasts (link when available)'
       -
         type: paragraph
     type: content
@@ -248,5 +248,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629848530
+updated_at: 1629848619
 ---
