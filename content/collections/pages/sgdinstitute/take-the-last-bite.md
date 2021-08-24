@@ -5,7 +5,7 @@ blueprint: pages
 title: 'Take the Last Bite podcast'
 sections:
   -
-    header_image: headers/blurry-background.jpg
+    header_image: headers/lastbite-hero2.jpg
     title: 'Take the Last Bite'
     has_tag: true
     tag: Podcast
@@ -248,5 +248,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629848022
+updated_at: 1629848530
 ---
