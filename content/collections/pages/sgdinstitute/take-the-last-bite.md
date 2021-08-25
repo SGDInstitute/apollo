@@ -163,6 +163,15 @@ sections:
             type: text
             marks:
               -
+                type: bold
+            text: 'Aug. 25, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
                 type: link
                 attrs:
                   href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
@@ -205,8 +214,11 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming August 31, 2021. '
+                type: bold
+            text: 'August 31, 2021'
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar.'
@@ -361,5 +373,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629933543
+updated_at: 1629933627
 ---
