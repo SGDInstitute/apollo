@@ -1,6 +1,5 @@
 ---
 id: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
-published: false
 blueprint: pages
 title: 'Take the Last Bite podcast'
 sections:
@@ -78,7 +77,7 @@ sections:
         content:
           -
             type: text
-            text: 'Google Podcasts (link when available)'
+            text: 'Google Podcasts (coming soon)'
       -
         type: paragraph
     type: content
@@ -263,6 +262,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1629928602
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1629932246
 ---
