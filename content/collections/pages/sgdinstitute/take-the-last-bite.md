@@ -46,7 +46,15 @@ sections:
         content:
           -
             type: text
-            text: 'Spotify (link when available)'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
+                  rel: null
+                  target: null
+                  title: null
+            text: Spotify
       -
         type: heading
         attrs:
@@ -54,7 +62,15 @@ sections:
         content:
           -
             type: text
-            text: 'Apple Podcasts (link when available)'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Apple Podcasts'
       -
         type: heading
         attrs:
@@ -248,5 +264,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1629927037
+updated_at: 1629928602
 ---
