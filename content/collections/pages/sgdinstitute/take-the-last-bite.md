@@ -45,15 +45,44 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
-                  rel: null
-                  target: null
-                  title: null
             text: Spotify
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: Subscribe
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Listen to the trailer'
       -
         type: heading
         attrs:
@@ -61,15 +90,44 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
-                  rel: null
-                  target: null
-                  title: null
             text: 'Apple Podcasts'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: Subscribe
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Listen to the trailer'
       -
         type: heading
         attrs:
@@ -263,5 +321,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629932517
+updated_at: 1629933086
 ---
