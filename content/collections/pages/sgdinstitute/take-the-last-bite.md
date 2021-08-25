@@ -119,7 +119,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 2: Midwest Nice'
+            text: 'Ep. 2: Midwest nice'
       -
         type: paragraph
         content:
@@ -263,5 +263,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629932246
+updated_at: 1629932517
 ---
