@@ -1,5 +1,6 @@
 ---
 id: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
+blueprint: pages
 title: Programs
 sections:
   -
@@ -129,6 +130,42 @@ sections:
                 target_blank: true
                 button: null
             contain: true
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Take the Last Bite podcast'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. Episode 1 drops August 31st, and we''ll release episodes bi-weekly.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                text: 'Learn more'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -271,5 +308,5 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626805926
+updated_at: 1629934054
 ---
