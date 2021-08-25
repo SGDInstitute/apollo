@@ -14,7 +14,7 @@ sections:
     target_blank: false
     type: header_large
     enabled: true
-    subtitle: 'Episode 1 coming August 31. Subscribe today wherever you get your podcasts.'
+    subtitle: 'Episode 1 coming August 31. New episodes released bi-weekly.'
   -
     bard:
       -
@@ -25,7 +25,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
+            text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. '
     type: content
     enabled: true
   -
@@ -150,6 +150,26 @@ sections:
           -
             type: text
             text: Episodes
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep. 0: Trailer - Introducing the Last Bite'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Coming August 31, 2021. '
+          -
+            type: text
+            text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar.'
       -
         type: heading
         attrs:
@@ -321,5 +341,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629933086
+updated_at: 1629933245
 ---
