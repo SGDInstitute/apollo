@@ -138,6 +138,24 @@ sections:
             text: 'Google Podcasts (coming soon)'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: '<iframe src="'
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/embed/episode/51KTnCKoc78aYiPgPzlJSX'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'https://open.spotify.com/embed/episode/51KTnCKoc78aYiPgPzlJSX'
+          -
+            type: text
+            text: '" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
     type: content
     enabled: true
   -
@@ -363,5 +381,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629933411
+updated_at: 1629933482
 ---
