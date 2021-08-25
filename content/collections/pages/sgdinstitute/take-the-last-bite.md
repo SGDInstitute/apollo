@@ -14,7 +14,7 @@ sections:
     target_blank: false
     type: header_large
     enabled: true
-    subtitle: 'Episode 1 coming August 31. New episodes released bi-weekly.'
+    subtitle: 'Episode 1 coming August 31. New episodes released bi-weekly. Subscribe today.'
   -
     bard:
       -
@@ -165,11 +165,33 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming August 31, 2021. '
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
           -
             type: text
-            text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar.'
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Introducing Take the Last Bite, a new podcast from the Midwest Institute for Sexuality and Gender Diversity. Season one launches August 31, 2021 with new episodes bi-weekly. In the meantime, learn more about our intentions for this podcast and listen to a sneak peak of episode one.'
       -
         type: heading
         attrs:
@@ -341,5 +363,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629933245
+updated_at: 1629933411
 ---
