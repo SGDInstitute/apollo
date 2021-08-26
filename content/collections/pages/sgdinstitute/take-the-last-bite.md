@@ -280,23 +280,6 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 4: Rural v. urban queerness'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Coming October 26. '
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
             text: 'Ep. 5: Queer brewers'
       -
         type: paragraph
@@ -306,7 +289,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Coming November 9.'
+            text: 'Coming October 26. '
     type: content
     enabled: true
   -
@@ -373,5 +356,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1630016001
+updated_at: 1630016184
 ---
