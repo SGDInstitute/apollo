@@ -14,7 +14,7 @@ sections:
     target_blank: false
     type: header_large
     enabled: true
-    subtitle: 'Episode 1 coming August 31st. New episodes released bi-weekly. Subscribe today.'
+    subtitle: 'Season 1 episodes released bi-weekly, starting August 31st. Subscribe today!'
   -
     bard:
       -
@@ -373,5 +373,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629933679
+updated_at: 1630016001
 ---
