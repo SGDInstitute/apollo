@@ -135,7 +135,44 @@ sections:
         content:
           -
             type: text
-            text: 'Google Podcasts (coming soon)'
+            text: 'Google Podcasts'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: Subscribe
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Listen to the trailer'
     type: content
     enabled: true
   -
@@ -193,6 +230,20 @@ sections:
                   target: _blank
                   title: null
             text: Spotify
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: null
+                  title: null
+            text: Google
       -
         type: paragraph
         content:
@@ -355,6 +406,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1630016184
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1630077899
 ---
