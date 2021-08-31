@@ -225,11 +225,11 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-            text: Spotify
+            text: Google
           -
             type: text
             text: ' | '
@@ -239,11 +239,14 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
+                  href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
-            text: Google
+            text: Spotify
+          -
+            type: text
+            text: ' '
       -
         type: paragraph
         content:
@@ -266,7 +269,49 @@ sections:
             marks:
               -
                 type: bold
-            text: 'August 31, 2021'
+            text: 'August 31, 2021 '
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/serving-the-last-bite/id1582890778?i=1000533845287'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/M2EwYjhjOWItODIxOS00OTE2LTk5NDYtYmNjZDJhZGFhYTYy?sa=X&ved=0CAUQkfYCahcKEwj4mNLAs9zyAhUAAAAAHQAAAAAQBA'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/5ljYSw8tchCU4LlQ47V6Wr'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
       -
         type: paragraph
         content:
@@ -406,6 +451,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1630077899
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1630452154
 ---
