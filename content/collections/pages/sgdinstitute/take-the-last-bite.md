@@ -8,13 +8,17 @@ sections:
     title: 'Take the Last Bite'
     has_tag: true
     tag: Podcast
-    has_button: false
+    has_button: true
     block: false
     outline: false
-    target_blank: false
+    target_blank: true
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
+    link: 'https://open.spotify.com/episode/5ljYSw8tchCU4LlQ47V6Wr'
+    text: 'Listen to episode 1 on Spotify'
+    color: btn-green
+    size: btn-lg
   -
     bard:
       -
@@ -452,5 +456,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1630453221
+updated_at: 1630454714
 ---
