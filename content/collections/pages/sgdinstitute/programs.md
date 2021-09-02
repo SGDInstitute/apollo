@@ -192,6 +192,10 @@ sections:
             text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our inaugural event, "The rise of a trans abolitionist vision," brought into conversation Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos.'
       -
         type: set
         attrs:
@@ -286,7 +290,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation provides space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
+            text: 'Our work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation provides space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
       -
         type: paragraph
       -
@@ -314,5 +318,5 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1630620300
+updated_at: 1630620550
 ---
