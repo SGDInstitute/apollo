@@ -520,9 +520,26 @@ sections:
           listable: false
           localizable: true
       -
-        handle: comments
+        handle: description
         field:
-          display: Comments
+          display: 'SEO Description'
           type: textarea
           icon: textarea
           listable: true
+          antlers: false
+      -
+        handle: image
+        field: background.bg_image
+        config:
+          display: 'SEO Image'
+          if:
+            bg_type: 'equals image'
+  SEO:
+    display: SEO
+    fields:
+      -
+        handle: seo
+        field:
+          type: seo_pro
+          listable: false
+          display: SEO

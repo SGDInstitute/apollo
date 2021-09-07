@@ -69,3 +69,18 @@ sections:
             - tags
           display: Tags
           mode: select
+      -
+        handle: description
+        field:
+          antlers: false
+          display: 'SEO Description'
+          type: textarea
+          icon: textarea
+          listable: hidden
+      -
+        handle: image
+        field: background.bg_image
+        config:
+          display: 'SEO Image'
+          if:
+            bg_type: 'equals image'
