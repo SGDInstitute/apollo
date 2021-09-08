@@ -529,11 +529,17 @@ sections:
           antlers: false
       -
         handle: image
-        field: background.bg_image
-        config:
+        field:
+          mode: list
+          container: assets
+          folder: headers
+          restrict: false
+          allow_uploads: true
+          show_filename: true
           display: 'SEO Image'
-          if:
-            bg_type: 'equals image'
+          type: assets
+          icon: assets
+          listable: hidden
   SEO:
     display: SEO
     fields:
