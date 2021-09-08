@@ -75,13 +75,13 @@ sections:
                   - Double
                   - '50'
                   - '$159-189*'
-                  - 9/6/2021
+                  - 9/13/2021
               -
                 cells:
                   - King
                   - '75'
                   - '$159-189*'
-                  - 9/6/2021
+                  - 9/13/2021
             full_width: true
       -
         type: paragraph
@@ -408,6 +408,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631061636
+updated_at: 1631061705
 template: default
 ---
