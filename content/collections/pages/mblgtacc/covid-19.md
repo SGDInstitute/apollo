@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1631143634
+updated_at: 1631143804
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -25,7 +25,7 @@ sections:
         content:
           -
             type: text
-            text: 'A: We’re optimistic that our base case will include a robust in-person experience with a layered public health context, and—for the first time ever—are also offering a digital layer to the conference. As the pandemic has taught everyone, though, we cannot guarantee that the timing or format of an in-person event will not change due to sudden or emerging circumstances that occur between now and conference weekend. As always, we will continue to be informed in our current and future decisions by the recommendations of medical and public health experts, and guided by the Institute''s core values of accessibility, community, advocacy, education, accountability, and liberation.'
+            text: 'A: We’re very optimistic that our base case will include a robust in-person experience with a layered public health context, and—for the first time ever—we''re also offering a digital layer to the conference. As the pandemic has taught everyone, we cannot guarantee that the timing or format of an in-person event will not change due to sudden or emerging circumstances that occur between now and conference weekend. As always, we will continue to be informed in our current and future decisions by the recommendations of medical and public health experts, and guided by the Institute''s core values of accessibility, community, advocacy, education, accountability, and liberation.'
       -
         type: heading
         attrs:
