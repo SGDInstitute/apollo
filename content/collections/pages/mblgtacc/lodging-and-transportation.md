@@ -309,13 +309,13 @@ sections:
                   - Double
                   - '30'
                   - $129
-                  - 9/8/2021
+                  - 9/10/2021
               -
                 cells:
                   - King
                   - '10'
                   - $129
-                  - 9/8/2021
+                  - 9/10/2021
             full_width: true
       -
         type: set
@@ -408,6 +408,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1629205597
+updated_at: 1631061636
 template: default
 ---
