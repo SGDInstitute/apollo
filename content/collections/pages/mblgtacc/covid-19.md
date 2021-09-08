@@ -1,8 +1,10 @@
 ---
+id: 77581097-4408-48b2-a124-97fc61e209e3
+blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603934915
+updated_at: 1631143509
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -23,7 +25,35 @@ sections:
         content:
           -
             type: text
-            text: 'A: We’re optimistic that it will be safe to gather 2,000+ students in October 2021 and will continue to be guided in our current and future decisions by the recommendations of medical and public health experts. However, we cannot make predictions over a year out, and it is not reasonable to guarantee that the timing or format of the conference will not change due to sudden or emerging circumstances that occur over the course of the next 14 months.'
+            text: 'A: We’re optimistic that our base case will include a robust in-person experience with a layered public health context, and—for the first time ever—are also offering a digital layer to the conference. As the pandemic has taught everyone, though, we cannot guarantee that the timing or format of an in-person event will not change due to sudden or emerging circumstances that occur between now and conference weekend. As always, we will continue to be informed in our current and future decisions by the recommendations of medical and public health experts, and guided by the Institute''s core values of accessibility, community, advocacy, education, accountability, and liberation.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Q: What are the mitigation strategies for the conference?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'A: For nearly every person, getting '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.vaccines.gov/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'vaccinated against COVID-19'
+          -
+            type: text
+            text: ' is the single-most effective means of protecting yourself and preventing severe illness and death from the disease. The MBLGTACC 2021 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine requirements. We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces. We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting.'
       -
         type: heading
         attrs:
@@ -51,7 +81,18 @@ sections:
         content:
           -
             type: text
-            text: 'A: Registration will open in spring 2021. We hope this timing will give individual attendees and delegations the flexibility to purchase tickets in either the 2020-21 or 2021-22 academic budget years, or to divide ticket purchases across both.'
+            text: 'A: Registration is open now! '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/general-info/how-to-register'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Learn more about registration.'
       -
         type: heading
         attrs:
@@ -65,21 +106,7 @@ sections:
         content:
           -
             type: text
-            text: 'A: Workshop submissions will open in 2021. An update will be provided early next year.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Q: What can you tell me about how the conference will look in October 2021 in different scenarios?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'A: We are not medical professionals and we cannot make predictions about the public health conditions and health system capacity over a year out. However, we will listen to those experts and their recommendations will guide our decisions along the way. We will share more information as planning continues and the conference nears.'
+            text: 'A: The workshop submission period has concluded.'
       -
         type: heading
         attrs:
@@ -98,18 +125,11 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
-id: 77581097-4408-48b2-a124-97fc61e209e3
 ---
