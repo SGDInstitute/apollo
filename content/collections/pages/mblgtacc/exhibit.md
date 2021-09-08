@@ -1,5 +1,6 @@
 ---
 id: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
+blueprint: pages
 title: Exhibit
 sections:
   -
@@ -51,13 +52,7 @@ sections:
                     text: 'Hours of operation:'
                   -
                     type: text
-                    text: "\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'to be announced'
+                    text: "\_Saturday, 10:00 a.m. - 7:00 p.m."
           -
             type: list_item
             content:
@@ -90,43 +85,27 @@ sections:
                     text: 'Location:'
                   -
                     type: text
-                    text: "\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'to be announced'
+                    text: "\_Monona Terrace Community and Convention Center"
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Need special arrangements? Please respond to outreach you''ve received in your email about the tabling process. '
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
+            text: 'Need special arrangements? Please '
+          -
+            type: text
+            marks:
               -
-                link: 'https://apps.sgdinstitute.org/donations/create'
-                text: 'Reserve an exhibit table'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-                button: null
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact us'
+          -
+            type: text
+            text: .
       -
         type: heading
         attrs:
@@ -134,7 +113,7 @@ sections:
         content:
           -
             type: text
-            text: 'Exhibitor pricing'
+            text: Pricing
       -
         type: bullet_list
         content:
@@ -198,9 +177,80 @@ sections:
           -
             type: text
             text: 'All exhibit spaces come with one 8'' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. Exhibit spaces are in prominent, high-traffic locations, and exhibitors are responsible for the security and storage of their property.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Reserve your table now'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://buy.stripe.com/00g00EcK1e3G6QgfYZ'
+                text: 'Purchase Higher Ed/Small Non-profit Table ($150)'
+                color: btn-green
+                size: btn-lg
+                block: true
+                outline: false
+                target_blank: false
+              -
+                button: null
+                link: 'https://buy.stripe.com/aEUeVycK10cQ8YodQS'
+                text: 'Purchase Large Non-Profit Table ($250)'
+                color: btn-green
+                size: btn-lg
+                block: true
+                outline: false
+                target_blank: false
+              -
+                button: null
+                link: 'https://buy.stripe.com/dR6eVyfWd5xa3E4003'
+                text: 'Purchase Small Business/Seller Table ($350)'
+                color: btn-green
+                size: btn-lg
+                block: true
+                outline: false
+                target_blank: false
+              -
+                button: null
+                link: 'https://buy.stripe.com/dR67t6eS94t64I8eUY'
+                text: 'Purchase Corporation Table ($500)'
+                color: btn-green
+                size: btn-lg
+                block: true
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' with questions or specific requests.'
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619530284
+updated_at: 1631123209
 ---
