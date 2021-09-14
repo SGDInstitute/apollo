@@ -337,8 +337,56 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming September 14.'
+                type: bold
+            text: 'September 14, 2021 '
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/midwest-nice/id1582890778?i=1000535272041'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MjRmYzYxMDAtYjU3My00YTRmLWJhODQtYTE5N2Q1OTBkN2Uy?sa=X&ved=0CAUQkfYCahcKEwjogOD6vv_yAhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/0FGDAKTn9YPIfwy45zy9ut'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'It''s not just holding the door for strangers and long goodbyes. What is "Midwest nice" and why does it cause barriers to communication, boundaries, and relationships?'
       -
         type: heading
         attrs:
@@ -455,8 +503,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1631059429
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1631657820
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
