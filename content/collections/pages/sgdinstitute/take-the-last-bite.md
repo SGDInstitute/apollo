@@ -70,23 +70,6 @@ sections:
                           target: _blank
                           title: null
                     text: Subscribe
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Listen to the trailer'
       -
         type: heading
         attrs:
@@ -115,23 +98,6 @@ sections:
                           target: _blank
                           title: null
                     text: Subscribe
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Listen to the trailer'
       -
         type: heading
         attrs:
@@ -160,23 +126,6 @@ sections:
                           target: _blank
                           title: null
                     text: Subscribe
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Listen to the trailer'
     type: content
     enabled: true
   -
@@ -504,7 +453,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1631657820
+updated_at: 1631659545
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
