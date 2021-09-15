@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631734246
+updated_at: 1631734421
 sections:
   -
     bg_type: image
@@ -70,12 +70,12 @@ sections:
               -
                 cells:
                   - '5:00 p.m. - 6:00 p.m.'
-                  - 'netWerq (Welcome and Networking Reception)'
+                  - 'netWerq<br/>(Welcome and Networking Reception)'
                   - TBD
               -
                 cells:
                   - '6:00 p.m. - 7:00 p.m.'
-                  - 'Featured Session (virtual)'
+                  - 'Featured Session<br/>(Virtual)'
                   - TBD
               -
                 cells:
