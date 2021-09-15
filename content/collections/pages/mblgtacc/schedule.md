@@ -1,8 +1,10 @@
 ---
+id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
+blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1628878338
+updated_at: 1631734246
 sections:
   -
     bg_type: image
@@ -67,22 +69,27 @@ sections:
                   - TBD
               -
                 cells:
-                  - '5:00 p.m. - 7:00 p.m.'
-                  - 'Pre-Conference Programming'
+                  - '5:00 p.m. - 6:00 p.m.'
+                  - 'netWerq (Welcome and Networking Reception)'
                   - TBD
               -
                 cells:
-                  - '7:00 p.m. - 8:00 p.m.'
+                  - '6:00 p.m. - 7:00 p.m.'
+                  - 'Featured Session (virtual)'
+                  - TBD
+              -
+                cells:
+                  - '7:00 p.m. - 7:30 p.m.'
                   - 'Opening Ceremony'
                   - TBD
               -
                 cells:
-                  - '8:00 p.m. - 9:00 p.m.'
-                  - 'Plenary Session'
+                  - '7:30 p.m. - 8:30 p.m.'
+                  - 'Keynote Session'
                   - TBD
               -
                 cells:
-                  - '9:00 p.m. - 11:00 p.m.'
+                  - '8:30 p.m. - 11:00 p.m.'
                   - 'Entertainment & Socials'
                   - TBD
             full_width: true
@@ -131,14 +138,14 @@ sections:
                   - TBD
               -
                 cells:
-                  - '11:30 a.m. - 12:45 p.m.'
-                  - 'Identity Forums'
-                  - TBD
-              -
-                cells:
-                  - '12:45 p.m. - 2:30 p.m.'
+                  - '11:15 a.m. - 1:00 p.m.'
                   - 'Break for Lunch'
                   - 'On Your Own'
+              -
+                cells:
+                  - '1:00 p.m. - 2:15 p.m.'
+                  - 'Identity Forums'
+                  - TBD
               -
                 cells:
                   - '2:30 p.m. - 3:45 p.m.'
@@ -157,7 +164,7 @@ sections:
               -
                 cells:
                   - '7:00 p.m. - 8:00 p.m.'
-                  - 'Plenary Session'
+                  - 'Keynote Session: M. Adams'
                   - TBD
               -
                 cells:
@@ -217,5 +224,4 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 ---
