@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631821193
+updated_at: 1631821540
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -70,13 +70,23 @@ sections:
     center_columns: false
     above_price: 'Starting at'
   -
-    title: 'Keynote Speakers & Skill Share Presenters'
-    event: mblgtacc-2021-home
+    title: 'Keynote Speakers'
+    event: mblgtacc-2021-keynote
     date_format: day_of_week_full
     background_height: full
     text: 'View the Full Program Schedule'
     color: btn-green
     size: btn-lg
+    block: false
+    outline: false
+    target_blank: false
+    type: speakers
+    enabled: true
+  -
+    title: 'Skill Share Presenters'
+    event: mblgtacc-2021-skill
+    date_format: day_of_week_full
+    background_height: full
     block: false
     outline: false
     target_blank: false
