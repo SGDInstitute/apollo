@@ -1,0 +1,6 @@
+id: d0284be8-cc33-45e9-996b-fee59a114200
+enabled: true
+source: /speakers-entertainment/tba
+destination: /speakers-entertainment/mia-mingus
+type: '301'
+match_type: exact

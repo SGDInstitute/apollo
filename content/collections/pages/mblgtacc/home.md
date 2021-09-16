@@ -1,8 +1,10 @@
 ---
+id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
+blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1627611451
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1631821193
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -68,7 +70,7 @@ sections:
     center_columns: false
     above_price: 'Starting at'
   -
-    title: 'Keynote Speakers'
+    title: 'Keynote Speakers & Skill Share Presenters'
     event: mblgtacc-2021-home
     date_format: day_of_week_full
     background_height: full
@@ -80,7 +82,6 @@ sections:
     target_blank: false
     type: speakers
     enabled: true
-    link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
   -
     date: '2021-10-08 19:00'
     hashtag: 'until #mblgtacc2021'
@@ -99,6 +100,5 @@ sections:
     type: news
     enabled: true
 template: default
-id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 ---
 Hello world
