@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631734445
+updated_at: 1631822752
 sections:
   -
     bg_type: image
@@ -124,12 +124,12 @@ sections:
               -
                 cells:
                   - '8:30 a.m. - 9:45 a.m.'
-                  - Workshop
+                  - 'Workshops & Skill Shares'
                   - TBD
               -
                 cells:
                   - '10:00 a.m. - 11:15 a.m.'
-                  - Workshop
+                  - 'Workshops & Skill Shares'
                   - TBD
               -
                 cells:
@@ -149,12 +149,12 @@ sections:
               -
                 cells:
                   - '2:30 p.m. - 3:45 p.m.'
-                  - Workshop
+                  - 'Workshops & Skill Shares'
                   - TBD
               -
                 cells:
                   - '4:00 p.m. - 5:15 p.m.'
-                  - Workshop
+                  - 'Workshops & Skill Shares'
                   - TBD
               -
                 cells:
@@ -198,12 +198,12 @@ sections:
               -
                 cells:
                   - '8:30 a.m. - 9:45 a.m.'
-                  - Workshop
+                  - Workshops
                   - TBD
               -
                 cells:
                   - '10:00 a.m. - 11:15 a.m.'
-                  - Workshop
+                  - 'Identity Forums'
                   - TBD
               -
                 cells:
