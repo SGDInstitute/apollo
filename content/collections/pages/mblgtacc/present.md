@@ -1,9 +1,10 @@
 ---
 id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
+blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1620052011
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1631913279
 sections:
   -
     bg_type: image
@@ -45,7 +46,10 @@ sections:
         content:
           -
             type: text
-            text: 'Proposals to present a workshop at MBLGTACC 2021 will be accepted until 11:59 p.m. CT on July 15, 2021.'
+            marks:
+              -
+                type: bold
+            text: 'The workshop proposal form closed at 11:59 p.m. CT on July 15, 2021.'
       -
         type: paragraph
       -
@@ -55,8 +59,8 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2021-workshop-proposal'
-                text: 'Submit a Proposal'
+                link: ''
+                text: 'Proposal closed'
                 color: btn-green
                 size: btn-lg
                 block: false
