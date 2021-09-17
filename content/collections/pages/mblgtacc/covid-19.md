@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1631143830
+updated_at: 1631913054
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -54,6 +54,35 @@ sections:
           -
             type: text
             text: ' is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. The MBLGTACC 2021 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine requirements, including our hosts at the University of Wisconsin-Madison. We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces. We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Related:'
+                  -
+                    type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.mononaterrace.com/covid-19/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Monona Terrace COVID-19 page'
       -
         type: heading
         attrs:
