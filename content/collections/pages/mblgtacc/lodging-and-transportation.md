@@ -192,33 +192,9 @@ sections:
             type: text
             text: 'To book by phone, call 800-356-8293 and reference code “MBLGTACC.”'
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sheraton Madison'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Address: '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://g.page/SheratonMadison?share'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: '706 John Nolen Dr, Madison, WI 53713'
-      -
         type: set
         attrs:
+          enabled: false
           values:
             type: table
             first_row_header: true
@@ -246,6 +222,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -261,10 +238,6 @@ sections:
             contain: true
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'To book by phone, call 1-888-625-4988 and reference code "BLG" or "2021 Midwest BLGTA."'
       -
         type: heading
         attrs:
@@ -408,6 +381,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631061705
+updated_at: 1631898737
 template: default
 ---
