@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631822359
+updated_at: 1631890805
 sections:
   -
     bg_type: image
@@ -142,23 +142,6 @@ sections:
           -
             type: text
             text: 'Trans Law Help Wisconsin is a pro bono legal project dedicated to providing legal information and resources to transgender and nonbinary individuals across the state of Wisconsin and beyond. Join our volunteer attorneys to learn about the process of changing your name and gender marker on identity documents and receive help completing the legal paperwork.'
-      -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: image
-            left_content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Trans Law Help Wisconsin is a pro bono legal project dedicated to providing legal information and resources to transgender and nonbinary individuals across the state of Wisconsin and beyond. Join our volunteer attorneys to learn about the process of changing your name and gender marker on identity documents and receive help completing the legal paperwork.'
-            right_image: headshots/Trans-Law.jpg
-      -
-        type: paragraph
       -
         type: heading
         attrs:
