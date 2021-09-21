@@ -1,10 +1,10 @@
 ---
 id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
 blueprint: pages
-title: 'Speakers and entertainment'
+title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632229682
+updated_at: 1632230443
 sections:
   -
     bg_type: image
