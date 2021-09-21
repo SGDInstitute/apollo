@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631821540
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1632229605
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -35,7 +35,7 @@ sections:
         content:
           -
             type: text
-            text: 'Registration is Open'
+            text: 'Registration is open'
       -
         type: paragraph
         content:
@@ -51,7 +51,7 @@ sections:
               -
                 button: null
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: 'Learn More About Registration & Ticket Options'
+                text: 'Registration and ticket options'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -70,11 +70,11 @@ sections:
     center_columns: false
     above_price: 'Starting at'
   -
-    title: 'Keynote Speakers'
+    title: 'Keynote speakers'
     event: mblgtacc-2021-keynote
     date_format: day_of_week_full
     background_height: full
-    text: 'View the Full Program Schedule'
+    text: 'View the full program schedule'
     color: btn-green
     size: btn-lg
     block: false
@@ -83,7 +83,7 @@ sections:
     type: speakers
     enabled: true
   -
-    title: 'Skill Share Presenters'
+    title: 'Skill share presenters'
     event: mblgtacc-2021-skill
     date_format: day_of_week_full
     background_height: full
