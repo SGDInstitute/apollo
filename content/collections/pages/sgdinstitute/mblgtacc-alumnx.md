@@ -1,9 +1,11 @@
 ---
-title: 'MBLGTACC Alumnx'
+id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
+blueprint: pages
+title: 'MBLGTACC alumnx'
 sections:
   -
     header_image: headers/header_open-mic.jpg
-    title: 'MBLGTACC Alumnx'
+    title: 'MBLGTACC alumnx'
     subtitle: 'Alumnx of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: false
     has_button: false
@@ -173,7 +175,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618849825
-id: 4cd5cb6b-658c-4d69-b525-7325fb90766f
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1632230503
 ---
