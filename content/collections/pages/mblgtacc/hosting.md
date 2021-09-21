@@ -1,4 +1,6 @@
 ---
+id: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
+blueprint: pages
 title: Hosting
 sections:
   -
@@ -37,8 +39,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://docs.google.com/document/d/1Mpr-9NBLRB44s91cB_JntJAvrV3E-zveirftCWLKKXs/edit?usp=sharing'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'worksheet with the bid form''s prompts'
           -
             type: text
@@ -76,8 +79,9 @@ sections:
                 type: link
                 attrs:
                   href: 'http://mblgtacc.org/about/history'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
               -
                 type: italic
             text: 'Learn more about MBLGTACC history »'
@@ -187,8 +191,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://drive.google.com/a/sgdinstitute.org/file/d/1iK2FY4SmCnzwdNppkqRSiGCl6PUBXObC/view?usp=sharing'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'design template'
           -
             type: text
@@ -355,8 +360,9 @@ sections:
                         type: link
                         attrs:
                           href: 'https://sgdinstitute.org/about/leadership/justin-drwencke'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                       -
                         type: italic
                     text: 'Justin Drwencke'
@@ -373,8 +379,9 @@ sections:
                         type: link
                         attrs:
                           href: 'mailto:justin@sgdinstitute.org'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                       -
                         type: italic
                     text: justin@sgdinstitute.org
@@ -442,8 +449,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/about/leadership/justin-drwencke'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'Justin Drwencke'
           -
             type: text
@@ -455,8 +463,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:justin@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: justin@sgdinstitute.org
           -
             type: text
@@ -500,8 +509,9 @@ sections:
                         type: link
                         attrs:
                           href: 'http://sgdinstitute.org'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: Institute
                   -
                     type: text
@@ -576,12 +586,11 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Bids to host the 30th annual conference in 2022 have now closed. A selection will be formally announced in Summer 2021.'
+            text: 'Bids to host the 30th annual conference in 2022 have now closed. A selection will be formally announced in October 2021.'
     type: content
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618589563
-id: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1632230007
 ---
