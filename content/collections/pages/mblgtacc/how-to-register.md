@@ -1,9 +1,10 @@
 ---
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
-title: 'How to Register'
+blueprint: pages
+title: 'How to register'
 sections:
   -
-    title: 'How to Register'
+    title: 'How to register'
     type: header_small
     enabled: true
   -
@@ -15,7 +16,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ticket Options'
+            text: 'Ticket Ooptions'
       -
         type: heading
         attrs:
@@ -23,7 +24,7 @@ sections:
         content:
           -
             type: text
-            text: 'In Person'
+            text: 'In person'
       -
         type: paragraph
         content:
@@ -63,7 +64,7 @@ sections:
         content:
           -
             type: text
-            text: 'Virtual Only'
+            text: 'Virtual only'
       -
         type: paragraph
         content:
@@ -92,8 +93,9 @@ sections:
                 type: link
                 attrs:
                   href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: schedule
           -
             type: text
@@ -105,7 +107,7 @@ sections:
         content:
           -
             type: text
-            text: 'On-Site Registration (In Person)'
+            text: 'On-site registration (in person)'
       -
         type: paragraph
         content:
@@ -128,7 +130,7 @@ sections:
         content:
           -
             type: text
-            text: 'How to Register'
+            text: 'How to register'
       -
         type: heading
         attrs:
@@ -136,7 +138,7 @@ sections:
         content:
           -
             type: text
-            text: 'Reserve Tickets'
+            text: 'Reserve tickets'
       -
         type: paragraph
         content:
@@ -162,7 +164,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay with a Credit Card'
+            text: 'Pay with a credit card'
       -
         type: paragraph
         content:
@@ -182,8 +184,9 @@ sections:
                 type: link
                 attrs:
                   href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'contact us'
           -
             type: text
@@ -195,7 +198,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay by Check'
+            text: 'Pay by check'
       -
         type: paragraph
         content:
@@ -219,7 +222,7 @@ sections:
               -
                 button: null
                 link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
-                text: 'Reserve Tickets Now'
+                text: 'Reserve tickets now'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -253,8 +256,9 @@ sections:
                 type: link
                 attrs:
                   href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'contact us'
           -
             type: text
@@ -271,6 +275,6 @@ sections:
     type: news
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619615886
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1632229532
 ---
