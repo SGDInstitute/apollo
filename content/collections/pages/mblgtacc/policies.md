@@ -1,4 +1,6 @@
 ---
+id: e117e019-bc65-41b2-9cde-fad0b8a5c20c
+blueprint: pages
 title: Policies
 sections:
   -
@@ -39,13 +41,14 @@ sections:
             type: text
             marks:
               -
-                type: italic
-              -
                 type: link
                 attrs:
                   href: 'https://www.mononaterrace.com/salesguide/2015/6)%20Policies%20&%20Procedures/2-Concealed%20and%20Open%20Carry%20Procedures.pdf'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
             text: 'Learn more »'
       -
         type: heading
@@ -54,7 +57,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tobacco, Marijuana, and smoking'
+            text: 'Tobacco, marijuana, and smoking'
       -
         type: paragraph
         content:
@@ -68,8 +71,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.cityofmadison.com/news/state-smoking-law-in-madison-and-dane-county'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'all public places and workplaces'
           -
             type: text
@@ -104,13 +108,14 @@ sections:
             type: text
             marks:
               -
-                type: italic
-              -
                 type: link
                 attrs:
                   href: 'https://www.doj.state.wi.us/ocvs/campus-sexual-assault'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
             text: 'Learn more »'
     type: content
     enabled: true
@@ -123,7 +128,7 @@ sections:
         content:
           -
             type: text
-            text: 'Code for Inclusion'
+            text: 'Code for inclusion'
       -
         type: paragraph
         content:
@@ -242,8 +247,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:roze@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: roze@sgdinstitute.org
           -
             type: text
@@ -358,22 +364,15 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606777523
+updated_at: 1632229900
 template: default
-id: e117e019-bc65-41b2-9cde-fad0b8a5c20c
 ---
