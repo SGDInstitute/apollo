@@ -194,7 +194,7 @@ sections:
               -
                 button: null
                 link: 'https://buy.stripe.com/00g00EcK1e3G6QgfYZ'
-                text: 'Purchase Higher Ed/Small Non-profit Table ($150)'
+                text: 'Purchase higher ed/small non-profit table ($150)'
                 color: btn-green
                 size: btn-lg
                 block: true
@@ -203,7 +203,7 @@ sections:
               -
                 button: null
                 link: 'https://buy.stripe.com/aEUeVycK10cQ8YodQS'
-                text: 'Purchase Large Non-Profit Table ($250)'
+                text: 'Purchase large non-profit table ($250)'
                 color: btn-green
                 size: btn-lg
                 block: true
@@ -212,7 +212,7 @@ sections:
               -
                 button: null
                 link: 'https://buy.stripe.com/dR6eVyfWd5xa3E4003'
-                text: 'Purchase Small Business/Seller Table ($350)'
+                text: 'Purchase small business/seller table ($350)'
                 color: btn-green
                 size: btn-lg
                 block: true
@@ -221,7 +221,7 @@ sections:
               -
                 button: null
                 link: 'https://buy.stripe.com/dR67t6eS94t64I8eUY'
-                text: 'Purchase Corporation Table ($500)'
+                text: 'Purchase corporation table ($500)'
                 color: btn-green
                 size: btn-lg
                 block: true
@@ -251,8 +251,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631123309
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1632229797
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
