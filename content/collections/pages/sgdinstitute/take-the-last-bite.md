@@ -301,6 +301,79 @@ sections:
             type: text
             text: 'It''s not just holding the door for strangers and long goodbyes. What is "Midwest nice" and why does it cause barriers to communication, boundaries, and relationships?'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Resources mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Gleeson, Jules. '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.theguardian.com/lifeandstyle/2021/sep/07/judith-butler-interview-gender'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: '"Judith Butler: ‘We need to rethink the category of woman.''"'
+                  -
+                    type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'The Guardian'
+                  -
+                    type: text
+                    text: ', September 7, 2021.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://open.spotify.com/episode/1xp0551ynLl53OR1uNdBN2?si=f48bc4f37e9a49c3'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: '"Censoring Judith Butler (ft. Eoin Higgins)."'
+                  -
+                    type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Cancel Me, Daddy'
+                  -
+                    type: text
+                    text: ', September 16, 2021.'
+      -
         type: heading
         attrs:
           level: 3
@@ -417,7 +490,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1631659703
+updated_at: 1632247953
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
