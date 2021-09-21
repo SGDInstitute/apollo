@@ -1,5 +1,7 @@
 ---
-title: 'Legal and Privacy'
+id: fca78f6d-023b-4830-860d-e3ed26a30ff4
+blueprint: pages
+title: 'Legal & Privacy'
 sections:
   -
     title: 'Legal and Privacy'
@@ -461,6 +463,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617502257
-id: fca78f6d-023b-4830-860d-e3ed26a30ff4
+updated_at: 1632230523
 ---
