@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1631913054
+updated_at: 1632268992
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -122,20 +122,6 @@ sections:
                   target: _blank
                   title: null
             text: 'Learn more about registration.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Q: When will workshops open?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'A: The workshop submission period has concluded.'
       -
         type: heading
         attrs:
