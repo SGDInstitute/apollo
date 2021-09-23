@@ -1,8 +1,11 @@
 ---
+id: 51d65a1d-9771-430b-a6d6-bc9dd06d4925
+published: false
+blueprint: pages
 title: App
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1603936819
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1632429294
 sections:
   -
     title: 'The MBLGTACC app'
@@ -197,6 +200,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                button: null
               -
                 link: 'https://play.google.com/store/apps/details?id=org.sgdinstitute.mblgtacc'
                 text: 'Download for Android'
@@ -205,10 +209,10 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                button: null
             contain: true
       -
         type: paragraph
     type: content
     enabled: true
-id: 51d65a1d-9771-430b-a6d6-bc9dd06d4925
 ---
