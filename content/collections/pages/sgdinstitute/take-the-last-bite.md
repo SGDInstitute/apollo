@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/0FGDAKTn9YPIfwy45zy9ut'
-    text: 'Listen to episode 2 on Spotify'
+    link: 'https://open.spotify.com/episode/2lPvEQCsVfmxa129k9dsFk'
+    text: 'Listen to episode 3 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -385,8 +385,56 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming September 28. '
+                type: bold
+            text: 'September 28, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/queer-death-and-aging/id1582890778?i=1000536848730'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MjA5YmM0YzAtMWM3MS00MjNmLWFlZmItNzA5ZDZhMjMwZWZk?sa=X&ved=0CAUQkfYCahcKEwjw4PauzqHzAhUAAAAAHQAAAAAQBA'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/2lPvEQCsVfmxa129k9dsFk'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Why did we receive messaging that "queer death" happens at age 30? Join us as we explore the sacredness of aging, delayed adolescence, and caring for our queer elders.'
       -
         type: heading
         attrs:
@@ -487,7 +535,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632248066
+updated_at: 1632830268
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
