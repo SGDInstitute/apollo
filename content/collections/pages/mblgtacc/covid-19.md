@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632268992
+updated_at: 1633118459
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -19,113 +19,207 @@ sections:
         content:
           -
             type: text
-            text: 'Q: Can you guarantee that MBLGTACC will be held in person in October no matter what?'
+            text: 'What COVID-19 precautions will there be at MBLGTACC?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'A: We’re very optimistic that our base case will include a robust in-person experience with a layered public health context, and—for the first time ever—we''re also offering a digital layer to the conference. As the pandemic has taught everyone, we cannot guarantee that the timing or format of an in-person event will not change due to sudden or emerging circumstances that occur between now and conference weekend. As always, we will continue to be informed in our current and future decisions by the recommendations of medical and public health experts, and guided by the Institute''s core values of accessibility, community, advocacy, education, accountability, and liberation.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Q: What are the mitigation strategies for the conference?'
+            text: 'Please be assured that we are continuously monitoring the recommendations from the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines based in science that best protect the most vulnerable in our community. However, due to the intentional ignorance and denial of science by the Wisconsin legislature, we are not able to require certain precautions, such as vaccine mandates.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'A: For nearly every person, getting '
+            marks:
+              -
+                type: bold
+            text: 'For nearly every person, getting vaccinated against COVID-19 is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. '
+          -
+            type: text
+            text: 'The MBLGTACC 2021 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine requirements, including our hosts at the University of Wisconsin-Madison.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces. We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting. You can find information about the Monona Terrace COVID-19 policies on '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://www.vaccines.gov/'
+                  href: 'https://www.mononaterrace.com/covid-19/'
                   rel: null
                   target: _blank
                   title: null
-            text: 'vaccinated against COVID-19'
+            text: 'their website'
           -
             type: text
-            text: ' is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. The MBLGTACC 2021 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine requirements, including our hosts at the University of Wisconsin-Madison. We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces. We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting.'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Related:'
-                  -
-                    type: text
-                    text: ' '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.mononaterrace.com/covid-19/'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Monona Terrace COVID-19 page'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Q: Can I attend in October if I graduate in the spring or summer?'
+            text: .
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'A: Absolutely! There is no requirement that attendees be currently enrolled in an educational program to attend. We look forward to welcoming you in October.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Q: When will registration open?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'A: Registration is open now! '
+            text: 'Finally, it is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/general-info/how-to-register'
+                  href: 'https://publichealthmdc.com/coronavirus/testing#south'
                   rel: null
                   target: _blank
                   title: null
-            text: 'Learn more about registration.'
+            text: 'Madison & Dane County website'
+          -
+            type: text
+            text: '. It is also recommended that all attendees download the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.dhs.wisconsin.gov/covid-19/notification.htm'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Wisconsin Exposure Notification app'
+          -
+            type: text
+            text: ' to assist with contact tracing in the event of illness.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'If you’re being sponsored by an institution, you may also be subject to their guidelines, including possible vaccine mandates for university-sponsored travel. Consult your local institution to learn about their requirements.'
       -
         type: heading
         attrs:
           level: 3
+        content:
+          -
+            type: text
+            text: 'How will I be notified in the event of a COVID-19 exposure at MBLGTACC?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We ask that any attendees who are diagnosed with COVID-19 during or after the conference notify us immediately at '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:support@sgdinstitute.org'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: support@sgdinstitute.org
+          -
+            type: text
+            text: ' so that we may begin the contact tracing process. Contact information for all attendees will be kept on file so that we may notify you in the event of an exposure.It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://publichealthmdc.com/coronavirus/testing#south'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Madison & Dane County website'
+          -
+            type: text
+            text: '. It is also recommended that all attendees download the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.dhs.wisconsin.gov/covid-19/notification.htm'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Wisconsin Exposure Notification app'
+          -
+            type: text
+            text: ' to assist with contact tracing in the event of illness.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'How can I safely interact with other attendees?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The COVID-19 pandemic has highlighted the disparities faced by our most marginalized communities, and as such, it is important to remember that everyone has a different comfort level for their own safety and health. We ask that all attendees be respectful of each others’ boundaries and prioritize the safety of others.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We ask that all attendees maintain appropriate social distancing and wear a mask, unless actively eating or drinking. In the event that an attendee chooses to engage in sexual activities during conference weekend, we also recommend checking out the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-sex-guidance.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'NYC Guide to Safer Sex and COVID-19'
+          -
+            type: text
+            text: '. And don’t forget about normal safe sex practices, and that consent is given enthusiastically and continuously.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'What if I have symptoms or a positive test before MBLGTACC?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'For the safety of all attendees, students, and staff, please do not come to MBLGTACC if you have received a positive COVID-19 test result or have potential COVID-19 symptoms. If you have paid for your registration and are no longer able to attend due to COVID-19, please reach out to us at '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:support@mblgtacc.org'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: support@mblgtacc.org
+          -
+            type: text
+            text: '. This year, we are offering a virtual track for those unable to attend in-person. So, if you are not able to attend due to COVID-19, we can reduce your registration cost to the virtual rate if you would like to participate in the online programming or we can provide a full refund if you are not able to attend either in-person or online.'
+      -
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
