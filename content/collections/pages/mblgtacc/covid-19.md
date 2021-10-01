@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633118484
+updated_at: 1633119000
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -125,7 +125,19 @@ sections:
             text: support@sgdinstitute.org
           -
             type: text
-            text: ' so that we may begin the contact tracing process. Contact information for all attendees will be kept on file so that we may notify you in the event of an exposure.It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
+            text: ' so that we may begin the contact tracing process. Contact information for all attendees will be kept on file so that we may notify you in the event of an exposure.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference'
+          -
+            type: text
+            text: ' to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
           -
             type: text
             marks:
