@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633119000
+updated_at: 1633119058
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -43,7 +43,13 @@ sections:
         content:
           -
             type: text
-            text: 'We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces. We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting. You can find information about the Monona Terrace COVID-19 policies on '
+            marks:
+              -
+                type: bold
+            text: 'We will expect all attendees to wear masks and follow common social distancing measures in indoor conference spaces.'
+          -
+            type: text
+            text: ' We also ask and encourage all those who are joining us to carry those practices into other establishments they enter while visiting. You can find information about the Monona Terrace COVID-19 policies on '
           -
             type: text
             marks:
@@ -63,7 +69,16 @@ sections:
         content:
           -
             type: text
-            text: 'Finally, it is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
+            text: 'Finally, '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'it is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference'
+          -
+            type: text
+            text: ' to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
           -
             type: text
             marks:
@@ -131,13 +146,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference'
-          -
-            type: text
-            text: ' to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
+            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Madison, WI through the '
           -
             type: text
             marks:
