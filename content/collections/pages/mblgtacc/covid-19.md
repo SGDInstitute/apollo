@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633118459
+updated_at: 1633118484
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -15,7 +15,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -101,7 +101,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -157,7 +157,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -191,7 +191,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
