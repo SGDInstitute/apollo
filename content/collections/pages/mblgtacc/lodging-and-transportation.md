@@ -319,27 +319,43 @@ sections:
         content:
           -
             type: text
-            text: Transportation
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We''re working on arranging ground transportation from hotels to the Monona Terrace Conference Center. More information will be posted as it becomes available.'
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
             text: Parking
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'More information will be posted as it becomes available.'
+            text: 'The Monona Terrace parking garage is open to the public seven days a week. 400 parking spaces are available on weekdays; 600 spaces are available after 5:00 pm weeknights and on weekends. Parking rates are:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekdays: $3.00 per hour ($1.00 for first half hour) $16.00 daily maximum'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekday evenings after 5:00 pm: $5.00 flat rate'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekends: $5.00 flat rate'
       -
         type: heading
         attrs:
@@ -381,6 +397,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631898737
+updated_at: 1633369742
 template: default
 ---
