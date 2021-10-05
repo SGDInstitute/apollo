@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633396824
+updated_at: 1633396855
 sections:
   -
     bg_type: image
@@ -40,7 +40,7 @@ sections:
                 link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
                 text: 'Download the conference program (PDF)'
                 color: btn-green
-                size: btn-lg
+                size: btn-base
                 block: false
                 outline: true
                 target_blank: true
