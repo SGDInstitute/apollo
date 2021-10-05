@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1633369785
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1633398130
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -74,14 +74,15 @@ sections:
     event: mblgtacc-2021-keynote
     date_format: day_of_week_full
     background_height: full
-    text: 'View the full program schedule'
+    text: 'Read speaker and skill share bios'
     color: btn-green
-    size: btn-lg
+    size: btn-base
     block: false
-    outline: false
-    target_blank: false
+    outline: true
+    target_blank: true
     type: speakers
     enabled: true
+    link: 'entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
   -
     title: 'Skill share presenters'
     event: mblgtacc-2021-skill
