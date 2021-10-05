@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633396878
+updated_at: 1633396955
 sections:
   -
     bg_type: image
@@ -55,27 +55,33 @@ sections:
                 target_blank: true
             contain: true
       -
-        type: paragraph
+        type: bullet_list
         content:
           -
-            type: text
-            marks:
+            type: list_item
+            content:
               -
-                type: italic
-            text: 'Also available: '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: 'Download the program PDF in a spreads-format.'
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Also available: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
+                          rel: null
+                          target: _blank
+                          title: null
+                      -
+                        type: italic
+                    text: 'Download the program PDF in a spreads-format.'
       -
         type: paragraph
       -
