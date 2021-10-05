@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633397714
+updated_at: 1633397975
 sections:
   -
     bg_type: image
@@ -38,7 +38,7 @@ sections:
               -
                 button: null
                 link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
-                text: 'Download conference program (PDF)'
+                text: 'Download program PDF'
                 color: btn-green
                 size: btn-base
                 block: false
@@ -47,7 +47,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
-                text: 'View conference program on Issuu'
+                text: 'View program on Issuu'
                 color: btn-green
                 size: btn-base
                 block: false
