@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633397568
+updated_at: 1633397714
 sections:
   -
     bg_type: image
@@ -65,9 +65,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Also available: '
                   -
                     type: text
@@ -79,9 +76,18 @@ sections:
                           rel: null
                           target: _blank
                           title: null
+                    text: 'Download the program PDF in a spreads format.'
+                  -
+                    type: text
+                    text: ' '
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    marks:
                       -
                         type: italic
-                    text: 'Download the program PDF in a spreads format.'
+                    text: 'Program PDFs last updated 10/4/2021'
       -
         type: paragraph
       -
