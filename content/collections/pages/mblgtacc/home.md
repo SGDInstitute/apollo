@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633435559
+updated_at: 1633435818
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -98,6 +98,43 @@ sections:
     outline: false
     target_blank: false
     type: speakers
+    enabled: true
+  -
+    bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Speaker bios and schedule'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
+                text: 'Read speaker bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                button: null
+                link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                text: 'View schedule & program'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
     enabled: true
   -
     limit: 3
