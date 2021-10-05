@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633396955
+updated_at: 1633396986
 sections:
   -
     bg_type: image
@@ -81,7 +81,7 @@ sections:
                           title: null
                       -
                         type: italic
-                    text: 'Download the program PDF in a spreads-format.'
+                    text: 'Download the program PDF in a spreads format.'
       -
         type: paragraph
       -
