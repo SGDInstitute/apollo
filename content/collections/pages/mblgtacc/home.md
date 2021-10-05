@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633435304
+updated_at: 1633435329
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -58,7 +58,7 @@ sections:
             buttons:
               -
                 button: null
-                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                link: 'https://mblgtacc.org/speakers-entertainment'
                 text: 'Registration and ticket options'
                 color: btn-white
                 size: btn-lg
