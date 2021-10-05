@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633398130
+updated_at: 1633398180
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -74,9 +74,9 @@ sections:
     event: mblgtacc-2021-keynote
     date_format: day_of_week_full
     background_height: full
-    text: 'Read speaker and skill share bios'
+    text: 'Read speaker and skill share bios →'
     color: btn-green
-    size: btn-base
+    size: btn-lg
     block: false
     outline: true
     target_blank: true
