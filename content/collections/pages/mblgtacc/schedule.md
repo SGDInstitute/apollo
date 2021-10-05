@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633396986
+updated_at: 1633397568
 sections:
   -
     bg_type: image
@@ -109,32 +109,37 @@ sections:
                 cells:
                   - '2:00 p.m. - 9:00 p.m.'
                   - Registration
-                  - TBD
+                  - 'Registration counters (level 4)'
               -
                 cells:
                   - '5:00 p.m. - 6:00 p.m.'
                   - 'netWerq<br/>(Welcome and Networking Reception)'
-                  - TBD
+                  - 'Exhibit Hall A'
               -
                 cells:
                   - '6:00 p.m. - 7:00 p.m.'
-                  - 'Featured Session<br/>(Virtual)'
-                  - TBD
+                  - 'Featured session: Curly Velazquez<br/>(Virtual)'
+                  - 'Virtual - Live watch party in Exhibition Ball B'
               -
                 cells:
                   - '7:00 p.m. - 7:30 p.m.'
-                  - 'Opening Ceremony'
-                  - TBD
+                  - 'Opening ceremony'
+                  - 'Exhibit AB'
               -
                 cells:
                   - '7:30 p.m. - 8:30 p.m.'
-                  - 'Keynote Session'
-                  - TBD
+                  - 'Keynote session: Mia Mingus'
+                  - 'Exhibit AB'
               -
                 cells:
                   - '8:30 p.m. - 11:00 p.m.'
-                  - 'Entertainment & Socials'
-                  - TBD
+                  - 'Entertainment: Games & crafts'
+                  - 'Exhibit Hall A'
+              -
+                cells:
+                  - '8:30 p.m. - 10:00 p.m.'
+                  - 'Advisor social'
+                  - 'Hall of Ideas J'
             full_width: true
       -
         type: paragraph
@@ -163,57 +168,57 @@ sections:
                 cells:
                   - '8:00 a.m. - 7:00 p.m.'
                   - Registration
-                  - TBD
+                  - 'Registration counters (level 4)'
               -
                 cells:
                   - '8:30 a.m. - 9:45 a.m.'
-                  - 'Workshops & Skill Shares'
-                  - TBD
+                  - 'Workshops & skill share session 1'
+                  - 'Various - see program'
               -
                 cells:
                   - '10:00 a.m. - 11:15 a.m.'
-                  - 'Workshops & Skill Shares'
-                  - TBD
+                  - 'Workshops & skill share session 2'
+                  - 'Various - see program'
               -
                 cells:
                   - '10:00 a.m. - 7:00 p.m.'
-                  - 'Vendor, Resource, & Career Fair'
-                  - TBD
+                  - 'Vendor, resource, & career fair'
+                  - 'Grand Terrace'
               -
                 cells:
                   - '11:15 a.m. - 1:00 p.m.'
-                  - 'Break for Lunch'
-                  - 'On Your Own'
+                  - 'Break for lunch (on your own)'
+                  - ''
               -
                 cells:
                   - '1:00 p.m. - 2:15 p.m.'
-                  - 'Identity Forums'
-                  - TBD
+                  - 'Identity forums'
+                  - 'Various - see program'
               -
                 cells:
                   - '2:30 p.m. - 3:45 p.m.'
-                  - 'Workshops & Skill Shares'
-                  - TBD
+                  - 'Workshops & skill share session 3'
+                  - 'Various - see program'
               -
                 cells:
                   - '4:00 p.m. - 5:15 p.m.'
-                  - 'Workshops & Skill Shares'
-                  - TBD
+                  - 'Workshops & skill share session 4'
+                  - 'Various - see program'
               -
                 cells:
                   - '5:15 p.m. - 7:00 p.m.'
-                  - 'Break for Dinner'
-                  - 'On Your Own'
+                  - 'Break for dinner (on your own)'
+                  - ''
               -
                 cells:
                   - '7:00 p.m. - 8:00 p.m.'
-                  - 'Keynote Session: M. Adams'
-                  - TBD
+                  - 'Keynote session: M. Adams'
+                  - 'Exhibit AB'
               -
                 cells:
                   - '8:00 p.m. - 11:00 p.m.'
-                  - Entertainment
-                  - TBD
+                  - 'Entertainment: Dance party'
+                  - 'Exhibit Hall A'
             full_width: true
       -
         type: paragraph
@@ -241,17 +246,17 @@ sections:
               -
                 cells:
                   - '8:30 a.m. - 9:45 a.m.'
-                  - Workshops
-                  - TBD
+                  - 'Workshop session 5'
+                  - 'Various - see program'
               -
                 cells:
                   - '10:00 a.m. - 11:15 a.m.'
-                  - 'Identity Forums'
-                  - TBD
+                  - 'Identity forums'
+                  - 'Various - see program'
               -
                 cells:
                   - '11:30 a.m. - 12:00 p.m.'
-                  - 'Closing Remarks'
+                  - 'Closing remarks'
                   - TBD
             full_width: true
       -
