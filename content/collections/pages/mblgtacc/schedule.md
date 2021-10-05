@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632229638
+updated_at: 1633396824
 sections:
   -
     bg_type: image
@@ -22,25 +22,62 @@ sections:
         content:
           -
             type: text
+            text: 'Conference schedule'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Most programming will be available both in-person and virtually. All times listed in Central Daylight Time.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
+                text: 'Download the conference program (PDF)'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+                text: 'View conference program on Issuu'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             marks:
               -
                 type: italic
-            text: Tentative
+            text: 'Also available: '
           -
             type: text
-            text: ' conference schedule'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'Download the program PDF in a spreads-format.'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Please know that this schedule may be adjusted slightly as details are confirmed. All times listed in Central Daylight Time.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Most programming will be available both in-person and virtually. Additional details will be posted on this page as they are finalized.'
       -
         type: heading
         attrs:
