@@ -1,4 +1,6 @@
 ---
+id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
+blueprint: pages
 title: Accessibility
 sections:
   -
@@ -68,13 +70,13 @@ sections:
         content:
           -
             type: text
-            text: 'Service animals and service animals-in training '
+            text: 'Service animals'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Service animals are welcome at MBLGTACC. The ADA defines a service animal as “any animal that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability.” Were the animal not readily apparent as a service animal, staff at the conference may ask the individual if the animal helps to mitigate a disability and what tasks the animal has been trained to perform. A service animal may relieve itself in any of the green areas available outdoors.  Owners are reminded to clean up after their service animals'
+            text: 'Service animals are welcome at MBLGTACC. The ADA defines a service animal as “any animal that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability.” Were the animal not readily apparent as a service animal, staff at the conference may ask the individual if the animal helps to mitigate a disability and what tasks the animal has been trained to perform.'
       -
         type: heading
         attrs:
@@ -102,7 +104,7 @@ sections:
         content:
           -
             type: text
-            text: 'There will be ASL interpreters for all plenary sessions. If you are an attendee who is deaf or hard of hearing, we invite and encourage you to request an ASL interpreter to accompany you to some or all of the workshops you''ll be attending. To do this, please make your specific request through the registration form, and a member of our team will follow-up with you. In addition to interpreter services, we will also be sending information to all presenters about how to make their presentations accessible.'
+            text: 'There will be CART interpretation for all plenary sessions. If you arean attendee who is d/Deaf or hard of hearing, we invite and encourage you to request CART and/or ASL interpreters to accompany you to some or all of the workshops you’ll be attending. To do this, please make your specific request through the registration form, and a member of our team will follow-up with you. In addition to interpreter services, we have required all presenters to use live auto captions through GoogleSlides if they are using a slideshow.'
       -
         type: heading
         attrs:
@@ -116,13 +118,16 @@ sections:
         content:
           -
             type: text
-            text: 'All sessions will be held in the host conference space. The facility is fully ADA compliant and has large spaces to accommodate the traffic peaks during session transitions.  All sessions will be held in close proximity and adequate transition time will be allowed in the schedule. '
+            text: 'All sessions will be held in the Monona Terrace. The facility is ADA compliant and has large spaces to accommodate the traffic peaks during session transitions. All sessions will beheld in close proximity and transition time will be allowed in the schedule. '
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'We ask all attendees who can use the stairs to do so—this will allow those who need to use elevators to do so with a minimum of disruptions, crowding, and wait-times.'
+            text: 'We ask all attendees who can use the stairs to do so—this will allow those who need to use elevators to do so with a minimum of disruptions, crowding, and wait times.'
+          -
+            type: text
+            text: ' Please help us keep at least 36” aisles free in common spaces.'
       -
         type: heading
         attrs:
@@ -136,7 +141,7 @@ sections:
         content:
           -
             type: text
-            text: 'We will have mindfulness spaces available for those who need a moment to center themselves. These rooms are non-staffed spaces to provide conference attendees with a quiet place to rest and rejuvenate. The rooms will be equipped with yoga mats, coloring books, fidgets, etc. Conference attendees can use these spaces during the times when events are happening in the space.'
+            text: 'Visit our quiet space in the Hall of Fame Room, open on Saturday from 8:00 am - 11:00 pm and on Sunday from 8:00 am - 12:00 pm.'
       -
         type: heading
         attrs:
@@ -150,7 +155,7 @@ sections:
         content:
           -
             type: text
-            text: 'There will be nearly 2000 students attending MBLGTACC. To keep shared spaces suitable for those with scent sensitivities, we ask attendees to use scent-free products or limit/forego the excessive use of scented hygiene products while at the conference.'
+            text: 'To keep shared spaces suitable for those with scent sensitivities, we ask attendees to use scent-free products or limit/forego the excessive use of scented hygiene products while at the conference. Please use the fragrance-free hand soap provided in therestrooms and fragrance-free handsanitizer in common spaces.'
       -
         type: heading
         attrs:
@@ -164,30 +169,32 @@ sections:
         content:
           -
             type: text
-            text: 'We strongly encourage presenters to ensure their sessions are visually accessible to the fullest extent possible, and we''ll be sending information to all presenters on things they should consider. Large-print programs will be available for all attendees who registered prior to the registration deadline, and there will be a limited number produced for on-site registrants.'
+            text: 'We have sent all presenters information on accessible color, contrast, and text size for their materials. Large-print programs will be available for all on-site attendees who registered prior to the registration deadline and opted to receive one. There may be a limited number produced for on-site registrants.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Digital
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'We encourage you to make specific accommodations requests '
+            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too! '
           -
             type: text
             marks:
               -
-                type: bold
-              -
-                type: italic
-            text: 'through the registration process.'
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ' We work in earnest to accommodate requests whenever and wherever possible; however, we cannot guarantee that all components of all sessions will be accessible for all attendees.'
+                type: link
+                attrs:
+                  href: go.wisc.edu/mblgtaccdiscord
+                  rel: null
+                  target: null
+                  title: null
+            text: go.wisc.edu/mblgtaccdiscord
     type: content
     enabled: true
   -
@@ -305,6 +312,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617907297
-id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
+updated_at: 1633470390
 ---
