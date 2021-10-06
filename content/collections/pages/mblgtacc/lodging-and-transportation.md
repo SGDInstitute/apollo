@@ -82,7 +82,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'An accessible bus will run a circuit between the conference center and the hotels all weekend. '
+                    text: 'One accessible bus will run a circuit between the conference center and the hotels all weekend. Please allow those experiencing mobility issues to use this bus first.'
           -
             type: list_item
             content:
@@ -607,6 +607,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633527721
+updated_at: 1633527838
 template: default
 ---
