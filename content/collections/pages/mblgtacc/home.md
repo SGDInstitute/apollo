@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633541000
+updated_at: 1633558913
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -143,6 +143,33 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Sponsors
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The MBLGTACC 2021 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations. The conference would not have been possible without the levels of support they’ve given the conference over the past two years.'
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: sponsors/2021-sponsor-logo-wall.png
+            inline: false
       -
         type: paragraph
     type: content
