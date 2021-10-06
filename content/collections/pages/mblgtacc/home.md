@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633436207
+updated_at: 1633541000
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -78,7 +78,7 @@ sections:
     center_columns: false
     above_price: 'Starting at'
   -
-    title: 'Keynote speakers'
+    title: 'Keynotes and featured session'
     event: mblgtacc-2021-keynote
     date_format: day_of_week_full
     background_height: full
