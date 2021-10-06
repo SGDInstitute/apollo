@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633540692
+updated_at: 1633559417
 sections:
   -
     bg_type: image
@@ -282,5 +282,25 @@ sections:
     num_colors: 2
     bg_color: bg-gray-100
     type: news
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Discord
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too! go.wisc.edu/mblgtaccdiscord'
+      -
+        type: paragraph
+    type: content
     enabled: true
 ---
