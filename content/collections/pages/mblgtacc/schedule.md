@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633397975
+updated_at: 1633540526
 sections:
   -
     bg_type: image
@@ -200,6 +200,11 @@ sections:
                   - '1:00 p.m. - 2:15 p.m.'
                   - 'Identity forums'
                   - 'Various - see program'
+              -
+                cells:
+                  - '1:00 p.m. - 2:15 p.m.'
+                  - 'Advisor roundtable'
+                  - 'Hall of Ideas J'
               -
                 cells:
                   - '2:30 p.m. - 3:45 p.m.'
