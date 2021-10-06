@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633540083
+updated_at: 1633541410
 sections:
   -
     title: 'Keynotes and skill shares'
@@ -152,7 +152,7 @@ sections:
             text: 'Curly Velazquez '
           -
             type: text
-            text: 'is an actor, content creator and artist who celebrates all things Latinx and beautiful.He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
+            text: 'is an actor, content creator and artist who celebrates all things Latinx and beautiful. He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
           -
             type: text
             marks:
