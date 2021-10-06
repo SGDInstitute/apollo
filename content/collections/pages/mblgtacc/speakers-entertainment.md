@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633539797
+updated_at: 1633539837
 sections:
   -
     title: 'Keynotes and skill shares'
@@ -49,7 +49,13 @@ sections:
         content:
           -
             type: text
-            text: 'Mia Mingus is a writer, educator and trainer for transformative justice and disability justice. She is a queer physically disabled korean transracial and transnational adoptee raised in the Caribbean. She works for community, interdependence and home for all of us, not just some of us, and longs for a world where disabled children can live free of violence, with dignity and love. As her work for liberation evolves and deepens, her roots remain firmly planted in ending sexual violence.Mia has been involved in transformative justice work for almost 2 decades. She is a prison abolitionist and a survivor who believes that we must move beyond punishment, revenge and criminalization if we are ever to effectively break generational cycles of violence and create the world our hearts long for. She is passionate about building the skills, relationships and structures that can transform violence, harm and abuse within our communities and that do not rely on or replicate the punitive system we currently live in. Mia speaks and gives trainings about transformative justice throughout North America.Mia was a member and part of helping to create the Atlanta Transformative Justice Collaborative from 2005-2010 and later Program Director for 2 years at Generation5 before the organization closed down. She was a founding and core member of the Bay Area Transformative Justice Collective from 2011-2020. Over the past 2 decades, she has supported numerous groups, organizations, individuals, intimate networks, families and communities in addressing harm, violence and abuse using transformative justice.Mia helped to create and forward the disability justice framework. Her writings on disability have been used around the world and are a regular part of college and university curricula. Her blog, Leaving Evidence, has become a staple resource for anyone wanting to learn about disability and she has coined language and concepts such as “access intimacy,” “magnificence,” “politically and descriptively disabled” and “forced intimacy.” Mia has played a key role in connecting disability justice with other movements and communities and she has worked tirelessly to educate different communities about disability, ableism, access, disability justice and abled supremacy.Her writings can be found on her blog, '
+            marks:
+              -
+                type: bold
+            text: 'Mia Mingus'
+          -
+            type: text
+            text: ' is a writer, educator and trainer for transformative justice and disability justice. She is a queer physically disabled korean transracial and transnational adoptee raised in the Caribbean. She works for community, interdependence and home for all of us, not just some of us, and longs for a world where disabled children can live free of violence, with dignity and love. As her work for liberation evolves and deepens, her roots remain firmly planted in ending sexual violence.Mia has been involved in transformative justice work for almost 2 decades. She is a prison abolitionist and a survivor who believes that we must move beyond punishment, revenge and criminalization if we are ever to effectively break generational cycles of violence and create the world our hearts long for. She is passionate about building the skills, relationships and structures that can transform violence, harm and abuse within our communities and that do not rely on or replicate the punitive system we currently live in. Mia speaks and gives trainings about transformative justice throughout North America.Mia was a member and part of helping to create the Atlanta Transformative Justice Collaborative from 2005-2010 and later Program Director for 2 years at Generation5 before the organization closed down. She was a founding and core member of the Bay Area Transformative Justice Collective from 2011-2020. Over the past 2 decades, she has supported numerous groups, organizations, individuals, intimate networks, families and communities in addressing harm, violence and abuse using transformative justice.Mia helped to create and forward the disability justice framework. Her writings on disability have been used around the world and are a regular part of college and university curricula. Her blog, Leaving Evidence, has become a staple resource for anyone wanting to learn about disability and she has coined language and concepts such as “access intimacy,” “magnificence,” “politically and descriptively disabled” and “forced intimacy.” Mia has played a key role in connecting disability justice with other movements and communities and she has worked tirelessly to educate different communities about disability, ableism, access, disability justice and abled supremacy.Her writings can be found on her blog, '
           -
             type: text
             marks:
@@ -92,7 +98,13 @@ sections:
         content:
           -
             type: text
-            text: 'M. Adams (she/he/they) is a community organizer and co-executive director of Freedom Inc. Born and raised in  Milwaukee, Adams has been in Madison since 2003. Adams’s dad has been incarcerated most of her life and she comes from a community that has been the extreme targets of police violence—and in March 2016 Adams’s mother transitioned after fighting cancer and many forms of violence. Adams is also a Dad and sees her family as a primary motivator for her work. As a queer Black person, Adams has developed and advocated for a strong intersectional approach in numerous important venues. Adams is a leading figure in the Movement 4 Black Lives and Take Back the Land Movement, she presented before the United Nations for the Convention on Eliminating Racial Discrimination, she is a co-author of Forward from Ferguson and a paper on Black community control over the police, and she author to intersectionality theory in Why Killing Unarmed Black folks is a Queer issue. Adams can be regularly be seen in person, on TV or in the newspapers giving presentations, testifying at city council meetings, and energizing crowds at protests.'
+            marks:
+              -
+                type: bold
+            text: 'M. Adams'
+          -
+            type: text
+            text: ' (she/he/they) is a community organizer and co-executive director of Freedom Inc. Born and raised in  Milwaukee, Adams has been in Madison since 2003. Adams’s dad has been incarcerated most of her life and she comes from a community that has been the extreme targets of police violence—and in March 2016 Adams’s mother transitioned after fighting cancer and many forms of violence. Adams is also a Dad and sees her family as a primary motivator for her work. As a queer Black person, Adams has developed and advocated for a strong intersectional approach in numerous important venues. Adams is a leading figure in the Movement 4 Black Lives and Take Back the Land Movement, she presented before the United Nations for the Convention on Eliminating Racial Discrimination, she is a co-author of Forward from Ferguson and a paper on Black community control over the police, and she author to intersectionality theory in Why Killing Unarmed Black folks is a Queer issue. Adams can be regularly be seen in person, on TV or in the newspapers giving presentations, testifying at city council meetings, and energizing crowds at protests.'
     type: content
     enabled: true
   -
@@ -144,7 +156,13 @@ sections:
         content:
           -
             type: text
-            text: 'Curly Velazquez is an actor, content creator and artist who celebrates all things Latinx and beautiful.He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
+            marks:
+              -
+                type: bold
+            text: 'Curly Velazquez '
+          -
+            type: text
+            text: 'is an actor, content creator and artist who celebrates all things Latinx and beautiful.He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
           -
             type: text
             marks:
@@ -183,7 +201,13 @@ sections:
         content:
           -
             type: text
-            text: 'Trans Law Help Wisconsin is a pro bono legal project dedicated to providing legal information and resources to transgender and nonbinary individuals across the state of Wisconsin and beyond. Join our volunteer attorneys to learn about the process of changing your name and gender marker on identity documents and receive help completing the legal paperwork.'
+            marks:
+              -
+                type: bold
+            text: 'Trans Law Help Wisconsin'
+          -
+            type: text
+            text: ' is a pro bono legal project dedicated to providing legal information and resources to transgender and nonbinary individuals across the state of Wisconsin and beyond. Join our volunteer attorneys to learn about the process of changing your name and gender marker on identity documents and receive help completing the legal paperwork.'
       -
         type: heading
         attrs:
@@ -204,7 +228,13 @@ sections:
         content:
           -
             type: text
-            text: 'Yante Turner (he/him) is an openly Trans & Queer Black change agent from Milwaukee. With his background in community care and trans liberation work, Yante serves to uplift, support, and advocate for the diaspora of Black Trans people. His passion leads him to wear many hats and have a role in the world as fluid and open as he is. His many roles and hats include working as a Full Spectrum Doula for queer and Trans BIPOC, providing labor support care, abortion advocacy, community defense and Safety task force curator, and a facilitator of all the things Trans, Black, Healing, joyful and challenging! Creating affirming spaces that also foster continuous learning are important factors in Yante’s work, as the fight to decolonize, stripe white supremacy from our communities, and love radically stand at the forefront of his work and life.'
+            marks:
+              -
+                type: bold
+            text: 'Yante Turner'
+          -
+            type: text
+            text: ' (he/him) is an openly Trans & Queer Black change agent from Milwaukee. With his background in community care and trans liberation work, Yante serves to uplift, support, and advocate for the diaspora of Black Trans people. His passion leads him to wear many hats and have a role in the world as fluid and open as he is. His many roles and hats include working as a Full Spectrum Doula for queer and Trans BIPOC, providing labor support care, abortion advocacy, community defense and Safety task force curator, and a facilitator of all the things Trans, Black, Healing, joyful and challenging! Creating affirming spaces that also foster continuous learning are important factors in Yante’s work, as the fight to decolonize, stripe white supremacy from our communities, and love radically stand at the forefront of his work and life.'
       -
         type: heading
         attrs:
@@ -225,7 +255,13 @@ sections:
         content:
           -
             type: text
-            text: "Saint Saunter (aka Sarah Akawa) (she/her) spins a mix of genres from club, pop/mainstream, house, and solid throwbacks. Much more than a DJ, Saint Saunter is creator of Madison's favorite queer multi-genre festival Hot Summer Gays alongside Dyke Dive. She has been creating queer nightlife spaces since her early days in Madison at the now defunct Plan B in collaboration with Tina She of The-L-Word-famous hip hop duo, God-des & She. After She Said Parties ended, Saint then created her long standing series QueerIRL which has held art pop ups, slow jam nights, and other events. Saint Saunter can also be found spinning at Dyke Dive, Madison-based house group JAMS, Madison and other Midwest PrideFests, and various local Madison venues. Seemingly oddly, Saint Saunter’s start in music comes from emo / pop punk music. She began her career as a promoter as a young teenager throwing shows for other teens, primarily booking emo bands in her hometown of Stevens Point, Wisconsin. That makes more sense when you find out that her side and passion project is Emo Nite Madison and Pop Punk Pizza Party; nights that celebrate her root love of emo and pop punk music. As a queer Asian woman in a white /cis / male dominated field she has delighted in mentoring other people of color and queer DJs, “I feel like it has been a huge gift to share my love of DJing and nightlife with the community and helping to uplift more queer and POC DJs around Madison”.\_\_Recently, Saint Saunter has joined Milwaukee’s No Stress Collective, which is a party collective of DJs, party planners, photographers, creating amazing dance parties for people who love to dance. Their motto is “Always Fun. No Hate, No Ego, No Stress”. Ultimately, Saint Saunter says its all about the community and friends that are made at her parties, “None of this would be worth anything without the people who come out, sweat, dance, meet new and old friends, and have fun. The community we create depends on every single person who comes through the door, and it makes it all worth it.” Whatever the night, genre, or location, Saint Saunter is always bringing together the queer community for dancing, fun, expression, and to celebrate the queer community. Lastly, Saint Saunter encourages those who are seeking to make a space that is needed to reach out to her: “I’m a huge collaborator, nothing is worth doing without friends alongside you.”"
+            marks:
+              -
+                type: bold
+            text: 'Saint Saunter'
+          -
+            type: text
+            text: " (aka Sarah Akawa) (she/her) spins a mix of genres from club, pop/mainstream, house, and solid throwbacks. Much more than a DJ, Saint Saunter is creator of Madison's favorite queer multi-genre festival Hot Summer Gays alongside Dyke Dive. She has been creating queer nightlife spaces since her early days in Madison at the now defunct Plan B in collaboration with Tina She of The-L-Word-famous hip hop duo, God-des & She. After She Said Parties ended, Saint then created her long standing series QueerIRL which has held art pop ups, slow jam nights, and other events. Saint Saunter can also be found spinning at Dyke Dive, Madison-based house group JAMS, Madison and other Midwest PrideFests, and various local Madison venues. Seemingly oddly, Saint Saunter’s start in music comes from emo / pop punk music. She began her career as a promoter as a young teenager throwing shows for other teens, primarily booking emo bands in her hometown of Stevens Point, Wisconsin. That makes more sense when you find out that her side and passion project is Emo Nite Madison and Pop Punk Pizza Party; nights that celebrate her root love of emo and pop punk music. As a queer Asian woman in a white /cis / male dominated field she has delighted in mentoring other people of color and queer DJs, “I feel like it has been a huge gift to share my love of DJing and nightlife with the community and helping to uplift more queer and POC DJs around Madison”.\_\_Recently, Saint Saunter has joined Milwaukee’s No Stress Collective, which is a party collective of DJs, party planners, photographers, creating amazing dance parties for people who love to dance. Their motto is “Always Fun. No Hate, No Ego, No Stress”. Ultimately, Saint Saunter says its all about the community and friends that are made at her parties, “None of this would be worth anything without the people who come out, sweat, dance, meet new and old friends, and have fun. The community we create depends on every single person who comes through the door, and it makes it all worth it.” Whatever the night, genre, or location, Saint Saunter is always bringing together the queer community for dancing, fun, expression, and to celebrate the queer community. Lastly, Saint Saunter encourages those who are seeking to make a space that is needed to reach out to her: “I’m a huge collaborator, nothing is worth doing without friends alongside you.”"
       -
         type: heading
         attrs:
