@@ -4,15 +4,11 @@ blueprint: pages
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632230443
+updated_at: 1633538358
 sections:
   -
-    bg_type: image
-    bg_image: headers/Header_Entertainment.jpg
-    num_colors: 2
-    bg_color: bg-green-600
-    title: 'Look who''s coming to MBLGTACC'
-    type: header
+    title: 'Keynotes and skill shares'
+    type: header_small
     enabled: true
   -
     bard:
