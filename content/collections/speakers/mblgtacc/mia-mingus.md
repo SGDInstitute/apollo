@@ -1,12 +1,12 @@
 ---
 id: 1dc43445-7bd5-4bd0-9177-e792070a0607
 blueprint: speakers
-title: 'Mia Mingus'
+title: 'Keynote: Mia Mingus'
 speaking_on: '2021-10-08'
 event: mblgtacc-2021-keynote
 headshot: headshots/Mingus.jpg
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1631821566
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1633540939
 bard:
   -
     type: paragraph
