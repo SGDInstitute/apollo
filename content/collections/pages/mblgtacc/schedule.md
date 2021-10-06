@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633540603
+updated_at: 1633540692
 sections:
   -
     bg_type: image
@@ -193,8 +193,8 @@ sections:
               -
                 cells:
                   - '11:15 a.m. - 1:00 p.m.'
-                  - 'Break for lunch (on your own)'
-                  - ''
+                  - 'Break for lunch'
+                  - '<i>on your own</i>'
               -
                 cells:
                   - '1:00 p.m. - 2:15 p.m.'
@@ -218,8 +218,8 @@ sections:
               -
                 cells:
                   - '5:15 p.m. - 7:00 p.m.'
-                  - 'Break for dinner (on your own)'
-                  - ''
+                  - 'Break for dinner'
+                  - '<i>on your own</i>'
               -
                 cells:
                   - '7:00 p.m. - 8:00 p.m.'
@@ -268,7 +268,7 @@ sections:
                 cells:
                   - '11:30 a.m. - 12:00 p.m.'
                   - 'Closing remarks'
-                  - TBD
+                  - ''
             full_width: true
       -
         type: paragraph
