@@ -19,5 +19,5 @@ bard:
         type: text
         text: 'is an actor, content creator and artist who celebrates all things Latinx and beautiful.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633540912
+updated_at: 1633540966
 ---
