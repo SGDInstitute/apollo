@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Speakers & Entertainment'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633538358
+updated_at: 1633539797
 sections:
   -
     title: 'Keynotes and skill shares'
@@ -27,50 +27,29 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Friday, October 8'
+            text: 'Mia Mingus'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: ': Mia Mingus'
+            marks:
+              -
+                type: bold
+            text: 'Friday, October 8'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/Mingus.jpg
+            image: headshots/mia-mingus-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mia Mingus is a writer, educator and trainer for transformative justice and disability justice. She is a queer physically disabled korean transracial and transnational adoptee raised in the Caribbean. She works for community, interdependence and home for all of us, not just some of us, and longs for a world where disabled children can live free of violence, with dignity and love. As her work for liberation evolves and deepens, her roots remain firmly planted in ending sexual violence.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Mia has been involved in transformative justice work for almost 2 decades. She is a prison abolitionist and a survivor who believes that we must move beyond punishment, revenge and criminalization if we are ever to effectively break generational cycles of violence and create the world our hearts long for. She is passionate about building the skills, relationships and structures that can transform violence, harm and abuse within our communities and that do not rely on or replicate the punitive system we currently live in. Mia speaks and gives trainings about transformative justice throughout North America.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Mia was a member and part of helping to create the Atlanta Transformative Justice Collaborative from 2005-2010 and later Program Director for 2 years at Generation5 before the organization closed down. She was a founding and core member of the Bay Area Transformative Justice Collective from 2011-2020. Over the past 2 decades, she has supported numerous groups, organizations, individuals, intimate networks, families and communities in addressing harm, violence and abuse using transformative justice.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Mia helped to create and forward the disability justice framework. Her writings on disability have been used around the world and are a regular part of college and university curricula. Her blog, Leaving Evidence, has become a staple resource for anyone wanting to learn about disability and she has coined language and concepts such as “access intimacy,” “magnificence,” “politically and descriptively disabled” and “forced intimacy.” Mia has played a key role in connecting disability justice with other movements and communities and she has worked tirelessly to educate different communities about disability, ableism, access, disability justice and abled supremacy.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Her writings can be found on her blog, '
+            text: 'Mia Mingus is a writer, educator and trainer for transformative justice and disability justice. She is a queer physically disabled korean transracial and transnational adoptee raised in the Caribbean. She works for community, interdependence and home for all of us, not just some of us, and longs for a world where disabled children can live free of violence, with dignity and love. As her work for liberation evolves and deepens, her roots remain firmly planted in ending sexual violence.Mia has been involved in transformative justice work for almost 2 decades. She is a prison abolitionist and a survivor who believes that we must move beyond punishment, revenge and criminalization if we are ever to effectively break generational cycles of violence and create the world our hearts long for. She is passionate about building the skills, relationships and structures that can transform violence, harm and abuse within our communities and that do not rely on or replicate the punitive system we currently live in. Mia speaks and gives trainings about transformative justice throughout North America.Mia was a member and part of helping to create the Atlanta Transformative Justice Collaborative from 2005-2010 and later Program Director for 2 years at Generation5 before the organization closed down. She was a founding and core member of the Bay Area Transformative Justice Collective from 2011-2020. Over the past 2 decades, she has supported numerous groups, organizations, individuals, intimate networks, families and communities in addressing harm, violence and abuse using transformative justice.Mia helped to create and forward the disability justice framework. Her writings on disability have been used around the world and are a regular part of college and university curricula. Her blog, Leaving Evidence, has become a staple resource for anyone wanting to learn about disability and she has coined language and concepts such as “access intimacy,” “magnificence,” “politically and descriptively disabled” and “forced intimacy.” Mia has played a key role in connecting disability justice with other movements and communities and she has worked tirelessly to educate different communities about disability, ableism, access, disability justice and abled supremacy.Her writings can be found on her blog, '
           -
             type: text
             marks:
@@ -83,25 +62,30 @@ sections:
                   title: null
             text: 'Leaving Evidence.'
       -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Saturday, October 9'
+            text: 'M. Adams'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: ': M. Adams'
+            marks:
+              -
+                type: bold
+            text: 'Saturday, October 9'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/Adams.jpg
+            image: headshots/m-adams-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
@@ -109,6 +93,68 @@ sections:
           -
             type: text
             text: 'M. Adams (she/he/they) is a community organizer and co-executive director of Freedom Inc. Born and raised in  Milwaukee, Adams has been in Madison since 2003. Adams’s dad has been incarcerated most of her life and she comes from a community that has been the extreme targets of police violence—and in March 2016 Adams’s mother transitioned after fighting cancer and many forms of violence. Adams is also a Dad and sees her family as a primary motivator for her work. As a queer Black person, Adams has developed and advocated for a strong intersectional approach in numerous important venues. Adams is a leading figure in the Movement 4 Black Lives and Take Back the Land Movement, she presented before the United Nations for the Convention on Eliminating Racial Discrimination, she is a co-author of Forward from Ferguson and a paper on Black community control over the police, and she author to intersectionality theory in Why Killing Unarmed Black folks is a Queer issue. Adams can be regularly be seen in person, on TV or in the newspapers giving presentations, testifying at city council meetings, and energizing crowds at protests.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Featured session'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Amor y salud: A night with Curly Velazquez'
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: headshots/curly-velazquez-featured-1090x681.jpg
+            inline: false
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Friday, October 8'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Streamed to YouTube: go.wisc.edu/LHMwithCurly'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Live watch party: Exhibition Hall B (level 1)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Curly Velazquez is an actor, content creator and artist who celebrates all things Latinx and beautiful.He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Mucho Mucho Amor.'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -130,7 +176,7 @@ sections:
         attrs:
           values:
             type: image
-            image: headshots/Trans-Law.jpg
+            image: headshots/trans-law-help-wisco-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
@@ -145,13 +191,13 @@ sections:
         content:
           -
             type: text
-            text: 'Yante Turner'
+            text: 'Yante Turner: Centering queer and trans joy in our work'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/Turner.jpg
+            image: headshots/yante-turner-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
@@ -166,13 +212,13 @@ sections:
         content:
           -
             type: text
-            text: 'Sarah Akawa'
+            text: 'Saint Saunter (Sarah Akawa): Curating our nightlife—it''s more than a party'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/Akawa.jpg
+            image: headshots/sarah-akawa-saint-saunter-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
@@ -187,20 +233,35 @@ sections:
         content:
           -
             type: text
-            text: 'giige arts collective'
+            text: 'giige arts collective: Body reclamation in connection to community and place'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/giige.jpg
+            image: headshots/giige-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'landsem, nipinet (Michif, Anishinaabe, Nêhiyaw), giige arts collective nipinet (Anishinaabe and Michif), with nibiiwakamigkwe (Onyota:a’ká, Anishinaabe, Métis), are artists and organizers based in Teejop//Madison, Wisconsin. They co-founded giige “heals up” in 2020, opening a tattoo and retail storefront on Williamson Street to celebrate and practice Indigenous art. Their rotary machine, handpoke, and skin-stitch tattoo work encompasses body and traditions reclamation with a focus on tattooing cultures of Eastern Woodlands, Northern Plains, and Subarctic Native peoples. Practical techniques and teachings are gathered from oral history, contemporary practitioners, and academic literature. Besides operations and art at giige, nipinet works with Strong Spirits 2Sircle Collective, Troy Farms/Rooted WI, Native Realities Press, and guest tattoos throughout the United States and Canada. They enjoy sewing, digital art, risograph and linocut printing. nibiiwakamigkwe has collaborated with Tribal programming, University of Wisconsin - Madison, Milwaukee Art Museum, City of Madison, and their art has been featured in galleries around Turtle Island. They also teach beadwork, caribou and moose tufting, quillwork, and fishscale art. Both pursue traditional lifeways and land protection efforts within the constraints of urban living.'
+            text: 'landsem, nipinet (Michif, Anishinaabe, Nêhiyaw), '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'giige arts collective'
+          -
+            type: text
+            text: ' nipinet (Anishinaabe and Michif), with nibiiwakamigkwe (Onyota:a’ká, Anishinaabe, Métis), are artists and organizers based in Teejop//Madison, Wisconsin. They co-founded giige “heals up” in 2020, opening a tattoo and retail storefront on Williamson Street to celebrate and practice Indigenous art. Their rotary machine, handpoke, and skin-stitch tattoo work encompasses body and traditions reclamation with a focus on tattooing cultures of Eastern Woodlands, Northern Plains, and Subarctic Native peoples. Practical techniques and teachings are gathered from oral history, contemporary practitioners, and academic literature. Besides operations and art at giige, nipinet works with Strong Spirits 2Sircle Collective, Troy Farms/Rooted WI, Native Realities Press, and guest tattoos throughout the United States and Canada. They enjoy sewing, digital art, risograph and linocut printing. nibiiwakamigkwe has collaborated with Tribal programming, University of Wisconsin - Madison, Milwaukee Art Museum, City of Madison, and their art has been featured in galleries around Turtle Island. They also teach beadwork, caribou and moose tufting, quillwork, and fishscale art. Both pursue traditional lifeways and land protection efforts within the constraints of urban living.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'They will share the historical and contemporary practices of tattooing as healing in queer and Indigenous cultures. Workshop participants are invited to imagine their bodies as carriers of connection to place and community through guided body diagramming and tattoo development.'
       -
         type: heading
         attrs:
@@ -208,20 +269,47 @@ sections:
         content:
           -
             type: text
-            text: 'Broderick Pearson'
+            text: 'Broderick Pearson & Angel Vega: March with pride for #BlackLivesMatter'
       -
         type: set
         attrs:
           values:
             type: image
-            image: headshots/Pearson.jpg
+            image: headshots/pearson-vega-featured-1090x681.jpg
             inline: false
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Broderick Pearson (he/him), also known as Montell Infiniti Ross, is a community advocate / educator for the Milwaukee’s Black LGBTQ+ community for almost two decades.  Broderick also is a medical research associate with the Medical College of Wisconsin’s Center for AIDS Intervention Research.  He has been a strong advocate for equality and improvements within healthcare systems for marginalized populations over the last 10+ years through the research he currently does.  Broderick, also being the Community Chair for the Wisconsin’s HIV State Action Planning group, uses his knowledge, connection, relatability and trust with the Black LGBT community to help bridge the gap between healthcare disparities and self-empowerment both professionally and personally.  Broderick attributes the House of Infiniti as his foundation towards community outreach, awareness, education and prevention.  Being part of a non-profit organization made up by same gender loving black men provided tools and resources that are still utilized today within his life on a professional aspect and within his personal connections he carries for the community.'
+            text: 'March with Pride for #BlackLivesMatter was a successful protest demonstration created in 2020 during Milwaukee’s Pridefest weekend to show solidarity towards the global movement of racial and systemic injustice from law enforcements against black and brown people. This movement came about from community advocates, Montell Infiniti Ross and Angel Vega, who will share their personal journeys, experiences, connections and organizational skills that were used to bring together over 5000 community members united as one under one goal at one moment.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Broderick Pearson'
+          -
+            type: text
+            text: ' (he/him), also known as Montell Infiniti Ross, is a community advocate / educator for the Milwaukee’s Black LGBTQ+ community for almost two decades. Broderick also is a medical research associate with the Medical College of Wisconsin’s Center for AIDS Intervention Research. He has been a strong advocate for equality and improvements within healthcare systems for marginalized populations over the last 10+ years through the research he currently does. Broderick, also being the Community Chair for the Wisconsin’s HIV State Action Planning group, uses his knowledge, connection, relatability and trust with the Black LGBT community to help bridge the gap between healthcare disparities and self-empowerment both professionally and personally. Broderick attributes the House of Infiniti as his foundation towards community outreach, awareness, education and prevention. Being part of a non-profit organization made up by same gender loving black men provided tools and resources that are still utilized today within his life on a professional aspect and within his personal connections he carries for the community. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Angel Vega '
+          -
+            type: text
+            text: 'was a co-organizer of the March With Pride for Black Lives Matter protest. Vega used his experience with event and parade planning to operationalize his allyship as a Mexican American gay man to the Black Lives Matter movement. Vega is an educator with Milwaukee Public Schools and is involved with Pueblo MKE, an organization of “Brown People for Black Lives Matter.” Through the latter, Vega works with others to educate the community on anti-blackness and hold conversations about anti-black biases and colorism.'
     type: content
     enabled: true
   -
