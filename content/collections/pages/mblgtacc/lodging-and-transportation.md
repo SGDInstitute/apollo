@@ -16,6 +16,256 @@ sections:
         content:
           -
             type: text
+            text: Parking
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Monona Terrace parking garage is open to the public seven days a week. 400 parking spaces are available on weekdays; 600 spaces are available after 5:00 pm weeknights and on weekends. Parking rates are:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekdays: $3.00 per hour ($1.00 for first half hour) $16.00 daily maximum'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekday evenings after 5:00 pm: $5.00 flat rate'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Weekends: $5.00 flat rate'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Transportation
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Monona Terrace is within 10 driving minutes of our partner hotels, with the Hilton Madison conveniently connected to the convention center by skywalk. There are a variety of transit options to meet your unique needs and timing. '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'An accessible bus will run a circuit between the conference center and the hotels all weekend. '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Accessible taxi vouchers—we have them! Just let us know you need one (lgbt@studentlife.wisc.edu)! '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Hotel-owned shuttles'
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Madison Concourse shuttle fits 12-25 people'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Sheraton Madison shuttle fits 14 people'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Holiday Inn Express & Suites shuttle fits 8 people'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Local transit'
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Bus and bus: rapid transitcityofmadison.com/metro'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Rideshare
+                      -
+                        type: bullet_list
+                        content:
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Badger Shared Ride Service / Badger Cab Co.'
+                                  -
+                                    type: hard_break
+                                  -
+                                    type: text
+                                    text: '608-256-5566 | badgercab.com'
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Lyft & Uber (see Lyft and Uber apps)'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Taxis
+                      -
+                        type: bullet_list
+                        content:
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Union Cab (worker cooperative with accessible transit)'
+                                  -
+                                    type: hard_break
+                                  -
+                                    type: text
+                                    text: '608.242.2000 | unioncab.com'
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Madison Taxi'
+                                  -
+                                    type: hard_break
+                                  -
+                                    type: text
+                                    text: '608-255-8294 | madtaxi.com'
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Green Cab of Madison'
+                                  -
+                                    type: hard_break
+                                  -
+                                    type: text
+                                    text: '608-255-1234 | greencabmadison.com'
+                          -
+                            type: list_item
+                            content:
+                              -
+                                type: paragraph
+                                content:
+                                  -
+                                    type: text
+                                    text: 'Badger Direct / Badger Cab Co.'
+                                  -
+                                    type: hard_break
+                                  -
+                                    type: text
+                                    text: '608-256-0106 | badgercab.com'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Hotel accommodations'
       -
         type: paragraph
@@ -312,50 +562,19 @@ sections:
           -
             type: text
             text: 'To book by phone, call 608-709-5050 and reference code “TJ1” or MBLGTACC 2021.'
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Parking
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Monona Terrace parking garage is open to the public seven days a week. 400 parking spaces are available on weekdays; 600 spaces are available after 5:00 pm weeknights and on weekends. Parking rates are:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekdays: $3.00 per hour ($1.00 for first half hour) $16.00 daily maximum'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekday evenings after 5:00 pm: $5.00 flat rate'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekends: $5.00 flat rate'
+    type: content
+    enabled: true
+  -
+    limit: 3
+    pagination: false
+    exclude: false
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -386,17 +605,8 @@ sections:
             text: .
     type: content
     enabled: true
-  -
-    limit: 3
-    pagination: false
-    exclude: false
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-100
-    type: news
-    enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1633369742
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1633527721
 template: default
 ---
