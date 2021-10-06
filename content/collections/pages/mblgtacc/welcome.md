@@ -54,20 +54,7 @@ sections:
         content:
           -
             type: text
-            text: "MBLGTACC values our Ace/Aro communities. We defend these communities as legitimate identities and encourage questioning the notion that sexual and romantic relationships are inherently good for all people. Along with the recent change to the conference name interpretation, we will continue to address the ways asexual and aromantic experiences overlap and intersect with queer experiences.\_ Ace and Aro erasure are incredibly common and we hope to utilize our platform to ensure that we are highlighting these communities as well as continue education and advocacy that is ace/aro inclusive. "
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/news/2018/10/01/updated-name-for-the-nation-s-largest-conference-for-queer-and-trans-college-students'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'Read more about how we’ve recently evolved the MBLGTACC name to re-center Ace/Aro communities >>'
+            text: "MBLGTACC values our ace/aro communities. We defend these communities as legitimate identities and encourage questioning the notion that sexual and romantic relationships are inherently good for all people. Along with the recent change to the conference name interpretation, we will continue to address the ways asexual and aromantic experiences overlap and intersect with queer experiences.\_ Ace and aro erasure are incredibly common and we hope to utilize our platform to ensure that we are highlighting these communities as well as continue education and advocacy that is ace/aro inclusive."
       -
         type: heading
         attrs:
@@ -81,7 +68,7 @@ sections:
         content:
           -
             type: text
-            text: "MBLGTACC appreciates our attendees that are entering our spaces with both visible and invisible physical, psychological, and/or social (dis)abilities. We acknowledge the reality that our spaces are infrequently sufficient in accommodating all experiences & our society constructs processes and physical spaces without these communities in mind. We advocate for continued adjustments to our language, physical spaces and processes that better center the various needs of these communities & encouragement investment in greater accessibility to ensure all members of our larger community are able to participate fully in gatherings, movement actions & institutions of education.\_"
+            text: "MBLGTACC appreciates our attendees that are entering our spaces with both visible and invisible physical, psychological, and/or social (dis)abilities. We acknowledge the reality that our spaces are infrequently sufficient in accommodating all experiences and our society constructs processes and physical spaces without these communities in mind. We advocate for continued adjustments to our language, physical spaces and processes that better center the various needs of these communities & encouragement investment in greater accessibility to ensure all members of our larger community are able to participate fully in gatherings, movement actions & institutions of education.\_"
       -
         type: heading
         attrs:
@@ -166,5 +153,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633533904
+updated_at: 1633533984
 ---
