@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633558972
+updated_at: 1633559204
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -13,7 +13,7 @@ sections:
     has_tag: true
     tag: '29th Annual MBLGTACC  |  October 8-10, 2021'
     link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
-    text: 'Register Now'
+    text: 'Register now'
     color: btn-green
     size: btn-xl
     block: true
@@ -108,7 +108,7 @@ sections:
         content:
           -
             type: text
-            text: 'Read speaker bios, view schedule, and download the conference program'
+            text: 'Speaker bios, schedule, program, and more!'
       -
         type: set
         attrs:
