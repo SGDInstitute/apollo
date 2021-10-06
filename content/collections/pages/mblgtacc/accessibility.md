@@ -230,11 +230,44 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:support@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
               -
                 type: italic
             text: 'Let us know.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'What are the conference''s COVID mitigation strategies?'
+                  -
+                    type: text
+                    text: ' See our dedicated '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://mblgtacc.org/covid-19'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'COVID-19 FAQs'
+                  -
+                    type: text
+                    text: ' page for details.'
       -
         type: bullet_list
         content:
@@ -275,8 +308,9 @@ sections:
                         type: link
                         attrs:
                           href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
-                          target: null
                           rel: null
+                          target: null
+                          title: null
                     text: 'Lodging and Accommodations page.'
           -
             type: list_item
@@ -300,8 +334,9 @@ sections:
                         type: link
                         attrs:
                           href: 'mailto:support@sgdinstitute.org'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'email us'
                   -
                     type: text
@@ -319,5 +354,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633559559
+updated_at: 1633559623
 ---
