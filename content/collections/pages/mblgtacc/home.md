@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633701339
+updated_at: 1633703508
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -146,6 +146,55 @@ sections:
       -
         type: paragraph
     type: content
+    enabled: true
+  -
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Join the MBLGTACC discord'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'We have a full virtual community space set up for you.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Join other participants on your computer or on the free mobile app to keep connectedduring and after the conference. Find conversation threads, resources, and Zoomlinks for every keynote and workshop session. And join identity spaces and hangoutchannels to chat about pets, plants, outfits of the day, gayming, crafting, and more.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'http://go.wisc.edu/mblgtaccdiscord'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Join MBLGTACC on Discord now.'
+    image: discord-logo-for-homepage.png
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     bard:
