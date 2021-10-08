@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633703508
+updated_at: 1633703564
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -108,7 +108,7 @@ sections:
         content:
           -
             type: text
-            text: 'Discord, schedule information, digital program, and more! '
+            text: 'Schedule information & digital program'
       -
         type: set
         attrs:
@@ -117,20 +117,11 @@ sections:
             buttons:
               -
                 button: null
-                link: 'http://go.wisc.edu/mblgtaccdiscord'
-                text: 'Join MBLGTACC on Discord'
-                color: btn-green
-                size: btn-xl
-                block: true
-                outline: true
-                target_blank: true
-              -
-                button: null
                 link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                 text: 'Conference schedule'
                 color: btn-green
                 size: btn-xl
-                block: true
+                block: false
                 outline: true
                 target_blank: true
               -
@@ -139,7 +130,7 @@ sections:
                 text: 'View program PDF'
                 color: btn-green
                 size: btn-xl
-                block: true
+                block: false
                 outline: true
                 target_blank: true
             contain: true
