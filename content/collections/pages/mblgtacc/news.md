@@ -4,11 +4,8 @@ blueprint: pages
 title: News
 sections:
   -
-    bg_type: image
-    bg_image: headers/blurry-background.jpg
-    num_colors: 2
     title: News
-    type: header
+    type: header_small
     enabled: true
   -
     articles:
@@ -33,5 +30,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633713204
+updated_at: 1633713236
 ---
