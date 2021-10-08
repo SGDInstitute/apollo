@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633701632
+updated_at: 1633701774
 sections:
   -
     bg_type: image
@@ -28,7 +28,7 @@ sections:
         content:
           -
             type: text
-            text: 'Most programming will be available both in-person and virtually. All times listed in Central Daylight Time.'
+            text: 'Most programming will be available both in-person and virtually—see program booklet workshop listing for details. All times listed in Central Daylight Time.'
       -
         type: set
         attrs:
@@ -65,12 +65,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Program booklet available in other formats:'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: (
+                    text: 'Program booklet available in other formats ('
                   -
                     type: text
                     marks:
@@ -79,7 +74,7 @@ sections:
                     text: 'Last update 10/8/2021 9:00 am CT'
                   -
                     type: text
-                    text: )
+                    text: '):'
               -
                 type: bullet_list
                 content:
