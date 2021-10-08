@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633559484
+updated_at: 1633701632
 sections:
   -
     bg_type: image
@@ -46,8 +46,8 @@ sections:
                 target_blank: true
               -
                 button: null
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
-                text: 'View program on Issuu'
+                link: 'http://go.wisc.edu/mblgtaccdiscord'
+                text: 'Join MBLGTACC on Discord'
                 color: btn-green
                 size: btn-base
                 block: false
@@ -65,29 +65,61 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Also available: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Download the program PDF in a spreads format.'
-                  -
-                    type: text
-                    text: ' '
+                    text: 'Program booklet available in other formats:'
                   -
                     type: hard_break
+                  -
+                    type: text
+                    text: (
                   -
                     type: text
                     marks:
                       -
                         type: italic
-                    text: 'Program PDFs last updated 10/4/2021'
+                    text: 'Last update 10/8/2021 9:00 am CT'
+                  -
+                    type: text
+                    text: )
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'PDF in spreads format'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Get the full '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'page-flipping experience on Issuu'
       -
         type: paragraph
       -
