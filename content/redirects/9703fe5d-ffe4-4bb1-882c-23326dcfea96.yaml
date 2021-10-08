@@ -1,0 +1,6 @@
+id: 9703fe5d-ffe4-4bb1-882c-23326dcfea96
+enabled: true
+source: /news/5-things-you-need-to-know-before-coming-to-mblgtacc
+destination: /news/7-things-you-need-to-know-before-coming-to-mblgtacc
+type: '301'
+match_type: exact
