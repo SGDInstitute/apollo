@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633701774
+updated_at: 1633702258
 sections:
   -
     bg_type: image
@@ -16,18 +16,112 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
+        type: paragraph
         content:
           -
             type: text
-            text: 'Conference schedule'
+            marks:
+              -
+                type: lead
+            text: 'Most programming will be available both in-person and virtually—see program booklet workshop listing for details. All times listed in Central Daylight Time.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
+                text: 'Download program PDF'
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+              -
+                button: null
+                link: 'http://go.wisc.edu/mblgtaccdiscord'
+                text: 'Join MBLGTACC on Discord'
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Program booklet available in other formats ('
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Last update 10/8/2021 9:00 am CT'
+                  -
+                    type: text
+                    text: '):'
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'PDF in spreads format'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Get the full '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'page-flipping experience on Issuu'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: 'Most programming will be available both in-person and virtually—see program booklet workshop listing for details. All times listed in Central Daylight Time.'
       -
         type: set
@@ -120,7 +214,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -179,7 +273,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -263,7 +357,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -297,42 +391,6 @@ sections:
                   - 'Closing remarks'
                   - ''
             full_width: true
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Discord
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too!'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: go.wisc.edu/mblgtaccdiscord
-                text: 'Launch Discord'
-                color: btn-green
-                size: btn-base
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
       -
         type: paragraph
     type: content
