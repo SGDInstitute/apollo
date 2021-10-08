@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633559204
+updated_at: 1633701278
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -108,7 +108,7 @@ sections:
         content:
           -
             type: text
-            text: 'Speaker bios, schedule, program, and more!'
+            text: 'Making '
       -
         type: set
         attrs:
@@ -117,8 +117,8 @@ sections:
             buttons:
               -
                 button: null
-                link: 'entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
-                text: 'Keynote and skill share bios'
+                link: 'http://go.wisc.edu/mblgtaccdiscord'
+                text: 'Join MBLGTACC on Discord'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -135,8 +135,8 @@ sections:
                 target_blank: true
               -
                 button: null
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
-                text: 'View program PDF on Issuu'
+                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
+                text: 'View program PDF'
                 color: btn-green
                 size: btn-xl
                 block: true
