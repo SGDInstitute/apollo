@@ -1,4 +1,6 @@
 ---
+id: 59865639-7c77-43d1-a56c-333bc38efccc
+blueprint: pages
 title: About
 sections:
   -
@@ -40,8 +42,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Institute
           -
             type: text
@@ -57,7 +60,21 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Registration opens April 26, 2021'
+                    text: 'Join '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://go.wisc.edu/mblgtaccdiscord'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'MBLGTACC on Discord'
+      -
+        type: bullet_list
+        content:
           -
             type: list_item
             content:
@@ -74,8 +91,9 @@ sections:
                         type: link
                         attrs:
                           href: 'http://facebook.com/mblgtacc'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'MBLGTACC on Facebook'
           -
             type: list_item
@@ -93,8 +111,9 @@ sections:
                         type: link
                         attrs:
                           href: 'https://www.facebook.com/events/3198465453514257'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'MBLGTACC 2021 on Facebook'
           -
             type: list_item
@@ -112,8 +131,9 @@ sections:
                         type: link
                         attrs:
                           href: 'http://twitter.com/mblgtacc'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: Twitter
                   -
                     type: text
@@ -125,8 +145,9 @@ sections:
                         type: link
                         attrs:
                           href: 'http://instagram.com/mblgtacc'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: Instagram
     type: content
     enabled: true
@@ -259,7 +280,6 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618588071
-id: 59865639-7c77-43d1-a56c-333bc38efccc
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1633703678
 ---
