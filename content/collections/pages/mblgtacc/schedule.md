@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633717656
+updated_at: 1633719732
 sections:
   -
     bg_type: image
@@ -32,8 +32,8 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
-                text: 'Download program PDF'
+                link: 'https://apps.sgdinstitute.org/mblgtacc-2021/program'
+                text: 'Web/mobile-friendly schedule'
                 color: btn-green
                 size: btn-base
                 block: false
@@ -41,8 +41,8 @@ sections:
                 target_blank: true
               -
                 button: null
-                link: 'http://go.wisc.edu/mblgtaccdiscord'
-                text: 'Join MBLGTACC on Discord'
+                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
+                text: 'Download program PDF'
                 color: btn-green
                 size: btn-base
                 block: false
@@ -272,6 +272,42 @@ sections:
                   - 'Closing remarks'
                   - ''
             full_width: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Join MBLGTACC on Discord'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We have a full virtual community space set up for you. Join other participants on your computer or on the free mobile app to keep connected during and after the conference. Find conversation threads, resources, and Zoom links for every keynote and workshop session. And join identity spaces and hangout channels to chat about pets, plants, outfits of the day, gayming, crafting, and more.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'http://go.wisc.edu/mblgtaccdiscord'
+                text: 'Launch Discord'
+                color: btn-green
+                size: btn-xl
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: paragraph
     type: content
