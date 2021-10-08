@@ -1,0 +1,6 @@
+id: 18bb8bbf-2954-47ca-8be1-ef02bc18d8ea
+enabled: true
+source: /news/welcome-message-for-mblgtacc-2021
+destination: /news/welcome-to-mblgtacc-2021
+type: '301'
+match_type: exact
