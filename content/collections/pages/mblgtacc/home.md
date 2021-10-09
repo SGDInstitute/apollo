@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633720477
+updated_at: 1633795132
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -29,7 +29,7 @@ sections:
     num_colors: 2
     bg_color: bg-yellow-300
     type: countdown
-    enabled: true
+    enabled: false
   -
     id: pricing
     column_widths: two_fifths_left
