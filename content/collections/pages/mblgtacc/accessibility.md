@@ -183,10 +183,11 @@ sections:
         content:
           -
             type: text
-            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too!'
+            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too! See your conference program for the Discord link.'
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -354,5 +355,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633700928
+updated_at: 1633823640
 ---
