@@ -17,10 +17,10 @@ sections:
   -
     articles:
       - 5b7a8442-2d5e-4a42-ae99-bce83b812e75
+      - 4bdbf353-244f-41d6-a976-94a5110dd854
       - 0a9e212c-518e-49ee-a87b-f7434960dd01
       - 935e3ff5-7404-4a8f-b3c2-3453edd0d348
       - 083c72b6-655d-4fc8-8827-31d7e6123b2e
-      - 5ec9896f-169f-4790-b16a-571785f81fe5
     bg_type: color
     num_colors: 2
     bg_color: bg-white
@@ -37,5 +37,5 @@ sections:
     bg_color: bg-gray-200
     exclude: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1629997989
+updated_at: 1633792185
 ---
