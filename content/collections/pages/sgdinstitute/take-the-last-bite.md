@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/2lPvEQCsVfmxa129k9dsFk'
-    text: 'Listen to episode 3 on Spotify'
+    link: 'https://open.spotify.com/episode/1HjuzS6FOtkeztyXku6ldr'
+    text: 'Listen to episode 4 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -450,8 +450,56 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming October 12.'
+                type: bold
+            text: 'October 12, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/rural-v-urban-queerness/id1582890778?i=1000538316105'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MDBiOThmODktNTEwOC00OWZlLWFiMDEtMWMyY2ViMjFmNTc3?sa=X&ved=0CAUQkfYCahcKEwjol5iv8sTzAhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/1HjuzS6FOtkeztyXku6ldr'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ahh yes, the three genders: cities, college towns, and the farm. We share our personal experiences in rural and urban spaces, the disparate resource allocations to rural areas, and how geography impacts building queer community.'
       -
         type: heading
         attrs:
@@ -535,7 +583,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632830268
+updated_at: 1634042553
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
