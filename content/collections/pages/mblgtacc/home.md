@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633823560
+updated_at: 1634250782
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -12,8 +12,8 @@ sections:
     subtitle: 'Hosted by the UW-Madison and Edgewood College communities at the Monona Terrace in Madison, Wisconsin'
     has_tag: true
     tag: '29th Annual MBLGTACC  |  October 8-10, 2021'
-    link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
-    text: 'Register now'
+    link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+    text: 'View program'
     color: btn-green
     size: btn-xl
     block: true
