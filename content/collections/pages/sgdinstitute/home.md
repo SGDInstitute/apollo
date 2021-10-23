@@ -13,7 +13,7 @@ sections:
     text: 'Learn more'
     target_blank: false
     color: btn-green
-    size: btn-lg
+    size: btn-xl
     block: true
     type: header_large
     enabled: true
@@ -56,6 +56,6 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635021369
+updated_at: 1635021411
 ---
 Welcome to your new Statamic website.
