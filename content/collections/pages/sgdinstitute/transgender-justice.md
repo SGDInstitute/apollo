@@ -247,8 +247,9 @@ sections:
                 type: link
                 attrs:
                   href: /giving
-                  target: null
                   rel: null
+                  target: null
+                  title: null
               -
                 type: underline
             text: 'make a contribution'
@@ -262,14 +263,17 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
               -
                 type: underline
             text: 'OPE Giving Program'
           -
             type: text
             text: "\_and sign up for a monthly recurring gift.\_"
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -315,7 +319,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634996189
+updated_at: 1634996275
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
