@@ -7,7 +7,7 @@ sections:
   -
     header_image: headers/homepage-hero1.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Join us on November 16 for the 5th annual Transgender Justice Teach-in, "The next genderation: Building liberated futures with queer and trans youth"'
+    subtitle: 'Join us on November 16 for the fifth annual Transgender Justice Teach-in'
     has_tag: false
     tag: asdfasdfasdfasdf
     text: 'Learn more'
@@ -56,6 +56,6 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635022170
+updated_at: 1635022386
 ---
 Welcome to your new Statamic website.
