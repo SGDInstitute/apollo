@@ -156,7 +156,7 @@ sections:
         content:
           -
             type: text
-            text: 'From the Illustrious Southside of Chicago and Grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (They/Them) is a first generation Black college graduate, Queer, Non-Binary Femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the Political Education Coordinator for BYP100. Their research, writing, and practice explores  Race/ism, anti-Blackness, and Settler Colonialism within a Higher Education Context with an emphasis on the experiences of Queer and Trans Students of Color. Romeo is committed to uplifting and empowering queer and trans people of color through a black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
+            text: 'From the Illustrious Southside of Chicago and Grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (they/them) is a first generation Black college graduate, queer, non-binary femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the political education coordinator for BYP100. Their research, writing, and practice explores  race/ism, anti-Blackness, and settler colonialism within a higher education context with an emphasis on the experiences of queer and trans students of color. Romeo is committed to uplifting and empowering queer and trans people of color through a black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
     type: content
     enabled: true
   -
@@ -252,13 +252,31 @@ sections:
         content:
           -
             type: text
-            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s Sexuality & Gender Equity Initiatives hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: 'The 4th annual Transgender Justice Teach-in brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
+                text: 'Watch last year''s event'
+                color: btn-white
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     bg_type: color
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634994592
+updated_at: 1634994841
 template: default
 ---
