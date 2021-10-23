@@ -1,0 +1,6 @@
+id: 88f8d078-051c-4a26-b9e1-3abcd733d44c
+enabled: true
+source: /programs/transgender-justice-1
+destination: /programs/transgender-justice/trans-abolitionist-vision
+type: '301'
+match_type: exact
