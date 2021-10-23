@@ -1,13 +1,15 @@
 ---
+id: 39be0806-bfbb-4197-96fd-6b830a4f009a
+blueprint: pages
 title: 'Transgender Justice Teach-in'
 sections:
   -
     header_image: headers/tj-f20-web@2x.jpg
-    title: 'The Rise of a Trans Abolitionist Vision'
+    title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth'
     subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
-    tag: 'Transgender Justice Teach-in'
-    text: 'Registration closed'
+    tag: 'Transgender Justice Teach-in 2021'
+    text: 'Registration opening soon'
     color: btn-green
     size: btn-lg
     block: false
@@ -15,7 +17,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: false
+    has_button: true
   -
     bard:
       -
@@ -25,13 +27,36 @@ sections:
         content:
           -
             type: text
-            text: 'Watch the conversation'
+            text: 'Join us on Tuesday, November 16, 2021'
       -
-        type: set
-        attrs:
-          values:
-            type: video
-            video: 'https://youtu.be/E3Ey97tf0SA'
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2:30 pm Pacific / 4:30 pm Central / 5:30 pm Eastern'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.d.umn.edu/sgei/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Sexuality & Gender Equity Initiatives'
+          -
+            type: text
+            text: ' bring you the 5th annual Transgender Justice Teach-in.'
       -
         type: paragraph
         content:
@@ -40,25 +65,9 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Please note, closed captioning is available for this video; however, due to a technical difficulty, the ASL interpretation that was available during the live session was not recorded.'
+            text: 'Closed captioning and ASL interpretation will be available. More details forthcoming'
       -
         type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
-                text: 'Read the written reflection'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
       -
         type: paragraph
     type: content
@@ -70,7 +79,7 @@ sections:
         content:
           -
             type: text
-            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
           -
             type: text
             marks:
@@ -78,14 +87,15 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.d.umn.edu/sgei/'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: ' bring you the 5th annual Transgender Justice Teach-in.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -101,6 +111,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: image
             image: news/tj-f20_web-headshots.jpg
@@ -115,16 +126,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Justin Toliver'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Justin Toliver (they/them) is a Black, Queer, and Gender Non-Conforming facilitator, trainer, and educator currently serving as the Assistant Director of the Gender and Sexuality Center for Queer and Trans Life at the University Minnesota - Twin Cities. Justin completed their Bachelors of Science from Central Michigan University and received their Masters of Arts in Student Affairs Administration in Higher Education from Ball State University. Justin is also a community organizer, abolitionist, and creative based in Minneapolis, Minnesota. Justin deeply believes in the power of community and approaches all aspects of their work from a human centered, imagination driven, and Black Queer Feminist lens.'
+            text: 'Bishop Howard (they/them)'
       -
         type: heading
         attrs:
@@ -132,16 +134,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Dominique Morgan'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Dominique Morgan (she/her) is an award-winning artist, activist, and TEDx speaker. As the Executive Director of Black and Pink, the largest prison abolitionist organization in the United States. She works daily to dismantle the systems that perpetuate violence on LGBTQ/GNC people and individuals living with HIV/AIDS. Partnering her lived experience of being impacted by mass incarceration (including 18 months in solitary confinement), with a decade of change-making artistry, advocacy, and background in public health, she continues to work in spaces of sex education, radical self-care, and transformative youth development with intentions of dismantling the prison industrial complex and its impact on our communities. Ms. Morgan is a 2020 Ten Outstanding Young Americans Award recipient, NAACP Freedom Fighter Award recipient, and 2020 JM Kaplan Innovation Prize recipient. She is currently completing her capstone project for studies in the Georgetown University - System Involved LGBTQ Youth Scholar Program.'
+            text: 'Cody Charles'
       -
         type: heading
         attrs:
@@ -149,16 +142,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Qui Alexander'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Qui Alexander (they/them) is a queer, trans, Black Puerto Rican scholar, educator, organizer, and consultant based in Minneapolis. They are currently a PhD candidate in Education, Curriculum and Instruction with a focus on Culture and Teaching at the University of Minnesota. Their work and scholarship centers queer Black feminist thought, transformative justice, abolition and healing justice. Believing the personal is political, their work strives to focus on personal liberation and healing to make movement work more sustainable.'
+            text: 'Merrique Jenson (she/her)'
       -
         type: heading
         attrs:
@@ -166,27 +150,13 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Ar''Tesha Saballos'
+            text: 'Romeo Jackson (they/them)'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'any pronouns'
-          -
-            type: hard_break
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            text: 'Black Visions Collective'
+            text: 'From the Illustrious Southside of Chicago and Grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (They/Them) is a first generation Black college graduate, Queer, Non-Binary Femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the Political Education Coordinator for BYP100. Their research, writing, and practice explores  Race/ism, anti-Blackness, and Settler Colonialism within a Higher Education Context with an emphasis on the experiences of Queer and Trans Students of Color. Romeo is committed to uplifting and empowering queer and trans people of color through a black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
     type: content
     enabled: true
   -
@@ -264,8 +234,31 @@ sections:
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
     enabled: true
+  -
+    left_column: content
+    right_column: video
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '(Re)watch the 2020 Transgender Justice Teach-in: The Rise of a Trans Abolitionist Vision'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s Sexuality & Gender Equity Initiatives hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617501458
+updated_at: 1634994592
 template: default
-id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 ---
