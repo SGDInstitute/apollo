@@ -27,7 +27,7 @@ sections:
         content:
           -
             type: text
-            text: 'Join us on Tuesday, November 16, 2021'
+            text: 'Save the date: Tuesday, November 16, 2021'
       -
         type: paragraph
         content:
@@ -277,7 +277,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634995532
+updated_at: 1634995569
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
