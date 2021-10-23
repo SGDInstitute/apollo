@@ -7,10 +7,10 @@ sections:
   -
     header_image: headers/homepage-hero1.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Building queer success in the Midwest'
+    subtitle: '5th annual Transgender Justice Teach-in coming November 16'
     has_tag: false
     tag: asdfasdfasdfasdf
-    text: 'Learn More'
+    text: 'Learn more'
     target_blank: false
     color: btn-green
     size: btn-lg
@@ -20,7 +20,7 @@ sections:
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
+    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
     outline: true
     has_button: true
   -
@@ -56,6 +56,6 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633792480
+updated_at: 1635021270
 ---
 Welcome to your new Statamic website.
