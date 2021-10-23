@@ -122,11 +122,10 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: image
-            image: news/tj-f20_web-headshots.jpg
-            caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos'
+            image: tj-f21-headshots-1090x681-102321-250pm.jpg
+            caption: '(L-R): Bishop Howard, Cody Charles, Merrique Jenson, and Romeo Jackson'
             inline: false
       -
         type: paragraph
@@ -137,16 +136,13 @@ sections:
         content:
           -
             type: text
-            text: 'Bishop Howard (they/them)'
+            text: 'Bishop Howard'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Bio forthcoming.'
+            text: 'Bishop Howard (they/them) is a non binary Black femme, with over seven years of experience working with youth in behavioral health and programmatic series. Born and raised in Detroit, MI, Bishop attended Michigan State University in Lansing, MI where they received their bachelor''s in psychology with a minor in LGBT studies, and the Erikson Institute in Chicago, IL where they received their Master of Social Work with a concentration in child and family therapy. Currently, Bishop is an associate clinical social worker and therapist in the state of California while also serving as the director of programs at LYRIC, a non profit serving queer and trans youth in the San Francisco/Bay Area.'
       -
         type: heading
         attrs:
@@ -171,7 +167,7 @@ sections:
         content:
           -
             type: text
-            text: 'Merrique Jenson (she/her)'
+            text: 'Merrique Jenson'
       -
         type: paragraph
         content:
@@ -180,7 +176,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Bio forthcoming.'
+            text: 'she/her. Bio forthcoming.'
       -
         type: heading
         attrs:
@@ -188,7 +184,7 @@ sections:
         content:
           -
             type: text
-            text: 'Romeo Jackson (they/them)'
+            text: 'Romeo Jackson'
       -
         type: paragraph
         content:
@@ -319,7 +315,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634996275
+updated_at: 1635015125
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
