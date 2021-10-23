@@ -156,7 +156,7 @@ sections:
         content:
           -
             type: text
-            text: 'From the Illustrious Southside of Chicago and Grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (they/them) is a first generation Black college graduate, queer, non-binary femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the political education coordinator for BYP100. Their research, writing, and practice explores  race/ism, anti-Blackness, and settler colonialism within a higher education context with an emphasis on the experiences of queer and trans students of color. Romeo is committed to uplifting and empowering queer and trans people of color through a black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
+            text: 'From the illustrious southside of Chicago and grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (they/them) is a first generation Black college graduate, queer, non-binary femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the political education coordinator for BYP100. Their research, writing, and practice explores  race/ism, anti-Blackness, and settler colonialism within a higher education context with an emphasis on the experiences of queer and trans students of color. Romeo is committed to uplifting and empowering queer and trans people of color through a Black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
     type: content
     enabled: true
   -
@@ -277,7 +277,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634995569
+updated_at: 1634995896
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
