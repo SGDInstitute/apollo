@@ -191,11 +191,21 @@ sections:
             type: text
             text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: tj-f21-headshots-1090x681-102321-250pm.jpg
+            caption: 'Bishop Howard, Cody Charles, Merrique Jenson, and Romeo Jackson will be in conversation for the 2021 Transgender Justice Teach-in'
+            inline: false
+      -
+        type: paragraph
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Our inaugural event, "The rise of a trans abolitionist vision," brought into conversation Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos.'
+            text: 'The fifth annual event, "The next genderation: Building a liberated future for queer and trans youth," will take place Tuesday, November 16, 2021.'
       -
         type: set
         attrs:
@@ -318,5 +328,5 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1630620550
+updated_at: 1635020466
 ---
