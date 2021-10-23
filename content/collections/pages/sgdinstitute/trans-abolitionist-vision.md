@@ -1,7 +1,7 @@
 ---
 id: 174b8159-fec3-487b-b329-177118c234eb
 blueprint: pages
-title: 'The Rise of a Trans Abolitionist Vision | Transgender Justice Teach-in 2020'
+title: '2020: The Rise of a Trans Abolitionist Vision'
 sections:
   -
     header_image: headers/tj-f20-web@2x.jpg
@@ -266,6 +266,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634993944
+updated_at: 1634995245
 template: default
 ---
