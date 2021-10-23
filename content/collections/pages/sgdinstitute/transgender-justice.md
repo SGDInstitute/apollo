@@ -37,6 +37,17 @@ sections:
               -
                 type: bold
             text: '2:30 pm Pacific / 4:30 pm Central / 5:30 pm Eastern'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Virtual / Registration coming soon'
       -
         type: paragraph
         content:
@@ -65,7 +76,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Closed captioning and ASL interpretation will be available. Registration and details forthcoming.'
+            text: 'Closed captioning and ASL interpretation will be available. More details forthcoming.'
       -
         type: paragraph
       -
@@ -277,7 +288,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634995896
+updated_at: 1634995997
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
