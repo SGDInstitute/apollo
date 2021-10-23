@@ -19,14 +19,15 @@ tree:
     children:
       -
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
+        children:
+          -
+            entry: 174b8159-fec3-487b-b329-177118c234eb
       -
         entry: 4cd5cb6b-658c-4d69-b525-7325fb90766f
       -
         entry: 857e03a1-fd97-468a-afd6-86fc7331ff87
       -
         entry: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
-      -
-        entry: 174b8159-fec3-487b-b329-177118c234eb
   -
     entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
   -

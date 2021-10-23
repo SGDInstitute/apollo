@@ -1,7 +1,7 @@
 ---
 id: 174b8159-fec3-487b-b329-177118c234eb
 blueprint: pages
-title: 'Transgender Justice Teach-in (Duplicated)'
+title: 'The Rise of a Trans Abolitionist Vision | Transgender Justice Teach-in 2020'
 sections:
   -
     header_image: headers/tj-f20-web@2x.jpg
@@ -9,12 +9,11 @@ sections:
     subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
     tag: 'Transgender Justice Teach-in'
-    text: 'Registration closed'
     color: btn-green
     size: btn-lg
     block: false
     outline: false
-    target_blank: true
+    target_blank: false
     type: header_large
     enabled: true
     has_button: false
@@ -267,6 +266,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617501458
+updated_at: 1634993907
 template: default
 ---
