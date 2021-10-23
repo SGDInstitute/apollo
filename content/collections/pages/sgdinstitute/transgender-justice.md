@@ -17,7 +17,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
   -
     bard:
       -
@@ -65,7 +65,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Closed captioning and ASL interpretation will be available. Registration and more details forthcoming.'
+            text: 'Closed captioning and ASL interpretation will be available. Registration and details forthcoming.'
       -
         type: paragraph
       -
@@ -277,6 +277,6 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634994894
+updated_at: 1634995133
 template: default
 ---
