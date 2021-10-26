@@ -43,6 +43,42 @@ sections:
             type: text
             text: 'Subscribe on'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
+                text: Spotify
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+              -
+                button: null
+                link: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
+                text: Apple
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+              -
+                button: null
+                link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
+                text: Google
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 3
@@ -589,7 +625,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635210138
+updated_at: 1635210344
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
