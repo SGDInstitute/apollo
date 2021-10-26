@@ -109,7 +109,7 @@ sections:
         content:
           -
             type: text
-            text: 'Trailer - Introducing the Last Bite'
+            text: 'Ep. 5: Queers who make beers'
       -
         type: paragraph
         content:
@@ -118,58 +118,13 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Aug. 25, 2021'
-          -
-            type: text
-            text: ' | '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Apple
-          -
-            type: text
-            text: ' | '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
-                  rel: null
-                  target: null
-                  title: null
-            text: Google
-          -
-            type: text
-            text: ' | '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Spotify
-          -
-            type: text
-            text: ' '
+            text: 'October 26, 2021'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Introducing Take the Last Bite, a new podcast from the Midwest Institute for Sexuality and Gender Diversity. Season one launches August 31, 2021 with new episodes bi-weekly. In the meantime, learn more about our intentions for this podcast and listen to a sneak peak of episode one.'
+            text: 'Today’s tap list includes: a savory blend of breaking gendered norms in customer service positions and mobilizing service workers to demand affirming working environments. We’re joined by three folks in the craft brewing industry who share how they ventured into the world of beer and some of the rad projects they’re working on to improve labor conditions for marginalized people.'
       -
         type: heading
         attrs:
@@ -177,7 +132,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 1: Serving the last bite'
+            text: 'Ep. 4: Rural v. urban queerness'
       -
         type: paragraph
         content:
@@ -186,7 +141,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'August 31, 2021 '
+            text: 'October 12, 2021'
           -
             type: text
             text: ' | '
@@ -196,7 +151,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.apple.com/us/podcast/serving-the-last-bite/id1582890778?i=1000533845287'
+                  href: 'https://podcasts.apple.com/us/podcast/rural-v-urban-queerness/id1582890778?i=1000538316105'
                   rel: null
                   target: _blank
                   title: null
@@ -210,7 +165,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/M2EwYjhjOWItODIxOS00OTE2LTk5NDYtYmNjZDJhZGFhYTYy?sa=X&ved=0CAUQkfYCahcKEwj4mNLAs9zyAhUAAAAAHQAAAAAQBA'
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MDBiOThmODktNTEwOC00OWZlLWFiMDEtMWMyY2ViMjFmNTc3?sa=X&ved=0CAUQkfYCahcKEwjol5iv8sTzAhUAAAAAHQAAAAAQAQ'
                   rel: null
                   target: _blank
                   title: null
@@ -224,7 +179,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://open.spotify.com/episode/5ljYSw8tchCU4LlQ47V6Wr'
+                  href: 'https://open.spotify.com/episode/1HjuzS6FOtkeztyXku6ldr'
                   rel: null
                   target: _blank
                   title: null
@@ -234,7 +189,72 @@ sections:
         content:
           -
             type: text
-            text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar.'
+            text: 'Ahh yes, the three genders: cities, college towns, and the farm. We share our personal experiences in rural and urban spaces, the disparate resource allocations to rural areas, and how geography impacts building queer community.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep. 3: Queer death and aging'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'September 28, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/queer-death-and-aging/id1582890778?i=1000536848730'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MjA5YmM0YzAtMWM3MS00MjNmLWFlZmItNzA5ZDZhMjMwZWZk?sa=X&ved=0CAUQkfYCahcKEwjw4PauzqHzAhUAAAAAHQAAAAAQBA'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/2lPvEQCsVfmxa129k9dsFk'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Why did we receive messaging that "queer death" happens at age 30? Join us as we explore the sacredness of aging, delayed adolescence, and caring for our queer elders.'
       -
         type: heading
         attrs:
@@ -377,7 +397,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 3: Queer death and aging'
+            text: 'Ep. 1: Serving the last bite'
       -
         type: paragraph
         content:
@@ -386,7 +406,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'September 28, 2021'
+            text: 'August 31, 2021 '
           -
             type: text
             text: ' | '
@@ -396,7 +416,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.apple.com/us/podcast/queer-death-and-aging/id1582890778?i=1000536848730'
+                  href: 'https://podcasts.apple.com/us/podcast/serving-the-last-bite/id1582890778?i=1000533845287'
                   rel: null
                   target: _blank
                   title: null
@@ -410,7 +430,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MjA5YmM0YzAtMWM3MS00MjNmLWFlZmItNzA5ZDZhMjMwZWZk?sa=X&ved=0CAUQkfYCahcKEwjw4PauzqHzAhUAAAAAHQAAAAAQBA'
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/M2EwYjhjOWItODIxOS00OTE2LTk5NDYtYmNjZDJhZGFhYTYy?sa=X&ved=0CAUQkfYCahcKEwj4mNLAs9zyAhUAAAAAHQAAAAAQBA'
                   rel: null
                   target: _blank
                   title: null
@@ -424,7 +444,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://open.spotify.com/episode/2lPvEQCsVfmxa129k9dsFk'
+                  href: 'https://open.spotify.com/episode/5ljYSw8tchCU4LlQ47V6Wr'
                   rel: null
                   target: _blank
                   title: null
@@ -434,7 +454,7 @@ sections:
         content:
           -
             type: text
-            text: 'Why did we receive messaging that "queer death" happens at age 30? Join us as we explore the sacredness of aging, delayed adolescence, and caring for our queer elders.'
+            text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar.'
       -
         type: heading
         attrs:
@@ -442,7 +462,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 4: Rural v. urban queerness'
+            text: 'Trailer - Introducing the Last Bite'
       -
         type: paragraph
         content:
@@ -451,7 +471,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'October 12, 2021'
+            text: 'Aug. 25, 2021'
           -
             type: text
             text: ' | '
@@ -461,7 +481,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.apple.com/us/podcast/rural-v-urban-queerness/id1582890778?i=1000538316105'
+                  href: 'https://podcasts.apple.com/us/podcast/introducing-take-the-last-bite/id1582890778?i=1000533137098'
                   rel: null
                   target: _blank
                   title: null
@@ -475,9 +495,9 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MDBiOThmODktNTEwOC00OWZlLWFiMDEtMWMyY2ViMjFmNTc3?sa=X&ved=0CAUQkfYCahcKEwjol5iv8sTzAhUAAAAAHQAAAAAQAQ'
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/OTc2NzY5MzMtOTk3MC00YjFhLTk0MzEtZGEzODUyOTRhZmJj?sa=X&ved=0CAUQkfYCahcKEwiApuOYwNHyAhUAAAAAHQAAAAAQAQ'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
             text: Google
           -
@@ -489,40 +509,20 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://open.spotify.com/episode/1HjuzS6FOtkeztyXku6ldr'
+                  href: 'https://open.spotify.com/episode/51KTnCKoc78aYiPgPzlJSX'
                   rel: null
                   target: _blank
                   title: null
             text: Spotify
+          -
+            type: text
+            text: ' '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Ahh yes, the three genders: cities, college towns, and the farm. We share our personal experiences in rural and urban spaces, the disparate resource allocations to rural areas, and how geography impacts building queer community.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Ep. 5: Queers who make beers'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'October 26, 2021'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Today’s tap list includes: a savory blend of breaking gendered norms in customer service positions and mobilizing service workers to demand affirming working environments. We’re joined by three folks in the craft brewing industry who share how they ventured into the world of beer and some of the rad projects they’re working on to improve labor conditions for marginalized people.'
+            text: 'Introducing Take the Last Bite, a new podcast from the Midwest Institute for Sexuality and Gender Diversity. Season one launches August 31, 2021 with new episodes bi-weekly. In the meantime, learn more about our intentions for this podcast and listen to a sneak peak of episode one.'
     type: content
     enabled: true
   -
@@ -589,7 +589,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635209917
+updated_at: 1635210138
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
