@@ -67,7 +67,79 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' bring you the 5th annual Transgender Justice Teach-in.'
+            text: ' bring you the 5th annual Transgender Justice Teach-in. This year''s conversation, "The next genderation: Building liberated futures with queer and trans youth," brings together '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Bishop
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Howard
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Cody
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Charles
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Merrique
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Jenson
+          -
+            type: text
+            text: ', and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Romeo
+          -
+            type: text
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Jackson
+          -
+            type: text
+            text: .
       -
         type: paragraph
         content:
@@ -339,7 +411,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635207728
+updated_at: 1635207852
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
