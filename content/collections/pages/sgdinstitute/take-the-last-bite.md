@@ -194,6 +194,26 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'https://www.witchhuntmpls.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Witch Hunt'
+                  -
+                    type: text
+                    text: ': Promoting gender equity in craft brewing through education'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'https://brewingchangecollaborative.org/'
                           rel: null
                           target: _blank
@@ -698,7 +718,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635277996
+updated_at: 1635278091
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
