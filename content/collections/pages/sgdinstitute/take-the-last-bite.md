@@ -154,6 +154,55 @@ sections:
             type: text
             text: 'Today’s tap list includes: a savory blend of breaking gendered norms in customer service positions and mobilizing service workers to demand affirming working environments. We’re joined by three folks in the craft brewing industry who share how they ventured into the world of beer and some of the rad projects they’re working on to improve labor conditions for marginalized people.'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Resources mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.deviantminds.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Deviant Minds'
+                  -
+                    type: text
+                    text: ': Supporting LGBTQIA+ folx in the hospitality and service industries'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://brewingchangecollaborative.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Brewing Change Collaborative'
+                  -
+                    type: text
+                    text: ': Fostering diversity, equity, and inclusion for people of color in the brewing industry'
+      -
         type: heading
         attrs:
           level: 3
@@ -562,6 +611,38 @@ sections:
         content:
           -
             type: text
+            text: 'Contact us'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our inbox is open for all of your insight, feedback, questions, boycotts, memes, and other forms of written correspondence. You can contact us at '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'mailto:lastbite@sgdinstitute.org'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: lastbite@sgdinstitute.org
+          -
+            type: text
+            text: .
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Support our programs'
       -
         type: paragraph
@@ -617,7 +698,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635250673
+updated_at: 1635277996
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
