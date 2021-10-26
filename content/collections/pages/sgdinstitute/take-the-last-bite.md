@@ -507,7 +507,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 5: Queer brewers'
+            text: 'Ep. 5: Queers who make beers'
       -
         type: paragraph
         content:
@@ -515,8 +515,14 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Coming October 26. '
+                type: bold
+            text: 'October 26, 2021'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Today’s tap list includes: a savory blend of breaking gendered norms in customer service positions and mobilizing service workers to demand affirming working environments. We’re joined by three folks in the craft brewing industry who share how they ventured into the world of beer and some of the rad projects they’re working on to improve labor conditions for marginalized people.'
     type: content
     enabled: true
   -
@@ -583,7 +589,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634042553
+updated_at: 1635209917
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
