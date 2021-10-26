@@ -145,6 +145,12 @@ sections:
         content:
           -
             type: text
+            text: 'The latest surge in anti-trans legislation targeting trans and nonbinary youth makes it more important than ever to center, listen and defer to TGQ young people. Join us for a panel discussion featuring four TGQ organizers, educators and change-makers who will share what they’re witnessing in their own communities, discuss how their experiences inform the direction of their projects, and provide ideas on how to be aligned with the needs of trans, nonbinary and intersex youth.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             marks:
               -
                 type: italic
@@ -411,7 +417,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635207984
+updated_at: 1635276687
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
