@@ -173,10 +173,34 @@ sections:
         content:
           -
             type: text
+            text: 'Merrique Jenson (she/her) is a transgender, queer, second-generation multiracial woman of color who is of white and Mexican heritage. She currently serves as the program director for Transformations, a trans and gender-expansive youth organization based in Kansas City. Merrique has been working in the fields of harm reduction and anti-violence advocacy for over 20 years and helped create multiple, startup LGBTQ programs in the Midwest for young people and trans people of color experiencing trauma, houselessness and living on the streets. She is the owner/principal of her own company, SocialScope Productions, focused on multimedia artistic programs, equity development, and intersectional professional development coaching. Her multimedia projects have been nationally recognized, including the popular #GetWoke artistic event series. Merrique has performed as a DJ, is a published author, and contributing blogger for '
+          -
+            type: text
             marks:
               -
                 type: italic
-            text: 'she/her. Bio forthcoming.'
+            text: 'The Advocate'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Out Magazine '
+          -
+            type: text
+            text: 'and '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: HuffPost
+          -
+            type: text
+            text: ', and an award-winning documentary filmmaker. She is a respected community advisor and racial equity consultant, and some of her clients include About Face Youth Theatre, Bumble, The Coterie Theatre, Grindr, KU Medical Center, Mid-America Arts Alliance, and Nelson-Atkins Museum of Art. She is currently serving a two-year term as a board member for Theatre Communications Group. She recently was awarded an LGBTQ Commission Special Action Recognition by Kansas City and Mayor Quinton Lucas for June 2021 Pride Month. Merrique’s artistic work has been recognized by the Association for Queer Anthropology, she is a Kansas City two-time Rocket Grants full-project award winner, has delivered keynotes for Yale University, Southern Oregon University, Northwestern University, headlined Seattle Pride and Houston Pride, and has been featured as a guest on The Oprah Show. She currently spends her time living and traveling in both Seattle and Kansas City, MO.'
       -
         type: heading
         attrs:
@@ -315,7 +339,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635020867
+updated_at: 1635207689
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
