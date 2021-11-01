@@ -343,16 +343,7 @@ sections:
         content:
           -
             type: text
-            text: "Programs like\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The Rise of a Trans Abolitionist Vision'
-          -
-            type: text
-            text: "\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            text: "Programs like this\_Transgender Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
           -
             type: text
             marks:
@@ -432,7 +423,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635803618
+updated_at: 1635803665
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
