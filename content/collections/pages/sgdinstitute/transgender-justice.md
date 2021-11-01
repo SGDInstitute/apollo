@@ -169,9 +169,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
             text: 'Closed captioning and ASL interpretation will be available.'
       -
         type: paragraph
@@ -423,7 +420,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635803665
+updated_at: 1635803687
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
