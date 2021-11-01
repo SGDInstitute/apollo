@@ -252,10 +252,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Bio forthcoming.'
+            text: 'Cody Keith Charles (all pronouns) is a writer, facilitator, cultural critic and dreamer who critiques pop culture at the intersection of liberation and joy. In 2021, Cody launched Haus of McCoy, a community hub for queer and trans youth in Lawrence, Kansas. Cody enjoys trash TV, spending time with beautiful Black queer people and loving on their dog, Monét.'
       -
         type: heading
         attrs:
@@ -435,7 +432,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635785726
+updated_at: 1635803547
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
