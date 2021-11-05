@@ -1,4 +1,6 @@
 ---
+id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+blueprint: pages
 title: 'Our team'
 sections:
   -
@@ -15,7 +17,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more. We’ve helped organize MBLGTACC conferences at our own campuses and dedicated ourselves to the causes of building queer success in the Midwest.'
+            text: 'Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more—who''ve dedicated themselves to the causes of building queer success in the Midwest.'
     type: content
     enabled: true
   -
@@ -175,6 +177,5 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617503048
-id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+updated_at: 1636133944
 ---
