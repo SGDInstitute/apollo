@@ -95,6 +95,166 @@ sections:
         content:
           -
             type: text
+            text: 'Ep. 6: Trans abolition redux'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'November 9, 2021'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In this special episode, we''re revisiting a conversation we hosted with four T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In a Transgender Justice Teach-in, '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'The rise of a trans abolitionist vision,'
+          -
+            type: text
+            text: ' our panelists highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Resources mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/programs/transgender-justice'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: '2021 Transgender Justice Teach-in'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.blackvisionsmn.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Black Visions Collective'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.blackandpink.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Black and Pink'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.reclaimtheblock.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Reclaim the Block'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://yes4minneapolis.org/the'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Yes on 2 ballot measure'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/news/reflections-on-the-rise-of-a-trans-abolitionist-vision'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Written reflection on the panel conversation'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/news/the-whole-system-is-guilty'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Institute statement on the Chauvin verdict'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: 'Ep. 5: Queers who make beers'
       -
         type: paragraph
@@ -718,7 +878,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635278269
+updated_at: 1636414815
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
