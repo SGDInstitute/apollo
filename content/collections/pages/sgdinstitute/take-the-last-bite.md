@@ -110,7 +110,7 @@ sections:
         content:
           -
             type: text
-            text: 'In this special episode, we''re revisiting a conversation we hosted with four T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In a Transgender Justice Teach-in, '
+            text: 'In this special episode, we''re revisiting a conversation we hosted with four T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. Throughout the 4th annual Transgender Justice Teach-in, '
           -
             type: text
             marks:
@@ -119,7 +119,7 @@ sections:
             text: 'The rise of a trans abolitionist vision,'
           -
             type: text
-            text: ' our panelists highlighted efforts in the Midwest, emphasizing the connections between both queer/trans justice and abolitionist organizing.'
+            text: ' panelists highlighted efforts in the Midwest, emphasizing the connections between both queer/trans justice and abolitionist organizing.'
       -
         type: paragraph
         content:
@@ -878,7 +878,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636420074
+updated_at: 1636420196
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
