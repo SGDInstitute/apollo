@@ -223,16 +223,7 @@ sections:
         content:
           -
             type: text
-            text: "Programs like\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The Rise of a Trans Abolitionist Vision'
-          -
-            type: text
-            text: "\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            text: 'Programs like the Transgender Justice Teach-in are made possible by the generous financial support of grassroots donors. If you learned something from this program, please '
           -
             type: text
             marks:
@@ -240,8 +231,9 @@ sections:
                 type: link
                 attrs:
                   href: /giving
-                  target: null
                   rel: null
+                  target: null
+                  title: null
               -
                 type: underline
             text: 'make a contribution'
@@ -255,8 +247,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
               -
                 type: underline
             text: 'OPE Giving Program'
@@ -266,6 +259,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1634996211
+updated_at: 1636420664
 template: default
 ---
