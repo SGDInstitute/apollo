@@ -316,6 +316,133 @@ sections:
         content:
           -
             type: text
+            text: Register
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''d love to have you join us. We''re offering low-cost, tiered registration costs starting at $5+ and a special rate for groups of 8-10.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'QTIBIPOC: $5'
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    text: '(Gender)Queer, Trans, Intersex, Black, Indigenous, People of Color'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Trans & Non-Conforming Folks: $15'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Aspiring Accomplice: $25'
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    text: 'The intent of this space is to center the the liberation of trans, nonbinary & intersex people. As such, we ask those outside the community who choose to participate to pay the true cost of putting on this program.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Group rates'
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Up to 10 people: $100'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: '11 to 15 people: $150'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: '15 to 20 people: $200'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://apps.sgdinstitute.org/events/the-next-genderation-building-liberated-futures-with-queer-and-trans-youth-transgender-justice-teach-in'
+                text: Register
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Questions?'
       -
         type: paragraph
@@ -420,7 +547,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635810311
+updated_at: 1636586748
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
