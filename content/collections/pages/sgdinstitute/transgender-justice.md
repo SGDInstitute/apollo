@@ -425,7 +425,7 @@ sections:
                 link: 'https://apps.sgdinstitute.org/events/the-next-genderation-building-liberated-futures-with-queer-and-trans-youth-transgender-justice-teach-in'
                 text: Register
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -547,7 +547,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636586843
+updated_at: 1636586860
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
