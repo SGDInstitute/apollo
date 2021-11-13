@@ -319,12 +319,13 @@ sections:
                 type: link
                 attrs:
                   href: 'http://sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'Midwest Institute for Sexuality and Gender Diversity'
           -
             type: text
-            text: ' represents a new chapter in the broader, prouder history of a movement of students dedicated to building queer success in the Midwest. Over the past 27 years, MBLGTACC has become a destination and refuge for LGBTQIA+ and ally students to engage with their peers from around the region and the nation.'
+            text: ' represents a new chapter in the broader, prouder history of a movement of students dedicated to building queer success in the Midwest. Over the past 30 years, MBLGTACC has become a destination and refuge for LGBTQIA+ and ally students to engage with their peers from around the region and the nation.'
       -
         type: paragraph
         content:
@@ -338,8 +339,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/news/post/our-next-quarter-century'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'Institute was formed in 2016'
           -
             type: text
@@ -356,5 +358,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636827176
+updated_at: 1636827201
 ---
