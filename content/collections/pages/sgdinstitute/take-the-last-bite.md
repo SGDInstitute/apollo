@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/5QkGML91LUPCej2WRt6tGC?si=a9741fcf67884e16'
-    text: 'Listen to episode 5 on Spotify'
+    link: 'https://open.spotify.com/episode/0SNDw3hbZMafTWN48CVzSx'
+    text: 'Listen to episode 6 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -105,6 +105,48 @@ sections:
               -
                 type: bold
             text: 'November 9, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/trans-abolitionist-vision-redux/id1582890778?i=1000541215373'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MzUyODA2YTItODRjNi00YTUxLWIxZWMtMDUyZjg3MjFlNzhl?sa=X&ved=0CAUQkfYCahcKEwjAwav645X0AhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/0SNDw3hbZMafTWN48CVzSx'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
       -
         type: paragraph
         content:
@@ -878,7 +920,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636420301
+updated_at: 1636821750
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
