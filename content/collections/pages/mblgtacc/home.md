@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636826380
+updated_at: 1636826418
 sections:
   -
     header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
@@ -242,7 +242,7 @@ sections:
     num_colors: 2
     bg_color: bg-gray-300
     type: news
-    enabled: true
+    enabled: false
 template: default
 description: 'Hosted by the University of Wisconsin-Madison and Edgewood College communities at the Monona Terrace in Madison, Wisconsin'
 image:
