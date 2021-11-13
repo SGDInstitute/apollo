@@ -247,7 +247,7 @@ sections:
         content:
           -
             type: text
-            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 27-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together to learn and grow through the knowledge and experiences of others. Over its 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
       -
         type: paragraph
         content:
@@ -356,5 +356,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636827147
+updated_at: 1636827176
 ---
