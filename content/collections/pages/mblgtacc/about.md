@@ -19,7 +19,82 @@ sections:
         content:
           -
             type: text
-            text: '#mblgtacc2021: From Protest and Beyond Pride'
+            text: '#mblgtacc30'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2022, we will celebrate the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Check back later for more information on the dates and location, and stay connected with us on social media to be among the first to see conference news.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Like '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://facebook.com/mblgtacc'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'MBLGTACC on Facebook'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Follow MBLGTACC on '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://twitter.com/mblgtacc'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: Twitter
+                  -
+                    type: text
+                    text: ' and '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'http://instagram.com/mblgtacc'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: Instagram
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '#mblgtacc30'
       -
         type: paragraph
         content:
@@ -150,7 +225,7 @@ sections:
                           title: null
                     text: Instagram
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -281,5 +356,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633703678
+updated_at: 1636827147
 ---
