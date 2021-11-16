@@ -9,7 +9,7 @@ sections:
     subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
     tag: 'Transgender Justice Teach-in 2021'
-    text: 'Register now'
+    text: 'Registration closed'
     color: btn-green
     size: btn-lg
     block: false
@@ -18,7 +18,6 @@ sections:
     type: header_large
     enabled: true
     has_button: true
-    link: 'https://apps.sgdinstitute.org/events/the-next-genderation-building-liberated-futures-with-queer-and-trans-youth-transgender-justice-teach-in'
   -
     bard:
       -
@@ -49,23 +48,6 @@ sections:
               -
                 type: bold
             text: Virtual
-          -
-            type: text
-            text: ' | '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://apps.sgdinstitute.org/events/the-next-genderation-building-liberated-futures-with-queer-and-trans-youth-transgender-justice-teach-in'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Register now'
-          -
-            type: text
-            text: ' (starting at $5+)'
       -
         type: paragraph
         content:
@@ -440,8 +422,8 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://apps.sgdinstitute.org/events/the-next-genderation-building-liberated-futures-with-queer-and-trans-youth-transgender-justice-teach-in'
-                text: Register
+                link: null
+                text: 'Registration closed'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -565,7 +547,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637101378
+updated_at: 1637106278
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
