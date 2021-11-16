@@ -322,7 +322,13 @@ sections:
         content:
           -
             type: text
-            text: 'We''d love to have you join us! We''re offering low-cost, tiered registration costs starting at $5+, with additional special group rates.'
+            text: 'We''d love to have you join us! We''re offering low-cost, tiered registration costs starting at $5+, with additional special group rates. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Registrants will receive a link to access the stream shortly before the event.'
       -
         type: bullet_list
         content:
@@ -547,7 +553,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636586860
+updated_at: 1637081455
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
