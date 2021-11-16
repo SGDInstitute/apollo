@@ -7,10 +7,10 @@ sections:
   -
     header_image: headers/homepage-hero1.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Join us on November 16 for the fifth annual Transgender Justice Teach-in'
+    subtitle: 'Season 1 of the "Take the Last Bite" podcast is streaming now on Apple, Google, and Spotify!'
     has_tag: false
     tag: asdfasdfasdfasdf
-    text: 'Learn more'
+    text: Listen
     target_blank: false
     color: btn-green
     size: btn-xl
@@ -20,7 +20,7 @@ sections:
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+    link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
     outline: true
     has_button: true
   -
@@ -56,6 +56,6 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1635022386
+updated_at: 1637107017
 ---
 Welcome to your new Statamic website.
