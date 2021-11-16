@@ -169,7 +169,13 @@ sections:
         content:
           -
             type: text
-            text: 'Closed captioning and ASL interpretation will be available.'
+            text: 'Closed captioning and ASL interpretation will be available. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Registrants will receive a link via email to access the stream shortly before the event.'
       -
         type: paragraph
       -
@@ -328,7 +334,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Registrants will receive a link to access the stream shortly before the event.'
+            text: 'Registrants will receive a link via email to access the stream shortly before the event.'
       -
         type: paragraph
         content:
@@ -559,7 +565,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637081499
+updated_at: 1637081549
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 ---
