@@ -1,0 +1,6 @@
+id: 7ebce40e-debb-44f1-92f6-019d291be030
+enabled: true
+source: /news/coming-to-columbus-announcing-the-30th-annual-mblgtacc
+destination: /news/announcing-the-30th-annual-mblgtacc
+type: '301'
+match_type: exact
