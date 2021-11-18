@@ -4,16 +4,16 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636827258
+updated_at: 1637242386
 sections:
   -
-    header_image: headers/madison-katie-wheeler-cc-by-nc-web.jpg
-    title: 'Thank you for attending'
+    header_image: headers/mblgtacc30-reveal_logo.png
+    title: '30th annual MBLGTACC'
     subtitle: 'MBLGTACC 2021, "From protest and beyond pride," hosted by the UW-Madison and Edgewood College communities at the Monona Terrace in Madison, Wisconsin'
     has_tag: true
-    tag: '29th Annual MBLGTACC  |  October 8-10, 2021'
-    link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
-    text: 'View program'
+    tag: 'October 21-23, 2022'
+    link: 'entry::0542e88f-e68a-4003-a979-5ddd7100257a'
+    text: 'Read the announcement'
     color: btn-green
     size: btn-xl
     block: true
@@ -101,11 +101,11 @@ sections:
     enabled: false
   -
     articles:
+      - 0542e88f-e68a-4003-a979-5ddd7100257a
       - 91ec5273-11bf-4f64-bd07-9cccddca154a
       - 2ab7504d-31cf-48ff-8777-4e784eb12db2
       - 101f5a19-3e45-4668-8fa2-a9d49da967ef
       - e35611d9-f5a1-4954-ac10-c7cb9f48c8f7
-      - 5b13c47a-aa3d-44a8-8f10-f9c9deaa8082
     bg_type: gradient
     num_colors: 2
     from_color: from-black
