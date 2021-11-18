@@ -4,10 +4,10 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637242406
+updated_at: 1637242512
 sections:
   -
-    header_image: headers/mblgtacc30-reveal_logo.png
+    header_image: headers/Scioto_Mile_aerial_from_north.jpg
     title: '30th annual MBLGTACC'
     subtitle: 'MBLGTACC 2021, "From protest and beyond pride," hosted by the UW-Madison and Edgewood College communities at the Monona Terrace in Madison, Wisconsin'
     has_tag: true
