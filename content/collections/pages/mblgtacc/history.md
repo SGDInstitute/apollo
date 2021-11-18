@@ -336,16 +336,16 @@ sections:
         content:
           -
             type: text
-            text: '1994 - Greetings from the 90''s... Wish You Were '
+            text: '1994 - Greetings from the 90''s... Wish you were '
           -
             type: text
             marks:
               -
                 type: strike
-            text: Here
+            text: here
           -
             type: text
-            text: ' Queer'
+            text: ' queer'
       -
         type: paragraph
         content:
@@ -381,7 +381,7 @@ sections:
         content:
           -
             type: text
-            text: '1995 - Building Queer Success in the Midwest'
+            text: '1995 - Building queer success in the Midwest'
       -
         type: paragraph
         content:
@@ -401,7 +401,7 @@ sections:
         content:
           -
             type: text
-            text: '1996 - Building Queer Success in the Midwest'
+            text: '1996 - Building queer success in the Midwest'
       -
         type: paragraph
         content:
@@ -421,7 +421,7 @@ sections:
         content:
           -
             type: text
-            text: '1997 - Indiana State University'
+            text: '1997 - We''re here! We''re queer! We''re fabulous!'
       -
         type: paragraph
         content:
@@ -441,7 +441,7 @@ sections:
         content:
           -
             type: text
-            text: '1998 - Across the Fruited Plain'
+            text: '1998 - Across the fruited plain'
       -
         type: paragraph
         content:
@@ -461,7 +461,7 @@ sections:
         content:
           -
             type: text
-            text: '1999 - Moving Forward, Looking Back'
+            text: '1999 - Moving forward, looking back'
       -
         type: paragraph
         content:
@@ -481,13 +481,13 @@ sections:
         content:
           -
             type: text
-            text: '2000 - Making Waves Into the New Millennium'
+            text: '2000 - Making waves into the new millennium'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'St. Cloud, Minnesota. '
+            text: 'Saint Cloud, Minnesota. '
           -
             type: text
             marks:
@@ -501,7 +501,7 @@ sections:
         content:
           -
             type: text
-            text: '2001 - Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
+            text: '2001 - Out and about: Breaking the silence, breaking the boundaries, breaking the labels'
       -
         type: paragraph
         content:
@@ -521,7 +521,7 @@ sections:
         content:
           -
             type: text
-            text: '2002 - Still Moving Forward'
+            text: '2002 - Still moving forward'
       -
         type: paragraph
         content:
@@ -557,7 +557,7 @@ sections:
         content:
           -
             type: text
-            text: '2003 - Loving With Pride'
+            text: '2003 - Loving with pride'
       -
         type: paragraph
         content:
@@ -571,7 +571,7 @@ sections:
         content:
           -
             type: text
-            text: '2004 - Speak Up! Speak Out! Celebrating the Power of Communication to Fight Hate and Fear'
+            text: '2004 - Speak up! Speak out! Celebrating the power of communication to fight hate and fear'
       -
         type: paragraph
         content:
@@ -591,13 +591,19 @@ sections:
         content:
           -
             type: text
-            text: '2005 - Saint Cloud State University (Minnesota)'
+            text: '2005 - Building the bridge to bring it all together'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Building the Bridge to Bring It All Together'
+            text: 'Saint Cloud, Minnesota. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Saint Cloud State University.'
       -
         type: heading
         attrs:
@@ -605,13 +611,19 @@ sections:
         content:
           -
             type: text
-            text: '2006 - University of South Dakota'
+            text: '2006 - Painting the rainbow: Celebrating unity through diversity'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Painting the Rainbow: Celebrating Unity Through Diversity'
+            text: 'Vermillion, South Dakota. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of South Dakota.'
       -
         type: heading
         attrs:
@@ -619,13 +631,19 @@ sections:
         content:
           -
             type: text
-            text: '2007 - University of Minnesota at Twin Cities'
+            text: '2007 - Alphabet soup: No matter the letter we stand together'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Alphabet Soup: No Matter The Letter We Stand Together'
+            text: 'Minneapolis, Minnesota. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of Minnesota at Twin Cities.'
       -
         type: set
         attrs:
@@ -649,13 +667,22 @@ sections:
         content:
           -
             type: text
-            text: '2008 - University of Illinois at Urbana-Champaign'
+            text: '2008 - Voting for change: Liberty and justice for all'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Voting for Change: Liberty and Justice For All'
+            text: 'Champaign, Illinois. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of Illinois at Urbana-Champaign'
+          -
+            type: text
+            text: .
       -
         type: set
         attrs:
@@ -679,13 +706,19 @@ sections:
         content:
           -
             type: text
-            text: '2009 - Indiana University Bloomington'
+            text: '2009 - Living out loud: Examining our past to enhance our future'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Living Out Loud: Examining Our Past to Enhance Our Future'
+            text: 'Bloomington, Indiana. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Indiana University Bloomington.'
       -
         type: set
         attrs:
@@ -709,13 +742,19 @@ sections:
         content:
           -
             type: text
-            text: '2010 - University of Wisconsin-Madison'
+            text: '2010 - Get real! Confronting privilege, provoking dialogue and building new foundations'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Get Real! Confronting Privilege, Provoking Dialogue and Building New Foundations'
+            text: 'Madison, Wisconsin. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of Wisconsin-Madison.'
       -
         type: set
         attrs:
@@ -739,13 +778,19 @@ sections:
         content:
           -
             type: text
-            text: '2011 - University of Michigan'
+            text: '2011 - Justice or just us? Achieving liberty for all'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Justice or Just Us? Achieving Liberty for All'
+            text: 'Ann Arbor, Michigan. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of Michigan-Ann Arbor.'
       -
         type: set
         attrs:
@@ -769,13 +814,19 @@ sections:
         content:
           -
             type: text
-            text: '2012 - Iowa State University'
+            text: '2012 - The butterfly effect: Evolution to revolution'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Butterfly Effect: Evolution to Revolution'
+            text: 'Ames, Iowa. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Iowa State University.'
       -
         type: set
         attrs:
@@ -799,13 +850,19 @@ sections:
         content:
           -
             type: text
-            text: '2013 - Michigan State University'
+            text: '2013 - Mosaic: Putting the pieces together'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mosaic: Putting the Pieces Together'
+            text: 'East Lansing, Michigan. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Michigan State University. '
       -
         type: set
         attrs:
@@ -829,13 +886,19 @@ sections:
         content:
           -
             type: text
-            text: '2014 - University of Missouri-Kansas City'
+            text: '2014 - Jazzin'' it up'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Jazzin'' It Up'
+            text: 'Kansas City, Missouri. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the University of Missouri-Kansas City.'
       -
         type: set
         attrs:
@@ -859,13 +922,19 @@ sections:
         content:
           -
             type: text
-            text: '2015 - Illinois State University'
+            text: '2015 - Narrating a new normal'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Narrating a New Normal'
+            text: 'Normal, Illinois. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Illinois State University.'
       -
         type: set
         attrs:
@@ -889,13 +958,22 @@ sections:
         content:
           -
             type: text
-            text: '2016 - Purdue University'
+            text: '2016 - Introspection at the crossroads'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Introspection at the Crossroads'
+            text: 'West Lafayette, Indiana. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Purdue University'
+          -
+            type: text
+            text: .
       -
         type: set
         attrs:
@@ -919,22 +997,19 @@ sections:
         content:
           -
             type: text
-            text: '2017 - Chicago Coalition of Queer and Allied Students '
+            text: '2017 - United in solidarity'
       -
         type: paragraph
         content:
+          -
+            type: text
+            text: 'Chicago, Illinois. '
           -
             type: text
             marks:
               -
-                type: bold
-            text: '(DePaul University, Loyola University Chicago, Northeastern Illinois University)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'United in Solidarity'
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and the Chicago Coalition of Queer and Allied Students (DePaul University, Loyola University Chicago, Northeastern Illinois University)'
       -
         type: set
         attrs:
@@ -958,13 +1033,19 @@ sections:
         content:
           -
             type: text
-            text: '2018 - University of Nebraska-Omaha'
+            text: '2018 - All roads lead to intersectionality'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'All Roads Lead to Intersectionality'
+            text: 'Omaha, Nebraska. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and the University of Nebraska-Omaha.'
       -
         type: set
         attrs:
@@ -988,13 +1069,19 @@ sections:
         content:
           -
             type: text
-            text: '2019 - Wichita State University'
+            text: '2019 - Beyond the rainbow and to the stars'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Beyond the Rainbow and to the Stars'
+            text: 'Wichita, Kansas.'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' Hosted by the Midwest Institute for Sexuality and Gender Diversity and Wichita State University.'
       -
         type: set
         attrs:
@@ -1018,13 +1105,19 @@ sections:
         content:
           -
             type: text
-            text: '2020 - Western Michigan University'
+            text: '2020 - Envisioning a future together'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Envisioning a Future Together'
+            text: 'Kalamazoo, Michigan. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and tWestern Michigan University.'
       -
         type: set
         attrs:
@@ -1048,13 +1141,39 @@ sections:
         content:
           -
             type: text
-            text: '2021 - University of Wisconsin-Madison'
+            text: '2021 - From protest and beyond pride'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'From Protest and Beyond Pride'
+            text: 'Madison, Wisconsin. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and the University of Madison-Wisconsin.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2022 - 30th annual MBLGTACC'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Columbus, Ohio. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and a multi-institution, multi-state coalition of student organizers.'
     type: content
     enabled: true
   -
@@ -1122,5 +1241,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637251861
+updated_at: 1637257043
 ---
