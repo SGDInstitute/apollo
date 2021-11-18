@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637279414
+updated_at: 1637279580
 sections:
   -
     header_image: headers/Scioto_Mile_aerial_from_north.jpg
@@ -35,14 +35,6 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
-  -
-    date: '2022-10-21 19:00'
-    hashtag: 'until #mblgtacc30'
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-yellow-300
-    type: countdown
     enabled: true
   -
     id: pricing
@@ -125,6 +117,14 @@ sections:
     from_color: from-black
     to_color: to-white
     type: news_feature
+    enabled: true
+  -
+    date: '2022-10-21 19:00'
+    hashtag: 'until #mblgtacc30'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-yellow-300
+    type: countdown
     enabled: true
   -
     bard:
@@ -258,7 +258,7 @@ sections:
     num_colors: 2
     bg_color: bg-gray-300
     type: news
-    enabled: false
+    enabled: true
 template: default
 description: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 image:
