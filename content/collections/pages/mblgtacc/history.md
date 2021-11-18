@@ -367,7 +367,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgcc_1994_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -543,7 +543,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2002_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -653,7 +653,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2007_program_guide_192c0d66c3e7b1'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -692,7 +692,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2008_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -728,7 +728,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2009_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -764,7 +764,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2010_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -800,7 +800,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2011_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -836,7 +836,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2012_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -872,7 +872,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2013_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -908,7 +908,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2014_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -944,7 +944,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2015_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -983,7 +983,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2016_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -1019,7 +1019,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2017_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -1055,7 +1055,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2018_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -1091,7 +1091,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2019_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -1127,7 +1127,7 @@ sections:
               -
                 button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2020_program_guide'
-                text: 'View Program'
+                text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
@@ -1154,6 +1154,24 @@ sections:
               -
                 type: italic
             text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and the University of Madison-Wisconsin.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+                text: 'View program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -1241,5 +1259,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637257043
+updated_at: 1637257147
 ---
