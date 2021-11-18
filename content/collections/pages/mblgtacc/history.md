@@ -1,4 +1,6 @@
 ---
+id: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
+blueprint: pages
 title: History
 sections:
   -
@@ -314,13 +316,19 @@ sections:
         content:
           -
             type: text
-            text: '1993 - Iowa State University and Drake University '
+            text: '1993 - First annual MBLGCC'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'First annual MBLGCC'
+            text: 'Ames, Iowa. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Iowa State University and Drake University'
       -
         type: heading
         attrs:
@@ -328,13 +336,7 @@ sections:
         content:
           -
             type: text
-            text: '1994 - Earlham College (Indiana)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Greetings from the 90''s... Wish You Were '
+            text: '1994 - Greetings from the 90''s... Wish You Were '
           -
             type: text
             marks:
@@ -344,6 +346,18 @@ sections:
           -
             type: text
             text: ' Queer'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Richmond, Indiana. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Earlham College'
       -
         type: set
         attrs:
@@ -367,13 +381,19 @@ sections:
         content:
           -
             type: text
-            text: '1995 - Southern Illinois University at Carbondale'
+            text: '1995 - Building Queer Success in the Midwest'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Building Queer Success in the Midwest'
+            text: 'Carbondale, Illinois. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Southern Illinois University at Carbondale'
       -
         type: heading
         attrs:
@@ -381,13 +401,19 @@ sections:
         content:
           -
             type: text
-            text: '1996 - Beloit College (Wisconsin)'
+            text: '1996 - Building Queer Success in the Midwest'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Building Queer Success in the Midwest'
+            text: 'Beloit, Wisconsin. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Beloit College'
       -
         type: heading
         attrs:
@@ -401,7 +427,13 @@ sections:
         content:
           -
             type: text
-            text: 'We''re Here! We''re Queer! We''re Fabulous!'
+            text: 'Indianapolis, Indiana. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Indiana State University'
       -
         type: heading
         attrs:
@@ -409,13 +441,19 @@ sections:
         content:
           -
             type: text
-            text: '1998 - University of Illinois at Chicago'
+            text: '1998 - Across the Fruited Plain'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Across the Fruited Plain'
+            text: 'Chicago, Illinois. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by University of Illinois at Chicago'
       -
         type: heading
         attrs:
@@ -423,13 +461,19 @@ sections:
         content:
           -
             type: text
-            text: '1999 - University of Wisconsin-Madison'
+            text: '1999 - Moving Forward, Looking Back'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Moving Forward, Looking Back'
+            text: 'Madison, Wisconsin. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by University of Wisconsin-Madison'
       -
         type: heading
         attrs:
@@ -437,13 +481,19 @@ sections:
         content:
           -
             type: text
-            text: '2000 - Saint Cloud State University (Minnesota)'
+            text: '2000 - Making Waves Into the New Millennium'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Making Waves Into the New Millennium'
+            text: 'St. Cloud, Minnesota. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Saint Cloud State University'
       -
         type: heading
         attrs:
@@ -451,13 +501,19 @@ sections:
         content:
           -
             type: text
-            text: '2001 - University of Illinois at Urbana-Champaign'
+            text: '2001 - Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
+            text: 'Champaign, Illinois. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by University of Illinois at Urbana-Champaign'
       -
         type: heading
         attrs:
@@ -465,13 +521,19 @@ sections:
         content:
           -
             type: text
-            text: '2002 - Michigan State University'
+            text: '2002 - Still Moving Forward'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Still Moving Forward'
+            text: 'East Lansing, Michigan. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Michigan State University'
       -
         type: set
         attrs:
@@ -495,13 +557,13 @@ sections:
         content:
           -
             type: text
-            text: '2003 - The Ohio State University'
+            text: '2003 - Loving With Pride'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Loving With Pride'
+            text: 'Columbus, Ohio. Hosted by the Ohio State University.'
       -
         type: heading
         attrs:
@@ -509,13 +571,19 @@ sections:
         content:
           -
             type: text
-            text: '2004 - Iowa State University'
+            text: '2004 - Speak Up! Speak Out! Celebrating the Power of Communication to Fight Hate and Fear'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Speak Up! Speak Out! Celebrating the Power of Communication to Fight Hate and Fear'
+            text: 'Ames, Iowa. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by Iowa State University.'
       -
         type: heading
         attrs:
@@ -1053,7 +1121,6 @@ sections:
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1618589515
-id: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1637251861
 ---
