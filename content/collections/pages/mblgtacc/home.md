@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637280011
+updated_at: 1637280048
 sections:
   -
     header_image: headers/Scioto_Mile_aerial_from_north.jpg
@@ -29,20 +29,6 @@ sections:
     num_colors: 2
     bg_color: bg-yellow-300
     type: countdown
-    enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: video
-            video: 'https://www.youtube.com/watch?v=UX8Mc9-md9o'
-      -
-        type: paragraph
-    type: content
     enabled: true
   -
     id: pricing
