@@ -150,7 +150,7 @@ sections:
         content:
           -
             type: text
-            text: 'Each February, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and respects this diversity. With over 70 workshops on LGBTQIA+ and intersectional topics and interests, plus keynotes from leading advocates and performances from popular entertainers, the conference and its many programs and opportunities catalyze conversation and action around issues that affect us as individuals, as a community, and as citizens of the world. And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable. At MBLGTACC, there is something for all of us.'
+            text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and respects this diversity. With over 70 workshops on LGBTQIA+ and intersectional topics and interests, plus keynotes from leading advocates and performances from popular entertainers, the conference and its many programs and opportunities catalyze conversation and action around issues that affect us as individuals, as a community, and as citizens of the world. And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable. At MBLGTACC, there is something for all of us.'
       -
         type: paragraph
     type: content
@@ -204,7 +204,7 @@ sections:
             text: 'Institute was formed in 2016'
           -
             type: text
-            text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual February conference.'
+            text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual conference.'
     type: content
     enabled: true
   -
@@ -217,5 +217,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637251423
+updated_at: 1637462706
 ---
