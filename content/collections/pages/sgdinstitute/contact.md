@@ -1,4 +1,6 @@
 ---
+id: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
+blueprint: pages
 title: Contact
 sections:
   -
@@ -21,38 +23,6 @@ sections:
           values:
             type: form
             formset: contact
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Find just the right person'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Our humans include experienced advocates, professionals, graduate students in the higher education, financial services, marketing/communications, and information technologies fields. '
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'entry::d8e2b8ed-5f03-4aae-b5d6-469c342aa10f'
-                text: 'Institute team directory'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-                button: null
-            contain: true
       -
         type: paragraph
       -
@@ -85,8 +55,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://twitter.com/sgdinstitute'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Twitter
           -
             type: text
@@ -98,8 +69,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.facebook.com/sgdinstitute/'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Facebook
           -
             type: text
@@ -111,8 +83,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.instagram.com/sgdinstitute/'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Instagram
           -
             type: text
@@ -124,8 +97,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.linkedin.com/company/12175681?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A12175681%2Cidx%3A2-1-2%2CtarId%3A1472680024853%2Ctas%3AMidwest%20Institute%20for%20Se'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: LinkedIn
           -
             type: text
@@ -137,8 +111,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.flickr.com/sgdinstitute'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Flickr
           -
             type: text
@@ -150,8 +125,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.youtube.com/c/sgdinstituteorg'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: YouTube
           -
             type: text
@@ -161,6 +137,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617501819
-id: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
+updated_at: 1637779246
 ---
