@@ -1,8 +1,10 @@
 ---
+id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
+blueprint: pages
 title: About
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617503093
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638378902
 sections:
   -
     title: 'About the Institute'
@@ -170,5 +172,6 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
+image:
+  - headers/homepage-hero1.jpg
 ---
