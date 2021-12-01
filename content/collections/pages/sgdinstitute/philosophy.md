@@ -1,4 +1,6 @@
 ---
+id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
+blueprint: pages
 title: 'Our philosophy'
 sections:
   -
@@ -381,7 +383,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617503032
-id: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638378931
+image:
+  - headers/homepage-hero1.jpg
 ---
