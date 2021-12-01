@@ -2,6 +2,7 @@ title: Articles
 sites:
   - sgdinstitute
   - mblgtacc
+propagate: false
 template: article
 layout: layout
 taxonomies:
