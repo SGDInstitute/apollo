@@ -546,8 +546,10 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637106278
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638379055
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+image:
+  - headers/tj-f21_site-banner.jpg
 ---
