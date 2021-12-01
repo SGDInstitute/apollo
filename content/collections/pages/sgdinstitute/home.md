@@ -56,6 +56,9 @@ sections:
     type: countdown
     enabled: false
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638319797
+updated_at: 1638378871
+description: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
+image:
+  - headers/homepage-hero1.jpg
 ---
 Welcome to your new Statamic website.
