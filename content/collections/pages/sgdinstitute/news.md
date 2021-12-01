@@ -37,5 +37,7 @@ sections:
     bg_color: bg-gray-200
     exclude: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638319820
+updated_at: 1638379010
+image:
+  - headers/homepage-hero1.jpg
 ---
