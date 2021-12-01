@@ -258,7 +258,9 @@ sections:
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636420664
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638379071
 template: default
+image:
+  - headers/tj-f20-web@2x.jpg
 ---
