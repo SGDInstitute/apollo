@@ -1,4 +1,6 @@
 ---
+id: 1d908676-c027-44d3-b60a-ebab30250d45
+blueprint: pages
 title: Giving
 sections:
   -
@@ -275,7 +277,8 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1617502081
-id: 1d908676-c027-44d3-b60a-ebab30250d45
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638379139
+image:
+  - headers/header-test2.jpg
 ---
