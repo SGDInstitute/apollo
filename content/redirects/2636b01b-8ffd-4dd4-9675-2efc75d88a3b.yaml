@@ -1,0 +1,6 @@
+id: 2636b01b-8ffd-4dd4-9675-2efc75d88a3b
+enabled: true
+source: /news/small-book-big-impact-a-review-of-we-will-not-cancel-us
+destination: /news/small-book-big-impact
+type: '301'
+match_type: exact
