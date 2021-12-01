@@ -1,5 +1,6 @@
 ---
 id: 857e03a1-fd97-468a-afd6-86fc7331ff87
+blueprint: pages
 title: 'Queer Policy Series'
 sections:
   -
@@ -380,6 +381,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1626805393
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638379100
+image:
+  - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
