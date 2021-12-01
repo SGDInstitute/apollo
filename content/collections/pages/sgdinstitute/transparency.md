@@ -1,5 +1,6 @@
 ---
 id: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
+blueprint: pages
 title: Transparency
 sections:
   -
@@ -250,6 +251,8 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1620163919
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638378995
+image:
+  - headers/header-chicago_pier.jpg
 ---
