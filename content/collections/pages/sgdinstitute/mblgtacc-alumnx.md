@@ -175,6 +175,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632230503
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1638379088
+image:
+  - headers/header_open-mic.jpg
 ---
