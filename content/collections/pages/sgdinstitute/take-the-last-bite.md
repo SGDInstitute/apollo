@@ -95,6 +95,43 @@ sections:
         content:
           -
             type: text
+            text: 'Ep. 7: Just(ice) joking with Hayden Kristal'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'December 7, 2021'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Prepare your diaphragm for some deep belly laughs! Comedian and intersectional accessibility educator '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.instagram.com/haydenkristal/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Hayden Krystal'
+          -
+            type: text
+            text: ' talks about the craft of writing a good joke, the need for comedy to "punch up" to prevent harm against marginalized communities, and how social media such as Tik Tok and Instagram have become key tools for content creators to reach wider audiences during the pandemic.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: 'Ep. 6: Trans abolitionist vision [redux]'
       -
         type: paragraph
@@ -920,7 +957,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636821750
+updated_at: 1638833826
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
