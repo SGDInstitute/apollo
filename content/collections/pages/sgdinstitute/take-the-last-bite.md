@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/0SNDw3hbZMafTWN48CVzSx'
-    text: 'Listen to episode 6 on Spotify'
+    link: 'https://open.spotify.com/episode/4YMQukq7nRoP4S7CP8pWpW'
+    text: 'Listen to episode 7 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -105,6 +105,48 @@ sections:
               -
                 type: bold
             text: 'December 7, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/just-ice-joking-with-hayden-kristal/id1582890778?i=1000544193808'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/N2NmYjNhYmUtN2EyMi00OGJiLThkOTktMjg3NWZlN2NkNTE0?sa=X&ved=0CAUQkfYCahcKEwiI6sm1jNL0AhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/4YMQukq7nRoP4S7CP8pWpW'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
       -
         type: paragraph
         content:
@@ -957,7 +999,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1638833826
+updated_at: 1638894198
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
