@@ -121,7 +121,7 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://www.mblgtacc.org'
+                link: 'https://mblgtacc.org'
                 text: 'Visit the MBLGTACC website'
                 color: btn-green
                 size: btn-lg
@@ -328,7 +328,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379021
+updated_at: 1639524379
 image:
   - headers/header-chicago_pier.jpg
 ---
