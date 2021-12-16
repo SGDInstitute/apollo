@@ -163,10 +163,98 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Hayden Krystal'
+            text: 'Hayden Kristal'
           -
             type: text
             text: ' talks about the craft of writing a good joke, the need for comedy to "punch up" to prevent harm against marginalized communities, and how social media such as Tik Tok and Instagram have become key tools for content creators to reach wider audiences during the pandemic.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Resources mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.kirklandproductions.com/hayden-kristal.html'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Hayden''s website'
+                  -
+                    type: text
+                    text: ', '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.instagram.com/haydenkristal/?hl=en'
+                          rel: null
+                          target: null
+                          title: null
+                    text: Instagram
+                  -
+                    type: text
+                    text: ', and '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.tiktok.com/@haydenkristal?'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: TikTok
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Cancel Me, Daddy episodes discussing impacts of Dave Chapelle''s anti-trans joke in recent Netflix special: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.apple.com/us/podcast/shame-on-chappelle-ft-imara-jones/id1550508625?i=1000538547879'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Part 1'
+                  -
+                    type: text
+                    text: ' and '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://podcasts.apple.com/us/podcast/netflix-part-2/id1550508625?i=1000539976036'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Part 2'
       -
         type: heading
         attrs:
@@ -998,8 +1086,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1638894198
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1639694776
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
