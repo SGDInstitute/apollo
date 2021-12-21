@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/4YMQukq7nRoP4S7CP8pWpW'
-    text: 'Listen to episode 7 on Spotify'
+    link: 'https://open.spotify.com/episode/3ICdXq1CS8v6f1eFLuLlSJ'
+    text: 'Listen to episode 8 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -88,6 +88,71 @@ sections:
           -
             type: text
             text: Episodes
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep. 8: Small bites: Animation, grief, and the gay outdoors'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'December 21, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/small-bites-animation-grief-and-the-gay-outdoors/id1582890778?i=1000545620172'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/MTRkNWYyNTYtMDk0ZS00MjQzLTlhZmItNmMyZmFlZTU0NDY3?sa=X&ved=0CAUQkfYCahcKEwjAlMakhfX0AhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/3ICdXq1CS8v6f1eFLuLlSJ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? In part one of this “small bites” series, we reflect on these questions and more as we discuss quirky, queer animated characters (2:46), collective grief and learning through loss (23:08), and building a relationship with wilderness in the gay outdoors (47:18). Be sure to come back for another serving of small bites on January 4.'
       -
         type: heading
         attrs:
@@ -1086,8 +1151,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1639694776
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1640094947
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
