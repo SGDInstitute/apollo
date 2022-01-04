@@ -134,6 +134,20 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ/episode/Mzc2Zjk2ZjYtOTAyMC00ZTcwLWFjMWUtODIzM2YxOTZmYmM5?sa=X&ved=0CAUQkfYCahcKEwjop-Pj1pj1AhUAAAAAHQAAAAAQAQ'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Google
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'https://open.spotify.com/episode/4u7A19rn2Z6R0YQFmBlzVc'
                   rel: null
                   target: _blank
@@ -1209,7 +1223,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1641317662
+updated_at: 1641319313
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
