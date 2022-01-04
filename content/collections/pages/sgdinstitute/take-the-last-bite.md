@@ -15,8 +15,8 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 1 episodes released bi-weekly. Subscribe today!'
-    link: 'https://open.spotify.com/episode/3ICdXq1CS8v6f1eFLuLlSJ'
-    text: 'Listen to episode 8 on Spotify'
+    link: 'https://open.spotify.com/episode/4u7A19rn2Z6R0YQFmBlzVc'
+    text: 'Listen to episode 9 on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -88,6 +88,63 @@ sections:
           -
             type: text
             text: Episodes
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep.9: Small bites: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ferrets, farming, and fat kit food'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'January 4, 2021'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://podcasts.apple.com/us/podcast/small-bites-ferrets-farming-and-fat-kit-food/id1582890778?i=1000546869251'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Apple
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://open.spotify.com/episode/4u7A19rn2Z6R0YQFmBlzVc'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Spotify
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? In part two of this "small bites" series, we reflect on these questions and more as we discuss ferrets (1:27), farming (20:13), and fat kid food (40:46). Enjoy these bite sized bits of pet shaming, futurity planning, and recipe recommendations.'
       -
         type: heading
         attrs:
@@ -1152,7 +1209,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1640094947
+updated_at: 1641317578
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
