@@ -160,6 +160,235 @@ sections:
             type: text
             text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? In part two of this "small bites" series, we reflect on these questions and more as we discuss ferrets (1:27), farming (20:13), and fat kid food (40:46). Enjoy these bite sized bits of pet shaming, futurity planning, and recipe recommendations.'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Ferrets segment'
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.cnn.com/2021/12/05/americas/covid-19-hippos-belgium-intl/index.html'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Hippos test positive for COVID'
+                          -
+                            type: text
+                            text: " in Germany\_"
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'R.B.’s essay about pet behaviour during the pandemic: '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://medium.com/@RozeWithaZee/the-pets-dont-know-the-world-s-on-fire-e210ae752d75'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'The pets don''t know the world''s on fire'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Urban farming segment\_"
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.jaclynwypler.com/resources'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'LGBTQIA+ farmer resources'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.teenvogue.com/story/black-lgbtq-farms'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Farms run by queer and BIPOC people are sites of community and strength | Teen Vogue'
+                          -
+                            type: text
+                            text: "\_"
+                          -
+                            type: hard_break
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Fat kid food segment\_"
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.localharvest.org/csa/'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Signing up for fresh, local food by opting into community supported agriculture'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://homecooking.show/'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Home Cooking podcast'
+                          -
+                            type: text
+                            text: ": A podcast hosted by Samin Nosrat and Hrishi Hirway offering cooking advice during the pandemic\_"
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.saltfatacidheat.com/'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Salt Fat Acid Heat'
+                          -
+                            type: text
+                            text: ": Samin Nosrat’s concept incorporated into a book and a Netflix series where she asserts that mastering these four elements, you can master good cooking.\_"
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://www.akpress.org/emergentstrategy.html'
+                                  rel: null
+                                  target: null
+                                  title: null
+                              -
+                                type: underline
+                            text: 'Emergent Strategy'
+                          -
+                            type: text
+                            text: ': adrienne maree brown’s book and theory of emergent strategy'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Check out R.B.’s instagram @tranzwrites for fat kit food experiments '
+      -
         type: heading
         attrs:
           level: 3
@@ -224,6 +453,35 @@ sections:
           -
             type: text
             text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? In part one of this “small bites” series, we reflect on these questions and more as we discuss quirky, queer animated characters (2:46), collective grief and learning through loss (23:08), and building a relationship with wilderness in the gay outdoors (47:18). Be sure to come back for another serving of small bites on January 4.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mentioned in this episode:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://andymnewhouse.me/what-ive-been-watching-and-enjoyed'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'What I''ve been watching & enjoyed'
+                  -
+                    type: text
+                    text: ' - Andy Newhouse'
       -
         type: heading
         attrs:
@@ -308,7 +566,7 @@ sections:
         content:
           -
             type: text
-            text: 'Resources mentioned in this episode:'
+            text: 'Mentioned in this episode:'
       -
         type: bullet_list
         content:
@@ -470,7 +728,7 @@ sections:
         content:
           -
             type: text
-            text: 'Resources mentioned in this episode:'
+            text: 'Mentioned in this episode:'
       -
         type: bullet_list
         content:
@@ -663,7 +921,7 @@ sections:
         content:
           -
             type: text
-            text: 'Resources mentioned in this episode:'
+            text: 'Mentioned in this episode:'
       -
         type: bullet_list
         content:
@@ -927,7 +1185,7 @@ sections:
         content:
           -
             type: text
-            text: 'Resources mentioned in this episode:'
+            text: 'Mentioned in this episode:'
       -
         type: bullet_list
         content:
@@ -1223,7 +1481,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1641319313
+updated_at: 1641668540
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
