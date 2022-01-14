@@ -143,6 +143,15 @@ sections:
             type: text
             text: 'Take the Last Bite podcast'
       -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: news/lastbite-launch-promo-web-featured-1090x681.jpg
+            inline: false
+      -
+        type: paragraph
+      -
         type: paragraph
         content:
           -
@@ -328,7 +337,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1639524379
+updated_at: 1642178759
 image:
   - headers/header-chicago_pier.jpg
 ---
