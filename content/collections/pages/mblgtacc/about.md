@@ -19,13 +19,25 @@ sections:
         content:
           -
             type: text
-            text: '#mblgtacc30'
+            text: 'Save the date, registration, and workshop RFPs'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Save the date for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, October 21-23, 2022 in Columbus, Ohio. Check back later for more information, and stay connected with us on social media to be among the first to see conference news.'
+            text: 'Save the date for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, October 21-23, 2022 in Columbus, Ohio. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Registration and workshop RFPs will open in April 2022. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Check back later for more information, and stay connected with us on social media to be among the first to see conference news.'
       -
         type: bullet_list
         content:
@@ -217,5 +229,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637462706
+updated_at: 1643236858
 ---
