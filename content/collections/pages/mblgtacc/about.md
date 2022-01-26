@@ -37,10 +37,19 @@ sections:
         content:
           -
             type: text
-            text: 'Check back later for more information, and stay connected with us on social media to be among the first to see conference news.'
+            text: 'Check back later for more information, and stay connected with us on social media and over email to be among the first to see conference news.'
       -
         type: bullet_list
         content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Subscribe to MBLGTACC email updates—enter your email address in the signup box at the bottom of this page. '
           -
             type: list_item
             content:
@@ -95,6 +104,26 @@ sections:
                           target: _blank
                           title: null
                     text: Instagram
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Mark yourself "Attending" on the '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.facebook.com/events/581871836478991'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Facebook event listing'
     type: content
     enabled: true
   -
@@ -229,5 +258,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643236858
+updated_at: 1643237084
 ---
