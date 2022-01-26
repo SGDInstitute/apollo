@@ -245,7 +245,7 @@ sections:
             text: 'Institute was formed in 2016'
           -
             type: text
-            text: ' with a directive to guarantee adequate consultation and support is provided to campus planners and to ensure consistency in the quality of the MBLGTACC experience; to guarantee diversity, equity, and inclusion; and to grow the capacity of the organization beyond the annual conference.'
+            text: ' with a mandate to provide robust strategic and operational support for conference operations and campus planning teams; to continue improving the MBLGTACC experience for all attendees and partners; to relentlessly pursue diversity, equity, and inclusion in value and practice; and to grow the capacity of the organization beyond the annual conference.'
     type: content
     enabled: true
   -
@@ -258,5 +258,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643237084
+updated_at: 1643237845
 ---
