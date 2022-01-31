@@ -17,7 +17,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''d LOVE your help'
+            text: 'We''d love your advice on workshop tracks'
       -
         type: paragraph
         content:
@@ -40,6 +40,8 @@ sections:
                 outline: false
                 target_blank: true
             contain: true
+      -
+        type: paragraph
       -
         type: paragraph
       -
@@ -199,10 +201,14 @@ sections:
           -
             type: text
             text: ' to connect about suggestions or questions.'
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643672274
+updated_at: 1643672404
 ---
