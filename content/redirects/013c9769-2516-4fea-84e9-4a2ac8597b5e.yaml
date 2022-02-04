@@ -1,0 +1,6 @@
+id: 013c9769-2516-4fea-84e9-4a2ac8597b5e
+enabled: true
+source: /news/take-the-last-bite-s1e8-1
+destination: /news/take-the-last-bite-s1e9
+type: '301'
+match_type: exact
