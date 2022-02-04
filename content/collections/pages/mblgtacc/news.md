@@ -34,7 +34,7 @@ sections:
         content:
           -
             type: text
-            text: 'All news, announcements and updates, blog posts, media mentions, and other written updates from the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference,'
+            text: 'Below, find all news, announcements and updates, blog posts, media mentions, and other written updates from the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference,'
     type: content
     enabled: true
   -
@@ -48,5 +48,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643941605
+updated_at: 1643941629
 ---
