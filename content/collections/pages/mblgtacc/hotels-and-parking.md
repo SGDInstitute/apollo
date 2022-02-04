@@ -224,6 +224,49 @@ sections:
             type: text
             text: Parking
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Park at the hotel'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'On-site parking is available at the Hilton Columbus Downtown for guests staying at the hotel. Access the parking facility through the motor court off of North High Street. Current daily parking rates (may be subject to change) are:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Self-park: $33'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Valet: $35'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Park near the Greater Columbus Convention Center'
+      -
         type: paragraph
         content:
           -
@@ -430,6 +473,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1643991912
+updated_at: 1643992181
 template: default
 ---
