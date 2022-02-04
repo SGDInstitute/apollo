@@ -4,7 +4,7 @@ blueprint: pages
 title: News
 sections:
   -
-    title: News
+    title: 'Featured news and updates'
     type: header_small
     enabled: true
   -
@@ -51,5 +51,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643941891
+updated_at: 1643941924
 ---
