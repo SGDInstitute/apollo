@@ -20,6 +20,18 @@ sections:
     type: news_feature
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'All MBLGTACC news'
+    type: content
+    enabled: true
+  -
     limit: 15
     num_per_row: 3
     pagination: true
@@ -30,5 +42,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637245320
+updated_at: 1643941515
 ---
