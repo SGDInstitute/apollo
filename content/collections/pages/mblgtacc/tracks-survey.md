@@ -1,7 +1,7 @@
 ---
 id: d0985a76-0f81-46a5-89d5-26c0d4c68db9
 blueprint: pages
-title: 'Designing workshop tracks'
+title: 'Workshop tracks survey'
 sections:
   -
     title: 'Designing workshop tracks'
@@ -221,6 +221,6 @@ sections:
     enabled: true
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1643916370
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1643941036
 ---
