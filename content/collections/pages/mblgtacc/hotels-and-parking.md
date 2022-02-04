@@ -445,7 +445,21 @@ sections:
         content:
           -
             type: text
-            text: 'For questions about hotel reservations or amenities, please contact the hotel directly. For questions about the conference, '
+            text: 'For questions about hotel reservations or amenities, please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.hilton.com/en/hotels/cmhdwhh-hilton-columbus-downtown/'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact the hotel directly'
+          -
+            type: text
+            text: '. For questions about the conference, '
           -
             type: text
             marks:
@@ -473,6 +487,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1643992181
+updated_at: 1643992237
 template: default
 ---
