@@ -8,15 +8,6 @@ sections:
     type: header_small
     enabled: true
   -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Featured news and updates'
     type: content
     enabled: true
   -
@@ -63,5 +54,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643941731
+updated_at: 1643941809
 ---
