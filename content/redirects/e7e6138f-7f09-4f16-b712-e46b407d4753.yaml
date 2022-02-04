@@ -1,0 +1,6 @@
+id: e7e6138f-7f09-4f16-b712-e46b407d4753
+enabled: true
+source: /news/take-the-last-bite-s1-trailer-1
+destination: /news/take-the-last-bite-s1e1
+type: '301'
+match_type: exact
