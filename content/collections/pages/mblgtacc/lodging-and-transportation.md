@@ -1,10 +1,10 @@
 ---
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 blueprint: pages
-title: 'Lodging & Transportation'
+title: 'Hotels, Transportation, & Parking'
 sections:
   -
-    title: 'Lodging & Transportation'
+    title: 'Hotels, Transportation, & Parking'
     type: header_small
     enabled: true
   -
@@ -16,43 +16,87 @@ sections:
         content:
           -
             type: text
-            text: Parking
+            text: 'Hotel accommodations'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Monona Terrace parking garage is open to the public seven days a week. 400 parking spaces are available on weekdays; 600 spaces are available after 5:00 pm weeknights and on weekends. Parking rates are:'
+            text: 'The Hilton Columbus Downtown is offering a group rate for MBLGTACC 2022 attendees.'
       -
-        type: bullet_list
+        type: paragraph
         content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekdays: $3.00 per hour ($1.00 for first half hour) $16.00 daily maximum'
+            type: text
+            text: 'Please note, the quoted rates do not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekday evenings after 5:00 pm: $5.00 flat rate'
+            type: text
+            text: 'Hilton Columbus Downtown'
+      -
+        type: paragraph
+        content:
           -
-            type: list_item
-            content:
+            type: text
+            text: 'Address: '
+          -
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Weekends: $5.00 flat rate'
+                type: link
+                attrs:
+                  href: 'https://goo.gl/maps/pe2tB6pneSjfjPSh9'
+                  rel: null
+                  target: null
+                  title: null
+            text: '401 N High St., Columbus, OH  43215'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Hilton Columbus Downtown features direct access via skywalk to the Greater Columbus Convention Center.'
+      -
+        type: set
+        attrs:
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - 'Room Type'
+                  - 'Rooms Available'
+                  - Rate
+                  - 'Available Until'
+              -
+                cells:
+                  - 'Standard - King or Double Queen'
+                  - '250'
+                  - $169
+                  - ' 9/28/22'
+            full_width: true
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbook.passkey.com%2Fgo%2FMBLGTACC2022&data=04%7C01%7CAlison.Brown%40Hilton.com%7Cb681a6f78bdd4c93b81e08d9af611a0c%7C660292d2cfd54a3db7a7e8f7ee458a0a%7C0%7C0%7C637733653846331178%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=zHyavZsOnyJjdlwIhNG%2BdR6A15VkPpB31Az17ZnsbGk%3D&reserved=0'
+                text: 'Book Online with Hilton Columbus Downtown'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
     type: content
     enabled: true
   -
@@ -70,191 +114,103 @@ sections:
         content:
           -
             type: text
-            text: 'Monona Terrace is within 10 driving minutes of our partner hotels, with the Hilton Madison conveniently connected to the convention center by skywalk. There are a variety of transit options to meet your unique needs and timing. '
+            marks:
+              -
+                type: bold
+            text: 'The Greater Columbus Convention Center address is:'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            text: '400 – 500 North High Street Columbus, Ohio 43215'
       -
-        type: bullet_list
+        type: paragraph
         content:
           -
-            type: list_item
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'One accessible bus will run a circuit between the conference center and the hotels all weekend. Please allow those experiencing mobility issues to use this bus first.'
+                type: bold
+            text: 'From I-70 on the East'
           -
-            type: list_item
-            content:
+            type: hard_break
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Accessible taxi vouchers—we have them! Just let us know you need one (lgbt@studentlife.wisc.edu)! '
+                type: bold
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Hotel-owned shuttles'
-              -
-                type: bullet_list
-                content:
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Madison Concourse shuttle fits 12-25 people'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Sheraton Madison shuttle fits 14 people'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Holiday Inn Express & Suites shuttle fits 8 people'
+            type: text
+            text: 'Take I-70 West to East Mound Street. Take Exit 101B from I-70 W Continue on E Mound St. Take S 4th to Nationwide BLVD The Turn right onto N High St'
+      -
+        type: paragraph
+        content:
           -
-            type: list_item
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Local transit'
+                type: bold
+            text: 'From I-71 on the North'
+          -
+            type: hard_break
+            marks:
               -
-                type: bullet_list
-                content:
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Bus and bus rapid transit: cityofmadison.com/metro'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: Rideshare
-                      -
-                        type: bullet_list
-                        content:
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Badger Shared Ride Service / Badger Cab Co.'
-                                  -
-                                    type: hard_break
-                                  -
-                                    type: text
-                                    text: '608-256-5566 | badgercab.com'
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Lyft & Uber (see Lyft and Uber apps)'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: Taxis
-                      -
-                        type: bullet_list
-                        content:
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Union Cab (worker cooperative with accessible transit)'
-                                  -
-                                    type: hard_break
-                                  -
-                                    type: text
-                                    text: '608.242.2000 | unioncab.com'
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Madison Taxi'
-                                  -
-                                    type: hard_break
-                                  -
-                                    type: text
-                                    text: '608-255-8294 | madtaxi.com'
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Green Cab of Madison'
-                                  -
-                                    type: hard_break
-                                  -
-                                    type: text
-                                    text: '608-255-1234 | greencabmadison.com'
-                          -
-                            type: list_item
-                            content:
-                              -
-                                type: paragraph
-                                content:
-                                  -
-                                    type: text
-                                    text: 'Badger Direct / Badger Cab Co.'
-                                  -
-                                    type: hard_break
-                                  -
-                                    type: text
-                                    text: '608-256-0106 | badgercab.com'
+                type: bold
+          -
+            type: text
+            text: 'Take I-71 South Travel West on I-670 “109-A” Take Exit “4-B” to the Greater Columbus Convention CenterOrTake I-71 South to the Spring Street Exit Travel West on Spring Street to Fourth Street Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'From I-71 on the South'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            text: 'Take I-71 North to I-70 East Travel on I-70 East to the Fourth Street Exit Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'From I-70 on the West'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            text: 'Take I-70 East to the Fourth Street Exit Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'From the John Glenn Columbus International Airport'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            text: 'Take I-670 West Exit at “4-B” to the Greater Columbus Convention Center'
     type: content
     enabled: true
   -
@@ -266,302 +222,169 @@ sections:
         content:
           -
             type: text
-            text: 'Hotel accommodations'
+            text: Parking
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Several hotels in Madison, Wisconsin are offering special rates for MBLGTACC 2021 attendees. Please note, the quoted rates do not include taxes or fees. Please contact the hotels directly for more information about taxes and fees.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Hilton Madison Monona Terrace'
+            text: 'There are several parking facilities near the Greater Columbus Convention Center. '
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'Address: '
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://g.page/Hilton-Madison?share'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: '9 E Wilson St, Madison, WI 53703'
-      -
-        type: paragraph
-        content:
+                type: underline
+            text: 'Ohio Center Garage'
+          -
+            type: hard_break
           -
             type: text
-            text: 'The Hilton Madison Monona Terrace is conveniently linked by Skywalk to the Monona Terrace Convention Center.'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
-              -
-                cells:
-                  - Double
-                  - '50'
-                  - '$159-189*'
-                  - 9/13/2021
-              -
-                cells:
-                  - King
-                  - '75'
-                  - '$159-189*'
-                  - 9/13/2021
-            full_width: true
-      -
-        type: paragraph
-        content:
+            text: '400 N High Street'
+          -
+            type: hard_break
           -
             type: text
-            text: '*The first 50 rooms reserved in the block will be at the $159 rate. The remaining rooms will be at the $189 rate.'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://www.hilton.com/en/hi/groups/personalized/M/MSNMHHF-MIDWES-20211006/index.jhtml?WT.mc_id=POG'
-                text: 'Book Online with Hilton Madison Monona Terrace'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        content:
+            text: 'Columbus, OH 43215 '
           -
-            type: text
-            text: 'To book by phone, call 608-255-5100 and reference code “midwes.”'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Madison Concourse'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Address: '
+            type: hard_break
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://goo.gl/maps/mBcwrLw8mUQ7odv26'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: '1 W Dayton St, Madison, WI 53703'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
-              -
-                cells:
-                  - 'Premier Level'
-                  - '100'
-                  - $179
-                  - 9/10/2021
-            full_width: true
-      -
-        type: paragraph
+                type: italic
+            text: 'GPS directional address 500 N. 3rd Street '
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'This hotel is offering any room type on the premier level (double or king) depending on overall availability in the hotel. The hotel has a total of 185 double rooms available.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://reservations.travelclick.com/6388?groupID=3221861'
-                text: 'Book Online with Madison Concourse'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'To book by phone, call 800-356-8293 and reference code “MBLGTACC.”'
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
-              -
-                cells:
-                  - Double
-                  - '60'
-                  - $149
-                  - 9/10/2021
-              -
-                cells:
-                  - King
-                  - '90'
-                  - $149
-                  - 9/10/2021
-            full_width: true
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://www.marriott.com/event-reservations/reservation-link.mi?id=1602630773083&key=GRP&app=resvlink'
-                text: 'Book Online with Sheraton Madison'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Holiday Inn Express & Suites'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Address: '
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://goo.gl/maps/AcLRhmLBtwasKNZA9'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: '610 John Nolen Dr, Madison, WI 53713'
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
-              -
-                cells:
-                  - Double
-                  - '30'
-                  - $129
-                  - 9/10/2021
-              -
-                cells:
-                  - King
-                  - '10'
-                  - $129
-                  - 9/10/2021
-            full_width: true
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://www.ihg.com/holidayinnexpress/hotels/us/en/find-hotels/hotel/rooms?qDest=610%20John%20Nolen%20Drive,%20Madison,%20WI,%20US&qCiMy=92021&qCiD=8&qCoMy=92021&qCoD=10&qAdlt=1&qChld=0&qRms=1&qRtP=6CBARC&qIta=99801505&qGrpCd=T1J&qSlH=MSNRR&qAkamaiCC=US&qSrt=sBR&qBrs=re.ic.in.vn.cp.vx.hi.ex.rs.cv.sb.cw.ma.ul.ki.va.ii.sp.nd.ct.sx&qWch=0&qSmP=1&setPMCookies=true&qRad=30&qRdU=mi&srb_u=1&qSHBrC=EX&icdv=99801505'
-                text: 'Book Online with Holiday Inn Express & Suites'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
+                type: underline
+            text: 'South Garage'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '50 E Nationwide Boulevard'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, OH 43215'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'To book by phone, call 608-709-5050 and reference code “TJ1” or MBLGTACC 2021.'
+            marks:
+              -
+                type: underline
+            text: 'Goodale Garage'
+          -
+            type: hard_break
+            marks:
+              -
+                type: underline
+          -
+            type: text
+            text: '70 East Goodale Street'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, OH 43215'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: 'Vine Garage'
+          -
+            type: hard_break
+            marks:
+              -
+                type: underline
+          -
+            type: text
+            text: '37 Vine Street'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, OH 43215'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: 'North Surface Lot'
+          -
+            type: hard_break
+            marks:
+              -
+                type: underline
+          -
+            type: text
+            text: '50 E Goodale Street'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, OH 43215'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: 'East Surface Lot'
+          -
+            type: hard_break
+            marks:
+              -
+                type: underline
+          -
+            type: text
+            text: '80 East Nationwide Boulevard'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, OH 43215'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: 'Battelle Grand Loading Dock'
+          -
+            type: hard_break
+            marks:
+              -
+                type: underline
+          -
+            type: text
+            text: '500 N. 3rd St.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Columbus, Ohio 43215'
     type: content
     enabled: true
   -
@@ -579,7 +402,7 @@ sections:
         content:
           -
             type: text
-            text: 'For questions about hotel reservations or amenities, please contact your hotel. For questions about the conference, '
+            text: 'For questions about hotel reservations or amenities, please contact the hotel directly. For questions about the conference, '
           -
             type: text
             marks:
@@ -606,7 +429,7 @@ sections:
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1633529762
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1643991869
 template: default
 ---
