@@ -17,7 +17,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Do you have a question about MBLGTACC? Find the latest updates on our '
+            text: 'Do you have a question about MBLGTACC? Find the latest conference updates on our '
           -
             type: text
             marks:
@@ -51,5 +51,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643942280
+updated_at: 1643942322
 ---
