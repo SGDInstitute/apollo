@@ -1,4 +1,6 @@
 ---
+id: e67ad125-380a-4992-9e32-9af4bb9e3853
+blueprint: pages
 title: Contact
 sections:
   -
@@ -7,6 +9,28 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Do you have a question about MBLGTACC? Find the latest updates on our '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: /news
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: News
+          -
+            type: text
+            text: ' page or send us a message through the form below.'
       -
         type: set
         attrs:
@@ -18,7 +42,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1617665134
-id: e67ad125-380a-4992-9e32-9af4bb9e3853
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1643942227
 ---
