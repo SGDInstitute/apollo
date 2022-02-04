@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643941307
+updated_at: 1643941334
 sections:
   -
     header_image: headers/Scioto_Mile_aerial_from_north.jpg
@@ -12,6 +12,7 @@ sections:
     subtitle: 'Save the date for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC). Registration and workshop RFPs open in April.'
     has_tag: true
     tag: 'October 21-23, 2022 | Columbus'
+    link: 'entry::0542e88f-e68a-4003-a979-5ddd7100257a'
     text: 'Read the announcement'
     color: btn-green
     size: btn-xl
@@ -20,7 +21,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
   -
     date: '2022-10-21 19:00'
     hashtag: 'until #mblgtacc30'
