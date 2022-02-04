@@ -14,6 +14,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: 'Do you have a question about MBLGTACC? Find the latest updates on our '
           -
             type: text
@@ -27,9 +30,16 @@ sections:
                   title: null
               -
                 type: italic
+              -
+                type: lead
             text: News
           -
             type: text
+            marks:
+              -
+                type: italic
+              -
+                type: lead
             text: ' page or send us a message through the form below.'
       -
         type: set
@@ -43,5 +53,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643942227
+updated_at: 1643942265
 ---
