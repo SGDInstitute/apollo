@@ -412,18 +412,6 @@ sections:
               fields:
                 -
                   import: content
-                -
-                  handle: html
-                  field:
-                    display: HTML
-                    type: html
-                    icon: html
-                    listable: hidden
-                    instructions_position: above
-                    html: |-
-                      <h2>Download the BA brochure</h2>
-
-                      <p><iframe height="500" src="https://drive.google.com/file/d/1r4YSawVE1jBC7miz4JCkRPc_hgPvQ2jc/preview" width="100%"></iframe></p>
             users:
               display: Users
               fields:
@@ -552,6 +540,16 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+      -
+        handle: brand_standards
+        field:
+          html: '<p><iframe height="500" src="https://drive.google.com/file/d/0B7iS3j9A98A4ME1WY3oyalA0RkU/preview" width="100%"></iframe></p>'
+          display: 'Brand standards'
+          type: html
+          icon: html
+          instructions: 'Please consult the Institute''s brand standards for editorial questions.'
+          listable: hidden
+          instructions_position: above
   SEO:
     display: SEO
     fields:
