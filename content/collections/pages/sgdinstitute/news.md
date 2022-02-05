@@ -4,16 +4,16 @@ blueprint: pages
 title: 'News & Blog'
 sections:
   -
+    title: 'News & Blog'
+    type: header_small
+    enabled: true
+  -
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
     title: 'News & Blog'
     type: header
-    enabled: true
-  -
-    title: 'News & Blog'
-    type: header_small
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -114,7 +114,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087295
+updated_at: 1644087311
 image:
   - headers/homepage-hero1.jpg
 ---
