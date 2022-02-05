@@ -97,10 +97,12 @@ sections:
             text: ' A member of our team will return your message as soon as possible :)'
       -
         type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644086430
+updated_at: 1644086456
 image:
   - headers/homepage-hero1.jpg
 ---
