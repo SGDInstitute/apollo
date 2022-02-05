@@ -420,6 +420,10 @@ sections:
                     icon: html
                     listable: hidden
                     instructions_position: above
+                    html: |-
+                      <h2>Download the BA brochure</h2>
+
+                      <p><iframe height="500" src="https://drive.google.com/file/d/1r4YSawVE1jBC7miz4JCkRPc_hgPvQ2jc/preview" width="100%"></iframe></p>
             users:
               display: Users
               fields:
