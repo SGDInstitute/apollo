@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644088221
+updated_at: 1644088348
 sections:
   -
     header_image: headers/Scioto_Mile_aerial_from_north.jpg
@@ -94,10 +94,10 @@ sections:
   -
     articles:
       - 0542e88f-e68a-4003-a979-5ddd7100257a
+      - d6aaf3d6-fde3-4041-b5f0-67a13005275f
       - 91ec5273-11bf-4f64-bd07-9cccddca154a
       - 2ab7504d-31cf-48ff-8777-4e784eb12db2
       - 101f5a19-3e45-4668-8fa2-a9d49da967ef
-      - e35611d9-f5a1-4954-ac10-c7cb9f48c8f7
     bg_type: gradient
     num_colors: 2
     from_color: from-black
