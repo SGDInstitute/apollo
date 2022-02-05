@@ -23,7 +23,16 @@ sections:
         content:
           -
             type: text
-            text: 'Hi! Here''s the top news from the Institute and our latest blog posts and podcast episode.'
+            text: 'Featured news'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Here''s the top news from the Institute, plus our latest blog posts and podcast episode.'
     type: content
     enabled: true
   -
@@ -114,7 +123,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087047
+updated_at: 1644087089
 image:
   - headers/homepage-hero1.jpg
 ---
