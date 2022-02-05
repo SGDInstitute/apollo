@@ -22,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: 'For MBLGTACC 2022 we’re launching workshop tracks! And we want YOU to help us design them. Take our survey, covering content, categories, presenters, and more.  '
+            text: 'For MBLGTACC 2022, we’re launching workshop tracks! And we want YOU to help us design them. Take our survey, covering content, categories, presenters, and more.  '
       -
         type: set
         attrs:
@@ -36,25 +36,39 @@ sections:
                 color: btn-green
                 size: btn-lg
                 block: false
-                outline: false
+                outline: true
                 target_blank: true
             contain: true
       -
         type: paragraph
       -
         type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'FAQs (frequently asked questions)'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'What’s a workshop track? '
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'What’s a workshop track?'
-          -
-            type: text
-            text: ' Tracks are a series of workshops centered around a common theme or topic. Tracks help shape the workshop content and aid attendees in choosing which workshops to attend based on their interests, area of focus, or future plans. (Check out the full FAQ below for more details). '
+            text: 'Tracks are a series of workshops centered around a common theme or topic. Tracks help shape the workshop content and aid attendees in choosing which workshops to attend based on their interests, area of focus or future plans. Think of tracks like seasons of a TV show or podcast, there is a basic premise tying everything together but each episode covers something different or builds off of what happened in a previous episode.'
       -
         type: paragraph
         content:
@@ -131,32 +145,6 @@ sections:
                   -
                     type: text
                     text: 'Advisor track'
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'FAQs (frequently asked questions)'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'What’s a workshop track? '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Tracks are a series of workshops centered around a common theme or topic. Tracks help shape the workshop content and aid attendees in choosing which workshops to attend based on their interests, area of focus or future plans. Think of tracks like seasons of a TV show or podcast, there is a basic premise tying everything together but each episode covers something different or builds off of what happened in a previous episode.'
       -
         type: heading
         attrs:
@@ -222,5 +210,5 @@ sections:
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643941036
+updated_at: 1644081252
 ---
