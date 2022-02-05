@@ -27,6 +27,27 @@ sections:
     type: news_feature
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'All Institute news'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Below, find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
+    type: content
+    enabled: true
+  -
     limit: 90
     type: news
     enabled: true
@@ -36,8 +57,8 @@ sections:
     num_colors: 2
     bg_color: bg-gray-200
     exclude: true
-updated_by: 19a591a2-66c3-420a-9e1e-d76651f2bf19
-updated_at: 1643990531
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1644085578
 image:
   - headers/homepage-hero1.jpg
 ---
