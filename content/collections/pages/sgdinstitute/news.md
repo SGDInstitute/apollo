@@ -24,6 +24,33 @@ sections:
           -
             type: text
             text: 'Top news from the Institute'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: /programs/take-the-last-bite
+                text: Podcast
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                button: null
+                link: 'https://mblgtacc.org/news'
+                text: 'MBLGTACC updates ↗️'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -114,7 +141,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087311
+updated_at: 1644087865
 image:
   - headers/homepage-hero1.jpg
 ---
