@@ -62,6 +62,50 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Contact us'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Questions? '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/contact'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: lead
+            text: 'Send us a message!'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: ' Someone on our team will return your message as soon as possible :)'
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644081878
+updated_at: 1644086616
 ---
