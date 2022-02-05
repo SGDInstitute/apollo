@@ -57,8 +57,39 @@ sections:
     num_colors: 2
     bg_color: bg-gray-200
     exclude: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Contact
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Questions? '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/contact'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Send us a message!'
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644085699
+updated_at: 1644086347
 image:
   - headers/homepage-hero1.jpg
 ---
