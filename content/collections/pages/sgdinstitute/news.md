@@ -15,6 +15,18 @@ sections:
     type: header
     enabled: false
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Hi! Here''s the top news from the Institute and our latest blog posts and podcast episode.'
+    type: content
+    enabled: true
+  -
     articles:
       - 5155e37e-6e62-4b61-b9c5-5d843d612d14
       - 8a5860b3-353e-4cd7-9590-772ab57c483a
@@ -102,7 +114,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644086456
+updated_at: 1644087047
 image:
   - headers/homepage-hero1.jpg
 ---
