@@ -17,14 +17,6 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Featured news'
-      -
         type: paragraph
         content:
           -
@@ -123,7 +115,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087089
+updated_at: 1644087159
 image:
   - headers/homepage-hero1.jpg
 ---
