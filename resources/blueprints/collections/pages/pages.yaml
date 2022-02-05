@@ -412,6 +412,14 @@ sections:
               fields:
                 -
                   import: content
+                -
+                  handle: html
+                  field:
+                    display: HTML
+                    type: html
+                    icon: html
+                    listable: hidden
+                    instructions_position: above
             users:
               display: Users
               fields:
@@ -492,6 +500,7 @@ sections:
           listable: hidden
           display: Sections
           collapse: false
+          instructions_position: above
       -
         handle: template
         field:
@@ -505,7 +514,6 @@ sections:
         handle: slug
         field:
           type: slug
-          required: true
           localizable: true
           validate:
             - required
