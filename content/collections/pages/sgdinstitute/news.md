@@ -17,14 +17,13 @@ sections:
   -
     bard:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
-            text: 'Here''s the top news from the Institute, plus our latest blog posts and podcast episode.'
+            text: 'Top news from the Institute'
     type: content
     enabled: true
   -
@@ -115,7 +114,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087159
+updated_at: 1644087212
 image:
   - headers/homepage-hero1.jpg
 ---
