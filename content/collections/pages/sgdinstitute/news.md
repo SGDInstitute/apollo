@@ -75,7 +75,7 @@ sections:
               -
                 button: null
                 link: 'https://mblgtacc.org/news'
-                text: 'MBLGTACC news'
+                text: 'MBLGTACC news ↗️'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -141,7 +141,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087997
+updated_at: 1644088025
 image:
   - headers/homepage-hero1.jpg
 ---
