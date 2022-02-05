@@ -13,7 +13,7 @@ sections:
     num_colors: 2
     title: 'News & Blog'
     type: header
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -114,7 +114,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087212
+updated_at: 1644087253
 image:
   - headers/homepage-hero1.jpg
 ---
