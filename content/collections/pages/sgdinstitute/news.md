@@ -24,33 +24,6 @@ sections:
           -
             type: text
             text: 'Top news from the Institute'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: /programs/take-the-last-bite
-                text: Podcast
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-              -
-                button: null
-                link: 'https://mblgtacc.org/news'
-                text: 'MBLGTACC updates ↗️'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -84,6 +57,33 @@ sections:
               -
                 type: lead
             text: 'Below, find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                text: 'Podcast episodes'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                button: null
+                link: 'https://mblgtacc.org/news'
+                text: 'MBLGTACC news'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -141,7 +141,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644087865
+updated_at: 1644087997
 image:
   - headers/homepage-hero1.jpg
 ---
