@@ -74,7 +74,6 @@ sections:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
       - 02412e98-c0f6-4624-add0-5dbb57f95da7
-      - 36b53773-675f-4559-a25d-7f40e7cfc2bd
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-200
@@ -177,7 +176,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638378954
+updated_at: 1644608219
 image:
   - headers/header-hug.JPG
 ---
