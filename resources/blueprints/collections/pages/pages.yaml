@@ -543,7 +543,7 @@ sections:
       -
         handle: brand_standards
         field:
-          html: '<p><iframe height="500" src="https://drive.google.com/file/d/0B7iS3j9A98A4ME1WY3oyalA0RkU/preview" width="100%"></iframe></p>'
+          html: '<p><iframe height="500" src="https://drive.google.com/file/d/1eUZbfhN5TB7iPWTTetUnLgy3byALtPFL/preview" width="100%"></iframe></p>'
           display: 'Brand standards'
           type: html
           icon: html
