@@ -1,5 +1,6 @@
 ---
 id: db847b46-c043-41ef-b602-d963a8624cbf
+blueprint: pages
 title: 'Sponsorship Packages'
 sections:
   -
@@ -16,28 +17,28 @@ sections:
         content:
           -
             type: text
-            text: 'For 28 years, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others. In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally competitive drag performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
+            marks:
+              -
+                type: lead
+            text: 'In October 2022, the Midwest Institute for Sexuality and Gender Diversity alongside a coalition of students from Midwest universities will host the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) in Columbus, Ohio.'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'MBLGTACC 2021: From Protest and Beyond Pride'
+            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, over 2,000 queer and trans+ college students, faculty, staff, and community members come together to learn and grow through the knowledge and experiences of others. To date, MBLGTACC is America’s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run. This year’s theme is “Limitless: Queer Activism of the Future.”'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: ' is a commemoration to foundational protests in LGBTQ+ history: Cooper’s Do-nuts, Compton’s Cafeteria, and Stonewall. It is also rooted in Madison’s history of protests and activism both at UW-Madison and throughout the greater community. The connection to the lives of LGBTQ+ peoples extends further and embraces the vibrant experiences of Pride festivals across the nation while focusing forward. '
+            text: 'MBLGTACC is an invaluable opportunity to network with the Midwest’s future leaders, and to contribute resources to connect with and provide educational programming for queer and trans college students, advisors, and higher education colleagues in the Midwest and beyond.'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'From Protest and Beyond Pride'
-          -
-            type: text
-            text: ' invites attendees to honor the origins of the LGBTQ+ movement, the accompanying resiliency, embrace the present, while inspiring and energizing others toward an LGBTQ+ inclusive and affirming future; prompting the questions… what’s next? What will these innovative leaders contribute?'
+            text: 'Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
       -
         type: set
         attrs:
@@ -46,8 +47,17 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://apps.sgdinstitute.org/donations/create'
-                text: 'Become a Sponsor Today'
+                link: ''
+                text: 'Download Prospectus'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+              -
+                button: null
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Get in Touch'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -65,343 +75,7 @@ sections:
             type: text
             text: 'Sponsorship packages and benefits'
       -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: $500
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$1,000'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, 1/8 page'
-      -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$2,500'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, 1/8 page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '1 complimentary ticket'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$5,000'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, 1/4 page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '2 complimentary tickets'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo displayed on screen during plenary sessions'
-      -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$7,500'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, 1/4 page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '3 complimentary tickets'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo displayed on screen during plenary sessions'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Opportunity to include promotional material/item in registration bag'
-              -
-                type: heading
-                attrs:
-                  level: 3
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$10,000'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, 1/4 page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '3 complimentary tickets'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo displayed on screen during plenary sessions'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Opportunity to include promotional material/item in registration bag'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed on registration bag'
-      -
-        type: set
-        attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$25,000'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table, premium location'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, full page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '10 complimentary tickets'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo displayed on screen during plenary sessions'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Opportunity to include promotional material/item in registration bag'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed on registration bag'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Recognition from stage during keynote/plenary sessions'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: '$50,000'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Complimentary exhibit table, premium location'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Complimentary program ad, full page'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '20 complimentary tickets'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed in program and on signage'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo displayed on screen during plenary sessions'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Opportunity to include promotional material/item in registration bag'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Logo printed on registration bag'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Recognition from stage during keynote/plenary sessions'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'On stage speaking opportunity'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://apps.sgdinstitute.org/donations/create'
-                text: 'Become a Sponsor Today'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
+        type: paragraph
     type: content
     enabled: true
   -
@@ -417,28 +91,6 @@ sections:
               -
                 type: bold
             text: 'Other opportunities'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Additional sponsorship opportunities exist for underwriting specific components of the conference. Download the sponsorship prospectus for more information.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://sgdinstitute.org/assets/documents/Prospectus_MBLGTACC2021.pdf'
-                text: 'Download Prospectus'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
       -
         type: paragraph
       -
@@ -475,39 +127,9 @@ sections:
                 button: null
             contain: true
       -
-        type: paragraph
-      -
         type: heading
         attrs:
           level: 2
-        content:
-          -
-            type: text
-            text: 'Become a donor'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Want to support us without being a sponsor? Become a donor!\_Every little bit counts! Donate to MBLGTACC today and help support LGBTQA+ Midwest students. $5, $10, $25, it all makes a difference!\_"
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
-                text: 'Donate Now'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
       -
         type: heading
         attrs:
@@ -530,7 +152,7 @@ sections:
             buttons:
               -
                 button: null
-                link: 'mailto:development@mblgtacc.org'
+                link: 'mailto:development@sgdinstitute.org'
                 text: 'Email Us'
                 color: btn-green
                 size: btn-lg
@@ -542,5 +164,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1619615812
+updated_at: 1644963243
 ---
