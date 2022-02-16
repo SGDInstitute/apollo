@@ -94,7 +94,7 @@ sections:
                   - $500
               -
                 cells:
-                  - 'On-stage speaking opportunity'
+                  - 'On-stage speaking<br/>opportunity'
                   - X
                   - ''
                   - ''
@@ -104,7 +104,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo displayed on main stage,<br/> duration of conference'
+                  - 'Logo displayed on main<br/>stage, duration of conference'
                   - X
                   - ''
                   - ''
@@ -114,7 +114,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo displayed on main stage,<br/>one keynote'
+                  - 'Logo displayed on main<br/>stage, one keynote'
                   - X
                   - X
                   - ''
@@ -124,7 +124,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo on directional signage'
+                  - 'Logo on directional<br/>signage'
                   - X
                   - X
                   - X
@@ -164,7 +164,7 @@ sections:
                   - 1/4
               -
                 cells:
-                  - 'Recognition in print program'
+                  - 'Recognition in<br/>print program'
                   - X
                   - X
                   - X
@@ -376,5 +376,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645033578
+updated_at: 1645033922
 ---
