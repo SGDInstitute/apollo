@@ -45,6 +45,7 @@ sections:
             'Independent creator': null
             'Small established business': null
             'Large established business': null
+            'No sales, activity only': null
           inline: false
           cast_booleans: false
           display: 'Type of creator'
@@ -54,3 +55,24 @@ sections:
           instructions_position: above
           validate:
             - required
+      -
+        handle: description
+        field:
+          antlers: false
+          display: Description
+          type: textarea
+          icon: textarea
+          instructions: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
+          listable: hidden
+          instructions_position: above
+      -
+        handle: media
+        field:
+          input_type: text
+          antlers: false
+          display: Media
+          type: text
+          icon: text
+          instructions: '(OPTIONAL) Please share a link to photos or videos of your merchandise or activity'
+          listable: hidden
+          instructions_position: above
