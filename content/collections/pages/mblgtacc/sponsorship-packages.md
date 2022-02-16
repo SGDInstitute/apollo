@@ -75,6 +75,105 @@ sections:
             type: text
             text: 'Sponsorship packages and benefits'
       -
+        type: set
+        attrs:
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - Benefits
+                  - '$25,000'
+                  - '$15,000'
+                  - '$10,000'
+                  - '$5,000'
+                  - '$2,500'
+                  - '$1,000'
+                  - $500
+              -
+                cells:
+                  - 'On-stage speaking opportunity'
+                  - X
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+              -
+                cells:
+                  - 'Logo displayed on main stage,<br/> duration of conference'
+                  - X
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+              -
+                cells:
+                  - 'Logo displayed on main stage,<br/>one keynote'
+                  - X
+                  - X
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+              -
+                cells:
+                  - 'Logo on directional signage'
+                  - X
+                  - X
+                  - X
+                  - ''
+                  - ''
+                  - ''
+                  - ''
+              -
+                cells:
+                  - 'Registration tickets'
+                  - '15'
+                  - '10'
+                  - '8'
+                  - '4'
+                  - '2'
+                  - ''
+                  - ''
+              -
+                cells:
+                  - 'Exhibit table'
+                  - X
+                  - X
+                  - X
+                  - X
+                  - X
+                  - X
+                  - ''
+              -
+                cells:
+                  - 'Program book ad size'
+                  - Spread
+                  - 'Full page'
+                  - 1/2
+                  - 1/2
+                  - 1/2
+                  - 1/4
+                  - 1/4
+              -
+                cells:
+                  - 'Recognition in print program'
+                  - X
+                  - X
+                  - X
+                  - X
+                  - X
+                  - X
+                  - X
+            full_width: false
+      -
         type: paragraph
     type: content
     enabled: true
@@ -92,7 +191,120 @@ sections:
                 type: bold
             text: 'Other opportunities'
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sponsor a workshop track'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '$10,000 - 6 available'
+      -
         type: paragraph
+        content:
+          -
+            type: text
+            text: "Sponsor a series of breakout sessions under a common theme. Description of workshop track in print\_program and online will say “Presented by\_[sponsor name]” with full color logo."
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Advisor social sponsor'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '$5,000 - 1 available'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sponsor catering for the advisor social. A description of session in print program and online will say “Presented by [sponsor name]” with a full color logo.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Welcome reception sponsor'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '$10,000 - 2 available'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sponsor catering for the attendee welcome reception to kick off the conference. A description of session in print program and online will say “Presented by [sponsor name]” with a full color logo.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sponsor a keynote'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '$15,000 - 2 available'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sponsor this major conference programming. A description of session'
+          -
+            type: hard_break
+          -
+            type: text
+            text: "in print program and online will say\_“Presented by [sponsor name]” with a full\_color logo."
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sponsor entertainment'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '$15,000 - 2 available'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Sponsor this major conference programming. A description of sessionin print program and online will say “Presented by [sponsor name]” with a full color logo.'
       -
         type: heading
         attrs:
@@ -164,5 +376,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1644963243
+updated_at: 1645033578
 ---
