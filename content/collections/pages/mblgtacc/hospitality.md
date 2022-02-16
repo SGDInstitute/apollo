@@ -1,4 +1,7 @@
 ---
+id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
+published: false
+blueprint: pages
 title: Hospitality
 sections:
   -
@@ -103,22 +106,15 @@ sections:
     enabled: true
   -
     limit: 3
-    num_per_row: null
     pagination: false
     exclude: false
-    background: null
     bg_type: color
-    bg_image: null
     num_colors: 2
-    from_color: null
-    via_color: null
-    to_color: null
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1606780153
+updated_at: 1645051335
 template: default
-id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
 ---

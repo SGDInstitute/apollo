@@ -48,7 +48,7 @@ sections:
               -
                 button: null
                 link: 'https://sgdinstitute.org/assets/documents/mblgtacc-2022-sponsorship-prospectus.pdf'
-                text: 'Download Prospectus'
+                text: 'Download prospectus'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -57,13 +57,19 @@ sections:
               -
                 button: null
                 link: 'mailto:development@sgdinstitute.org'
-                text: 'Get in Touch'
+                text: 'Get in touch'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: false
             contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -93,7 +99,7 @@ sections:
               -
                 cells:
                   - 'On-stage speaking<br/>opportunity'
-                  - X
+                  - ✓
                   - ''
                   - ''
                   - ''
@@ -103,7 +109,7 @@ sections:
               -
                 cells:
                   - 'Logo displayed on main<br/>stage, duration of<br/>conference'
-                  - X
+                  - ✓
                   - ''
                   - ''
                   - ''
@@ -113,8 +119,8 @@ sections:
               -
                 cells:
                   - 'Logo displayed on main<br/>stage, one keynote'
-                  - X
-                  - X
+                  - ✓
+                  - ✓
                   - ''
                   - ''
                   - ''
@@ -123,9 +129,9 @@ sections:
               -
                 cells:
                   - 'Logo on directional<br/>signage'
-                  - X
-                  - X
-                  - X
+                  - ✓
+                  - ✓
+                  - ✓
                   - ''
                   - ''
                   - ''
@@ -143,33 +149,33 @@ sections:
               -
                 cells:
                   - 'Exhibit table'
-                  - X
-                  - X
-                  - X
-                  - X
-                  - X
-                  - X
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
                   - ''
               -
                 cells:
                   - 'Program book ad size'
                   - Spread
                   - 'Full page'
-                  - 1/2
-                  - 1/2
-                  - 1/2
-                  - 1/4
-                  - 1/4
+                  - ½
+                  - ½
+                  - ½
+                  - ¼
+                  - ¼
               -
                 cells:
                   - 'Recognition in<br/>print program'
-                  - X
-                  - X
-                  - X
-                  - X
-                  - X
-                  - X
-                  - X
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
+                  - ✓
             full_width: false
     type: content
     enabled: true
@@ -182,9 +188,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: 'Other opportunities'
       -
         type: heading
@@ -317,8 +320,10 @@ sections:
                 outline: false
                 target_blank: false
             contain: true
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -334,6 +339,7 @@ sections:
             type: buttons
             buttons:
               -
+                button: null
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
@@ -341,8 +347,8 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
               -
+                button: null
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: 'Program ads'
                 color: btn-green
@@ -350,12 +356,13 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
-        type: heading
-        attrs:
-          level: 2
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -379,16 +386,20 @@ sections:
               -
                 button: null
                 link: 'mailto:development@sgdinstitute.org'
-                text: 'Email Us'
+                text: 'Email us'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: false
             contain: true
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645041861
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1645048486
 ---

@@ -4,8 +4,8 @@ published: false
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636826494
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1645047209
 sections:
   -
     bg_type: image
@@ -17,82 +17,68 @@ sections:
   -
     bard:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
-            text: 'Most programming will be available both in-person and virtually—see program booklet workshop listing for details. All times listed in Central Daylight Time.'
+            text: 'Friday, October 21'
       -
         type: set
         attrs:
           values:
-            type: buttons
-            buttons:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
               -
-                button: null
-                link: 'https://apps.sgdinstitute.org/mblgtacc-2021/program'
-                text: 'Build your schedule'
-                color: btn-green
-                size: btn-base
-                block: false
-                outline: true
-                target_blank: true
+                cells:
+                  - Time
+                  - Activity
+                  - Location
               -
-                button: null
-                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
-                text: 'Download program PDF'
-                color: btn-green
-                size: btn-base
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
+                cells:
+                  - '2:00 -  5:00 p.m.'
+                  - Registration/Check-In
+                  - 'Union Station Ballroom A'
+              -
+                cells:
+                  - '5:00 -  10:00 p.m.'
+                  - 'Maker Market'
+                  - 'Union Station Ballroom A'
+              -
+                cells:
+                  - '6:00 - 7:00 p.m.'
+                  - 'Welcome Reception &<br/>Opening Remarks'
+                  - 'Union Station Ballroom B-C'
+              -
+                cells:
+                  - '7:00 - 8:00 p.m.'
+                  - 'Opening Keynote'
+                  - 'Union Station Ballroom B-C'
+              -
+                cells:
+                  - '8:00 - 10:00 p.m.'
+                  - 'Advisor Social'
+                  - TBD
+              -
+                cells:
+                  - '8:00 - 11:00 p.m.'
+                  - Entertainment
+                  - TBD
+            full_width: true
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'The program booklet is also available as a '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://drive.google.com/file/d/1SA_h33hk4Wl_Z_KxOm3zPuH1tXZpxOaP/view?usp=sharing'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'PDF in spreads format'
-          -
-            type: text
-            text: ', and you can get the full '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'page-flipping experience by viewing it on Issuu'
-          -
-            type: text
-            text: '. ('
           -
             type: text
             marks:
               -
                 type: italic
-            text: 'Last update 10/8/2021 1:00 pm CT'
-          -
-            type: text
-            text: ).
+              -
+                type: lead
+            text: 'All times listed in Eastern Daylight Time.'
       -
         type: heading
         attrs:
@@ -100,7 +86,7 @@ sections:
         content:
           -
             type: text
-            text: 'Friday, October 8, 2021'
+            text: 'Saturday, October 22'
       -
         type: set
         attrs:
@@ -112,46 +98,70 @@ sections:
               -
                 cells:
                   - Time
-                  - Event
+                  - Activity
                   - Location
               -
                 cells:
-                  - '2:00 p.m. - 9:00 p.m.'
-                  - Registration
-                  - 'Registration counters (level 4)'
+                  - '8:00 a.m. - 10:00 p.m.'
+                  - Check-In/Information
+                  - 'Union Station Ballroom A'
               -
                 cells:
-                  - '5:00 p.m. - 6:00 p.m.'
-                  - 'netWerq<br/>(Welcome and Networking Reception)'
-                  - 'Exhibit Hall A'
+                  - '8:30 - 9:45 a.m.'
+                  - 'Workshop 1'
+                  - Various
               -
                 cells:
-                  - '6:00 p.m. - 7:00 p.m.'
-                  - 'Featured session: Curly Velazquez<br/>(Virtual)'
-                  - 'Virtual - Live watch party in Exhibition Ball B'
+                  - '10:00 - 11:15 a.m.'
+                  - 'Workshop 2'
+                  - Various
               -
                 cells:
-                  - '7:00 p.m. - 7:30 p.m.'
-                  - 'Opening ceremony'
-                  - 'Exhibit AB'
+                  - '10:00 a.m. - 5:30 p.m.'
+                  - 'Vendor Fair'
+                  - 'Union Station Ballroom A'
               -
                 cells:
-                  - '7:30 p.m. - 8:30 p.m.'
-                  - 'Keynote session: Mia Mingus'
-                  - 'Exhibit AB'
+                  - '11:30 a.m. - 1:00 p.m.'
+                  - 'Lunch & Learn:<br/>State of the Region'
+                  - 'Union Station Ballroom B-C'
               -
                 cells:
-                  - '8:30 p.m. - 11:00 p.m.'
-                  - 'Entertainment: Games & crafts'
-                  - 'Exhibit Hall A'
+                  - '1:00 - 2:15 p.m.'
+                  - 'Identity Forums'
+                  - Various
               -
                 cells:
-                  - '8:30 p.m. - 10:00 p.m.'
-                  - 'Advisor social'
-                  - 'Hall of Ideas J'
+                  - '2:30 - 3:45 p.m.'
+                  - 'Workshop 3'
+                  - Various
+              -
+                cells:
+                  - '4:00 - 5:15 p.m.'
+                  - 'Workshop 4'
+                  - Various
+              -
+                cells:
+                  - '5:30 - 6:30 p.m.'
+                  - Keynote
+                  - 'Union Station Ballroom B-C'
+              -
+                cells:
+                  - '8:00 - 11:00 p.m.'
+                  - Entertainment
+                  - TBD
             full_width: true
       -
         type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+              -
+                type: lead
+            text: 'All times listed in Eastern Daylight Time.'
       -
         type: heading
         attrs:
@@ -159,7 +169,7 @@ sections:
         content:
           -
             type: text
-            text: 'Saturday, October 9, 2021'
+            text: 'Sunday, October 23'
       -
         type: set
         attrs:
@@ -170,149 +180,33 @@ sections:
             table:
               -
                 cells:
-                  - Time
-                  - Event
-                  - Location
+                  - '8:30 - 9:45 a.m.'
+                  - 'Workshop 5'
+                  - Various
               -
                 cells:
-                  - '8:00 a.m. - 7:00 p.m.'
-                  - Registration
-                  - 'Registration counters (level 4)'
+                  - '10:00 - 11:30 a.m.'
+                  - 'Identity Forums'
+                  - Various
               -
                 cells:
-                  - '8:30 a.m. - 9:45 a.m.'
-                  - 'Workshops & skill share session 1'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '10:00 a.m. - 11:15 a.m.'
-                  - 'Workshops & skill share session 2'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '10:00 a.m. - 7:00 p.m.'
-                  - 'Vendor, resource, & career fair'
-                  - 'Grand Terrace'
-              -
-                cells:
-                  - '11:15 a.m. - 1:00 p.m.'
-                  - 'Break for lunch'
-                  - '<i>on your own</i>'
-              -
-                cells:
-                  - '1:00 p.m. - 2:15 p.m.'
-                  - 'Identity forums'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '1:00 p.m. - 2:15 p.m.'
-                  - 'Advisor roundtable'
-                  - 'Hall of Ideas J'
-              -
-                cells:
-                  - '2:30 p.m. - 3:45 p.m.'
-                  - 'Workshops & skill share session 3'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '4:00 p.m. - 5:15 p.m.'
-                  - 'Workshops & skill share session 4'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '5:15 p.m. - 7:00 p.m.'
-                  - 'Break for dinner'
-                  - '<i>on your own</i>'
-              -
-                cells:
-                  - '7:00 p.m. - 8:00 p.m.'
-                  - 'Keynote session: M. Adams'
-                  - 'Exhibit AB'
-              -
-                cells:
-                  - '8:00 p.m. - 11:00 p.m.'
-                  - 'Entertainment: Dance party'
-                  - 'Exhibit Hall A'
+                  - '11:30 a.m. - 12:30 p.m.'
+                  - 'Closing Remarks'
+                  - 'Union Station Ballroom B-C'
             full_width: true
       -
         type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
         content:
           -
             type: text
-            text: 'Sunday, October 10, 2021'
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
+            marks:
               -
-                cells:
-                  - Time
-                  - Event
-                  - Location
+                type: italic
               -
-                cells:
-                  - '8:30 a.m. - 9:45 a.m.'
-                  - 'Workshop session 5'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '10:00 a.m. - 11:15 a.m.'
-                  - 'Identity forums'
-                  - 'Various - see program'
-              -
-                cells:
-                  - '11:30 a.m. - 12:00 p.m.'
-                  - 'Closing remarks'
-                  - 'Exhibit Hall B'
-            full_width: true
-      -
-        type: paragraph
+                type: lead
+            text: 'All times listed in Eastern Daylight Time.'
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Join MBLGTACC on Discord'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We have a full virtual community space set up for you. Join other participants on your computer or on the free mobile app to keep connected during and after the conference. Find conversation threads, resources, and Zoom links for every keynote and workshop session. And join identity spaces and hangout channels to chat about pets, plants, outfits of the day, gayming, crafting, and more.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'http://go.wisc.edu/mblgtaccdiscord'
-                text: 'Launch Discord'
-                color: btn-green
-                size: btn-xl
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: false
   -
     limit: 3
     pagination: false
