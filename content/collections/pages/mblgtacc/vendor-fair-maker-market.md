@@ -246,7 +246,7 @@ sections:
                     text: 'Hours of operation:'
                   -
                     type: text
-                    text: "\_Friday, 5:00 p.m. - 9:00 p.m."
+                    text: "\_Friday, 5:00 p.m. - 10:00 p.m."
           -
             type: list_item
             content:
@@ -370,9 +370,51 @@ sections:
         type: paragraph
     type: content
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '2-Day Pass'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Participate in the Friday Maker Market and the Saturday Vendor Fair.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Pay what you can: $200, $300, $450, $600'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Contact us for your 2-Day Pass'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1645044215
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1645045765
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
