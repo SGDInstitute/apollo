@@ -61,10 +61,9 @@ sections:
         handle: description
         field:
           antlers: false
-          display: Description
+          display: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
           type: textarea
           icon: textarea
-          instructions: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
           listable: hidden
           instructions_position: above
       -
