@@ -42,10 +42,10 @@ sections:
         handle: type_of_creator
         field:
           options:
-            'Independent creator': null
-            'Small established business': null
-            'Large established business': null
-            'No sales, activity only': null
+            Independent: 'Independent creator'
+            Small: 'Small established business'
+            Large: 'Large established business'
+            'No sales': 'No sales, activity only'
           inline: false
           cast_booleans: false
           display: 'Type of creator'
