@@ -20,7 +20,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Thank you for your interest in advertising at MBLGTACC 2021. '
+            text: 'Thank you for your interest in advertising at MBLGTACC 2022. '
           -
             type: text
             text: "Each year, MBLGTACC creates a beautiful program guide that attendees use throughout the weekend and often keep as souvenirs. Ad space in the program guide offers conference supporters the chance to share information about their organizations, academic programs, and offerings.\_"
@@ -46,27 +46,6 @@ sections:
           -
             type: text
             text: →
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'https://apps.sgdinstitute.org/donations/create/mblgtacc-2021'
-                text: 'Buy an ad'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-                button: null
-            contain: true
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -100,41 +79,34 @@ sections:
             type: text
             text: "\_as a press-ready PDF with crop marks and .125\" bleed space on all sides. All ads will be printed in color. For best results, be sure your ad is in the CMYK colorspace and exported at 300 dpi or higher."
       -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
             type: table
+            first_row_header: true
+            last_row_footer: false
             table:
               -
                 cells:
                   - Price
                   - Size
-                  - Specifications
-              -
-                cells:
-                  - $150
-                  - '⅛ page'
-                  - '3.375"W x 2.1875"H with .125" bleed on all sides'
+                  - Specs
               -
                 cells:
                   - $250
-                  - '¼ page'
-                  - '3.375"W x 4.625"H with .125" bleed on all sides'
+                  - 1/4
+                  - '3.375" W x 4.625" H'
               -
                 cells:
                   - $350
-                  - '½ page'
-                  - '7"W x 4.625"H with .125" bleed on all sides'
+                  - 1/2
+                  - '7" W x 4.625" H'
               -
                 cells:
                   - $500
-                  - 'Full page'
-                  - '7"W x 9.5"H with .125" bleed on all sides'
-            first_row_header: true
-            last_row_footer: false
-            full_width: false
+                  - Full
+                  - '7" W x 8.5" H'
+            full_width: true
       -
         type: set
         attrs:
@@ -143,38 +115,11 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://buy.stripe.com/bIYdRu11jgbOdeEaEJ'
-                text: 'Buy 1/8 Page Ad'
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Contact us to buy your ad'
                 color: btn-green
                 size: btn-lg
-                block: true
-                outline: false
-                target_blank: false
-              -
-                button: null
-                link: 'https://buy.stripe.com/9AQ4gU6lD4t68YoeV0'
-                text: 'Buy 1/4 Page Ad'
-                color: btn-green
-                size: btn-lg
-                block: true
-                outline: false
-                target_blank: false
-              -
-                button: null
-                link: 'https://buy.stripe.com/14k6p2fWdbVydeE6ov'
-                text: 'Buy 1/2 Page Ad'
-                color: btn-green
-                size: btn-lg
-                block: true
-                outline: false
-                target_blank: false
-              -
-                button: null
-                link: 'https://buy.stripe.com/28o5kY25n6Beb6w4go'
-                text: 'Buy Full Page Ad'
-                color: btn-green
-                size: btn-lg
-                block: true
+                block: false
                 outline: false
                 target_blank: false
             contain: true
@@ -205,8 +150,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:justin@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'contact us for custom pricing'
           -
             type: text
@@ -226,15 +172,13 @@ sections:
             type: text
             text: 'If you have any questions about any of the above information, please contact us.'
       -
-        type: paragraph
-      -
         type: set
         attrs:
           values:
             type: buttons
             buttons:
               -
-                link: 'mailto:development@mblgtacc.org&subject=Sponsoring%20MBLGTACC'
+                link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us for more information'
                 color: btn-green
                 size: btn-lg
@@ -249,5 +193,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1632259656
+updated_at: 1645043043
 ---

@@ -1,0 +1,6 @@
+id: b034b330-2216-4ed4-b4de-5df4430e9ddf
+enabled: true
+source: /sponsor-exhibit/exhibit
+destination: /sponsor-exhibit/vendor-fair-maker-market
+type: '301'
+match_type: exact
