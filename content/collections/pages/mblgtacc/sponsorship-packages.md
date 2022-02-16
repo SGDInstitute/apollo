@@ -171,24 +171,6 @@ sections:
                   - X
                   - X
             full_width: false
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'mailto:development@sgdinstitute.org'
-                text: 'Contact us to sponsor MBLGTACC'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -320,6 +302,24 @@ sections:
             type: text
             text: 'Sponsor this major conference programming. A description of sessionin print program and online will say “Presented by [sponsor name]” with a full color logo.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Contact us to sponsor MBLGTACC'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -390,5 +390,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645041757
+updated_at: 1645041861
 ---
