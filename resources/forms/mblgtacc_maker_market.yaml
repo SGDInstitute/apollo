@@ -1,4 +1,5 @@
-title: 'Request a table at the Maker Market'
+title: 'Apply to participate in the Maker Market'
+honeypot: last_name
 email:
   -
     to: development@sgdinstitute.org
