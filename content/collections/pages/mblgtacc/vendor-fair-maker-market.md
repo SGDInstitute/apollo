@@ -385,13 +385,68 @@ sections:
         content:
           -
             type: text
-            text: 'Participate in the Friday Maker Market and the Saturday Vendor Fair.'
+            text: 'Participate in the Maker Market and the Vendor Fair. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Pricing
       -
         type: paragraph
         content:
           -
             type: text
             text: 'Pay what you can: $200, $300, $450, $600'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Recommended contributions:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Small non-profits at $200'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Businesses selling goods at $450'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Corporations at $600'
+      -
+        type: paragraph
       -
         type: set
         attrs:
@@ -414,7 +469,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645045765
+updated_at: 1645045872
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
