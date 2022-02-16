@@ -71,7 +71,7 @@ sections:
         field:
           input_type: text
           antlers: false
-          display: Media
+          display: 'Please share a link to photos or videos of your merchandise or activity (Optional)'
           type: text
           icon: text
           instructions: '(OPTIONAL) Please share a link to photos or videos of your merchandise or activity'
