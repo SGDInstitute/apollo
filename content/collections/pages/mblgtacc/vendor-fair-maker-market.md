@@ -365,13 +365,14 @@ sections:
         attrs:
           values:
             type: form
+            formset: mblgtacc_maker_market
       -
         type: paragraph
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645044009
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1645044215
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
