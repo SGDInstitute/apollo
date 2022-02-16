@@ -320,8 +320,10 @@ sections:
                 outline: false
                 target_blank: false
             contain: true
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -337,6 +339,7 @@ sections:
             type: buttons
             buttons:
               -
+                button: null
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
@@ -344,8 +347,8 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
               -
+                button: null
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: 'Program ads'
                 color: btn-green
@@ -353,12 +356,13 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
-        type: heading
-        attrs:
-          level: 2
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -382,16 +386,20 @@ sections:
               -
                 button: null
                 link: 'mailto:development@sgdinstitute.org'
-                text: 'Email Us'
+                text: 'Email us'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: false
             contain: true
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645047663
+updated_at: 1645048486
 ---
