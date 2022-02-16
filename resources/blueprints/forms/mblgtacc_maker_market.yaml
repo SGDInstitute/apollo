@@ -1,0 +1,56 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: name
+        field:
+          input_type: text
+          antlers: false
+          display: Name
+          type: text
+          icon: text
+          width: 66
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+      -
+        handle: pronouns
+        field:
+          input_type: text
+          antlers: false
+          display: Pronouns
+          type: text
+          icon: text
+          width: 33
+          listable: hidden
+          instructions_position: above
+      -
+        handle: email
+        field:
+          input_type: text
+          antlers: false
+          display: Email
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+      -
+        handle: type_of_creator
+        field:
+          options:
+            'Independent creator': null
+            'Small established business': null
+            'Large established business': null
+          inline: false
+          cast_booleans: false
+          display: 'Type of creator'
+          type: radio
+          icon: radio
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
