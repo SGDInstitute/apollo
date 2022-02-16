@@ -1,5 +1,6 @@
 ---
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
+published: false
 blueprint: pages
 title: 'How to Register'
 sections:
@@ -276,5 +277,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1632230744
+updated_at: 1645051311
 ---
