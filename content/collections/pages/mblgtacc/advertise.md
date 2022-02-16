@@ -77,7 +77,7 @@ sections:
             text: 'Nick Pfost'
           -
             type: text
-            text: "\_as a press-ready PDF with crop marks and .125\" bleed space on all sides. All ads will be printed in color. For best results, be sure your ad is in the CMYK colorspace and exported at 300 dpi or higher."
+            text: "\_as a press-ready PDF. All ads will be printed in color. For best results, be sure your ad is in the CMYK colorspace, exported at 300 dpi or higher, and correctly sized."
       -
         type: set
         attrs:
@@ -157,6 +157,10 @@ sections:
           -
             type: text
             text: .
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -192,6 +196,6 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645043043
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1645049614
 ---
