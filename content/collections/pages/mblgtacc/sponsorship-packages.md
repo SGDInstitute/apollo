@@ -47,7 +47,7 @@ sections:
             buttons:
               -
                 button: null
-                link: ''
+                link: 'https://sgdinstitute.org/assets/documents/mblgtacc-2022-sponsorship-prospectus.pdf'
                 text: 'Download Prospectus'
                 color: btn-green
                 size: btn-lg
@@ -376,5 +376,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645033971
+updated_at: 1645041582
 ---
