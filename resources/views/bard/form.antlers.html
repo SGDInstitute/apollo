@@ -1,25 +1,32 @@
 <div class="mx-auto my-8 max-w-prose">
-    {{ form:create in="{formset|raw}" }}
+    {{ form:create in="{formset|raw}" class="space-y-4" }}
         {{ if success }}
             <div class="p-2 text-white bg-green-300">
                 {{ success }}
             </div>
         {{ /if }}
 
-        <div class="space-y-4">
+        <div class="flex flex-wrap -mx-2">
             <input type="text" name="last_name" class="hidden" />
             {{ fields }}
-                <div>
+                <div class="p-2 {{ field_width }}">
                     <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">{{ display }}</label>
-                    <div class="form-control">{{ field }}</div>
+                    {{ if instructions && instructions_position === 'above' }}
+                        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">{{ instructions }}</p>
+                    {{ /if }}
+                    <div class="mt-1">
+                        {{ field }}
+                    </div>
+
+                    {{ if instructions && instructions_position === 'below' }}
+                        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400">{{ instructions }}</p>
+                    {{ /if }}
                     {{ if error }}
-                        <p class="text-gray-500">{{ error }}</p>
+                        <p class="mt-2 text-sm text-red-500 dark:text-red-400">{{ error }}</p>
                     {{ /if }}
                 </div>
             {{ /fields }}
-            <button type="submit" class="btn btn-green btn-lg">Submit</button>
         </div>
-
-
+        <button type="submit" class="btn btn-green btn-lg">Submit</button>
     {{ /form:create }}
 </div>

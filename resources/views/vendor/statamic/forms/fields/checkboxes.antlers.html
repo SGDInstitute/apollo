@@ -1,0 +1,10 @@
+<div class="space-y-1">
+    {{ foreach:options as="value|label" }}
+        <div class="flex items-center">
+            <input id="{{ handle }}-{{ value }}" name="{{ handle }}" value="{{ value }}" type="checkbox" {{ old === value ?= " checked" }}{{ ! old && value === default ?= " checked" }}{{ if validate|contains:required }} required{{ /if }} class="w-4 h-4 text-green-600 border-gray-300 rounded dark:bg-gray-800 dark:border-gray-600 focus:ring-green-500">
+            <label for="{{ handle }}-{{ value }}" class="block ml-3 text-sm font-medium text-gray-700 dark:text-gray-200">
+                {{ label }}
+            </label>
+        </div>
+    {{ /foreach:options }}
+</div>

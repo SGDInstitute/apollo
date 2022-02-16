@@ -1,0 +1,8 @@
+<select name="{{ handle }}{{ multiple ?= "[]" }}"{{ multiple ?= " multiple" }}{{ if validate|contains:required }} required{{ /if }} class="block w-full border-gray-300 rounded-md shadow-sm focus:ring-green-500 focus:border-green-500 dark:text-gray-200 dark:bg-gray-800 dark:border-gray-600">
+    {{ unless multiple }}
+        <option value>{{ trans key="Please select..." }}</option>
+    {{ /unless }}
+    {{ foreach:options as="value|label" }}
+        <option value="{{ value }}"{{ if old|in_array:value or old === value }} selected{{ /if }}{{ if ! old && default === value }} selected{{ /if }}>{{ label }}</option>
+    {{ /foreach:options }}
+</select>

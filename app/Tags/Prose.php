@@ -18,14 +18,14 @@ class Prose extends Tags
             return $this->whichIsBetter($color);
         }
 
-        return 'prose';
+        return 'prose prose-green';
     }
 
     public function dark()
     {
         $backgroundColor = $this->context->raw('bg_color');
         if($backgroundColor === null || $backgroundColor === 'bg-gray-200') {
-            return 'dark:prose-light';
+            return 'dark:prose-invert';
         }
     }
 

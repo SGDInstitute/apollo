@@ -61,11 +61,12 @@ sections:
         handle: description
         field:
           antlers: false
-          display: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
+          display: 'What do you do?'
           type: textarea
           icon: textarea
           listable: hidden
           instructions_position: above
+          instructions: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
       -
         handle: media
         field:
@@ -76,4 +77,4 @@ sections:
           icon: text
           instructions: '(OPTIONAL) Please share a link to photos or videos of your merchandise or activity'
           listable: hidden
-          instructions_position: above
+          instructions_position: below

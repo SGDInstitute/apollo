@@ -8,19 +8,19 @@
         "prod": "mix --production"
     },
     "dependencies": {
+        "@tailwindcss/aspect-ratio": "^0.4.0",
+        "@tailwindcss/forms": "^0.4.0",
+        "@tailwindcss/typography": "^0.5.2",
         "@fullhuman/postcss-purgecss": "^2.1.2",
-        "@tailwindcss/aspect-ratio": "^0.2.0",
-        "@tailwindcss/forms": "^0.2.1",
-        "@tailwindcss/typography": "^0.3.1",
-        "autoprefixer": "^10.2.1",
         "cross-env": "^7.0",
-        "laravel-mix": "^6.0.0-beta.17",
-        "postcss": "^8.2.4",
+        "laravel-mix": "^6.0.0",
         "postcss-import": "^12.0.1",
         "postcss-nested": "^4.2.1",
         "postcss-preset-env": "^6.7.0",
         "resolve-url-loader": "^3.1.2",
-        "tailwindcss": "^2.0.2",
-        "vue-template-compiler": "^2.6.12"
+        "vue-template-compiler": "^2.6.12",
+        "autoprefixer": "^10.4.2",
+        "postcss": "^8.4.6",
+        "tailwindcss": "^3.0.23"
     }
 }
