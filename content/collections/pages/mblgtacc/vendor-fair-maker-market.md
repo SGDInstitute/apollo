@@ -309,145 +309,127 @@ sections:
             type: text
             text: Pricing
       -
-        type: set
+        type: heading
         attrs:
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 4
-                content:
-                  -
-                    type: text
-                    text: 'Friday Only'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'For queer and trans creators participating in the Friday maker market only:'
-              -
-                type: bullet_list
-                content:
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Independent creator: $50'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Small established business: $150'
-                          -
-                            type: hard_break
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: italic
-                            text: '(annual sales under $100k)'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Large established business: $350'
-                          -
-                            type: hard_break
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: italic
-                            text: '(annual sales of $100k+)'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Vendors not selling goods/providing an activity or demonstration only: $0'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 4
-                content:
-                  -
-                    type: text
-                    text: '2-Day Pass'
+          level: 4
+        content:
+          -
+            type: text
+            text: 'Friday Only'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'For queer and trans creators participating in the Friday maker market only:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Participate in the Maker Market and the Vendor Fair. '
+                    text: 'Independent creator: $50'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Small established business: $150'
+                  -
+                    type: hard_break
                   -
                     type: text
                     marks:
                       -
                         type: italic
-                    text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
+                    text: '(annual sales under $100k)'
+          -
+            type: list_item
+            content:
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Pay what you can: $200, $300, $450, $600'
+                    text: 'Large established business: $350'
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: '(annual sales of $100k+)'
+          -
+            type: list_item
+            content:
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Recommended contributions:'
+                    text: 'Vendors not selling goods/providing an activity or demonstration only: $0'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '2-Day Pass'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Participate in the Maker Market and the Vendor Fair. '
+          -
+            type: text
+            marks:
               -
-                type: bullet_list
+                type: italic
+            text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
+          -
+            type: text
+            text: 'Pay what you can: $200, $300, $450, $600Recommended contributions:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
                 content:
                   -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Small non-profits at $200'
+                    type: text
+                    text: 'Small non-profits at $200'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
                   -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Businesses selling goods at $450'
+                    type: text
+                    text: 'Businesses selling goods at $450'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
                   -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Corporations at $600'
+                    type: text
+                    text: 'Corporations at $600'
       -
         type: heading
         attrs:
@@ -504,7 +486,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645132301
+updated_at: 1645132372
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
