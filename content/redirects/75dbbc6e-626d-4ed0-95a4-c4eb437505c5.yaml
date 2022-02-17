@@ -1,0 +1,6 @@
+id: 75dbbc6e-626d-4ed0-95a4-c4eb437505c5
+enabled: true
+source: /speakers-events/speakers-entertainment
+destination: /speakers-events/speakers
+type: '301'
+match_type: exact
