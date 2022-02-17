@@ -370,6 +370,14 @@ sections:
                     type: text
                     text: 'Vendors not selling goods/providing an activity or demonstration only: $0'
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Apply to Participate'
+      -
         type: set
         attrs:
           values:
@@ -477,8 +485,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645049344
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1645131826
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
