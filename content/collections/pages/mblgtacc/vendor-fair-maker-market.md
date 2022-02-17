@@ -309,67 +309,6 @@ sections:
             type: text
             text: Pricing
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'For queer and trans creators participating in the Friday maker market only:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Independent creator: $50'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Small established business: $150'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: '(annual sales under $100k)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Large established business: $350'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: '(annual sales of $100k+)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Vendors not selling goods/providing an activity or demonstration only: $0'
-      -
         type: set
         attrs:
           values:
@@ -380,11 +319,11 @@ sections:
               -
                 type: heading
                 attrs:
-                  level: 2
+                  level: 4
                 content:
                   -
                     type: text
-                    text: 'Friday only'
+                    text: 'Friday Only'
               -
                 type: paragraph
                 content:
@@ -450,7 +389,7 @@ sections:
               -
                 type: heading
                 attrs:
-                  level: 2
+                  level: 4
                 content:
                   -
                     type: text
@@ -565,7 +504,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645132239
+updated_at: 1645132301
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
