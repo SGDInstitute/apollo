@@ -156,7 +156,21 @@ sections:
         content:
           -
             type: text
-            text: 'Your input now will help inform our understanding of the broad interests of MBLGTACC attendees. We will be calling for workshop proposals later in the spring. In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
+            text: 'Your input now will help inform our understanding of the broad interests of MBLGTACC attendees. We will be calling for workshop proposals later in the spring ('
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/news/announcing-the-30th-annual-mblgtacc'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'read the announcement'
+          -
+            type: text
+            text: '). In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
       -
         type: heading
         attrs:
@@ -164,7 +178,32 @@ sections:
         content:
           -
             type: text
-            text: 'Does my workshop idea have to align with one of the tracks? '
+            text: 'When will workshop submissions open?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/news/announcing-the-30th-annual-mblgtacc'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'We announced in November 2021'
+          -
+            type: text
+            text: ' that the workshop RFP will open in April 2022.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Will my workshop idea have to align with one of the tracks? '
       -
         type: paragraph
         content:
@@ -208,5 +247,5 @@ sections:
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645050370
+updated_at: 1645069856
 ---
