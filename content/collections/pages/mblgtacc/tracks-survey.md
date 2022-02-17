@@ -223,7 +223,21 @@ sections:
         content:
           -
             type: text
-            text: 'Please do! If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
+            text: 'Please do! '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/news/announcing-the-30th-annual-mblgtacc'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'We announced in November 2021'
+          -
+            type: text
+            text: ' that the workshop RFP will open in April 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
           -
             type: text
             marks:
@@ -247,5 +261,5 @@ sections:
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645069856
+updated_at: 1645070414
 ---
