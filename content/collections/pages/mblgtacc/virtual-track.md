@@ -16,5 +16,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645205031
+updated_at: 1645206052
+image:
+  - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
