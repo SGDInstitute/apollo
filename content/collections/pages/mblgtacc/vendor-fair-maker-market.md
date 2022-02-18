@@ -299,7 +299,21 @@ sections:
         content:
           -
             type: text
-            text: 'For more information about the Maker Market, check out the FAQs.'
+            text: 'For more information about the Maker Market, check out the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::277a370e-1f77-4660-b9e0-17e7873a7443'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'detailed description and FAQs'
+          -
+            type: text
+            text: .
       -
         type: heading
         attrs:
@@ -494,8 +508,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645145263
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1645195257
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
