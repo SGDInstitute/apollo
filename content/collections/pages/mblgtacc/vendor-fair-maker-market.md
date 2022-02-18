@@ -28,7 +28,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'MBLGTACC is a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
+            text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
       -
         type: paragraph
         content:
@@ -42,7 +42,7 @@ sections:
                 type: bold
               -
                 type: italic
-            text: 'What will your organization do with this amazing opportunity?'
+            text: 'What will your organization do?'
       -
         type: bullet_list
         content:
@@ -315,7 +315,7 @@ sections:
         content:
           -
             type: text
-            text: 'Friday Only'
+            text: 'Friday only'
       -
         type: paragraph
         content:
@@ -384,7 +384,7 @@ sections:
         content:
           -
             type: text
-            text: '2-Day Pass'
+            text: '2-day pass'
       -
         type: paragraph
         content:
@@ -446,7 +446,7 @@ sections:
         content:
           -
             type: text
-            text: 'Apply to Participate'
+            text: 'Apply to participate'
       -
         type: set
         attrs:
@@ -482,7 +482,7 @@ sections:
               -
                 button: null
                 link: 'mailto:development@sgdinstitute.org'
-                text: 'Contact Us'
+                text: 'Contact us'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -494,8 +494,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645132417
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1645143931
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
