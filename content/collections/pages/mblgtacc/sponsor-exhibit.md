@@ -5,11 +5,11 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645144901
+updated_at: 1645145008
 sections:
   -
     bg_type: image
-    bg_image: headers/20180216-JJM_0749-fav-hero-1250x400.jpg
+    bg_image: headers/open-mic-mblgtacc2020-hero-1250x400.jpg
     num_colors: 2
     title: 'Sponsor & Exhibit'
     type: header
