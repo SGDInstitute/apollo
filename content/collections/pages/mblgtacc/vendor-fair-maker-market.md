@@ -1,7 +1,7 @@
 ---
 id: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
 blueprint: pages
-title: 'Vendor Fair and Maker Market'
+title: 'Vendor Fair & Maker Market'
 sections:
   -
     bg_type: image
@@ -509,7 +509,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645195257
+updated_at: 1645217094
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
