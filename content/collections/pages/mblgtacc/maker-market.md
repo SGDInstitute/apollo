@@ -59,7 +59,13 @@ sections:
         content:
           -
             type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
+            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
           -
             type: text
             marks:
@@ -179,5 +185,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645196906
+updated_at: 1645196924
 ---
