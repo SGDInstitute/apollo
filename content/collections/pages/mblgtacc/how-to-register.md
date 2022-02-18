@@ -17,7 +17,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ticket options'
+            text: 'Ticket Options'
       -
         type: heading
         attrs:
@@ -25,13 +25,13 @@ sections:
         content:
           -
             type: text
-            text: 'In person'
+            text: 'In Person'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2021 in person are '
+            text: 'Tickets to attend MBLGTACC 2022 in person are '
           -
             type: text
             marks:
@@ -40,7 +40,7 @@ sections:
             text: '$85 each'
           -
             type: text
-            text: '. You''ll have access to all programming taking place at the Monona Terrace conference center '
+            text: '. You''ll have access to all programming taking place at the Greater Columbus Convention Center '
           -
             type: text
             marks:
@@ -57,7 +57,22 @@ sections:
         content:
           -
             type: text
-            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. CT October 1, 2021.'
+            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'When purchasing tickets to attend in person, you''ll have an option to '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'add a meal ticket for $10'
+          -
+            type: text
+            text: ' to attend the lunch and learn program on Saturday, October 22. This helps offset the cost of catering for this event.'
       -
         type: heading
         attrs:
@@ -65,28 +80,22 @@ sections:
         content:
           -
             type: text
-            text: 'Virtual only'
+            text: 'Virtual Track'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Virtual only tickets are available on a sliding scale from '
+            text: 'Virtual track tickets are available for '
           -
             type: text
             marks:
               -
                 type: bold
-            text: '$25 to $60 per person'
+            text: '$20 per person'
           -
             type: text
-            text: '. We recommend individuals purchasing virtual tickets pay $25-50 to attend and institutions sponsoring students to attend pay $35-60 per person. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Virtual tickets provide access to live-streamed keynote sessions, many workshop sessions, and other virtual engagement opportunities. More details about the virtual experience will be posted on the '
+            text: '. Virtual track tickets provide access to live-streamed keynote sessions and virtual-only workshops. More details about virtual track programming is available on the '
           -
             type: text
             marks:
@@ -100,7 +109,7 @@ sections:
             text: schedule
           -
             type: text
-            text: ' page. Virtual tickets are available until 11:59 p.m. CT October 8, 2021.'
+            text: ' page. Virtual tickets are available until 11:59 p.m. ET October 20, 2021.'
       -
         type: heading
         attrs:
@@ -108,13 +117,13 @@ sections:
         content:
           -
             type: text
-            text: 'On-site registration (in person)'
+            text: 'On-Site Registration (in person)'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2021 in person can be purchased on-site during the conference for '
+            text: 'Tickets to attend MBLGTACC 2022 in person can be purchased on-site during the conference for '
           -
             type: text
             marks:
@@ -131,7 +140,7 @@ sections:
         content:
           -
             type: text
-            text: 'How to register'
+            text: 'How to Register'
       -
         type: heading
         attrs:
@@ -139,7 +148,7 @@ sections:
         content:
           -
             type: text
-            text: 'Reserve tickets'
+            text: 'Reserve Tickets'
       -
         type: paragraph
         content:
@@ -157,7 +166,7 @@ sections:
         content:
           -
             type: text
-            text: 'Reservations are valid for 60 days (or until October 1, 2021). If your tickets are still unpaid after 60 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 60 days and have not been extended will be automatically deleted.'
+            text: 'Reservations are valid for 45 days (or until October 14). If your tickets are still unpaid after 45 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted.'
       -
         type: heading
         attrs:
@@ -165,7 +174,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay with a credit card'
+            text: 'Pay With a Credit Card'
       -
         type: paragraph
         content:
@@ -199,7 +208,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay by check'
+            text: 'Pay by Check'
       -
         type: paragraph
         content:
@@ -207,13 +216,7 @@ sections:
             type: text
             text: 'Once you reserve tickets, you''ll have the option to download an invoice and pay by check. Checks should be made payable to "Midwest Institute for Sexuality and Gender Diversity" and mailed to P.O. BOX 1053, East Lansing, MI 48826-1053. As soon as we receive your check, your order will be marked as paid. '
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: ' '
+        type: paragraph
       -
         type: set
         attrs:
@@ -222,8 +225,8 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
-                text: 'Reserve tickets now'
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                text: 'Reserve Tickets Now'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -276,6 +279,6 @@ sections:
     type: news
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645051311
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1645204957
 ---
