@@ -60,7 +60,21 @@ sections:
         content:
           -
             type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or artform. Those selling '
+            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://tax.ohio.gov'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Ohio Taxpayer Service Center'
+          -
+            type: text
+            text: .
       -
         type: heading
         attrs:
@@ -82,13 +96,27 @@ sections:
         content:
           -
             type: text
-            text: 'How do I sign up to table at the Maker Market?'
+            text: 'How do I apply to table at the Maker Market?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Complete this interest form sharing a bit about your work and plan for a table. A member of the Institute team will be in touch to confirm a table.'
+            text: 'Complete this interest form sharing a bit about your work and plan for a table. We''ll be in touch to confirm a table. Rates to reserve a table space are '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/sponsor-exhibit/vendor-fair-maker-market'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'published here'
+          -
+            type: text
+            text: .
       -
         type: set
         attrs:
@@ -137,5 +165,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645194098
+updated_at: 1645194469
 ---
