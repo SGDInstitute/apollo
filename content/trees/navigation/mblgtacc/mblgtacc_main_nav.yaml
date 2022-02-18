@@ -3,9 +3,6 @@ tree:
     id: 834e6875-7099-4148-9f2f-a2df7b8f3d2c
     entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
   -
-    id: d891c8de-dfe9-4152-a36f-7e2fa7e0092d
-    entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
-  -
     id: 615c6bfc-66eb-4729-96cc-a712a98c0c40
     entry: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
     title: Speakers
@@ -22,6 +19,9 @@ tree:
       -
         id: 23545c80-d3cf-4404-9464-ab12d214d7c4
         entry: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
+  -
+    id: d891c8de-dfe9-4152-a36f-7e2fa7e0092d
+    entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
   -
     id: 36d6ebec-dbf3-4afc-abba-0bb8b3ff5ea7
     entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
