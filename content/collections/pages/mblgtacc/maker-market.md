@@ -73,6 +73,20 @@ sections:
             text: 'Ohio Taxpayer Service Center'
           -
             type: text
+            text: '. More information about registering for a Vendor''s License or Seller''s Use Tax Account '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use/registration'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'is available from the Ohio Department of Taxation'
+          -
+            type: text
             text: .
       -
         type: heading
@@ -165,5 +179,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645195268
+updated_at: 1645196906
 ---
