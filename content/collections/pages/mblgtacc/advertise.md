@@ -5,7 +5,7 @@ title: Advertise
 sections:
   -
     bg_type: image
-    bg_image: headers/header_flags.jpg
+    bg_image: headers/blair-mblgtacc2018-peace-students-hero-1250x400.jpg
     num_colors: 2
     title: Advertise
     type: header
@@ -197,5 +197,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645049614
+updated_at: 1645145442
 ---
