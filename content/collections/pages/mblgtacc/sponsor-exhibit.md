@@ -1,10 +1,11 @@
 ---
 id: 6b6906fa-60ad-436d-ae31-1972a8651df0
+published: false
 blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645144880
+updated_at: 1645144901
 sections:
   -
     bg_type: image
