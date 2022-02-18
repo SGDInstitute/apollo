@@ -155,7 +155,7 @@ sections:
         content:
           -
             type: text
-            text: 'Who is gonna be at the Maker Market?'
+            text: 'Who will be at the Maker Market?'
       -
         type: paragraph
         content:
@@ -166,5 +166,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645195171
+updated_at: 1645195213
 ---
