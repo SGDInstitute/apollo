@@ -1,6 +1,5 @@
 ---
 id: 277a370e-1f77-4660-b9e0-17e7873a7443
-published: false
 blueprint: pages
 title: 'Maker Market'
 sections:
@@ -166,5 +165,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645195213
+updated_at: 1645195268
 ---
