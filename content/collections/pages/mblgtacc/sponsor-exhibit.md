@@ -5,7 +5,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645143246
+updated_at: 1645143353
 sections:
   -
     bg_type: image
@@ -59,7 +59,7 @@ sections:
         content:
           -
             type: text
-            text: 'For three decades, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others. In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally competitive drag performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
+            text: 'For three decades, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others. In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally recognized queer and trans artists and performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
       -
         type: paragraph
         content:
