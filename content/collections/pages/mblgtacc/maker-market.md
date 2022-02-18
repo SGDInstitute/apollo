@@ -101,6 +101,20 @@ sections:
         content:
           -
             type: text
+            text: 'What if I need assistance obtaining a seller''s permit?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Midwest Institute for Sexuality and Gender Diversity is registered as a marketplace facilitator with the Ohio Department of Taxation (#99138154). With this license, we can collect and pay sales tax on your behalf. To get started, fill out the application form below and select "No, I need assistance with obtaining a permit" when asked if you have a seller''s permit. A member of our team will be in touch to discuss how we can collaborate.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: 'When is the Maker Market?'
       -
         type: paragraph
@@ -185,7 +199,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645197009
+updated_at: 1645202046
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
