@@ -1,0 +1,6 @@
+id: 71db01b9-e1a6-4a5a-8e5c-351e898f2a68
+enabled: true
+source: /speakers
+destination: /speakers-events/speakers
+type: '302'
+match_type: exact
