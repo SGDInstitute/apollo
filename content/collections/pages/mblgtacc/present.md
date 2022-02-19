@@ -5,7 +5,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636826546
+updated_at: 1645279003
 sections:
   -
     bg_type: image
@@ -50,12 +50,13 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The workshop proposal form closed at 11:59 p.m. CT on July 15, 2021.'
+            text: 'The workshop proposal form will open on Monday, April 4, 2022 at 8:00 a.m. ET.'
       -
         type: paragraph
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -94,9 +95,10 @@ sections:
                 type: link
                 attrs:
                   href: 'https://mblgtacc.org/about/history'
-                  target: null
                   rel: null
-            text: '29 year history'
+                  target: null
+                  title: null
+            text: '30 year history'
           -
             type: text
             text: ', MBLGTACC has become a destination for acclaimed entertainers, activists, and thought leaders, including Kate Borenstein, J Mace III, Chely Wright, Janet Mock, Jujubee, and others. From the very beginning, conference organizers sought to create an oasis in what Justin Connor (MBLGCC ‘94) says was seen as “a queer desert.”'
@@ -119,8 +121,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:support@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'reach out to us'
           -
             type: text
