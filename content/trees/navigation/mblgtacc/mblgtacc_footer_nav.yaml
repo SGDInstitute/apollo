@@ -3,6 +3,10 @@ tree:
     id: 2b1125aa-07f6-4169-bbcc-a7c1d198d2c9
     title: Column
     url: '#'
+  -
+    id: 64df8eee-4f69-4217-aa82-3b7a1db99c10
+    title: Column
+    url: '#'
     children:
       -
         id: 39691216-91bb-4d88-a4b7-2c7b900c01d8
@@ -14,14 +18,6 @@ tree:
           -
             id: e982ee17-d1fe-498a-936e-e54a03b63beb
             entry: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
-      -
-        id: c6601128-b931-48b0-80ae-ad963662c8bc
-        entry: 51d65a1d-9771-430b-a6d6-bc9dd06d4925
-  -
-    id: 64df8eee-4f69-4217-aa82-3b7a1db99c10
-    title: Column
-    url: '#'
-    children:
       -
         id: 593aceae-db84-43a0-8c9b-53131a7e2616
         entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
