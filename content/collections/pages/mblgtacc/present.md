@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645283695
+updated_at: 1645285287
 sections:
   -
     bg_type: image
@@ -57,7 +57,7 @@ sections:
         content:
           -
             type: text
-            text: 'In 2022, we''ll be expanding MBLGTACC''s workshop tracks. With attendee feedback and input from our recent public survey, we will begin to identify and refine workshop tracks and announce those later this winter, in advance of the workshop RFP, and in that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
+            text: 'In 2022, we''ll be expanding MBLGTACC''s workshop tracks. With attendee feedback and input from our recent public survey, we will begin to identify and refine workshop tracks and announce those later this winter, in advance of the workshop RFP. In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
       -
         type: paragraph
         content:
