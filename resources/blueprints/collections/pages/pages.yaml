@@ -550,12 +550,12 @@ sections:
           listable: false
           display: SEO
   brand_standards:
-    display: 'Brand Standards'
+    display: 'Brand & Editorial Standards'
     fields:
       -
         handle: brand_standards
         field:
-          html: '<p><iframe height="600" src="https://drive.google.com/file/d/1eUZbfhN5TB7iPWTTetUnLgy3byALtPFL/preview" width="100%"></iframe></p>'
+          html: '<p><iframe height="700" src="https://drive.google.com/file/d/1eUZbfhN5TB7iPWTTetUnLgy3byALtPFL/preview" width="100%"></iframe></p>'
           display: 'Brand standards'
           type: html
           icon: html
