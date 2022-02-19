@@ -5,9 +5,6 @@ tree:
     url: '#'
     children:
       -
-        id: b4e2d7a5-26e2-4e71-826d-9f61121ab261
-        entry: d0985a76-0f81-46a5-89d5-26c0d4c68db9
-      -
         id: 39691216-91bb-4d88-a4b7-2c7b900c01d8
         entry: 59865639-7c77-43d1-a56c-333bc38efccc
         children:
