@@ -4,13 +4,13 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645283662
+updated_at: 1645283695
 sections:
   -
     bg_type: image
     bg_image: headers/header_group.jpg
     num_colors: 2
-    title: 'Present at MBLGTACC 2021'
+    title: 'Present at MBLGTACC 2022'
     type: header
     enabled: true
   -
@@ -105,7 +105,7 @@ sections:
             marks:
               -
                 type: bold
-            text: '***The workshop proposal form will open on Monday, April 4, 2022 at 8:00 a.m. ET.***'
+            text: '***The workshop proposal form will open in April 2022.***'
       -
         type: paragraph
       -
