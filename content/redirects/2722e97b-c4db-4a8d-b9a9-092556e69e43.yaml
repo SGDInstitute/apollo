@@ -1,0 +1,6 @@
+id: 2722e97b-c4db-4a8d-b9a9-092556e69e43
+enabled: true
+source: /general-info/hotels-and-parking
+destination: /general-info/hotels-transportation-parking
+type: '301'
+match_type: exact
