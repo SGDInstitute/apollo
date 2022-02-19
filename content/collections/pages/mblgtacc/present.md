@@ -1,11 +1,10 @@
 ---
 id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
-published: false
 blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645279023
+updated_at: 1645283606
 sections:
   -
     bg_type: image
@@ -37,6 +36,53 @@ sections:
             type: text
             text: 'We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'New for presenters: Workshop tracks'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2022, we''ll be expanding MBLGTACC''s workshop tracks. With attendee feedback and input from our recent public survey, we will begin to identify and refine workshop tracks and announce those later this winter, in advance of the workshop RFP, and in that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'What’s a workshop track?'
+          -
+            type: text
+            text: ' Tracks are a series of workshops centered around a common theme or topic. Tracks help shape the workshop content and aid attendees in choosing which workshops to attend based on their interests, area of focus or future plans. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/tracks-survey'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'Read our FAQ for more information.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Proposal submission and review'
+      -
         type: paragraph
         content:
           -
@@ -50,7 +96,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The workshop proposal form will open on Monday, April 4, 2022 at 8:00 a.m. ET.'
+            text: '***The workshop proposal form will open on Monday, April 4, 2022 at 8:00 a.m. ET.***'
       -
         type: paragraph
       -
