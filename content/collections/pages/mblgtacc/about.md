@@ -28,7 +28,21 @@ sections:
         content:
           -
             type: text
-            text: 'Registration and workshop RFPs will open in April 2022. '
+            text: 'Registration and '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'workshop RFPs'
+          -
+            type: text
+            text: ' will open in April 2022. '
       -
         type: paragraph
         content:
@@ -255,5 +269,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1643939335
+updated_at: 1645285409
 ---
