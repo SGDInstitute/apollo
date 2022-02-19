@@ -10,6 +10,14 @@ sections:
   -
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Conference updates'
+      -
         type: paragraph
         content:
           -
@@ -41,6 +49,16 @@ sections:
             text: ' page. '
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Contact
+      -
+        type: paragraph
         content:
           -
             type: text
@@ -62,5 +80,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645311194
+updated_at: 1645311253
 ---
