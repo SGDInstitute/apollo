@@ -25,7 +25,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Find the latest conference updates on our '
+            text: 'Find all the latest updates on our '
           -
             type: text
             marks:
@@ -46,7 +46,13 @@ sections:
             marks:
               -
                 type: lead
-            text: ' page. '
+            text: ' page.  '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''ll continue to announce important dates and highlight key information—for attendees, advisors, presenters, and sponsors—as the conference nears. Get these updates as soon as they''re publicly available by signing up to receive our emails, using the "Stay Connected" form near the bottom of this page.'
       -
         type: paragraph
       -
@@ -80,5 +86,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645311253
+updated_at: 1645311788
 ---
