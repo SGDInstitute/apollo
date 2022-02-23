@@ -5,7 +5,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645047209
+updated_at: 1645642592
 sections:
   -
     bg_type: image
@@ -39,7 +39,7 @@ sections:
                   - Location
               -
                 cells:
-                  - '2:00 -  5:00 p.m.'
+                  - '2:00 -  10:00 p.m.'
                   - Registration/Check-In
                   - 'Union Station Ballroom A'
               -
@@ -175,7 +175,7 @@ sections:
         attrs:
           values:
             type: table
-            first_row_header: true
+            first_row_header: false
             last_row_footer: false
             table:
               -
