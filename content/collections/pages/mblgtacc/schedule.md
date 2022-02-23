@@ -5,7 +5,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645642592
+updated_at: 1645642625
 sections:
   -
     bg_type: image
@@ -175,9 +175,14 @@ sections:
         attrs:
           values:
             type: table
-            first_row_header: false
+            first_row_header: true
             last_row_footer: false
             table:
+              -
+                cells:
+                  - Time
+                  - Activity
+                  - Location
               -
                 cells:
                   - '8:30 - 9:45 a.m.'
