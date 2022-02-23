@@ -333,11 +333,11 @@ sections:
     image: mblgtacc-2018-candid1-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-green-500
+    bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1645576693
+updated_at: 1645576723
 image:
   - headers/header-chicago_pier.jpg
 ---
