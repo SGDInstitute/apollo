@@ -65,6 +65,18 @@ sections:
         content:
           -
             type: text
+            text: 'We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsure if you qualify? Contact us and we’ll chat about your options.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             text: 'We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
           -
             type: text
@@ -199,7 +211,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645202046
+updated_at: 1645733001
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
