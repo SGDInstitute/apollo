@@ -89,7 +89,7 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbook.passkey.com%2Fgo%2FMBLGTACC2022&data=04%7C01%7CAlison.Brown%40Hilton.com%7Cb681a6f78bdd4c93b81e08d9af611a0c%7C660292d2cfd54a3db7a7e8f7ee458a0a%7C0%7C0%7C637733653846331178%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=zHyavZsOnyJjdlwIhNG%2BdR6A15VkPpB31Az17ZnsbGk%3D&reserved=0'
+                link: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
                 text: 'Book Online with Hilton Columbus Downtown'
                 color: btn-green
                 size: btn-lg
@@ -487,6 +487,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645217244
+updated_at: 1645809597
 template: default
 ---
