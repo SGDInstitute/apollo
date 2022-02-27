@@ -87,6 +87,38 @@ sections:
         content:
           -
             type: text
+            text: 'Season 2: Coming March 1'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'March 1, 2022'
+          -
+            type: text
+            text: '. We take a bite of queer-affirming therapy with Colton Schoenike (they/them,), M.S., MFT-IT, a training marriage and family therapist based in Menominee, Wisconsin. We talk about pro-tips for queer and trans folks seeking affirming therapists, the continued gatekeeping of trans folks seeking biomedical transitions, and what to do when you just don''t vibe with your therapist and how amazing it is when you do.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Season 1'
       -
         type: heading
@@ -104,35 +136,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 9: (Small bites) Ferrets, farming, and fat kit food'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? Enjoy these bite sized bits of pet shaming, futurity planning, and recipe recommendations. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e9'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e9'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -150,35 +155,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 8: (Small bites) Animation, grief, and the gay outdoors'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'In 2021, what has brought you the most joy or taught you the greatest lessons? In part one of this “small bites” series, we reflect on these questions and more as we discuss quirky, queer animated characters, collective grief and learning through loss, and building a relationship with wilderness in the gay outdoors. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e8'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e8'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -196,49 +174,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 7: Just(ice) joking with Hayden Kristal'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'Prepare your diaphragm for some deep belly laughs! Comedian and intersectional accessibility educator '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.instagram.com/haydenkristal/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Hayden Kristal'
-          -
-            type: text
-            text: ' talks about the craft of writing a good joke, the need for comedy to "punch up" to prevent harm against marginalized communities, and how social media such as Tik Tok and Instagram have become key tools for content creators to reach wider audiences during the pandemic. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e7'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e7'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -256,44 +193,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 6: Trans abolitionist vision [redux]'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'In this special episode, we''re revisiting a conversation we hosted with four T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. Throughout the 4th annual Transgender Justice Teach-in, '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The rise of a trans abolitionist vision,'
-          -
-            type: text
-            text: ' panelists highlighted efforts in the Midwest, emphasizing the connections between both queer/trans justice and abolitionist organizing. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e6'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e6'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -311,35 +212,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 5: Queers who make beers'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'Today’s tap list includes: a savory blend of breaking gendered norms in customer service positions and mobilizing service workers to demand affirming working environments. We’re joined by three folks in the craft brewing industry who share how they ventured into the world of beer and some of the rad projects they’re working on to improve labor conditions for marginalized people. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e5'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e5'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -357,35 +231,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 4: Rural v. urban queerness'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'Ahh yes, the three genders: cities, college towns, and the farm. We share our personal experiences in rural and urban spaces, the disparate resource allocations to rural areas, and how geography impacts building queer community. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e4'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e4'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -403,35 +250,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 3: Queer death and aging'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'Why did we receive messaging that "queer death" happens at age 30? Join us as we explore the sacredness of aging, delayed adolescence, and caring for our queer elders. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e3'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e3'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -449,35 +269,8 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 2: Midwest nice'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'It''s not just holding the door for strangers and long goodbyes. What is "Midwest nice" and why does it cause barriers to communication, boundaries, and relationships? '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e2'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: Listen
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e2'
-                  rel: null
-                  target: _blank
-                  title: null
             text: ' →'
       -
         type: heading
@@ -495,36 +288,9 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 1: Serving the last bite'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'What is "the last bite"? Why is it the stuff of Midwest social nightmares? And how is it actually a barrier to organizing? Join us as we serve it and flip this whole buffet table. Meet some of our humans and get a preview of what''s on our radar. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e1'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: 'Listen '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1e1'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: →
+            text: ' →'
       -
         type: heading
         attrs:
@@ -541,36 +307,9 @@ sections:
                   target: _blank
                   title: null
             text: 'Trailer - Introducing the Last Bite'
-      -
-        type: paragraph
-        content:
           -
             type: text
-            text: 'Introducing Take the Last Bite, a new podcast from the Midwest Institute for Sexuality and Gender Diversity. Learn more about our intentions for this podcast and listen to a sneak peak of episode one. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1-trailer'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-            text: 'Listen '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s1-trailer'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: →
+            text: ' →'
     type: content
     enabled: true
   -
@@ -728,7 +467,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645997425
+updated_at: 1645997788
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
