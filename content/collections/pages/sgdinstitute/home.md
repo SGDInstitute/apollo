@@ -25,9 +25,9 @@ sections:
     has_button: true
   -
     articles:
+      - e0f507f5-3222-40a9-82f9-3286528b406c
       - 036f7b21-571e-4ace-b801-cca29e1a95e9
       - 8a5860b3-353e-4cd7-9590-772ab57c483a
-      - ec1d765d-261f-48a0-90b5-8fef6701ff9b
       - be93d72c-8a17-4d01-8cf9-c50a040d98e5
       - 7d5ce2af-decc-42f2-9f0f-fb06727dd546
     bg_type: gradient
@@ -56,7 +56,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644085840
+updated_at: 1645979949
 description: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
 image:
   - headers/homepage-hero1.jpg
