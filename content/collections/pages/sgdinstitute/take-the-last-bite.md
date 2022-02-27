@@ -665,11 +665,70 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Attributions
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Host:'
+          -
+            type: text
+            text: ' R.B. Brooks'
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Editor:'
+          -
+            type: text
+            text: ' Justin Drwencke'
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Cover art: '
+          -
+            type: text
+            text: 'Adrienne McCormick'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'With thanks to Andy Newhouse and Nick Pfost'
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645487583
+updated_at: 1645997425
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
