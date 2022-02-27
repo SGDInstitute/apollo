@@ -135,7 +135,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 9: (Small bites) Ferrets, farming, and fat kit food'
+            text: 'Ep. 9: (Small bites) Ferrets, Farming, and Fat Kid Food'
           -
             type: text
             text: ' →'
@@ -154,7 +154,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 8: (Small bites) Animation, grief, and the gay outdoors'
+            text: 'Ep. 8: (Small Bites) Animation, Grief, and the Gay Outdoors'
           -
             type: text
             text: ' →'
@@ -173,7 +173,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 7: Just(ice) joking with Hayden Kristal'
+            text: 'Ep. 7: Just(ice) Joking with Hayden Kristal'
           -
             type: text
             text: ' →'
@@ -192,7 +192,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 6: Trans abolitionist vision [redux]'
+            text: 'Ep. 6: Trans Abolitionist Vision [Redux]'
           -
             type: text
             text: ' →'
@@ -211,7 +211,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 5: Queers who make beers'
+            text: 'Ep. 5: Queers Who Make Beers'
           -
             type: text
             text: ' →'
@@ -230,7 +230,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 4: Rural v. urban queerness'
+            text: 'Ep. 4: Rural v. Urban Queerness'
           -
             type: text
             text: ' →'
@@ -249,7 +249,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 3: Queer death and aging'
+            text: 'Ep. 3: Queer Death and Aging'
           -
             type: text
             text: ' →'
@@ -268,7 +268,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 2: Midwest nice'
+            text: 'Ep. 2: Midwest Nice'
           -
             type: text
             text: ' →'
@@ -287,7 +287,7 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 1: Serving the last bite'
+            text: 'Ep. 1: Serving the Last Bite'
           -
             type: text
             text: ' →'
@@ -467,7 +467,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645997788
+updated_at: 1646000424
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
