@@ -1,10 +1,10 @@
 ---
 id: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
 blueprint: pages
-title: 'Our team'
+title: 'Our Team'
 sections:
   -
-    title: 'Our team'
+    title: 'Our Team'
     type: header_small
     enabled: true
   -
@@ -175,8 +175,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1644608219
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1646022339
 image:
   - headers/header-hug.JPG
 ---
