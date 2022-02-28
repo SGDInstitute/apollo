@@ -7,7 +7,7 @@ sections:
   -
     header_image: headers/homepage-hero1.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'Season 1 of the "Take the Last Bite" podcast is streaming now on Apple, Google, and Spotify!'
+    subtitle: 'We re-envision an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity.'
     has_tag: false
     tag: asdfasdfasdfasdf
     text: Listen
@@ -22,7 +22,7 @@ sections:
     num_colors: 2
     link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
     outline: true
-    has_button: true
+    has_button: false
   -
     articles:
       - e0f507f5-3222-40a9-82f9-3286528b406c
@@ -56,7 +56,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645979949
+updated_at: 1646009225
 description: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
 image:
   - headers/homepage-hero1.jpg
