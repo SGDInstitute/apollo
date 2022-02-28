@@ -1,0 +1,6 @@
+id: 529fc705-e1ae-4324-a7ab-7690ecba0360
+enabled: true
+source: /programs/take-the-last-bite
+destination: /take-the-last-bite
+type: '301'
+match_type: regex
