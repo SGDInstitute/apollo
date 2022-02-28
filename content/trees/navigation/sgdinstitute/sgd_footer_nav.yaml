@@ -42,10 +42,6 @@ tree:
     url: '#'
     children:
       -
-        id: 41d83562-da41-489f-9a7b-b36668f7066b
-        title: People
-        url: 'https://sgdinstitute.org/about/team'
-      -
         id: 0287e7f5-f8a2-475e-9182-8ded766ba373
         entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
       -
