@@ -3,26 +3,6 @@ tree:
     id: 74d9b6b8-8cb5-4dbd-8996-19e0f79f324d
     entry: home
   -
-    id: b562d481-6286-487e-b4c7-039c039f64fa
-    entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-    children:
-      -
-        id: 75874f3f-4626-4e04-a32f-a167a39ffe1a
-        title: 'About us'
-        url: /about
-      -
-        id: fcb985ff-94e8-4470-ba54-26b8d3a82e46
-        entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
-      -
-        id: ecbf6a76-f309-413f-885c-c4e1d83fe1d2
-        entry: ad088f33-ab22-428b-a582-cd5a53022895
-      -
-        id: 674b2b68-ba12-4ab3-98d4-b9db724deb94
-        entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
-      -
-        id: 1028254c-3513-43a9-acbe-d87c31e7e511
-        entry: 7e1b14df-9c95-4e3d-be84-3f8e83feb244
-  -
     id: c230d320-ef41-4062-91a8-d636399b8215
     entry: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
     children:
