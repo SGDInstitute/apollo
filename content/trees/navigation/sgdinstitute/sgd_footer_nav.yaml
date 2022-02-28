@@ -44,6 +44,10 @@ tree:
     url: '#'
     children:
       -
+        id: 02f069da-6171-4784-a592-4c986e76f576
+        entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+        title: People
+      -
         id: 11022cb8-a71f-497e-9b67-582233579ed5
         entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
       -
