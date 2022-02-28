@@ -7,9 +7,6 @@ tree:
     entry: 12bd6a1f-1e76-4eec-ab59-16ede7709c1c
     children:
       -
-        id: 4b7cc53d-53cb-496c-83ad-4ed813981688
-        entry: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
-      -
         id: 491e5f36-4a54-4e6a-b3c8-7d943f681e03
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
         children:
