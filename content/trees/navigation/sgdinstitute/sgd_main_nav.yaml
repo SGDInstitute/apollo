@@ -31,9 +31,6 @@ tree:
         title: 'All programs'
         url: /programs
       -
-        id: 832e263d-adbf-4893-837f-ab070a87f0ac
-        entry: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
-      -
         id: d471b29e-c359-4430-b27a-a24ecf50c0eb
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
         children:
@@ -50,6 +47,10 @@ tree:
   -
     id: 2b204e15-280e-4bc5-8f79-1c0d5c6286c5
     entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
+  -
+    id: 832e263d-adbf-4893-837f-ab070a87f0ac
+    entry: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
+    title: Podcast
   -
     id: a141e298-1943-41c3-8c22-8dcf9adbad06
     entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
