@@ -8,15 +8,15 @@ sections:
     title: 'Take the Last Bite'
     has_tag: true
     tag: Podcast
-    has_button: false
+    has_button: true
     block: false
     outline: false
     target_blank: true
     type: header_large
     enabled: true
     subtitle: 'Season 2 coming March 1'
-    link: 'https://open.spotify.com/episode/4u7A19rn2Z6R0YQFmBlzVc'
-    text: 'Listen to episode 9 on Spotify'
+    link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
+    text: 'Season 2 streaming now on Spotify'
     color: btn-green
     size: btn-lg
   -
@@ -95,19 +95,18 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
             marks:
               -
-                type: bold
-            text: 'March 1, 2022'
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s2e1'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
           -
             type: text
-            text: '. We take a bite of queer-affirming therapy with Colton Schoenike (they/them,), M.S., MFT-IT, a training marriage and family therapist based in Menominee, Wisconsin. We talk about pro-tips for queer and trans folks seeking affirming therapists, the continued gatekeeping of trans folks seeking biomedical transitions, and what to do when you just don''t vibe with your therapist and how amazing it is when you do.'
+            text: ' →'
     type: content
     enabled: true
   -
@@ -467,7 +466,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646000442
+updated_at: 1646154080
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
