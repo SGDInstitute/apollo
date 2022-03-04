@@ -1,0 +1,6 @@
+id: 4d961370-0ce3-4ee7-9a82-88ace4b0ee7a
+enabled: true
+source: /programs/queer-policy/queer-policy-1
+destination: /programs/queer-policy/2021-trans-policy-issues
+type: '301'
+match_type: exact

@@ -296,13 +296,13 @@ sections:
             buttons:
               -
                 button: null
-                link: 'https://forms.gle/MGBaSf8sQH831TVU8'
-                text: 'Submit an accessibility request'
+                link: null
+                text: 'Form closed'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
-                target_blank: true
+                target_blank: false
             contain: true
       -
         type: paragraph
@@ -382,7 +382,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646410916
+updated_at: 1646411255
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
