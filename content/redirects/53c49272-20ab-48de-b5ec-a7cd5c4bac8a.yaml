@@ -1,0 +1,6 @@
+id: 53c49272-20ab-48de-b5ec-a7cd5c4bac8a
+enabled: true
+source: /programs/transgender-justice/next-genderation
+destination: /programs/transgender-justice/2021-next-genderation
+type: '301'
+match_type: exact
