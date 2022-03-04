@@ -5,10 +5,10 @@ title: 'Transgender Justice Teach-in'
 sections:
   -
     header_image: headers/tj-f21-redux_site-banner.jpg
-    title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth'
+    title: 'Transgender Justice Teach-in'
     subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
-    tag: 'Transgender Justice Teach-in 2021'
+    tag: Program
     text: 'Registration closed'
     color: btn-green
     size: btn-lg
@@ -17,7 +17,97 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
+  -
+    bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Watch past teach-ins'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'A recording will be made available to the public starting in spring 2022.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc'
+                text: 'Panelist bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'The Rise of a Trans Abolitionist Vision (2020 Transgender Justice Teach-in)'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://youtu.be/E3Ey97tf0SA'
+            caption: 'The Rise of a Trans Abolitionist Vision (2020 Transgender Justice Teach-in)'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
+                text: 'Panelist bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
   -
     bard:
       -
@@ -163,30 +253,6 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.d.umn.edu/sgei/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Sexuality & Gender Equity Initiatives'
-          -
-            type: text
-            text: ' bring you the 5th annual Transgender Justice Teach-in.'
-    type: content
     enabled: false
   -
     bard:
@@ -203,6 +269,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: image
             image: tj-f21-headshots-1090x681-102321-250pm.jpg
@@ -294,7 +361,7 @@ sections:
             type: text
             text: 'From the illustrious southside of Chicago and grandchild of the incomparable Gracie Lee Fowler, Romeo Jackson (they/them) is a first generation Black college graduate, queer, non-binary femme scholar. Romeo is also a descendent of the estimated 11 million Black Africans who were kidnapped and held in captivity which resulted in their enslavement.  They are a feminist dedicated to intersectional justice and cross movement building. Currently, Romeo is the political education coordinator for BYP100. Their research, writing, and practice explores  race/ism, anti-Blackness, and settler colonialism within a higher education context with an emphasis on the experiences of queer and trans students of color. Romeo is committed to uplifting and empowering queer and trans people of color through a Black queer feminist lens. Grounded and guided by the ancestral power that transcends the grave Romeo thanks Gracie Lee Fowler and Audre Lorde for keeping them committed to their whole-self and making sure they are not tokenized for their identities in a world committed to stealing their knowledge and essence for the advancement of white supremacy.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -417,6 +484,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -433,7 +501,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -506,7 +574,7 @@ sections:
     enabled: true
   -
     left_column: content
-    right_column: video
+    right_column: content
     center_columns: false
     bard:
       -
@@ -546,8 +614,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379055
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1646407030
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
