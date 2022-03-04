@@ -5,10 +5,9 @@ title: 'Queer Policy Series'
 sections:
   -
     header_image: headers/transpolicyevent-hero-jul2021-01.jpg
-    title: 'Trans policy issues: Why are we talking about sports?'
+    title: 'Queer Policy Series'
     has_tag: true
     has_button: true
-    link: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
     text: 'Watch on YouTube'
     color: btn-green
     size: btn-lg
@@ -17,8 +16,20 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    tag: 'Queer Policy Series'
-    subtitle: 'A conversation with Katie Barnes, Chris Mosier, and Naomi Goldberg'
+    tag: Program
+  -
+    bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+    type: content
+    enabled: true
   -
     bard:
       -
@@ -28,31 +39,55 @@ sections:
         content:
           -
             type: text
-            text: Watch
+            text: 'Watch our last queer policy event'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Trans Policy Issues: Why Are We Talking About Sports (2021)'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The stream will go live on July 20 at 4pm EDT / 3pm CDT. Return here to watch or '
+            text: 'A discussion with Katie Barnes, feature writer at '
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'set a reminder on YouTube.'
+                type: italic
+            text: ESPN
+          -
+            type: text
+            text: '; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project. Co-sponsored by the Gerald R. Ford School of Public Policy at the University of Michigan.'
       -
         type: set
         attrs:
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
-            caption: 'Trans policy issues: Why are we talking about sports?'
+            caption: 'Trans Policy Issues: Why Are We Talking About Sports?'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                button: null
+                link: 'entry::3b2719eb-9fce-437a-85e2-597c086365e9'
+                text: 'Panelist bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -107,6 +142,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: image
             image: barnes-goldberg-mosier-featured-1090x681.jpg
@@ -271,7 +307,7 @@ sections:
             type: text
             text: ', and more.  Chris''s website transathlete.com is the go-to source for information about transgender athletes in sport. Chris has written and advocated for change in policies from the high school level to national governing bodies and professional leagues. He has become one of the leading grassroots organizers against the current wave of anti-trans legislation across the United States, and when not fighting the good fight, he mentors transgender and non-binary athletes around the world in hopes that he can live by his motto of "be who you needed when you were younger."'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -291,6 +327,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -307,7 +344,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -381,8 +418,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379100
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1646411731
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
