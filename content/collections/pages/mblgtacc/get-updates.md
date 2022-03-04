@@ -1,7 +1,6 @@
 ---
 id: 926fc2a4-74c3-4a51-9f25-dba4581fccb3
 origin: 26ea90f0-0b0a-4e8a-8b33-dd4c90c5cb74
-blueprint: pages
 sections:
   -
     title: 'Sign-up to receive MBLGTACC updates'
@@ -27,5 +26,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1636861043
+updated_at: 1646412225
 ---
