@@ -366,7 +366,7 @@ sections:
         content:
           -
             type: text
-            text: 'Contact Justin Drwencke (justin@sgdinstitute.org) or fspp-events@umich.edu.'
+            text: 'Contact Justin Drwencke (justin@sgdinstitute.org).'
     type: content
     enabled: true
   -
@@ -425,7 +425,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646411814
+updated_at: 1646411834
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
