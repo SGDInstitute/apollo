@@ -28,6 +28,12 @@ sections:
               -
                 type: lead
             text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Information about a summer 2022 Queer Policy Series event will be available later this spring.'
     type: content
     enabled: true
   -
@@ -419,7 +425,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646411772
+updated_at: 1646411814
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
