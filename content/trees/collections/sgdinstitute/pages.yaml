@@ -30,8 +30,9 @@ tree:
         entry: 4cd5cb6b-658c-4d69-b525-7325fb90766f
       -
         entry: 857e03a1-fd97-468a-afd6-86fc7331ff87
-      -
-        entry: 3b2719eb-9fce-437a-85e2-597c086365e9
+        children:
+          -
+            entry: 3b2719eb-9fce-437a-85e2-597c086365e9
   -
     entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
   -
