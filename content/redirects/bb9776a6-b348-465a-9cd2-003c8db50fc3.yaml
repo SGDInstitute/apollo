@@ -1,0 +1,6 @@
+id: bb9776a6-b348-465a-9cd2-003c8db50fc3
+enabled: true
+source: /programs/transgender-justice/transgender-justice-1
+destination: /programs/transgender-justice/next-genderation
+type: '301'
+match_type: exact
