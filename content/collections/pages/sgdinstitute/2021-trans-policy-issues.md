@@ -1,11 +1,11 @@
 ---
 id: 3b2719eb-9fce-437a-85e2-597c086365e9
 blueprint: pages
-title: 'Queer Policy Series (Duplicated)'
+title: 'Trans Policy Issues: Why Are We Talking About Sports? | Queer Policy Series 2021'
 sections:
   -
     header_image: headers/transpolicyevent-hero-jul2021-01.jpg
-    title: 'Trans policy issues: Why are we talking about sports?'
+    title: 'Trans Policy Issues: Why Are We Talking About Sports?'
     has_tag: true
     has_button: true
     link: 'https://www.youtube.com/watch?v=MZ83h9zNKVw&ab_channel=UniversityofMichigan'
@@ -381,8 +381,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379100
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1646410916
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
