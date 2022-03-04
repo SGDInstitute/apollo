@@ -6,7 +6,6 @@ sections:
   -
     header_image: headers/tj-f21-redux_site-banner.jpg
     title: 'Transgender Justice Teach-in'
-    subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
     tag: Program
     text: 'Registration closed'
@@ -28,6 +27,12 @@ sections:
             marks:
               -
                 type: lead
+            text: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives. More information about the fall 2022 Transgender Justice Teach-in will be made available later this year.'
     type: content
     enabled: true
@@ -615,7 +620,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646407263
+updated_at: 1646407300
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
