@@ -16,7 +16,7 @@ sections:
         content:
           -
             type: text
-            text: 'A dedicated virtual track'
+            text: 'A dedicated virtual track for a digital-first audience'
       -
         type: paragraph
         content:
@@ -63,7 +63,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647114120
+updated_at: 1647114587
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
