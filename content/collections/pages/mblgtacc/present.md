@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645285287
+updated_at: 1647113558
 sections:
   -
     bg_type: image
@@ -23,7 +23,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Workshop RFPs will open in April 2022.'
+            text: 'Workshop RFPs will open on April 4, 2022.'
       -
         type: heading
         attrs:
@@ -116,14 +116,12 @@ sections:
             type: buttons
             buttons:
               -
-                link: ''
                 text: 'Proposal closed'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: false
-                button: null
             contain: true
     type: content
     enabled: true
