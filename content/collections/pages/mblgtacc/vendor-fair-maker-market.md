@@ -7,7 +7,7 @@ sections:
     bg_type: image
     bg_image: headers/vendor-fair-hero1-1250x400.jpg
     num_colors: 2
-    title: 'Vendor Fair and Maker Market'
+    title: 'Exhibiting at the Vendor Fair and Maker Market'
     type: header
     enabled: true
   -
@@ -191,7 +191,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us to reserve your table'
                 color: btn-green
@@ -296,24 +295,6 @@ sections:
                     text: 'Greater Columbus Convention Center'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'For more information about the Maker Market, check out the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::277a370e-1f77-4660-b9e0-17e7873a7443'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'detailed description and FAQs'
-          -
-            type: text
-            text: .
       -
         type: heading
         attrs:
@@ -323,85 +304,64 @@ sections:
             type: text
             text: Pricing
       -
-        type: heading
-        attrs:
-          level: 4
+        type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'Friday only'
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
           -
             type: text
             text: 'For queer and trans creators participating in the Friday maker market only:'
       -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Independent creator: $50'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Small established business: $150'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: '(annual sales under $100k)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Large established business: $350'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: '(annual sales of $100k+)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Vendors not selling goods/providing an activity or demonstration only: $0'
-      -
-        type: heading
+        type: set
         attrs:
-          level: 4
-        content:
-          -
-            type: text
-            text: '2-day pass'
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - 'Creator type'
+                  - Value
+              -
+                cells:
+                  - 'Independent creator'
+                  - $50
+              -
+                cells:
+                  - 'Small established business<br><i>(annual sales under $100k)</i>'
+                  - $150
+              -
+                cells:
+                  - 'Large established business<br><i>(annual sales of $100k+)</i>'
+                  - $350
+              -
+                cells:
+                  - 'Vendors not selling goods/providing an activity or demonstration only'
+                  - $0
+            full_width: true
+      -
+        type: paragraph
       -
         type: paragraph
         content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2-day pass'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
           -
             type: text
             text: 'Participate in the Maker Market and the Vendor Fair. '
@@ -416,43 +376,90 @@ sections:
         content:
           -
             type: text
-            text: 'Pay what you can: $200, $300, $450, $600'
+            text: 'Pay what you can—recommended contributions:'
+      -
+        type: set
+        attrs:
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - Type
+                  - Value
+              -
+                cells:
+                  - 'Small non-profits'
+                  - $200
+              -
+                cells:
+                  - 'Businesses selling goods '
+                  - $450
+              -
+                cells:
+                  - Corporations
+                  - $600
+            full_width: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Eligibility
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Recommended contributions:'
+            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc.Unsure if you qualify? Contact us and we’ll chat about your options.We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://tax.ohio.gov'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Ohio Taxpayer Service Center'
+          -
+            type: text
+            text: '. More information about registering for a Vendor''s License or Seller''s Use Tax Account '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use/registration'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'is available from the Ohio Department of Taxation'
+          -
+            type: text
+            text: .
       -
-        type: bullet_list
+        type: heading
+        attrs:
+          level: 3
         content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Small non-profits at $200'
+            type: text
+            text: 'Let us help you obtain a seller''s permit'
+      -
+        type: paragraph
+        content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Businesses selling goods at $450'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Corporations at $600'
+            type: text
+            text: 'The Midwest Institute for Sexuality and Gender Diversity is registered as a marketplace facilitator with the Ohio Department of Taxation (#99138154). With this license, we can collect and pay sales tax on your behalf. To get started, fill out the application form below and select "No, I need assistance with obtaining a permit" when asked if you have a seller''s permit. A member of our team will be in touch to discuss how we can collaborate.'
       -
         type: heading
         attrs:
@@ -494,7 +501,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us'
                 color: btn-green
@@ -509,7 +515,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645282874
+updated_at: 1647110325
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
