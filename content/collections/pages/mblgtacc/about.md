@@ -42,7 +42,7 @@ sections:
             text: 'workshop RFPs'
           -
             type: text
-            text: ' will open in April 2022. '
+            text: ' will open on April 4, 2022. '
       -
         type: paragraph
         content:
@@ -269,5 +269,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645285409
+updated_at: 1647113512
 ---
