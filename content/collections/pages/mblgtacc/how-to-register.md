@@ -17,7 +17,7 @@ sections:
         content:
           -
             type: text
-            text: 'Ticket Options'
+            text: 'Ticket options'
       -
         type: heading
         attrs:
@@ -25,7 +25,7 @@ sections:
         content:
           -
             type: text
-            text: 'In Person'
+            text: In-person
       -
         type: paragraph
         content:
@@ -80,7 +80,7 @@ sections:
         content:
           -
             type: text
-            text: 'Virtual Track'
+            text: 'Virtual track'
       -
         type: paragraph
         content:
@@ -95,7 +95,21 @@ sections:
             text: '$20 per person'
           -
             type: text
-            text: '. Virtual track tickets provide access to live-streamed keynote sessions and virtual-only workshops. More details about virtual track programming is available on the '
+            text: '. Virtual track tickets provide access to live-streamed keynote sessions and virtual-only workshops. More details about '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'virtual track'
+          -
+            type: text
+            text: ' programming is available on the '
           -
             type: text
             marks:
@@ -109,7 +123,7 @@ sections:
             text: schedule
           -
             type: text
-            text: ' page. Virtual tickets are available until 11:59 p.m. ET October 20, 2021.'
+            text: ' page. Virtual tickets are available until 11:59 p.m. ET October 20, 2022.'
       -
         type: heading
         attrs:
@@ -117,7 +131,7 @@ sections:
         content:
           -
             type: text
-            text: 'On-Site Registration (in person)'
+            text: 'On-site registration (in person)'
       -
         type: paragraph
         content:
@@ -140,7 +154,7 @@ sections:
         content:
           -
             type: text
-            text: 'How to Register'
+            text: 'How to register'
       -
         type: heading
         attrs:
@@ -148,7 +162,7 @@ sections:
         content:
           -
             type: text
-            text: 'Reserve Tickets'
+            text: 'Reserve tickets'
       -
         type: paragraph
         content:
@@ -174,7 +188,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay With a Credit Card'
+            text: 'Pay with a credit card'
       -
         type: paragraph
         content:
@@ -208,7 +222,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pay by Check'
+            text: 'Pay by check'
       -
         type: paragraph
         content:
@@ -224,7 +238,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
                 text: 'Reserve Tickets Now'
                 color: btn-green
@@ -246,7 +259,7 @@ sections:
         content:
           -
             type: text
-            text: 'Need Help?'
+            text: 'Need help?'
       -
         type: paragraph
         content:
@@ -279,6 +292,6 @@ sections:
     type: news
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645204957
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1647114262
 ---
