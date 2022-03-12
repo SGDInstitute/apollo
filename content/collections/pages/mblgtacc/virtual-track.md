@@ -4,6 +4,10 @@ blueprint: pages
 title: 'Virtual Track'
 sections:
   -
+    title: 'Virtual Track'
+    type: header_small
+    enabled: true
+  -
     bard:
       -
         type: heading
@@ -59,7 +63,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647114100
+updated_at: 1647114120
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
