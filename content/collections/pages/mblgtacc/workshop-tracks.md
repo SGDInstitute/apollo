@@ -1,6 +1,5 @@
 ---
 id: d6f53c64-4440-4a68-9b6c-d18fff3d6834
-published: false
 blueprint: pages
 title: 'Workshop Tracks'
 sections:
@@ -477,6 +476,24 @@ sections:
       -
         type: paragraph
     type: content
+    enabled: false
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'About our tracks'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''ll be sharing descriptions of each track descriptions later in March—and ahead of the workshop submissions opening—to 1) help presenter hopefuls with determining which, if any, tracks, most closely align with their content, and 2) assist attendees in understanding and selecting content in these focus areas.'
+    type: content
     enabled: true
   -
     column_widths: two_fifths_right
@@ -525,5 +542,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647112772
+updated_at: 1647113882
 ---
