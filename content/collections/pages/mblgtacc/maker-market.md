@@ -12,17 +12,48 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
-            text: 'What is the MBLGTACC Maker Market?'
+            text: 'Highlighting queer and trans makers and creators'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'An interactive programming component of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC), this space invites conference attendees and vendors to'
+            marks:
+              -
+                type: bold
+            text: 'Friday, October 21, 2022'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '5:00 - 10:00 p.m. EDT'
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Location TBA'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Maker Market is an interactive programming component of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC). The space invites conference attendees and vendors to'
       -
         type: ordered_list
         attrs:
@@ -53,129 +84,7 @@ sections:
         content:
           -
             type: text
-            text: 'Who can table at the Maker Market?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Unsure if you qualify? Contact us and we’ll chat about your options.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We are obligated to remind those selling merchandise to obtain the appropriate seller''s permit and licenses. Information about Ohio sales and general excise tax is available from the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://tax.ohio.gov'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Ohio Taxpayer Service Center'
-          -
-            type: text
-            text: '. More information about registering for a Vendor''s License or Seller''s Use Tax Account '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use/registration'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'is available from the Ohio Department of Taxation'
-          -
-            type: text
-            text: .
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'What if I need assistance obtaining a seller''s permit?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity is registered as a marketplace facilitator with the Ohio Department of Taxation (#99138154). With this license, we can collect and pay sales tax on your behalf. To get started, fill out the application form below and select "No, I need assistance with obtaining a permit" when asked if you have a seller''s permit. A member of our team will be in touch to discuss how we can collaborate.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'When is the Maker Market?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'This space will be hosted at the 30th annual MBLGTACC in Columbus, Ohio, 5:00 - 10:00 p.m. EDT on Friday, October 21, 2022.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'How do I apply to table at the Maker Market?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Complete this interest form sharing a bit about your work and plan for a table. We''ll be in touch to confirm a table. Rates to reserve a table space are '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/sponsor-exhibit/vendor-fair-maker-market'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'published here'
-          -
-            type: text
-            text: .
-      -
-        type: set
-        attrs:
-          values:
-            type: form
-            formset: mblgtacc_maker_market
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Do you want to attend the Maker Market? '
+            text: 'How to attend'
       -
         type: paragraph
         content:
@@ -207,11 +116,57 @@ sections:
           -
             type: text
             text: 'We''ll post details about Maker Market vendors here as participants are confirmed.'
+      -
+        type: paragraph
     type: content
     enabled: true
+  -
+    column_widths: two_fifths_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Apply to table at the Maker Market'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc. Unsure if you qualify? Contact us and we’ll chat about your options. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: lead
+            text: 'Learn more and apply →'
+      -
+        type: paragraph
+    image: vendor-fair-2017-from-stairs-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645733001
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1647110974
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
