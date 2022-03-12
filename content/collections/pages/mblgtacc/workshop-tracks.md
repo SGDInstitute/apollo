@@ -116,6 +116,16 @@ sections:
   -
     bard:
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: ' '
+    type: content
+    enabled: true
+  -
+    bard:
+      -
         type: heading
         attrs:
           level: 2
@@ -542,5 +552,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647113882
+updated_at: 1647113911
 ---
