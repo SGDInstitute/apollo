@@ -121,7 +121,7 @@ sections:
     type: content
     enabled: true
   -
-    column_widths: two_fifths_right
+    column_widths: third_right
     left_column: content
     right_column: image
     center_columns: false
@@ -139,7 +139,13 @@ sections:
         content:
           -
             type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc. Unsure if you qualify? Contact us and we’ll chat about your options. '
+            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft, or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Think you might have something to bring into the Maker Market? Have questions?'
       -
         type: paragraph
         content:
@@ -166,7 +172,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647110974
+updated_at: 1647111194
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
