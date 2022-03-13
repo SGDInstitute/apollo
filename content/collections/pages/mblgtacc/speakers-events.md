@@ -5,12 +5,13 @@ blueprint: pages
 title: 'Speakers & Events'
 sections:
   -
-    bg_type: color
+    bg_type: image
     num_colors: 2
     bg_color: bg-yellow-100
     title: 'Speakers & Events'
     type: header
     enabled: true
+    bg_image: headers/header_open-mic.jpg
   -
     bard:
       -
@@ -22,24 +23,6 @@ sections:
               -
                 type: lead
             text: 'The 30th annual MBLGTACC will bring together students, makers, thought leaders, advisors and staff, artists, and more. Keep an eye on this space as we continue to confirm programming, and sign-up for email updates using the form at the bottom of this page.'
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Keynotes and entertainment'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Information coming summer 2022.'
     type: content
     enabled: true
   -
@@ -177,6 +160,24 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Keynotes and entertainment'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Information coming summer 2022.'
+    type: content
+    enabled: true
+  -
     limit: 3
     pagination: false
     exclude: false
@@ -194,5 +195,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647120451
+updated_at: 1647184967
 ---
