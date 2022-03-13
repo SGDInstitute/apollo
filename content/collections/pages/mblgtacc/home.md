@@ -4,10 +4,10 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647181437
+updated_at: 1647207590
 sections:
   -
-    header_image: headers/columbus-cvb-scioto-hero-1250x400.jpg
+    header_image: headers/columbus-cvb-scioto-hero-2500x800.jpg
     title: MBLGTACC
     subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Registration and workshop RFPs open on April 4.'
     has_tag: true
