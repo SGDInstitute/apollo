@@ -139,7 +139,7 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'How to Register →'
+                    text: 'How to register →'
               -
                 type: paragraph
                 content:
@@ -229,5 +229,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647185202
+updated_at: 1647185320
 ---
