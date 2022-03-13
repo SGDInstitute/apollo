@@ -5,7 +5,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647184540
+updated_at: 1647184619
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -176,7 +176,7 @@ sections:
             text: support@mblgtacc.org
           -
             type: text
-            text: '. This year, we are offering a virtual track for those unable to attend in-person. So, if you are not able to attend due to COVID-19, we can reduce your registration cost to the virtual rate if you would like to participate in the online programming or we can provide a full refund if you are not able to attend either in-person or online.'
+            text: '. This year, we are offering a dedicated virtual track for a digital-first audience, and this is a great option for those unable to attend in-person. So, if you are not able to attend due to COVID-19, we can reduce your registration cost to the virtual rate if you would like to participate in the online programming or we can provide a full refund if you are not able to attend either in-person or online.'
       -
         type: heading
         attrs:
