@@ -41,7 +41,7 @@ tree:
         entry: 4cd5cb6b-658c-4d69-b525-7325fb90766f
       -
         id: 3165f0eb-fe0c-4e85-9c1b-2d142d6f0802
-        title: 'MBLGTACC ↗️'
+        title: 'MBLGTACC <svg width="24px" height="24px" viewBox="0 0 24 24" style="cursor:pointer"><g stroke-width="2.1" stroke="#666" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>'
         url: 'https://mblgtacc.org'
   -
     id: 2b204e15-280e-4bc5-8f79-1c0d5c6286c5
