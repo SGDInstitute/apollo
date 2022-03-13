@@ -21,7 +21,7 @@ tree:
         entry: 4cd5cb6b-658c-4d69-b525-7325fb90766f
       -
         id: 96e4e8e9-d3ef-44d6-91df-e2c7d0c2e3a8
-        title: 'MBLGTACC <svg width="24px" height="24px" viewBox="0 0 24 24" style="cursor:pointer"><g stroke-width="2.1" stroke="#666" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>'
+        title: 'MBLGTACC<svg width="24px" height="24px" viewBox="0 0 24 24" style="cursor:pointer"><g stroke-width="2.1" stroke="#666" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>'
         url: 'https://mblgtacc.org'
   -
     id: 918c1b26-68b3-4978-8b3d-f33cec3c8c54
