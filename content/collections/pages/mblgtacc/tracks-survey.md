@@ -30,9 +30,7 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: 'https://apps.sgdinstitute.org/forms/MBLGTACC-2022-Workshop-Track-Feedback'
-                text: 'Take the survey'
+                text: 'Survey closed'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -261,5 +259,5 @@ sections:
 template: default
 description: 'Take our survey, covering content, categories, presenters, and more, and inform workshop tracks for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645070414
+updated_at: 1647199530
 ---
