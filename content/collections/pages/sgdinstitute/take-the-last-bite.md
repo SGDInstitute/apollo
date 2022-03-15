@@ -15,7 +15,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 2 streaming now on Apple, Google, and Spotify'
-    link: 'entry::0bc45af4-d8d9-45b1-8b0c-befd08eddf90'
+    link: 'entry::92698e3f-8c8e-43a7-8347-dd1a6b6a71fc'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -36,7 +36,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
                 text: Spotify
                 color: btn-green
@@ -45,7 +44,6 @@ sections:
                 outline: true
                 target_blank: true
               -
-                button: null
                 link: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
                 text: Apple
                 color: btn-green
@@ -54,7 +52,6 @@ sections:
                 outline: true
                 target_blank: true
               -
-                button: null
                 link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
                 text: Google
                 color: btn-green
@@ -104,6 +101,25 @@ sections:
                   target: _blank
                   title: null
             text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
+          -
+            type: text
+            text: ' →'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::92698e3f-8c8e-43a7-8347-dd1a6b6a71fc'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 2: Let''s Get Down to (Queer) Business'
           -
             type: text
             text: ' →'
@@ -466,7 +482,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646154271
+updated_at: 1647346020
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
