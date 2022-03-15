@@ -28,11 +28,11 @@ sections:
     enabled: true
   -
     articles:
-      - e0f507f5-3222-40a9-82f9-3286528b406c
-      - 8a5860b3-353e-4cd7-9590-772ab57c483a
-      - ec1d765d-261f-48a0-90b5-8fef6701ff9b
-      - be93d72c-8a17-4d01-8cf9-c50a040d98e5
+      - 92698e3f-8c8e-43a7-8347-dd1a6b6a71fc
       - 7d5ce2af-decc-42f2-9f0f-fb06727dd546
+      - 8a5860b3-353e-4cd7-9590-772ab57c483a
+      - be93d72c-8a17-4d01-8cf9-c50a040d98e5
+      - 036f7b21-571e-4ace-b801-cca29e1a95e9
     bg_type: color
     num_colors: 2
     bg_color: bg-white
@@ -64,7 +64,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
                 text: 'Podcast episodes'
                 color: btn-green
@@ -73,7 +72,6 @@ sections:
                 outline: true
                 target_blank: false
               -
-                button: null
                 link: 'https://mblgtacc.org/news'
                 text: 'MBLGTACC news ↗️'
                 color: btn-green
@@ -141,7 +139,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645980058
+updated_at: 1647346231
 image:
   - headers/homepage-hero1.jpg
 ---
