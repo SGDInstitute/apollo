@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647485956
+updated_at: 1647540213
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -91,6 +91,20 @@ sections:
     target_blank: false
     type: speakers
     enabled: false
+  -
+    bard:
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC updates and featured news'
+    type: content
+    enabled: true
   -
     articles:
       - 103a8572-9a57-4afc-becd-d990631846c3
