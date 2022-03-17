@@ -1,11 +1,10 @@
 ---
 id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
-published: false
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1645642625
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1647483508
 sections:
   -
     bg_type: image
@@ -13,6 +12,19 @@ sections:
     num_colors: 2
     title: Schedule
     type: header
+    enabled: true
+  -
+    bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'This is a working schedule and may be updated as programming is confirmed and announced.'
+    type: content
     enabled: true
   -
     bard:
@@ -221,4 +233,7 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
+description: 'Schedule of events for the 2022 Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC).'
+image:
+  - headers/header-chicago_pier.jpg
 ---
