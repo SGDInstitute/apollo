@@ -69,11 +69,11 @@ tree:
             entry: 59865639-7c77-43d1-a56c-333bc38efccc
             children:
               -
-                id: 8b3116ab-f77a-4125-b5f7-a2b53fa9e2ed
-                entry: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
-              -
                 id: e982ee17-d1fe-498a-936e-e54a03b63beb
                 entry: 8f2c88c4-5d43-4aed-9e33-1865c46b783f
+          -
+            id: 8b3116ab-f77a-4125-b5f7-a2b53fa9e2ed
+            entry: 5071f79b-1d59-4cd6-92b0-f04b1953ad66
           -
             id: cb0ef604-12ac-4331-a218-6103c00af7bb
             entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
