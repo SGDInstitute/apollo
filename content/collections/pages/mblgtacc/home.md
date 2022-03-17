@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647485922
+updated_at: 1647485956
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -68,7 +68,7 @@ sections:
     type: two_column
     enabled: true
     center_columns: false
-    above_price: Registration
+    above_price: 'Registration opens April 4'
   -
     title: 'Keynotes and featured session'
     event: mblgtacc-2021-keynote
