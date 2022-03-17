@@ -7,6 +7,10 @@ tree:
     entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
     children:
       -
+        id: a13c55c2-2258-45b5-b00f-b21874cfacc2
+        entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
+        title: 'All programming'
+      -
         id: 615c6bfc-66eb-4729-96cc-a712a98c0c40
         entry: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
         title: Speakers
