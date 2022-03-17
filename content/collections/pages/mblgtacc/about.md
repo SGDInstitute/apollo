@@ -20,13 +20,6 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Registration opens April 4'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-              -
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: Present
                 color: btn-green
@@ -295,5 +288,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647486484
+updated_at: 1647486556
 ---
