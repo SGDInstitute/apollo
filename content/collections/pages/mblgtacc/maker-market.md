@@ -47,7 +47,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Location TBA'
+            text: 'Union Station Ballroom A'
       -
         type: paragraph
         content:
@@ -172,7 +172,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647111194
+updated_at: 1647483574
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
