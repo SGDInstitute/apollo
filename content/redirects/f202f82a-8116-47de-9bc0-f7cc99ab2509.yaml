@@ -1,0 +1,6 @@
+id: f202f82a-8116-47de-9bc0-f7cc99ab2509
+enabled: true
+source: /news/limitless-queer-activism-of-the-future-introducing-our-theme-for-the-30th-annual-mblgtacc-registration-and-workshop-rfps-coming-april-4
+destination: /news/limitless-queer-activism-of-the-future-introducing-our-theme
+type: '301'
+match_type: exact
