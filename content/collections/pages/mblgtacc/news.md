@@ -21,10 +21,10 @@ sections:
     enabled: true
   -
     articles:
+      - 103a8572-9a57-4afc-becd-d990631846c3
       - d6aaf3d6-fde3-4041-b5f0-67a13005275f
       - 0542e88f-e68a-4003-a979-5ddd7100257a
       - 91ec5273-11bf-4f64-bd07-9cccddca154a
-      - 101f5a19-3e45-4668-8fa2-a9d49da967ef
       - 2ab7504d-31cf-48ff-8777-4e784eb12db2
     bg_type: color
     num_colors: 2
@@ -53,7 +53,7 @@ sections:
     type: content
     enabled: true
   -
-    limit: 15
+    limit: 100
     num_per_row: 3
     pagination: true
     exclude: false
@@ -107,5 +107,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1644086616
+updated_at: 1647483059
 ---
