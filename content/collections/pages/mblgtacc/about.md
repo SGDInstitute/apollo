@@ -13,10 +13,6 @@ sections:
         type: heading
         attrs:
           level: 2
-        content:
-          -
-            type: text
-            text: 'Join us in Columbus, October 21-23'
       -
         type: set
         attrs:
@@ -53,6 +49,10 @@ sections:
           -
             type: text
             text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -287,5 +287,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647484233
+updated_at: 1647484312
 ---
