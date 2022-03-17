@@ -16,33 +16,51 @@ sections:
         content:
           -
             type: text
-            text: 'Save the date, registration, and workshop RFPs'
+            text: 'Join us in Columbus, October 21-23'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Save the date for the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, October 21-23, 2022 in Columbus, Ohio. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Registration and '
-          -
-            type: text
-            marks:
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'workshop RFPs'
+                text: 'Registration opens April 4'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: Present
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
           -
             type: text
-            text: ' will open on April 4, 2022. '
+            text: 'Limitless: Queer Activism of the Future'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Get the latest MBLGTACC news'
       -
         type: paragraph
         content:
@@ -269,5 +287,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647113528
+updated_at: 1647484233
 ---
