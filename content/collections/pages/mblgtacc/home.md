@@ -4,11 +4,11 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647467357
+updated_at: 1647482771
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
-    title: MBLGTACC
+    title: 'Limitless: Queer Activism of the Future'
     subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Registration and workshop RFPs open on April 4.'
     has_tag: true
     tag: 'October 21-23, 2022  |  Columbus'
@@ -35,16 +35,17 @@ sections:
         content:
           -
             type: text
-            text: 'Registration is open'
+            text: 'Registration opens April 4'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Virtual tickets start at $25 per person. Tickets for in-person participants are $85. Registration will be available until 11:59 p.m. CT on October 1. If you don''t register in advance, you can still attend by registering on site for $100.'
+            text: 'Tickets for in-person participants are $85. Virtual tickets are $20 per person. Registration will be available until early October. If you don''t register in advance, you can still attend by registering on site for $100.'
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -59,15 +60,15 @@ sections:
             contain: true
       -
         type: paragraph
-    price: $25
+    price: $85
     below_price: 'per person'
     bg_type: color
     num_colors: 2
     bg_color: bg-green-500
     type: two_column
-    enabled: false
+    enabled: true
     center_columns: false
-    above_price: 'Starting at'
+    above_price: 'Full, in-person experience'
   -
     title: 'Keynotes and featured session'
     event: mblgtacc-2021-keynote
@@ -92,11 +93,11 @@ sections:
     enabled: false
   -
     articles:
-      - 0542e88f-e68a-4003-a979-5ddd7100257a
+      - 103a8572-9a57-4afc-becd-d990631846c3
       - d6aaf3d6-fde3-4041-b5f0-67a13005275f
+      - 0542e88f-e68a-4003-a979-5ddd7100257a
       - 91ec5273-11bf-4f64-bd07-9cccddca154a
       - 2ab7504d-31cf-48ff-8777-4e784eb12db2
-      - 101f5a19-3e45-4668-8fa2-a9d49da967ef
     bg_type: gradient
     num_colors: 2
     from_color: from-black
