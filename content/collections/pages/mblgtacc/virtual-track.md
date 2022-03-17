@@ -58,12 +58,17 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'More information about the virtual track will become available following the conclusion of the workshop submission and selection process.'
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647483121
+updated_at: 1647483133
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
