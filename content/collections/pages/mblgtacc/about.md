@@ -21,7 +21,7 @@ sections:
             buttons:
               -
                 link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
-                text: 'Registration opens April 4'
+                text: 'Registration open Apr. 4'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -296,5 +296,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647490253
+updated_at: 1647490277
 ---
