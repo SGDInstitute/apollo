@@ -1,6 +1,5 @@
 ---
 id: e117e019-bc65-41b2-9cde-fad0b8a5c20c
-published: false
 blueprint: pages
 title: Policies
 sections:
@@ -119,7 +118,7 @@ sections:
                 type: italic
             text: 'Learn more »'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -374,6 +373,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645051353
+updated_at: 1647489937
 template: default
 ---
