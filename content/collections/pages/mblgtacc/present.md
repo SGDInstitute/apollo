@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647113558
+updated_at: 1647483836
 sections:
   -
     bg_type: image
@@ -57,32 +57,21 @@ sections:
         content:
           -
             type: text
-            text: 'In 2022, we''ll be expanding MBLGTACC''s workshop tracks. With attendee feedback and input from our recent public survey, we will begin to identify and refine workshop tracks and announce those later this winter, in advance of the workshop RFP. In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'What’s a workshop track?'
-          -
-            type: text
-            text: ' Tracks are a series of workshops centered around a common theme or topic. Tracks help shape the workshop content and aid attendees in choosing which workshops to attend based on their interests, area of focus or future plans. '
+            text: 'In 2022, we''re expanding MBLGTACC''s workshop tracks. With stakeholder feedback and input from our recent public survey, we recently announced the '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/tracks-survey'
+                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-              -
-                type: italic
-            text: 'Read our FAQ for more information.'
+            text: 'tracks for the 30th annual conference'
+          -
+            type: text
+            text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks.'
       -
         type: heading
         attrs:
@@ -105,7 +94,7 @@ sections:
             marks:
               -
                 type: bold
-            text: '***The workshop proposal form will open in April 2022.***'
+            text: '***The workshop proposal form will open on April 4, 2022.***'
       -
         type: paragraph
       -
