@@ -1,6 +1,5 @@
 ---
 id: 37fc3b87-a724-47f9-8608-4b49c6a0b984
-published: false
 blueprint: pages
 title: 'Speakers & Events'
 sections:
@@ -70,22 +69,6 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::45a7eef9-88a0-48eb-b1f4-9145dc67c56a'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Identity Forums →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
                           href: 'statamic://entry::277a370e-1f77-4660-b9e0-17e7873a7443'
                           rel: null
                           target: null
@@ -124,22 +107,6 @@ sections:
                           target: null
                           title: null
                     text: 'Present at MBLGTACC →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'How to register →'
               -
                 type: paragraph
                 content:
@@ -229,5 +196,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647186043
+updated_at: 1647483221
 ---
