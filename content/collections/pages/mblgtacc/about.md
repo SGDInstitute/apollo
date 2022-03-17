@@ -34,6 +34,14 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+              -
+                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
+                text: 'Sponsor / Exhibit'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
             contain: true
       -
         type: heading
@@ -287,5 +295,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647484312
+updated_at: 1647486484
 ---
