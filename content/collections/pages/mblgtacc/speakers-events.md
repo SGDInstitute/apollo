@@ -53,6 +53,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Schedule of events →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
                           rel: null
                           target: null
@@ -196,5 +212,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647483221
+updated_at: 1647486412
 ---
