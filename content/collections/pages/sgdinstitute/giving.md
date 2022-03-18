@@ -69,8 +69,7 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: 'https://apps.sgdinstitute.org/donations/create/institute'
+                link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Donate now'
                 color: btn-green
                 size: btn-lg
@@ -127,8 +126,7 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: 'https://apps.sgdinstitute.org/donations/create/institute'
+                link: 'https://apps.sgdinstitute.org/donations/create'
                 text: Donate
                 color: btn-green
                 size: btn-lg
@@ -204,14 +202,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 text: 'Join the OPE! giving program'
                 url: 'https://apps.sgdinstitute.org/donations/create/institute'
                 target_blank: true
                 color: btn-green
                 size: btn-lg
                 block: false
-                link: 'https://apps.sgdinstitute.org/donations/create/institute'
+                link: 'https://apps.sgdinstitute.org/donations/create'
                 outline: false
             contain: true
     type: content
@@ -241,14 +238,13 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://apps.sgdinstitute.org/donations/create/institute'
+                link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Give now'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
     type: content
     enabled: true
@@ -304,7 +300,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:fundraising@sgdinstitute.org'
                 text: 'Contact us'
                 color: btn-green
@@ -464,7 +459,7 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1644965008
+updated_at: 1647563648
 image:
   - headers/header-test2.jpg
 ---
