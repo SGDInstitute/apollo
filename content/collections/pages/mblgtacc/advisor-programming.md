@@ -98,6 +98,24 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Thanks to our partners at the Consortium of LGBT Higher Education Professionals'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'text test text'
+    type: content
+    enabled: true
+  -
     limit: 3
     pagination: false
     exclude: false
@@ -107,5 +125,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647114850
+updated_at: 1647623561
 ---
