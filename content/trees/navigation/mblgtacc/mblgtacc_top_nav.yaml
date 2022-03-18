@@ -3,13 +3,10 @@ tree:
     id: 4bda1db6-79b7-44c6-9a61-6eee19191501
     entry: 77581097-4408-48b2-a124-97fc61e209e3
   -
-    id: f6e31502-2904-45b6-b1fc-b15566ede2b4
-    entry: 51d65a1d-9771-430b-a6d6-bc9dd06d4925
-  -
     id: 2f283cce-f286-4b58-92b9-947542de02d9
     title: Login
     url: 'https://apps.sgdinstitute.org'
   -
     id: 9dd825dd-4dc3-4139-aa2e-74bf88b73ccd
     title: Give
-    url: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
+    url: 'https://apps.sgdinstitute.org/donations/create/'
