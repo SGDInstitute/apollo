@@ -105,7 +105,7 @@ sections:
         content:
           -
             type: text
-            text: 'Thanks to our partners at the Consortium of LGBT Higher Education Professionals'
+            text: 'Thanks to our partners at the Consortium of Higher Education LGBT Resource Professionals'
       -
         type: paragraph
         content:
@@ -124,5 +124,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647623600
+updated_at: 1647702680
 ---
