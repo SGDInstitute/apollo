@@ -53,6 +53,23 @@ sections:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
             caption: 'Trans policy issues: Why are we talking about sports?'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://drive.google.com/file/d/1PBICmd6W_J6t5Xlrgcl1nxs_QGeEQXj2/view?usp=sharing'
+                text: 'Download transcript'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -295,8 +312,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: null
                 text: 'Form closed'
                 color: btn-green
                 size: btn-lg
@@ -382,7 +397,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646411255
+updated_at: 1647708299
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
