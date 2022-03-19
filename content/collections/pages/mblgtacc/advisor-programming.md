@@ -111,7 +111,7 @@ sections:
         content:
           -
             type: text
-            text: 'text test text'
+            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus, neque vitae ultricies ultricies, augue lectus rutrum purus, sit amet pharetra felis magna et justo. Etiam vitae lorem et nunc volutpat tincidunt eget sit amet mauris. Donec sit amet venenatis dui, eget tincidunt augue. Aenean ut lacus lectus. Quisque sit amet tincidunt diam, eu pretium velit. Mauris gravida arcu a mi mattis tempus. Ut porta dui in augue tristique vestibulum.'
     type: content
     enabled: true
   -
@@ -124,5 +124,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647702680
+updated_at: 1647702842
 ---
