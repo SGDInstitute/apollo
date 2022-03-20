@@ -79,6 +79,29 @@ sections:
             type: text
             text: "\_as a press-ready PDF. All ads will be printed in color. For best results, be sure your ad is in the CMYK colorspace, exported at 300 dpi or higher, and correctly sized."
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Reserve by:'
+          -
+            type: text
+            text: ' September 18'
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ad due by:'
+          -
+            type: text
+            text: ' September 25'
+      -
         type: set
         attrs:
           values:
@@ -114,7 +137,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us to buy your ad'
                 color: btn-green
@@ -189,7 +211,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -197,5 +218,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645145442
+updated_at: 1647782750
 ---
