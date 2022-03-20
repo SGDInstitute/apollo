@@ -142,7 +142,15 @@ sections:
                 color: btn-green
                 size: btn-lg
                 block: false
-                outline: false
+                outline: true
+                target_blank: false
+              -
+                link: 'mailto:nick@sgdinstitute.org'
+                text: 'Submit your ad'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
                 target_blank: false
             contain: true
       -
@@ -218,5 +226,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647782750
+updated_at: 1647782846
 ---
