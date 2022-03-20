@@ -131,6 +131,14 @@ sections:
                   - '7" W x 8.5" H'
             full_width: true
       -
+        type: paragraph
+        content:
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Get in touch to purchase ad space in the program.'
+      -
         type: set
         attrs:
           values:
@@ -138,7 +146,7 @@ sections:
             buttons:
               -
                 link: 'mailto:development@sgdinstitute.org'
-                text: 'Contact us to buy your ad'
+                text: 'Buy ad space'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -146,7 +154,7 @@ sections:
                 target_blank: false
               -
                 link: 'mailto:nick@sgdinstitute.org'
-                text: 'Submit your ad'
+                text: 'Submit ad'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -226,5 +234,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647782846
+updated_at: 1647782997
 ---
