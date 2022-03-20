@@ -96,11 +96,11 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s2e1'
+                  href: 'statamic://entry::92698e3f-8c8e-43a7-8347-dd1a6b6a71fc'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
+            text: 'Ep. 2: Let''s Get Down to (Queer) Business'
           -
             type: text
             text: ' →'
@@ -115,11 +115,11 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'statamic://entry::92698e3f-8c8e-43a7-8347-dd1a6b6a71fc'
+                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s2e1'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
-            text: 'Ep. 2: Let''s Get Down to (Queer) Business'
+            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
           -
             type: text
             text: ' →'
@@ -482,7 +482,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647346020
+updated_at: 1647778990
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
