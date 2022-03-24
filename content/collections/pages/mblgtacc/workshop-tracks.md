@@ -186,7 +186,7 @@ sections:
         content:
           -
             type: text
-            text: "There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle.\_ Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have beared heavy on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.\_"
+            text: "There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle.\_ Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.\_"
       -
         type: paragraph
         content:
@@ -476,7 +476,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -494,7 +494,7 @@ sections:
             type: text
             text: 'We''ll be sharing descriptions of each track descriptions later in March—and ahead of the workshop submissions opening—to 1) help presenter hopefuls with determining which, if any, tracks, most closely align with their content, and 2) assist attendees in understanding and selecting content in these focus areas.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -662,5 +662,8 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647523904
+updated_at: 1648128018
+description: 'Tracks will be structured as a curated series of workshops centered around a common theme or topic, and will aid attendees in choosing which workshops to attend based on their interests and aspirations. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
+image:
+  - news/tracks-description-announce-2022-1090x681.jpg
 ---
