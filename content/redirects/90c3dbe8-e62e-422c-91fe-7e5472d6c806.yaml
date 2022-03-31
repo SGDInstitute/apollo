@@ -1,0 +1,6 @@
+id: 90c3dbe8-e62e-422c-91fe-7e5472d6c806
+enabled: true
+source: /sponsor
+destination: /sponsor-exhibit/sponsorship-packages
+type: '301'
+match_type: exact
