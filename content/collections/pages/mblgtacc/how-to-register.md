@@ -281,7 +281,45 @@ sections:
             text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
     type: content
     enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Organizing a delegation or small group'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Check out our student group toolkit and checklist →'
+    image: news/5bfd6142a33f7265219609.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648996407
+updated_at: 1649004888
 ---
