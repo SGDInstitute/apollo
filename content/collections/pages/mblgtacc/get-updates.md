@@ -67,7 +67,7 @@ sections:
                 link: 'https://instagram.com/mblgtacc'
                 text: Instagram
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -75,7 +75,7 @@ sections:
                 link: 'https://twitter.com/mblgtacc'
                 text: Twitter
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -83,7 +83,7 @@ sections:
                 link: 'https://facebook.com/mblgtacc'
                 text: Facebook
                 color: btn-green
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -129,5 +129,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649000970
+updated_at: 1649000984
 ---
