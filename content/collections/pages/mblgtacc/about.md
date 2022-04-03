@@ -209,8 +209,6 @@ sections:
                       -
                         type: lead
                     text: 'Hotels, Transportation, and Parking →'
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -308,19 +306,6 @@ sections:
                 type: bold
             text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
       -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: history/mission-history-CONTENT.jpg
-            inline: false
-            direction: float-right
-            margin_directions: all
-            margin_bottom: mb-1
-            margin_left: ml-4
-            width: w-1/2
-            margin_direction: all
-      -
         type: paragraph
       -
         type: paragraph
@@ -356,6 +341,13 @@ sections:
           -
             type: text
             text: 'MBLGTACC and the Institute'
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: news/2020-rb-justin-welcome-teaser-1090x681.jpg
+            inline: false
       -
         type: paragraph
         content:
@@ -408,5 +400,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649006677
+updated_at: 1649006846
 ---
