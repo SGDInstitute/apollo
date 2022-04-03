@@ -375,7 +375,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/news/post/our-next-quarter-century'
+                  href: 'statamic://entry::86a0d35d-ba2c-4e33-be5c-3ad6912bc789'
                   rel: null
                   target: _blank
                   title: null
@@ -407,5 +407,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649007464
+updated_at: 1649007497
 ---
