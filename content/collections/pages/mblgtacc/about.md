@@ -383,6 +383,10 @@ sections:
           -
             type: text
             text: ' with a mandate to provide robust strategic and operational support for conference operations and campus planning teams; to continue improving the MBLGTACC experience for all attendees and partners; to relentlessly pursue diversity, equity, and inclusion in value and practice; and to grow the capacity of the organization beyond the annual conference.'
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -403,5 +407,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649007452
+updated_at: 1649007464
 ---
