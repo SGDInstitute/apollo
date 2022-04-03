@@ -16,33 +16,7 @@ sections:
     type: header_large
     enabled: true
   -
-    title: 'Get updates'
-    type: header_small
-    enabled: false
-  -
     bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Don''t miss a thing! Sign-up to receive email updates about the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, and follow us on social media.'
-    type: content
-    enabled: false
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Don''t miss a thing! Sign-up to receive email updates about the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, and follow us on social media.'
       -
         type: heading
         attrs:
@@ -50,13 +24,13 @@ sections:
         content:
           -
             type: text
-            text: 'Key MBLGTACC news, right to your inbox '
+            text: 'Don''t miss a thing! Get key MBLGTACC news, right to your inbox '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We respect and value your privacy, and won''t share your contact information with anyone without your consent. Sign up to receive email updates:'
+            text: 'We respect and value your privacy, and won''t share your contact information with anyone without your consent.'
       -
         type: set
         attrs:
@@ -132,5 +106,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649000782
+updated_at: 1649000869
 ---
