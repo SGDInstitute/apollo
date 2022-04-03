@@ -134,6 +134,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'How to Register →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                           rel: null
                           target: null
@@ -148,22 +164,6 @@ sections:
                       -
                         type: italic
                     text: 'Proposals due May 13 (11:59 p.m. ET)'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'How to Register →'
       -
         type: paragraph
         content:
@@ -212,5 +212,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649028469
+updated_at: 1649028490
 ---
