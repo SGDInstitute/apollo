@@ -241,53 +241,6 @@ sections:
     type: content
     enabled: true
   -
-    limit: 3
-    pagination: false
-    exclude: false
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-100
-    type: news
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Need help?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Please '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'contact us'
-          -
-            type: text
-            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Check out our student group toolkit and checklist '
-    type: content
-    enabled: true
-  -
     column_widths: third_right
     left_column: content
     right_column: image
@@ -332,7 +285,54 @@ sections:
     bg_color: bg-gray-200
     type: two_column
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Need help?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Check out our student group toolkit and checklist '
+    type: content
+    enabled: true
+  -
+    limit: 3
+    pagination: false
+    exclude: false
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649004992
+updated_at: 1649005021
 ---
