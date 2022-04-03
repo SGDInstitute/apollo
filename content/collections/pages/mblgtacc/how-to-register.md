@@ -300,21 +300,22 @@ sections:
         content:
           -
             type: text
-            text: 'Please '
-          -
-            type: text
-            marks:
+            text: 'Please contact us with any questions about the registration process and we''ll get back to you as soon as possible.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'contact us'
-          -
-            type: text
-            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
+                link: 'entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
       -
         type: paragraph
     type: content
@@ -330,5 +331,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649005054
+updated_at: 1649005093
 ---
