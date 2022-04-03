@@ -1,11 +1,10 @@
 ---
 id: 77581097-4408-48b2-a124-97fc61e209e3
-published: false
 blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647184652
+updated_at: 1648998800
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -21,7 +20,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Updated March 2022'
+            text: 'Updated April 2022'
       -
         type: heading
         attrs:
@@ -35,6 +34,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: 'Please be assured that we are continuously monitoring the recommendations from the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines based in science that best protect the most vulnerable in our community. '
       -
         type: paragraph
@@ -47,7 +49,7 @@ sections:
             text: 'For nearly every person, getting vaccinated against COVID-19 is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. '
           -
             type: text
-            text: 'The MBLGTACC 2022 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and boosted unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine requirements.'
+            text: 'The MBLGTACC 2022 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and boosted unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine and booster requirements.'
       -
         type: paragraph
         content:
@@ -56,7 +58,21 @@ sections:
             marks:
               -
                 type: bold
-            text: 'We may expect attendees to wear masks and follow common social distancing measures in indoor conference spaces, '
+            text: 'We '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: may
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' expect attendees to wear masks and follow common social distancing measures in indoor conference spaces, '
           -
             type: text
             text: 'and will communicate a final determination with attendees and partners based on public health conditions in early October. '
@@ -74,7 +90,7 @@ sections:
             text: 'it is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference'
           -
             type: text
-            text: ' to help keep yourselves and others safe. You can find tests locally in Columbus, OH  through [WHERE/WHO]. It is also recommended that all attendees download the [OHIO EXPOSURE NOTIFICATION APP?] to assist with contact tracing in the event of illness.'
+            text: ' to help keep yourselves and others safe. '
       -
         type: paragraph
         content:
@@ -134,7 +150,16 @@ sections:
         content:
           -
             type: text
-            text: 'We may ask that all attendees maintain appropriate social distancing and wear a mask, unless actively eating or drinking. In the event that an attendee chooses to engage in sexual activities during conference weekend, we also recommend checking out the '
+            text: 'We '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: may
+          -
+            type: text
+            text: ' ask that all attendees maintain appropriate social distancing and wear a mask, unless actively eating or drinking. In the event that an attendee chooses to engage in sexual activities during conference weekend, we also recommend checking out the '
           -
             type: text
             marks:
