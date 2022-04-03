@@ -1,6 +1,5 @@
 ---
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
-published: false
 blueprint: pages
 title: 'How to Register'
 sections:
@@ -51,19 +50,7 @@ sections:
             text: and
           -
             type: text
-            text: ' digital only programming.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'When purchasing tickets to attend in person, you''ll have an option to '
+            text: ' digital-only programming.Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022. When purchasing tickets to attend in person, you''ll have an option to '
           -
             type: text
             marks:
@@ -109,7 +96,7 @@ sections:
             text: 'virtual track'
           -
             type: text
-            text: ' programming is available on the '
+            text: ' programming will be available on the '
           -
             type: text
             marks:
@@ -147,6 +134,10 @@ sections:
           -
             type: text
             text: .
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -234,6 +225,7 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -246,12 +238,19 @@ sections:
                 outline: false
                 target_blank: false
             contain: true
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
+    type: content
+    enabled: true
+  -
+    limit: 3
+    pagination: false
+    exclude: false
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: news
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -282,16 +281,7 @@ sections:
             text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
     type: content
     enabled: true
-  -
-    limit: 3
-    pagination: false
-    exclude: false
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-100
-    type: news
-    enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647114262
+updated_at: 1648996407
 ---
