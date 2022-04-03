@@ -574,6 +574,23 @@ sections:
             type: text
             text: 'Register for the conference'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Register your group'
+          -
+            type: text
+            text: ' for the conference and pay online or by mail. Entering the email addresses and names of your group members will generate an automatic email to them, prompting them to complete their registration preferences and individual detail.'
+      -
         type: heading
         attrs:
           level: 3
@@ -775,5 +792,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649003003
+updated_at: 1649003268
 ---
