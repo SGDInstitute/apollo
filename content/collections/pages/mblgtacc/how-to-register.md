@@ -50,7 +50,7 @@ sections:
             text: and
           -
             type: text
-            text: ' digital-only programming.Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022. When purchasing tickets to attend in person, you''ll have an option to '
+            text: ' digital-only programming. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022. When purchasing tickets to attend in person, you''ll have an option to '
           -
             type: text
             marks:
@@ -331,5 +331,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649005109
+updated_at: 1649005286
 ---
