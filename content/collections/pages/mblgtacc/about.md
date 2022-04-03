@@ -296,13 +296,13 @@ sections:
         content:
           -
             type: text
-            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond. We welcome attendees to join us as accomplices in holding ourselves accountable. At MBLGTACC, there is something for all of us.'
+            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and respects this diversity.'
+            text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and honors this diversity.'
       -
         type: paragraph
         content:
@@ -314,7 +314,7 @@ sections:
         content:
           -
             type: text
-            text: 'And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students'
+            text: 'And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable.'
       -
         type: paragraph
         content:
@@ -395,5 +395,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649007254
+updated_at: 1649007351
 ---
