@@ -286,11 +286,11 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 5
         content:
           -
             type: text
-            text: 'About our theme'
+            text: 'ABOUT OUR THEME'
       -
         type: paragraph
         content:
@@ -369,6 +369,8 @@ sections:
   -
     bard:
       -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -418,6 +420,8 @@ sections:
               -
                 type: bold
             text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students.'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -501,5 +505,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008467
+updated_at: 1649008532
 ---
