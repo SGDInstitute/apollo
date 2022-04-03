@@ -52,7 +52,21 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll continue to announce important dates and highlight key information—for attendees, advisors, presenters, and sponsors—as the conference nears. Get these updates as soon as they''re publicly available by signing up to receive our emails, using the "Stay Connected" form near the bottom of this page.'
+            text: 'We''ll continue to announce important dates and highlight key information—for attendees, advisors, presenters, and sponsors—as the conference nears. Get these updates as soon as they''re publicly available by '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'signing up to receive our emails'
+          -
+            type: text
+            text: ', using the "Stay Connected" form near the bottom of this page.'
       -
         type: paragraph
       -
@@ -95,5 +109,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645311851
+updated_at: 1649029162
 ---
