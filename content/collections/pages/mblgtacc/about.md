@@ -290,6 +290,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'ABOUT OUR THEME'
       -
         type: paragraph
@@ -505,5 +508,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008532
+updated_at: 1649008549
 ---
