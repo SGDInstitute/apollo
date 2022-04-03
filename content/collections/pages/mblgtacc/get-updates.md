@@ -4,9 +4,21 @@ blueprint: pages
 title: 'Get updates'
 sections:
   -
+    header_image: headers/header-chicago_pier.jpg
+    title: 'America''s largest and longest-running conference for LBGTQ+ college students'
+    subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    has_tag: true
+    tag: 'Sign-up for updates'
+    has_button: false
+    block: false
+    outline: false
+    target_blank: false
+    type: header_large
+    enabled: true
+  -
     title: 'Get updates'
     type: header_small
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -187,5 +199,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649000420
+updated_at: 1649000620
 ---
