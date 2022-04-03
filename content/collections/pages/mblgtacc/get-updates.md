@@ -65,64 +65,6 @@ sections:
             formset: newsletter
       -
         type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Follow MBLGTACC on social media'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Get a behind-the-scenes look at MBLGTACC and re-share key news and updates with your student organization, community group, and friends. Follow MBLGTACC on '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://instagram.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Instagram
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://twitter.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Twitter
-          -
-            type: text
-            text: ', and '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://facebook.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Facebook
-          -
-            type: text
-            text: .
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -140,49 +82,40 @@ sections:
         content:
           -
             type: text
-            text: 'Get a behind-the-scenes look at MBLGTACC and re-share key news and updates with your student organization, community group, and friends. Follow MBLGTACC on '
-          -
-            type: text
-            marks:
+            text: 'Get a behind-the-scenes look at MBLGTACC and re-share key news and updates with your student organization, community group, and friends.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'https://instagram.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Instagram
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
+                link: 'https://instagram.com/mblgtacc'
+                text: Instagram
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
               -
-                type: link
-                attrs:
-                  href: 'https://twitter.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Twitter
-          -
-            type: text
-            text: ', and '
-          -
-            type: text
-            marks:
+                link: 'https://twitter.com/mblgtacc'
+                text: Twitter
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
               -
-                type: link
-                attrs:
-                  href: 'https://facebook.com/mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Facebook
-          -
-            type: text
-            text: .
+                link: 'https://facebook.com/mblgtacc'
+                text: Facebook
+                color: btn-green
+                size: btn-base
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
       -
         type: paragraph
     type: content
@@ -199,5 +132,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649000620
+updated_at: 1649000768
 ---
