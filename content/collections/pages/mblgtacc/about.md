@@ -292,6 +292,15 @@ sections:
             type: text
             text: 'A conference for all of us, centering the most marginalized'
       -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: news/madison365-article-photo.jpg
+            inline: false
+      -
+        type: paragraph
+      -
         type: paragraph
         content:
           -
@@ -407,5 +416,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649007497
+updated_at: 1649007632
 ---
