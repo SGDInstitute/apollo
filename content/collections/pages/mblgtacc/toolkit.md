@@ -788,10 +788,20 @@ sections:
           -
             type: text
             text: ' You’ll have an opportunity to review your name and pronouns—and make any corrections—before we print your name badge. At the convention center, visit the registration/check-in desk to pick up your badge and a swag bag. Name badges will be sorted alphabetically, by last name, so be sure everyone in your group stops by to get their own badge.'
+      -
+        type: paragraph
     type: content
+    enabled: true
+  -
+    date: '2022-10-21 19:00'
+    hashtag: 'until #mblgtacc30'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649003273
+updated_at: 1649003321
 description: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
 ---
