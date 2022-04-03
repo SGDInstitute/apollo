@@ -176,38 +176,6 @@ sections:
             text: 'Announcements coming summer 2022. '
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'If you or someone you represent would like to learn more about keynoting or performing, check out our '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'presenters portal'
-          -
-            type: text
-            text: " and\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:support@sgdinstitute.org'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'reach out to us'
-          -
-            type: text
-            text: .
     type: content
     enabled: true
   -
@@ -228,5 +196,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008829
+updated_at: 1649018221
 ---
