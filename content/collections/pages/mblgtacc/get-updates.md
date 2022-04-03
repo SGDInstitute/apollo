@@ -91,6 +91,29 @@ sections:
       -
         type: paragraph
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Visit the full MBLGTACC website'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::37aa19e4-67e4-4140-91b8-52f06bc5d0e0'
+                text: 'MBLGTACC homepage'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
         type: paragraph
     type: content
     enabled: true
@@ -106,5 +129,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649000869
+updated_at: 1649000970
 ---
