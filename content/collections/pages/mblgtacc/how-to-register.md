@@ -317,10 +317,6 @@ sections:
             text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Check out our student group toolkit and checklist '
     type: content
     enabled: true
   -
@@ -334,5 +330,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649005021
+updated_at: 1649005054
 ---
