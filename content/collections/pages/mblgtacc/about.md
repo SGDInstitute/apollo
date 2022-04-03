@@ -69,99 +69,211 @@ sections:
         content:
           -
             type: text
-            text: 'Get the latest MBLGTACC news'
+            text: 'Learn more about the 30th annual MBLGTACC'
+      -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'How to register →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Student group toolkit →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::c36f7410-114f-46ae-bdde-8ac59f66d1da'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Latest news →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Get updates →'
+              -
+                type: paragraph
+            right_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                          rel: null
+                          target: _blank
+                          title: null
+                      -
+                        type: lead
+                    text: 'Schedule →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::37fc3b87-a724-47f9-8608-4b49c6a0b984'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Speakers & Events →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::b51294a7-f6ab-48f6-a5e3-4c60e942b85c'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Hospitality →'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: lead
+                    text: 'Hotels, Transportation, and Parking →'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Follow @mblgtacc'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://instagram.com/mblgtacc'
+                text: Instagram
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://twitter.com/mblgtacc'
+                text: Twitter
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://facebook.com/mblgtacc'
+                text: Facebook
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Check back later for more information, and stay connected with us on social media and over email to be among the first to see conference news.'
-      -
-        type: bullet_list
-        content:
+            text: 'And mark yourself "Attending" on the '
           -
-            type: list_item
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Subscribe to MBLGTACC email updates—enter your email address in the signup box at the bottom of this page. '
+                type: link
+                attrs:
+                  href: 'https://www.facebook.com/events/581871836478991'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Facebook event listing'
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Like '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'http://facebook.com/mblgtacc'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'MBLGTACC on Facebook'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Follow MBLGTACC on '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'http://twitter.com/mblgtacc'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Twitter
-                  -
-                    type: text
-                    text: ' and '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'http://instagram.com/mblgtacc'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: Instagram
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Mark yourself "Attending" on the '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.facebook.com/events/581871836478991'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Facebook event listing'
+            type: text
+            text: '!'
     type: content
     enabled: true
   -
@@ -296,5 +408,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647490277
+updated_at: 1649006677
 ---
