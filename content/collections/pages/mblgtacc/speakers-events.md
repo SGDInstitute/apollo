@@ -147,7 +147,7 @@ sections:
                     marks:
                       -
                         type: italic
-                    text: 'Workshop proposals due May 13 (11:59 p.m. ET).'
+                    text: 'Proposals due May 13 (11:59 p.m. ET)'
               -
                 type: heading
                 attrs:
@@ -164,15 +164,6 @@ sections:
                           target: null
                           title: null
                     text: 'How to Register →'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Workshop proposals and registration both open on April 4.'
       -
         type: paragraph
         content:
@@ -221,5 +212,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649028374
+updated_at: 1649028403
 ---
