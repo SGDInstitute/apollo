@@ -274,20 +274,24 @@ sections:
             text: 'contact the hotel'
           -
             type: text
-            text: ' directly for more information about taxes and fees. '
-          -
-            type: text
-            marks:
+            text: ' directly for more information about taxes and fees.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'Book with the Hilton Columbus Downtown online →'
+                link: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
+                text: 'Book with Hilton Columbus Downtown '
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -607,6 +611,23 @@ sections:
             type: text
             text: ' for the conference and pay online or by mail. Entering the email addresses and names of your group members will generate an automatic email to them, prompting them to complete their registration preferences and individual detail.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to register'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 3
@@ -686,6 +707,23 @@ sections:
           -
             type: text
             text: 'Review the workshop submission form and start your submission(s) early!'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: 'Present at MBLGTACC'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -818,6 +856,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649003478
+updated_at: 1649003667
 description: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
 ---
