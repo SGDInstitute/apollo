@@ -328,8 +328,8 @@ sections:
     num_colors: 2
     bg_color: bg-gray-100
     type: news
-    enabled: true
+    enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649005093
+updated_at: 1649005109
 ---
