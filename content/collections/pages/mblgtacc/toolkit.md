@@ -43,45 +43,30 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Estimate your cost of attendance and secure funding'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Book your hotel'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Arrange your travel'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Coordinate a group sign-up with students from your school, college, or university'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Register your group'
             right_content:
               -
@@ -89,36 +74,24 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Distribute trip info to your group or make sure they receive our emails'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Propose a workshop'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Make your schedule for the weekend'
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '▢ Arrive and check in'
       -
         type: paragraph
@@ -802,5 +775,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649002939
+updated_at: 1649002976
 ---
