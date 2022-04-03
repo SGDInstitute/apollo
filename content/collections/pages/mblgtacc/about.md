@@ -49,8 +49,10 @@ sections:
                 outline: true
                 target_blank: false
             contain: true
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -59,13 +61,6 @@ sections:
           -
             type: text
             text: 'Limitless: Queer Activism of the Future'
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: news/announce-03172022_web-redux-1090x681.jpg
-            inline: false
       -
         type: heading
         attrs:
@@ -81,7 +76,7 @@ sections:
             type: text
             text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -273,6 +268,32 @@ sections:
       -
         type: paragraph
     type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'About our theme'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
+    image: news/announce-03172022_web-redux-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
     enabled: true
   -
     bard:
@@ -472,5 +493,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008129
+updated_at: 1649008439
 ---
