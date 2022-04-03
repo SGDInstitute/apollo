@@ -227,45 +227,6 @@ sections:
                         type: lead
                     text: 'Hotels, Transportation, and Parking →'
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Follow @mblgtacc'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'https://instagram.com/mblgtacc'
-                text: Instagram
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                link: 'https://twitter.com/mblgtacc'
-                text: Twitter
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                link: 'https://facebook.com/mblgtacc'
-                text: Facebook
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
         type: paragraph
     type: content
     enabled: true
@@ -496,6 +457,51 @@ sections:
     bg_color: bg-gray-200
     type: countdown
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Follow @mblgtacc'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://instagram.com/mblgtacc'
+                text: Instagram
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://twitter.com/mblgtacc'
+                text: Twitter
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://facebook.com/mblgtacc'
+                text: Facebook
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008583
+updated_at: 1649008694
 ---
