@@ -101,6 +101,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Advisor Programming →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
                           rel: null
                           target: null
@@ -212,5 +228,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647486412
+updated_at: 1649008829
 ---
