@@ -282,18 +282,7 @@ sections:
         content:
           -
             type: text
-            text: 'Limitless: Queer Activism of the Future'
-      -
-        type: heading
-        attrs:
-          level: 5
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'ABOUT OUR THEME'
+            text: 'Our theme: "Limitless: Queer Activism of the Future"'
       -
         type: paragraph
         content:
@@ -508,5 +497,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008549
+updated_at: 1649008583
 ---
