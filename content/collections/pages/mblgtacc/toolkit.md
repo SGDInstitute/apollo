@@ -37,62 +37,89 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Annotated detail below'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
+                type: lead
             text: '▢ Estimate your cost of attendance and secure funding'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Book your hotel'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Arrange your travel'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Coordinate a group sign-up with students from your school, college, or university'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Register your group'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Distribute trip info to your group or make sure they receive our emails'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Propose a workshop'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Make your schedule for the weekend'
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: '▢ Arrive and check in'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'See below for checklist detail and annotations.'
       -
         type: paragraph
     type: content
@@ -400,12 +427,13 @@ sections:
             type: text
             text: 'Coordinate a group sign-up with students from your school, college, or university'
       -
-        type: heading
-        attrs:
-          level: 4
+        type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: "How to get the word out to your campus about attending the conference.\_"
       -
         type: bullet_list
@@ -456,12 +484,13 @@ sections:
                     type: text
                     text: 'Get in touch with your resource center / multicultural center - can they help with communication or support at all?'
       -
-        type: heading
-        attrs:
-          level: 4
+        type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'What information to gather from students attending from your campus.'
       -
         type: paragraph
@@ -766,5 +795,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649002652
+updated_at: 1649002833
 ---
