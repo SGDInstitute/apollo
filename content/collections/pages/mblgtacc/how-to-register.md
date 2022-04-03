@@ -279,6 +279,12 @@ sections:
           -
             type: text
             text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Check out our student group toolkit and checklist '
     type: content
     enabled: true
   -
@@ -311,9 +317,16 @@ sections:
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'statamic://entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
                 type: lead
             text: 'Check out our student group toolkit and checklist →'
-    image: news/5bfd6142a33f7265219609.jpg
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-200
@@ -321,5 +334,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649004888
+updated_at: 1649004992
 ---
