@@ -110,7 +110,7 @@ sections:
                           title: null
                       -
                         type: lead
-                    text: 'How to register →'
+                    text: 'How to Register →'
               -
                 type: paragraph
                 content:
@@ -126,7 +126,7 @@ sections:
                           title: null
                       -
                         type: lead
-                    text: 'Student group toolkit →'
+                    text: 'Student Group Toolkit →'
               -
                 type: paragraph
                 content:
@@ -142,7 +142,7 @@ sections:
                           title: null
                       -
                         type: lead
-                    text: 'Latest news →'
+                    text: 'Latest News →'
               -
                 type: paragraph
                 content:
@@ -158,7 +158,7 @@ sections:
                           title: null
                       -
                         type: lead
-                    text: 'Get updates →'
+                    text: 'Get Updates →'
               -
                 type: paragraph
             right_content:
@@ -505,5 +505,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008735
+updated_at: 1649008883
 ---
