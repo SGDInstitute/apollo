@@ -111,7 +111,16 @@ sections:
         content:
           -
             type: text
-            text: 'This year''s advisor programming is made possible by the integral relationship between MBLGTACC and the Consortium of Higher Education LGBT Resource Professionals. The Consortium is an organization that envisions higher education environments where LGBTQ people, inclusive of all our intersecting identities, are fully liberated. For more information, visit the '
+            text: 'This year''s advisor programming is made possible by the integral relationship between MBLGTACC and the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Consortium of Higher Education LGBT Resource Professionals'
+          -
+            type: text
+            text: '. The Consortium is an organization that envisions higher education environments where LGBTQ people, inclusive of all our intersecting identities, are fully liberated. For more information, visit the '
           -
             type: text
             marks:
@@ -140,6 +149,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648999277
+updated_at: 1648999301
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
