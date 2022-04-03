@@ -450,14 +450,6 @@ sections:
     type: news
     enabled: false
   -
-    date: '2022-10-21 19:00'
-    hashtag: 'until #mblgtacc30'
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-200
-    type: countdown
-    enabled: true
-  -
     bard:
       -
         type: heading
@@ -502,6 +494,14 @@ sections:
         type: paragraph
     type: content
     enabled: true
+  -
+    date: '2022-10-21 19:00'
+    hashtag: 'until #mblgtacc30'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: countdown
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649008694
+updated_at: 1649008720
 ---
