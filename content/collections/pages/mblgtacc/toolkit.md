@@ -187,8 +187,6 @@ sections:
         type: paragraph
         content:
           -
-            type: hard_break
-          -
             type: text
             text: "As part of your funding request, it may be helpful to highlight the educational benefits of attending MBLGTACC, as well as the resources available to attendees at the vendor fair and by networking with students from other institutions.\_"
       -
@@ -856,6 +854,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649003667
+updated_at: 1649004057
 description: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
 ---
