@@ -57,12 +57,15 @@ tree:
     title: 'General Info'
     children:
       -
+        id: 5e73461f-5a39-4769-82bc-65092e68cd4f
+        entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
+      -
+        id: 5727e788-307e-4dd1-821b-110e3f44436b
+        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+      -
         id: f4a878f4-82e0-405e-80b4-80432cdf3e49
         entry: 59865639-7c77-43d1-a56c-333bc38efccc
         title: About
-      -
-        id: 5e73461f-5a39-4769-82bc-65092e68cd4f
-        entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
       -
         id: a66b308f-eada-4d78-840e-3e04dc534f77
         entry: f014f793-2dc9-4709-8f2f-57a25fc94f8e
