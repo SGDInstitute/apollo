@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649037310
+updated_at: 1649037409
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -14,13 +14,6 @@ sections:
     bard:
       -
         type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Updated April 2022'
       -
         type: set
         attrs:
@@ -44,6 +37,8 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
