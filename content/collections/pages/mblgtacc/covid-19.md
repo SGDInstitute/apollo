@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649037101
+updated_at: 1649037310
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -21,6 +21,29 @@ sections:
               -
                 type: italic
             text: 'Updated April 2022'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://www.columbus.gov/covidtesting/'
+                text: 'Get a COVID test in Columbus'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'mailto:support@sgdinstitute.org'
+                text: 'Report a positive result'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: heading
         attrs:
@@ -136,30 +159,21 @@ sections:
         content:
           -
             type: text
-            text: 'You can find tests locally in Columbus, OH if you feel new symptoms after arriving. It is also requested that all attendees cooperate with contact tracers.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
+            text: 'You can '
+          -
+            type: text
+            marks:
               -
-                link: 'https://www.columbus.gov/covidtesting/'
-                text: 'Get a COVID test in Columbus'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                link: 'mailto:support@sgdinstitute.org'
-                text: 'Report a positive result'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
+                type: link
+                attrs:
+                  href: 'https://www.columbus.gov/covidtesting/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'find tests locally in Columbus, OH'
+          -
+            type: text
+            text: ' if you feel new symptoms after arriving. It is also requested that all attendees cooperate with contact tracers.'
       -
         type: paragraph
       -
