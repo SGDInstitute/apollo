@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648998800
+updated_at: 1649037101
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -130,7 +130,38 @@ sections:
         content:
           -
             type: text
-            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. You can find tests locally in Columbus, OH  through [WHERE/WHO]. It is also recommended that all attendees download the [OHIO EXPOSURE NOTIFICATION APP?] to assist with contact tracing in the event of illness.'
+            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'You can find tests locally in Columbus, OH if you feel new symptoms after arriving. It is also requested that all attendees cooperate with contact tracers.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://www.columbus.gov/covidtesting/'
+                text: 'Get a COVID test in Columbus'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'mailto:support@sgdinstitute.org'
+                text: 'Report a positive result'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
