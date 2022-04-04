@@ -10,6 +10,23 @@ sections:
   -
     bard:
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                text: 'Reserve tickets now'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -234,8 +251,8 @@ sections:
                 color: btn-green
                 size: btn-lg
                 block: false
-                outline: false
-                target_blank: false
+                outline: true
+                target_blank: true
             contain: true
     type: content
     enabled: true
@@ -330,5 +347,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649028695
+updated_at: 1649085293
 ---
