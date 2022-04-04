@@ -32,6 +32,14 @@ sections:
                 outline: true
                 target_blank: true
                 link: 'https://mblgtacc.org/assets/documents/mblgtacc-student-group-toolkit.pdf'
+              -
+                link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
+                text: 'Poster/Flier templates'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: paragraph
@@ -855,6 +863,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649033510
+updated_at: 1649036474
 description: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
 ---
