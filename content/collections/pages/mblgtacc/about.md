@@ -267,70 +267,33 @@ sections:
   -
     bard:
       -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
         content:
           -
             type: text
-            text: 'Follow @mblgtacc'
+            text: 'Our venue: The Greater Columbus Convention Center'
       -
         type: set
         attrs:
           values:
-            type: buttons
-            buttons:
-              -
-                link: 'https://instagram.com/mblgtacc'
-                text: Instagram
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                link: 'https://twitter.com/mblgtacc'
-                text: Twitter
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                link: 'https://facebook.com/mblgtacc'
-                text: Facebook
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
+            type: image
+            image: columbus-gccc-exterior1-featured-1090x681.jpg
+            caption: 'Photo by Feinknopf Photography'
+            inline: false
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'And mark yourself "Attending" on the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.facebook.com/events/581871836478991'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Facebook event listing'
-          -
-            type: text
-            text: '!'
+            text: 'The state-of-the-art, award-winning Greater Columbus Convention Center is one of the busiest convention centers in North America. The facility offers the South Café & Marketplace for quick-service dining, with additional dining located across the street from the Arena District and Short North Arts District. Amenities also include a free-standing nursing parent''s room, an enclosed skybridge to the official conference hotel partner—Hilton Columbus Downtown—and robust WiFi service throughout.'
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
-      -
-        type: paragraph
       -
         type: heading
         attrs:
@@ -500,8 +463,24 @@ sections:
             contain: true
       -
         type: paragraph
-      -
-        type: paragraph
+        content:
+          -
+            type: text
+            text: 'And mark yourself "Attending" on the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.facebook.com/events/581871836478991'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Facebook event listing'
+          -
+            type: text
+            text: '!'
     type: content
     enabled: true
   -
@@ -513,5 +492,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649009242
+updated_at: 1649035898
 ---
