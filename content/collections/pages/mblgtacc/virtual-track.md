@@ -63,12 +63,29 @@ sections:
                 type: bold
             text: 'More information about the virtual track will become available following the conclusion of the workshop submission and selection process.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                text: Register
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
         type: paragraph
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647483133
+updated_at: 1649087625
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
