@@ -21,11 +21,11 @@ sections:
     enabled: true
   -
     articles:
+      - be612a3e-8439-443f-b257-b95bccde7c62
       - 1c227b11-474f-41a8-aa27-82522fdb59e4
       - 103a8572-9a57-4afc-becd-d990631846c3
       - d6aaf3d6-fde3-4041-b5f0-67a13005275f
       - 0542e88f-e68a-4003-a979-5ddd7100257a
-      - 91ec5273-11bf-4f64-bd07-9cccddca154a
     bg_type: color
     num_colors: 2
     bg_color: bg-transparent
@@ -124,5 +124,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649029070
+updated_at: 1649085916
 ---
