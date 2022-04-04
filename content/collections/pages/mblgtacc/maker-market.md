@@ -101,7 +101,7 @@ sections:
             text: 'Register to attend MBLGTACC'
           -
             type: text
-            text: '. Registration is scheduled to open April 4.'
+            text: .
       -
         type: heading
         attrs:
@@ -172,7 +172,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647483574
+updated_at: 1649086460
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
