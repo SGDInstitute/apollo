@@ -105,13 +105,38 @@ sections:
         content:
           -
             type: text
-            text: 'Thanks to our partners at the Consortium of Higher Education LGBT Resource Professionals'
+            text: 'Thanks to our partners'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus, neque vitae ultricies ultricies, augue lectus rutrum purus, sit amet pharetra felis magna et justo. Etiam vitae lorem et nunc volutpat tincidunt eget sit amet mauris. Donec sit amet venenatis dui, eget tincidunt augue. Aenean ut lacus lectus. Quisque sit amet tincidunt diam, eu pretium velit. Mauris gravida arcu a mi mattis tempus. Ut porta dui in augue tristique vestibulum.'
+            text: 'This year''s advisor programming is made possible by the integral relationship between MBLGTACC and the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Consortium of Higher Education LGBT Resource Professionals'
+          -
+            type: text
+            text: '. The Consortium is an organization that envisions higher education environments where LGBTQ people, inclusive of all our intersecting identities, are fully liberated. For more information, visit the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://lgbtcampus.org'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Consortium website'
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -124,5 +149,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647702918
+updated_at: 1648999301
+description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---

@@ -4,12 +4,12 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648127722
+updated_at: 1649085675
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
     title: 'Limitless: Queer Activism of the Future'
-    subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Registration and workshop RFPs open on April 4.'
+    subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
     tag: 'October 21-23, 2022  |  Columbus'
     link: 'entry::0542e88f-e68a-4003-a979-5ddd7100257a'
@@ -31,11 +31,11 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
-            text: 'Registration opens April 4'
+            text: 'Registration now open'
       -
         type: paragraph
         content:
@@ -45,7 +45,6 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: buttons
             buttons:
@@ -55,7 +54,7 @@ sections:
                 color: btn-white
                 size: btn-lg
                 block: false
-                outline: false
+                outline: true
                 target_blank: false
             contain: true
       -
@@ -107,11 +106,11 @@ sections:
     enabled: true
   -
     articles:
+      - be612a3e-8439-443f-b257-b95bccde7c62
       - 1c227b11-474f-41a8-aa27-82522fdb59e4
       - 103a8572-9a57-4afc-becd-d990631846c3
       - d6aaf3d6-fde3-4041-b5f0-67a13005275f
       - 0542e88f-e68a-4003-a979-5ddd7100257a
-      - 91ec5273-11bf-4f64-bd07-9cccddca154a
     bg_type: gradient
     num_colors: 2
     from_color: from-black

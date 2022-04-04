@@ -1,6 +1,5 @@
 ---
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
-published: false
 blueprint: pages
 title: 'How to Register'
 sections:
@@ -10,6 +9,23 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                text: 'Reserve tickets now'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -51,19 +67,7 @@ sections:
             text: and
           -
             type: text
-            text: ' digital only programming.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'When purchasing tickets to attend in person, you''ll have an option to '
+            text: ' digital-only programming. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022. When purchasing tickets to attend in person, you''ll have an option to '
           -
             type: text
             marks:
@@ -109,7 +113,7 @@ sections:
             text: 'virtual track'
           -
             type: text
-            text: ' programming is available on the '
+            text: ' programming will be available on the '
           -
             type: text
             marks:
@@ -147,6 +151,10 @@ sections:
           -
             type: text
             text: .
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -243,15 +251,58 @@ sections:
                 color: btn-green
                 size: btn-lg
                 block: false
-                outline: false
-                target_blank: false
+                outline: true
+                target_blank: true
             contain: true
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
       -
         type: heading
         attrs:
           level: 2
+        content:
+          -
+            type: text
+            text: 'Organizing a delegation or small group'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: lead
+            text: 'Check out our student group toolkit and checklist →'
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -265,21 +316,24 @@ sections:
         content:
           -
             type: text
-            text: 'Please '
-          -
-            type: text
-            marks:
+            text: 'Please contact us with any questions about the registration process and we''ll get back to you as soon as possible.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'contact us'
-          -
-            type: text
-            text: ' with any questions about the registration process and we''ll get back to you as soon as possible.'
+                link: 'entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -290,8 +344,8 @@ sections:
     num_colors: 2
     bg_color: bg-gray-100
     type: news
-    enabled: true
+    enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647114262
+updated_at: 1649085300
 ---

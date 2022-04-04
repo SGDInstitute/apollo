@@ -25,6 +25,14 @@ sections:
           listable: hidden
       -
         import: content
+      -
+        handle: html_field
+        field:
+          display: 'HTML Field'
+          type: html
+          icon: html
+          listable: hidden
+          instructions_position: above
   sidebar:
     display: Sidebar
     fields:

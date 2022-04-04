@@ -1,0 +1,6 @@
+id: 67b2089d-4304-4412-b673-573f5d32080c
+enabled: true
+source: /organize-a-delegation
+destination: /toolkit
+type: '301'
+match_type: exact

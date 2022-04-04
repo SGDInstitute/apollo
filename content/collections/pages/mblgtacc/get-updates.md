@@ -1,30 +1,141 @@
 ---
-id: 926fc2a4-74c3-4a51-9f25-dba4581fccb3
-origin: 26ea90f0-0b0a-4e8a-8b33-dd4c90c5cb74
+id: dca874eb-b7c9-4175-828d-75840c0f89f1
+blueprint: pages
+title: 'Get updates'
 sections:
   -
-    title: 'Sign-up to receive MBLGTACC updates'
-    type: header_small
+    header_image: headers/header-chicago_pier.jpg
+    title: 'America''s largest and longest-running conference for LBGTQ+ college students'
+    subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    has_tag: true
+    tag: 'Sign-up for updates'
+    has_button: false
+    block: false
+    outline: false
+    target_blank: false
+    type: header_large
     enabled: true
   -
     bard:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
-            text: 'Don''t miss a thing!'
+            text: 'Don''t miss a thing! Get key MBLGTACC news, right to your inbox '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Sign-up to receive updates about the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. We respect and value your privacy, and won''t share your contact information with anyone without your consent.'
+            text: 'We respect and value your privacy, and won''t share your contact information with anyone without your consent.'
+      -
+        type: set
+        attrs:
+          values:
+            type: form
+            formset: newsletter
+      -
+        type: paragraph
     type: content
     enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Explore more now'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Follow MBLGTACC on social media'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Get a behind-the-scenes look at MBLGTACC and re-share key news and updates with your student organization, community group, and friends.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://instagram.com/mblgtacc'
+                text: Instagram
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://twitter.com/mblgtacc'
+                text: Twitter
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'https://facebook.com/mblgtacc'
+                text: Facebook
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Visit the full MBLGTACC website'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::37aa19e4-67e4-4140-91b8-52f06bc5d0e0'
+                text: 'MBLGTACC homepage'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    type: content
+    enabled: true
+  -
+    date: '2022-10-21 19:00'
+    hashtag: '#mblgtacc30'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: countdown
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646412225
+updated_at: 1649001033
 ---

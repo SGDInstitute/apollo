@@ -27,6 +27,9 @@ tree:
         id: 06130305-c1a8-4e1a-8b4f-795eee34a0b3
         entry: 277a370e-1f77-4660-b9e0-17e7873a7443
       -
+        id: c0b9d46e-2c55-444c-b533-dd3e80f4eb60
+        entry: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
+      -
         id: 77a0c8b8-14a5-4225-8c67-b52e61c50233
         entry: a38e19d8-b356-4a9f-af80-dfdc71f8d76d
   -
@@ -61,6 +64,9 @@ tree:
         id: 5e73461f-5a39-4769-82bc-65092e68cd4f
         entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
       -
+        id: 5727e788-307e-4dd1-821b-110e3f44436b
+        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+      -
         id: a66b308f-eada-4d78-840e-3e04dc534f77
         entry: f014f793-2dc9-4709-8f2f-57a25fc94f8e
       -
@@ -77,9 +83,6 @@ tree:
         id: 0b07256e-7db7-451f-9621-f8c2f2813c5f
         entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
         title: 'News & Updates'
-      -
-        id: 884dee4a-82bf-426d-a7e1-ddc4b17dd662
-        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
       -
         id: 670330e5-7360-47af-8899-8fdd91716afb
         entry: e117e019-bc65-41b2-9cde-fad0b8a5c20c

@@ -1,6 +1,5 @@
 ---
 id: e117e019-bc65-41b2-9cde-fad0b8a5c20c
-published: false
 blueprint: pages
 title: Policies
 sections:
@@ -23,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: 'Every conference location is different, resulting in constantly changing policies, expectations, and impacts on our attendees.  While we work tirelessly to ensure each location is welcoming, some policies can impact attendees in unforeseen ways.  Please be sure to review this year''s policies in advance of traveling to the conference.'
+            text: 'Every conference location is different and, often, policies governing aspects public life can also differ. We work tirelessly to ensure each location is welcoming and know that some policies can impact attendees in unforeseen ways. Please be sure to review this year''s policies in advance of traveling to the conference.'
       -
         type: heading
         attrs:
@@ -37,14 +36,14 @@ sections:
         content:
           -
             type: text
-            text: 'We ask in the interest of everyone''s comfort and wellbeing that no firearm be brought into our conference spaces. Though handgun laws in Wisconsin permit open carry and licensed concealed carry, no firearms or weapons will be permitted on Monona Terrace Community and Convention Center property. Per Monona Terrace policy: "Violators will be considered trespassers and subject to forfeiture or arrest." '
+            text: 'We ask in the interest of everyone''s comfort and wellbeing that no firearm be brought into our conference spaces. Though firearm laws in Ohio permit open carry and licensed concealed carry, no firearms or weapons will be permitted on Greater Columbus Convention Center property. Per GCCC policy: "The carrying of firearms and/or other weapons of any kind within the facility is limited to “officers of the law” unless prior written approval is attained from Greater Columbus Convention Center Management," such as for a hypothetical firearm convention. (There are no firearm conventions scheduled on or around the time of MBLGTACC.) '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://www.mononaterrace.com/salesguide/2015/6)%20Policies%20&%20Procedures/2-Concealed%20and%20Open%20Carry%20Procedures.pdf'
+                  href: 'https://columbusconventions.com/wp-content/uploads/2018/02/General-Exhibitor-Rules-and-Regulatons021418.pdf'
                   rel: null
                   target: _blank
                   title: null
@@ -64,33 +63,39 @@ sections:
         content:
           -
             type: text
-            text: 'The State of Wisconsin Smoking Law 101.123 went into effect July 5, 2010. The law eliminates smoking in '
+            text: 'Smoking is prohibited in the Greater Columbus Convention Center and, under state law, in all other public places and places of employment in Ohio. The law does not regulate smoking outdoors unless smoke is entering a regulated area or smoking is occurring on an outdoor patio that does not meet the criteria to permit smoking. The smoking law gives a proprietor the right to declare outside areas as non-smoking areas or for local municipalities to enact laws that are more stringent than the Ohio Smoke-Free Workplace Act. '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://www.cityofmadison.com/news/state-smoking-law-in-madison-and-dane-county'
+                  href: 'https://odh.ohio.gov/know-our-programs/smoke-free-workplace-program/resources/faqssmokefreeworkplaceact'
                   rel: null
                   target: _blank
                   title: null
-            text: 'all public places and workplaces'
-          -
-            type: text
-            text: '. Under Wisconsin law, persons under 18 years of age cannot purchase cigarettes, nicotine products, including e-cigarettes, or tobacco products.'
+              -
+                type: italic
+            text: 'More information »'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'At the conference venue, the William T. Evjue Gardens is a non-smoking area as designated by Madison ordinance. The international no-smoking symbol is posted in multiple locations. Smoking is allowed on Olin Terrace and outside the main entrance on Level 4, which is the top level of the parking structure.'
-      -
-        type: paragraph
-        content:
+            text: 'Cannabis is illegal under Ohio marijuana laws except for the limited use of cannabidiol (CBD) oil for medicinal purposes. '
           -
             type: text
-            text: 'Cannabis is illegal under Wisconsin marijuana laws except for the limited use of cannabidiol (CBD) oil for medicinal purposes. '
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://norml.org/laws/ohio-penalties-2/'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'More information »'
       -
         type: heading
         attrs:
@@ -98,28 +103,28 @@ sections:
         content:
           -
             type: text
-            text: 'Sexual Assault Victim Amnesty Law'
+            text: 'Ohio Good Samaritan Law'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'According to the Wisconsin Department of Justice: "Under the [Wisconsin Sexual Assault Victim Amnesty] law, victims and bystanders who report a sexual assault, request emergency assistance and stay on the scene or who encounter law enforcement at a medical facility at which the victim is being treated cannot be issued drinking citations or campus underage drinking sanctions if they are cooperative with law enforcement." '
+            text: 'Call no matter what. Ohio’s Good Samaritan Law provides immunity for minor drug possession to people seeking help during a drug overdose. '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'https://www.doj.state.wi.us/ocvs/campus-sexual-assault'
+                  href: 'https://odh.ohio.gov/know-our-programs/oh-against-od/good-samaritan-law/call-no-matter-what#:~:text=Ohio''s%20Good%20Samaritan%20Law%20provides,for%20treatment%20within%2030%20days.'
                   rel: null
                   target: _blank
                   title: null
               -
                 type: italic
-            text: 'Learn more »'
+            text: 'More information »'
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -364,6 +369,26 @@ sections:
     type: content
     enabled: true
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Refund policy'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Full refunds are available for canceled orders until September 28, 2022. Cancellations received after this date will not be eligible for a refund. Refunds are not available for attendees who choose not to attend the event if the cancellation is not received before the stated cancellation deadline. Orders may be transferred to another attendee at no charge, at any time. Cancellations or transfers must be requested by the user who created the order and should include the name of the attendee. To request a cancellation and refund, or to transfer your ticket to another attendee, please email support@sgdinstitute.org.'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
     limit: 3
     pagination: false
     exclude: false
@@ -374,6 +399,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647979253
+updated_at: 1648998540
 template: default
+description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---

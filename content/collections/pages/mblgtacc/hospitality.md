@@ -1,6 +1,5 @@
 ---
 id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
-published: false
 blueprint: pages
 title: Hospitality
 sections:
@@ -10,6 +9,15 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'We''re committed to the attendee experience and will be sharing more confirmed information leading up to the conference. '
       -
         type: heading
         attrs:
@@ -73,7 +81,7 @@ sections:
         content:
           -
             type: text
-            text: 'An advisor social will be held during MBLGTACC 2021. More information will be available at a later date.'
+            text: 'An advisor social will be held during MBLGTACC 2022. More information will be available at a later date.'
       -
         type: heading
         attrs:
@@ -87,7 +95,7 @@ sections:
         content:
           -
             type: text
-            text: 'At Monona Terrace, all attendees are invited to use the facility''s guest wireless network for the duration of the conference. Check back later for access instructions.'
+            text: 'At the Greater Columbus Convention Center, all attendees are invited to use the facility''s guest wireless network for the duration of the conference. Check back later for access instructions.'
       -
         type: heading
         attrs:
@@ -101,7 +109,7 @@ sections:
         content:
           -
             type: text
-            text: 'Information about other hospitality amenities will be available at a later date.'
+            text: 'Information about other hospitality amenities, including STI/HIV testing, mental wellness resources, etc. will be available at a later date.'
     type: content
     enabled: true
   -
@@ -115,6 +123,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645051335
+updated_at: 1649005807
 template: default
 ---

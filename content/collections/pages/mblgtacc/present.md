@@ -4,13 +4,13 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647483836
+updated_at: 1649028199
 sections:
   -
     bg_type: image
     bg_image: headers/header_group.jpg
     num_colors: 2
-    title: 'Present at MBLGTACC 2022'
+    title: 'Present a workshop at MBLGTACC 2022'
     type: header
     enabled: true
   -
@@ -23,7 +23,151 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Workshop RFPs will open on April 4, 2022.'
+            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Submit workshop proposal'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Key dates'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Workshop proposals accepted starting: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'April 4, 2022'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Live chat and FAQ for prospective presenters: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'April 24, 2022 '
+                  -
+                    type: text
+                    text: '(time TBA)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Submission deadline: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'May 13, 2022'
+                  -
+                    type: text
+                    text: ' (11:59 p.m. ET)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Decision notification: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'mid-July, 2022'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presenter confirmation: TBA'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - Milestone
+                  - Date
+              -
+                cells:
+                  - 'Workshop proposals accepted starting'
+                  - 'April 4, 2022'
+              -
+                cells:
+                  - 'Live chat and FAQ for prospective presenters'
+                  - 'April 24, 2022 (time TBA)'
+              -
+                cells:
+                  - 'Submission deadline'
+                  - 'May 13, 2022 (11:59 p.m. ET)'
+              -
+                cells:
+                  - 'Decision notification'
+                  - 'mid-July, 2022'
+              -
+                cells:
+                  - 'Presenter confirmation'
+                  - TBA
+            full_width: true
+    type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
       -
         type: heading
         attrs:
@@ -31,19 +175,74 @@ sections:
         content:
           -
             type: text
-            text: 'Lead a workshop'
+            text: 'Attend our live chat and Q&A session on April 24'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+            text: 'Want to submit a proposal, but have questions? Join us for a live chat and Q&A, led by MBLGTACC 2022 student planners and Institute volunteer staff, and ask us all your questions about the process, how to submit, how to break down your idea into a solid proposal, etc. Check back here later for details on how to join the session.'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Register for the live chat'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Eligibility and process'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Eligibility
       -
         type: paragraph
         content:
           -
             type: text
             text: 'We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Process
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
       -
         type: heading
         attrs:
@@ -73,19 +272,50 @@ sections:
             type: text
             text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks.'
       -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Form opens April 4'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+    type: content
+    enabled: true
+  -
+    bard:
+      -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
-            text: 'Proposal submission and review'
+            text: 'Attend our live chat and Q&A session on April 24'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Proposals are reviewed by a committee comprising students, staff, and advisors. By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
+            text: 'Want to submit a proposal, but have questions? Join us for a live chat and Q&A, led by MBLGTACC 2022 student planners and Institute volunteer staff, and ask us all your questions about the process, how to submit, how to break down their idea into a solid proposal, etc. Check back here later for details on how to join the session.'
+    type: content
+    enabled: false
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Benefit
       -
         type: paragraph
         content:
@@ -94,24 +324,12 @@ sections:
             marks:
               -
                 type: bold
-            text: '***The workshop proposal form will open on April 4, 2022.***'
+            text: 'We are delighted—for the first time ever—to officially offer complimentary conference registrations to all presenters of accepted workshops.'
+          -
+            type: text
+            text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
       -
         type: paragraph
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                text: 'Proposal closed'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
     type: content
     enabled: true
   -
@@ -171,7 +389,7 @@ sections:
             type: text
             text: .
     type: content
-    enabled: true
+    enabled: false
   -
     limit: 3
     pagination: false
@@ -180,6 +398,14 @@ sections:
     num_colors: 2
     bg_color: bg-gray-100
     type: news
+    enabled: false
+  -
+    date: '2022-05-13 23:59'
+    hashtag: 'until workshop proposal deadline'
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: countdown
     enabled: true
 template: default
 ---

@@ -57,7 +57,7 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Schedule of events →'
+                    text: 'Schedule of Events →'
               -
                 type: heading
                 attrs:
@@ -101,12 +101,44 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Advisor Programming →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
                           rel: null
                           target: null
                           title: null
                     text: 'Virtual Track →'
             right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'How to Register →'
               -
                 type: heading
                 attrs:
@@ -131,13 +163,13 @@ sections:
                     marks:
                       -
                         type: italic
-                    text: 'Workshop proposals and registration both open on April 4.'
+                    text: 'Proposals due May 13 (11:59 p.m. ET)'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We''ll be able to share more information on specific workshops following the conclusion of the workshop submission and selection process. Information on advisor programming is forthcoming, as well.'
+            text: 'We''ll be able to share more information on specific workshops following the conclusion of the workshop submission and selection process.'
       -
         type: paragraph
     type: content
@@ -160,38 +192,6 @@ sections:
             text: 'Announcements coming summer 2022. '
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'If you or someone you represent would like to learn more about keynoting or performing, check out our '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'presenters portal'
-          -
-            type: text
-            text: " and\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:support@sgdinstitute.org'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'reach out to us'
-          -
-            type: text
-            text: .
     type: content
     enabled: true
   -
@@ -212,5 +212,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647486412
+updated_at: 1649028490
 ---
