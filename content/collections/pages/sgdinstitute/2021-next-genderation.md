@@ -17,7 +17,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
   -
     bard:
       -
@@ -27,33 +27,20 @@ sections:
         content:
           -
             type: text
-            text: 'Tuesday, November 16, 2021'
+            text: 'Watch the conversation'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=yh2medTXKtkf'
+            caption: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: '2:30 pm Pacific / 4:30 pm Central / 5:30 pm Eastern'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Virtual
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: 'On November 16, 2021, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
           -
             type: text
             marks:
@@ -67,7 +54,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' bring you the 5th annual Transgender Justice Teach-in. This year''s conversation, "The next genderation: Building liberated futures with queer and trans youth," brings together '
+            text: ' hosted the 5th annual Transgender Justice Teach-in. This year''s conversation, "The Next Genderation: Building Liberated Futures with Queer and Trans Youth," brought together '
           -
             type: text
             marks:
@@ -145,49 +132,9 @@ sections:
         content:
           -
             type: text
-            text: 'The latest surge in anti-trans legislation targeting trans and nonbinary youth makes it more important than ever to center, listen and defer to TGQ young people. Join us for a panel discussion featuring four TGQ organizers, educators and change-makers who will share what they’re witnessing in their own communities, discuss how their experiences inform the direction of their projects, and provide ideas on how to be aligned with the needs of trans, nonbinary and intersex youth.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Closed captioning will be available. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Registrants will receive a link via email to access the stream shortly before the event.'
-      -
-        type: paragraph
-      -
-        type: paragraph
+            text: 'The latest surge in anti-trans legislation targeting trans and nonbinary youth makes it more important than ever to center, listen and defer to TGQ young people. This panel discussion featured four TGQ organizers, educators and change-makers who will shared what they’re witnessing in their own communities, discussed how their experiences inform the direction of their projects, and provided ideas on how to be aligned with the needs of trans, nonbinary and intersex youth.'
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.d.umn.edu/sgei/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Sexuality & Gender Equity Initiatives'
-          -
-            type: text
-            text: ' bring you the 5th annual Transgender Justice Teach-in.'
-    type: content
-    enabled: false
   -
     bard:
       -
@@ -198,8 +145,6 @@ sections:
           -
             type: text
             text: Panelists
-      -
-        type: paragraph
       -
         type: set
         attrs:
@@ -421,8 +366,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: null
                 text: 'Registration closed'
                 color: btn-green
                 size: btn-lg
@@ -433,7 +376,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -530,7 +473,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
                 text: 'Watch last year''s event'
                 color: btn-white
@@ -545,9 +487,9 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646406320
+    enabled: false
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1649608050
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
