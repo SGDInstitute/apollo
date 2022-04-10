@@ -33,7 +33,7 @@ sections:
         attrs:
           values:
             type: video
-            video: 'https://www.youtube.com/watch?v=yh2medTXKtkf'
+            video: 'https://youtu.be/yh2medTXKtk'
             caption: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
       -
         type: paragraph
@@ -489,7 +489,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1649608050
+updated_at: 1649608109
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
