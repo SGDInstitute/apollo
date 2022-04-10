@@ -55,11 +55,14 @@ sections:
             type: text
             text: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
       -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=yh2medTXKtk'
+            caption: 'The Next Generation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
+      -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'A recording will be made available to the public starting in spring 2022.'
       -
         type: set
         attrs:
@@ -67,7 +70,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc'
                 text: 'Panelist bios'
                 color: btn-green
@@ -100,7 +102,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
                 text: 'Panelist bios'
                 color: btn-green
@@ -494,8 +495,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
-                link: null
                 text: 'Registration closed'
                 color: btn-green
                 size: btn-lg
@@ -603,7 +602,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
                 text: 'Watch last year''s event'
                 color: btn-white
@@ -619,8 +617,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646407300
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1649607728
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
