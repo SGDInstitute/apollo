@@ -1,0 +1,6 @@
+id: c6ffbce6-6fbc-4395-8d3c-7cdffdac028f
+enabled: true
+source: /news/take-the-last-bite-s2e4-binders-bridesmaid-dresses-and-burritos
+destination: /news/take-the-last-bite-s2e4
+type: '301'
+match_type: exact
