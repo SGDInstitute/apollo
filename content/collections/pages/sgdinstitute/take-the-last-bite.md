@@ -15,7 +15,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 2 streaming now on Apple, Google, and Spotify'
-    link: 'entry::92698e3f-8c8e-43a7-8347-dd1a6b6a71fc'
+    link: 'entry::00f9f1e3-9526-40ad-8944-2a1848f5c430'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -482,7 +482,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647778990
+updated_at: 1649770945
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
