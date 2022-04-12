@@ -5,7 +5,7 @@ title: Home
 template: default
 sections:
   -
-    header_image: headers/homepage-hero1.jpg
+    header_image: headers/49606973951_b20a184e84_o.png
     title: 'Connect. Educate. Empower.'
     subtitle: 'We re-envision an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity.'
     has_tag: false
@@ -56,7 +56,7 @@ sections:
     type: countdown
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649771141
+updated_at: 1649771488
 description: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
 image:
   - headers/homepage-hero1.jpg
