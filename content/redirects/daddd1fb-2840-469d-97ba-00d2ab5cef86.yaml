@@ -1,0 +1,6 @@
+id: daddd1fb-2840-469d-97ba-00d2ab5cef86
+enabled: true
+source: /news/join-the-institute-s-board-of-directors
+destination: /news/join-the-board-of-directors
+type: '301'
+match_type: exact
