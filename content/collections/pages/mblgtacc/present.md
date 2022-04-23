@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649086365
+updated_at: 1650719837
 sections:
   -
     bg_type: image
@@ -81,10 +81,10 @@ sections:
                     marks:
                       -
                         type: bold
-                    text: 'April 24, 2022 '
+                    text: 'May 1, 2022 '
                   -
                     type: text
-                    text: '(time TBA)'
+                    text: '(2:00 p.m. EDT)'
           -
             type: list_item
             content:
@@ -102,7 +102,7 @@ sections:
                     text: 'May 13, 2022'
                   -
                     type: text
-                    text: ' (11:59 p.m. ET)'
+                    text: ' (11:59 p.m. EDT)'
           -
             type: list_item
             content:
@@ -176,7 +176,7 @@ sections:
         content:
           -
             type: text
-            text: 'Attend our live chat and Q&A session on April 24'
+            text: 'Attend our live chat and Q&A session on May 1'
       -
         type: paragraph
         content:
@@ -197,6 +197,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+                link: 'https://us06web.zoom.us/meeting/register/tZclde6tpjwvGdPXsF_e_rFNKsBZ6SCR1vju'
             contain: true
       -
         type: paragraph
