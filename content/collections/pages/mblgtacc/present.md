@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651505187
+updated_at: 1651505395
 sections:
   -
     bg_type: image
@@ -127,39 +127,6 @@ sections:
                   -
                     type: text
                     text: 'Presenter confirmation: TBA'
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - Milestone
-                  - Date
-              -
-                cells:
-                  - 'Workshop proposals accepted starting'
-                  - 'April 4, 2022'
-              -
-                cells:
-                  - 'Live chat and FAQ for prospective presenters'
-                  - 'April 24, 2022 (time TBA)'
-              -
-                cells:
-                  - 'Submission deadline'
-                  - 'May 13, 2022 (11:59 p.m. ET)'
-              -
-                cells:
-                  - 'Decision notification'
-                  - 'mid-July, 2022'
-              -
-                cells:
-                  - 'Presenter confirmation'
-                  - TBA
-            full_width: true
     type: content
     enabled: true
   -
@@ -242,7 +209,7 @@ sections:
         content:
           -
             type: text
-            text: 'Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
+            text: 'Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
       -
         type: heading
         attrs:
