@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651690970
+updated_at: 1651691193
 sections:
   -
     bg_type: image
@@ -282,6 +282,35 @@ sections:
           -
             type: text
             text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Questions?'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2022 workshops'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: paragraph
     type: content
