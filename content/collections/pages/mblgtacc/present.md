@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651505701
+updated_at: 1651690926
 sections:
   -
     bg_type: image
@@ -127,49 +127,6 @@ sections:
     type: content
     enabled: true
   -
-    column_widths: third_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Attend our live chat and Q&A session on May 1'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Want to submit a proposal, but have questions? Join us for a live chat and Q&A, led by MBLGTACC 2022 student planners and Institute volunteer staff, and ask us all your questions about the process, how to submit, how to break down your idea into a solid proposal, etc. Check back here later for details on how to join the session.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                text: 'Register for the live chat'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-                link: 'https://us06web.zoom.us/meeting/register/tZclde6tpjwvGdPXsF_e_rFNKsBZ6SCR1vju'
-            contain: true
-      -
-        type: paragraph
-    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-200
-    type: two_column
-    enabled: false
-  -
     bard:
       -
         type: heading
@@ -261,6 +218,10 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
     bard:
       -
         type: heading
@@ -269,15 +230,36 @@ sections:
         content:
           -
             type: text
-            text: 'Attend our live chat and Q&A session on April 24'
+            text: '(Re)watch our May 1 live chat and Q&A session'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Want to submit a proposal, but have questions? Join us for a live chat and Q&A, led by MBLGTACC 2022 student planners and Institute volunteer staff, and ask us all your questions about the process, how to submit, how to break down their idea into a solid proposal, etc. Check back here later for details on how to join the session.'
-    type: content
-    enabled: false
+            text: 'Want to submit a proposal, but have questions? We held an information and live Q&A session on May 1,  led by MBLGTACC 2022 student planners and Institute volunteer staff. '
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Watch recording'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+                link: 'https://youtu.be/77drD8XAdRk'
+            contain: true
+      -
+        type: paragraph
+    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: true
   -
     bard:
       -

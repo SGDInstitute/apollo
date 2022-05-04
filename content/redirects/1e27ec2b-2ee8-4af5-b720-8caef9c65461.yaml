@@ -1,0 +1,6 @@
+id: 1e27ec2b-2ee8-4af5-b720-8caef9c65461
+enabled: true
+source: /join-board
+destination: /news/join-the-board-of-directors
+type: '302'
+match_type: exact
