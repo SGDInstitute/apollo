@@ -408,33 +408,51 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: 'The Midwest Institute for Sexuality and Gender Diversity maintains additional policies across the organization that apply to MBLGTACC, including those related to '
           -
             type: text
             marks:
               -
                 type: bold
+              -
+                type: lead
             text: privacy
           -
             type: text
+            marks:
+              -
+                type: lead
             text: ', '
           -
             type: text
             marks:
               -
                 type: bold
+              -
+                type: lead
             text: 'copyright and intellectual property'
           -
             type: text
+            marks:
+              -
+                type: lead
             text: ', and '
           -
             type: text
             marks:
               -
                 type: bold
+              -
+                type: lead
             text: non-discrimination
           -
             type: text
+            marks:
+              -
+                type: lead
             text: .
       -
         type: set
@@ -470,7 +488,7 @@ sections:
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651766702
+updated_at: 1651766716
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
