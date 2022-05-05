@@ -38,7 +38,7 @@ class Prose extends Tags
         $darkText = $this->luminosityContrast($r1, $g1, $b1, $r3, $g3, $b3);
 
         if($lightText > $darkText) {
-            return 'prose prose-light'; // contrast is better with light text, thus dark prose
+            return 'prose prose-invert'; // contrast is better with light text, thus dark prose
         } else {
             return 'prose'; // contrast is better with dark text, thus normal prose
         }
