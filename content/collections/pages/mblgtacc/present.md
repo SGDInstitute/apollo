@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651691193
+updated_at: 1651762337
 sections:
   -
     bg_type: image
@@ -81,7 +81,24 @@ sections:
                     marks:
                       -
                         type: bold
-                    text: 'May 1, 2022'
+                    text: 'May 1, 2022 '
+                  -
+                    type: text
+                    text: (
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.youtube.com/watch?v=77drD8XAdRk&ab_channel=MidwestInstituteforSexualityandGenderDiversity'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'watch recording'
+                  -
+                    type: text
+                    text: )
           -
             type: list_item
             content:
@@ -163,7 +180,7 @@ sections:
         content:
           -
             type: text
-            text: 'Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
+            text: 'Complete your submission by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
       -
         type: heading
         attrs:
@@ -191,10 +208,35 @@ sections:
             text: 'tracks for the 30th annual conference'
           -
             type: text
-            text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks.'
+            text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Learn more about workshop tracks '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
+                  rel: null
+                  target: null
+                  title: null
+            text: →
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -216,49 +258,6 @@ sections:
                 link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
             contain: true
     type: content
-    enabled: true
-  -
-    column_widths: quarter_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: '(Re)watch our May 1 live chat and Q&A session'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Want to submit a proposal, but have questions? We held an information and live Q&A session on May 1,  led by MBLGTACC 2022 student planners and Institute volunteer staff. '
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                text: 'Watch recording'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-                link: 'https://youtu.be/77drD8XAdRk'
-            contain: true
-      -
-        type: paragraph
-    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-200
-    type: two_column
     enabled: true
   -
     bard:
@@ -287,7 +286,55 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
     bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '(Re)watch our information session and Q&A live chat'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'This session was held on May 1, 2022 and was led by MBLGTACC 2022 student planners and Institute volunteer staff. '
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Watch recording'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+                link: 'https://youtu.be/77drD8XAdRk'
+            contain: true
+      -
+        type: paragraph
+    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: true
+  -
+    bard:
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -311,6 +358,8 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
       -
         type: paragraph
     type: content
