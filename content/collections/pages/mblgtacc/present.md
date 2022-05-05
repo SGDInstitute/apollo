@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651762337
+updated_at: 1651762465
 sections:
   -
     bg_type: image
@@ -180,7 +180,21 @@ sections:
         content:
           -
             type: text
-            text: 'Complete your submission by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
+            text: 'Complete your '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: submission
+          -
+            type: text
+            text: ' by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
       -
         type: heading
         attrs:
@@ -194,7 +208,7 @@ sections:
         content:
           -
             type: text
-            text: 'In 2022, we''re expanding MBLGTACC''s workshop tracks. With stakeholder feedback and input from our recent public survey, we recently announced the '
+            text: 'In 2022, we''re expanding MBLGTACC''s workshop tracks. With stakeholder feedback and input from a  public survey, we selected and announced the '
           -
             type: text
             marks:
@@ -209,6 +223,9 @@ sections:
           -
             type: text
             text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks. '
+      -
+        type: paragraph
+        content:
           -
             type: text
             marks:
