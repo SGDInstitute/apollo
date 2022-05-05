@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1651788553
+updated_at: 1651788956
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -92,8 +92,6 @@ sections:
     enabled: false
   -
     bard:
-      -
-        type: paragraph
       -
         type: heading
         attrs:
