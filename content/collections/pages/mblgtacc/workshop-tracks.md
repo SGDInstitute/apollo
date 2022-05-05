@@ -36,6 +36,18 @@ sections:
       -
         type: paragraph
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Below, find a list of tracks, track descriptions, and FAQs.'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
         type: heading
         attrs:
           level: 2
@@ -109,8 +121,6 @@ sections:
                   -
                     type: text
                     text: 'Virtual Track'
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -588,7 +598,7 @@ sections:
         content:
           -
             type: text
-            text: 'Please do! The workshop RFP will open April 4, 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
+            text: 'Please do! The workshop RFP is open from April 4 - May 13, 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
           -
             type: text
             marks:
@@ -628,7 +638,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop submissions open April 4'
+            text: 'Workshop submissions open through May 13'
       -
         type: paragraph
         content:
@@ -639,21 +649,20 @@ sections:
                 type: lead
             text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: lead
-            text: 'Learn more and submit a proposal →'
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: 'Learn more & submit a proposal'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
     image: news/tracks-feedback-2022_web-redux-1090x681.jpg
     bg_type: color
     num_colors: 2
@@ -662,7 +671,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648128044
+updated_at: 1651764666
 description: 'Tracks will be structured as a curated series of workshops centered around a common theme or topic, and will aid attendees in choosing which workshops to attend based on their interests and aspirations. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
