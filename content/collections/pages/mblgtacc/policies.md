@@ -390,7 +390,7 @@ sections:
     enabled: true
   -
     id: institute-policies
-    column_widths: one_fifth_right
+    column_widths: two_fifths_right
     left_column: content
     right_column: image
     center_columns: false
@@ -402,24 +402,55 @@ sections:
         content:
           -
             type: text
-            text: 'Learn more about Institute-wide policies'
+            text: 'Institute-wide policies'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains additional policies across the organization that apply to MBLGTACC, including those related to privacy, copyright and intellectual property, and non-discrimination standards. '
+            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains additional policies across the organization that apply to MBLGTACC, including those related to '
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/legal-privacy'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Learn more'
+                type: bold
+            text: privacy
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'copyright and intellectual property'
+          -
+            type: text
+            text: ', and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: non-discrimination
+          -
+            type: text
+            text: .
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://sgdinstitute.org/legal-privacy'
+                text: 'Learn more'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: paragraph
     image: news/board-recruit-apr2022-1090x681.jpg
@@ -439,7 +470,7 @@ sections:
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651766569
+updated_at: 1651766683
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
