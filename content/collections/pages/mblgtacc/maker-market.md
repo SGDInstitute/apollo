@@ -147,21 +147,20 @@ sections:
             type: text
             text: 'Think you might have something to bring into the Maker Market? Have questions?'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: lead
-            text: 'Learn more and apply →'
+                link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
+                text: 'Learn more & Apply'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
       -
         type: paragraph
     image: vendor-fair-2017-from-stairs-1090x681.jpg
@@ -172,7 +171,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649086460
+updated_at: 1651765492
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
