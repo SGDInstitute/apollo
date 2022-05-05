@@ -542,21 +542,7 @@ sections:
         content:
           -
             type: text
-            text: 'We will be calling for workshop proposals later in the spring ('
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/news/announcing-the-30th-annual-mblgtacc'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'read the announcement'
-          -
-            type: text
-            text: '). In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
+            text: 'In that workshop submission form, presenters will be asked if their session should be considered for inclusion in any of the tracks.'
       -
         type: heading
         attrs:
@@ -564,13 +550,13 @@ sections:
         content:
           -
             type: text
-            text: 'When will workshop submissions open?'
+            text: 'When will workshop submissions open and close?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'April 4, 2022.'
+            text: 'We''ll accept proposals from April 4 through May 13, 2022. '
       -
         type: heading
         attrs:
@@ -598,7 +584,7 @@ sections:
         content:
           -
             type: text
-            text: 'Please do! The workshop RFP is open from April 4 - May 13, 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
+            text: 'Please do! The workshop RFP is open from April 4 through May 13, 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
           -
             type: text
             marks:
@@ -671,7 +657,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651764666
+updated_at: 1651764816
 description: 'Tracks will be structured as a curated series of workshops centered around a common theme or topic, and will aid attendees in choosing which workshops to attend based on their interests and aspirations. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
