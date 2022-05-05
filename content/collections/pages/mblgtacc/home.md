@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1651788491
+updated_at: 1651788534
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -63,7 +63,7 @@ sections:
     below_price: 'per person'
     bg_type: color
     num_colors: 2
-    bg_color: bg-green-500
+    bg_color: bg-gray-700
     type: two_column
     enabled: true
     center_columns: false
