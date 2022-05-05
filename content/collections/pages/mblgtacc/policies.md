@@ -397,9 +397,50 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
+  -
+    id: institute-policies
+    column_widths: one_fifth_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Learn more about Institute-wide policies'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains additional policies across the organization that apply to MBLGTACC, including those related to the privacy of your information, copyright and intellectual property, and non-discrimination standards.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/legal-privacy'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Learn more'
+    image: logos/institute-logo_horiz-color.svg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648998540
+updated_at: 1651766354
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
