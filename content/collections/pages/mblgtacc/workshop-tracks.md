@@ -346,7 +346,7 @@ sections:
         content:
           -
             type: text
-            text: "College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initaitives, and opportunties. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.\_"
+            text: "College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.\_"
       -
         type: paragraph
         content:
@@ -668,7 +668,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651765187
+updated_at: 1652210492
 description: 'Tracks will be structured as a curated series of workshops centered around a common theme or topic, and will aid attendees in choosing which workshops to attend based on their interests and aspirations. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
