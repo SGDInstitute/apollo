@@ -273,7 +273,66 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization, including those related to privacy, copyright and intellectual property, and non-discrimination.'
+            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization, including those related to '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: lead
+            text: privacy
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: lead
+            text: 'copyright and intellectual property'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: ', and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: lead
+            text: non-discrimination
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: .
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::fca78f6d-023b-4830-860d-e3ed26a30ff4'
+                text: 'View policies'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     image: news/board-recruit-apr2022-1090x681.jpg
     bg_type: color
     num_colors: 2
@@ -281,7 +340,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652209758
+updated_at: 1652209828
 image:
   - headers/header-chicago_pier.jpg
 ---
