@@ -96,6 +96,14 @@ sections:
             right_column: content
             left_content:
               -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Key resources'
+              -
                 type: paragraph
                 content:
                   -
@@ -162,6 +170,14 @@ sections:
               -
                 type: paragraph
             right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: Details
               -
                 type: paragraph
                 content:
@@ -492,5 +508,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649087505
+updated_at: 1652206420
 ---
