@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652215952
+updated_at: 1652216015
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -181,23 +181,20 @@ sections:
                 type: lead
             text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
               -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/toolkit'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: bold
-              -
-                type: lead
-            text: 'Check out our student group toolkit and checklist →'
+                link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                text: 'View toolkit & checklist'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     num_colors: 2
