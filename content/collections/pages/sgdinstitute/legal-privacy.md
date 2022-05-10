@@ -215,8 +215,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:marketing@sgdinstitute.org'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: marketing@sgdinstitute.org
           -
             type: text
@@ -242,8 +243,9 @@ sections:
                 type: link
                 attrs:
                   href: 'http://lcweb.loc.gov/copyright/legislation/dmca.pdf'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'http://lcweb.loc.gov/copyright/legislation/dmca.pdf'
           -
             type: text
@@ -342,8 +344,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:ip@sgdinstitute.org'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: ip@sgdinstitute.org
           -
             type: text
@@ -389,7 +392,7 @@ sections:
         content:
           -
             type: text
-            text: "The Midwest Institute for Sexuality and Gender Diversity complies with all applicable federal and state laws regarding nondiscrimination and affirmative action. The Institute is committed to a policy of equity and justice or all persons and does not discriminate on the basis of gender, gender identification or expression; sexual orientation or identity; romantic orientation or identity; affectional preference; sex; race; ethnicity; color; age; physical handicap or disability; class, socio-economic status, or background; religious, spiritual, or secular beliefs; political affiliation and views; public assistance status; veteran status; marital or familial status; weight; national origin; status of residency; or openness of any of the aforementioned; or any other basis prohibited by law.\_"
+            text: "The Midwest Institute for Sexuality and Gender Diversity complies with all applicable federal and state laws regarding nondiscrimination and affirmative action. The Institute is committed to a policy of equity and justice for all persons and does not discriminate on the basis of gender, gender identification or expression; sexual orientation or identity; romantic orientation or identity; affectional preference; sex; race; ethnicity; color; age; physical handicap or disability; class, socio-economic status, or background; religious, spiritual, or secular beliefs; political affiliation and views; public assistance status; veteran status; marital or familial status; weight; national origin; status of residency; or openness of any of the aforementioned; or any other basis prohibited by law.\_"
           -
             type: hard_break
       -
@@ -405,8 +408,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/about/leadership/roze-brooks'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'R.B. Brooks'
           -
             type: text
@@ -418,8 +422,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:roze@sgdinstitute.org'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: roze@sgdinstitute.org
           -
             type: text
@@ -431,8 +436,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/about/leadership/nick-pfost'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'Nick Pfost'
           -
             type: text
@@ -444,8 +450,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:nick@sgdinstitute.org'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: nick@sgdinstitute.org
           -
             type: text
@@ -462,8 +469,8 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379154
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1652209530
 image:
   - headers/header_open-mic.jpg
 ---
