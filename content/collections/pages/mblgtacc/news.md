@@ -25,7 +25,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Top news, news by year, and more. Sign-up for email updates to be among the first to learn about key updates, deadlines, and information.'
+            text: 'Top news, news by year, and more. Sign-up for email updates to be among the first to learn about key announcements, deadlines, and information.'
       -
         type: set
         attrs:
@@ -308,5 +308,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652208135
+updated_at: 1652208316
 ---
