@@ -17,6 +17,24 @@ sections:
           -
             type: text
             text: 'MBLGTACC updates and featured news'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                text: 'Get email updates'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -65,10 +83,6 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
-      -
-        type: paragraph
-      -
-        type: paragraph
       -
         type: paragraph
         content:
@@ -432,5 +446,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652207407
+updated_at: 1652207640
 ---
