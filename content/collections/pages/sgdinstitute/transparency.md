@@ -273,7 +273,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization, including those related to '
+            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization that guide our work and engagement with others, including those related to '
           -
             type: text
             marks:
@@ -340,7 +340,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652209828
+updated_at: 1652209920
 image:
   - headers/header-chicago_pier.jpg
 ---
