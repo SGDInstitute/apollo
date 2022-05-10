@@ -251,8 +251,39 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638378995
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Institute-wide policies'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization, including those related to privacy, copyright and intellectual property, and non-discrimination.'
+      -
+        type: paragraph
+    image: news/board-recruit-apr2022-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1652209726
 image:
   - headers/header-chicago_pier.jpg
 ---
