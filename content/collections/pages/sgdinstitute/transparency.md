@@ -14,7 +14,10 @@ sections:
         content:
           -
             type: text
-            text: 'The Institute is a 501(c)(3) organization, incorporated in the state of Michigan and dedicated to the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.'
+            marks:
+              -
+                type: lead
+            text: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan and dedicated to the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.'
       -
         type: heading
         attrs:
@@ -44,6 +47,23 @@ sections:
                 content:
                   -
                     type: text
+                    text: '2021-22 annual report and financials'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Available summer 2022'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
                     text: '2019-20 annual report and financials'
               -
                 type: paragraph
@@ -55,9 +75,11 @@ sections:
                         type: link
                         attrs:
                           href: 'https://issuu.com/sgdinstitute/docs/annual-report-2020'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'View on Issuu →'
+            right_content:
               -
                 type: heading
                 attrs:
@@ -76,10 +98,10 @@ sections:
                         type: link
                         attrs:
                           href: 'https://issuu.com/sgdinstitute/docs/annual_report_2018-19'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'View on Issuu →'
-            right_content:
               -
                 type: heading
                 attrs:
@@ -98,8 +120,9 @@ sections:
                         type: link
                         attrs:
                           href: 'https://issuu.com/sgdinstitute/docs/annual_report_2016-2017'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: 'View on Issuu →'
     type: content
     enabled: true
@@ -118,7 +141,7 @@ sections:
         content:
           -
             type: text
-            text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review. '
+            text: 'As a 501(c)(3) public charity, the Institute is required to file an IRS Form 990 or 990-EZ. Past filings are available for public review. Our Tax-ID (EIN) number is 81-1788851.'
       -
         type: set
         attrs:
@@ -240,8 +263,9 @@ sections:
                         type: link
                         attrs:
                           href: 'https://sgdinstitute.org/assets/transparency/audit/FYE2020-Audit-Report-2020-12-18.pdf'
-                          target: _blank
                           rel: null
+                          target: _blank
+                          title: null
                     text: '2020 audit report'
       -
         type: paragraph
@@ -340,7 +364,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652209920
+updated_at: 1652210163
 image:
   - headers/header-chicago_pier.jpg
 ---
