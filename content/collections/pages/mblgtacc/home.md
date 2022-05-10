@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652206077
+updated_at: 1652215789
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -93,6 +93,8 @@ sections:
   -
     bard:
       -
+        type: paragraph
+      -
         type: heading
         attrs:
           level: 2
@@ -153,9 +155,9 @@ sections:
     type: content
     enabled: false
   -
-    column_widths: quarter_left
-    left_column: image
-    right_column: content
+    column_widths: third_right
+    left_column: content
+    right_column: image
     center_columns: false
     bard:
       -
@@ -165,7 +167,10 @@ sections:
         content:
           -
             type: text
-            text: 'Join the MBLGTACC Discord'
+            marks:
+              -
+                type: bold
+            text: 'Organizing a delegation or small group'
       -
         type: paragraph
         content:
@@ -174,13 +179,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'We have a full virtual community space set up for you.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Join other participants on your computer or on the free mobile app to keep connected during and after the conference. Find conversation threads, resources, and Zoom links for every keynote and workshop session. And join identity spaces and hangout channels to chat about pets, plants, outfits of the day, gayming, crafting, and more.'
+            text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
       -
         type: paragraph
         content:
@@ -190,17 +189,81 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'http://go.wisc.edu/mblgtaccdiscord'
+                  href: 'https://mblgtacc.org/toolkit'
                   rel: null
                   target: _blank
                   title: null
-            text: 'Join MBLGTACC on Discord now.'
-    image: discord-logo-for-homepage.png
+              -
+                type: bold
+              -
+                type: lead
+            text: 'Check out our student group toolkit and checklist →'
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-green-600
+    bg_color: bg-gray-100
     type: two_column
-    enabled: false
+    enabled: true
+  -
+    bard:
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Get engaged'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'From attending to presenting to sponsoring and more, be part of what makes MBLGTACC special. '
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to Register'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: Present
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
+                text: 'Sponsor & Exhibit'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: content
+    enabled: true
   -
     bard:
       -
@@ -236,15 +299,6 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: false
-  -
-    limit: 3
-    pagination: false
-    exclude: false
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-gray-300
-    type: news
     enabled: false
   -
     date: '2022-10-21 19:00'
