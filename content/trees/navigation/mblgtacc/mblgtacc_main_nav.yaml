@@ -51,7 +51,7 @@ tree:
       -
         id: 60d46104-48c2-4478-b8dc-aa78785a94a8
         title: Donate
-        url: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
+        url: 'https://apps.sgdinstitute.org/donations/create'
   -
     id: 8f5f21a1-9b60-4eae-8a10-753e8b7274e1
     title: 'General Info'
