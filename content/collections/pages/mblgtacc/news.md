@@ -18,9 +18,17 @@ sections:
             type: text
             text: 'MBLGTACC updates and featured news'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Top news, news by year, and more. Sign-up for email updates to be among the first to learn about key updates, deadlines, and information.'
+      -
         type: set
         attrs:
-          enabled: false
           values:
             type: buttons
             buttons:
@@ -58,19 +66,11 @@ sections:
         content:
           -
             type: text
-            text: 'All MBLGTACC news'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Below, find all news, announcements and updates, blog posts, media mentions, and other written updates from the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
+            text: 'MBLGTACC 2022 news'
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -230,16 +230,18 @@ sections:
           -
             type: text
             text: 'November 18, 2021'
-      -
-        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
-            text: 'MBLGTACC 2021'
+            text: 'All MBLGTACC news'
       -
         type: paragraph
         content:
@@ -247,148 +249,8 @@ sections:
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::2ab7504d-31cf-48ff-8777-4e784eb12db2'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Madison.com: UW, Edgewood students bring queer college conference to Madison'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'October 8, 2021'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::101f5a19-3e45-4668-8fa2-a9d49da967ef'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Welcome to MBLGTACC 2021'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'October 8, 2021'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::91ec5273-11bf-4f64-bd07-9cccddca154a'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Madison365.com: Madison to host 29th annual Midwest conference for queer & trans students this weekend'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'October 7, 2021'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e35611d9-f5a1-4954-ac10-c7cb9f48c8f7'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: '7 things you need to know before coming to MBLGTACC'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'October 4, 2021'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::db4aeb33-945a-4b3f-9b33-10c590f3a526'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'Announcing the OPE monthly giving program to further advance queer success in the Midwest'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'October 26, 2020'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::5b13c47a-aa3d-44a8-8f10-f9c9deaa8082'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'It’s official: MBLGTACC 2021 is moving to October 8-10'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'September 3, 2020'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::2733ecf4-c051-4d02-9506-5de49bee5864'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'UW-Madison to host 29th annual MBLGTACC next February'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'February 24, 2020'
-      -
-        type: paragraph
+                type: lead
+            text: 'Below, find all news, announcements and updates, blog posts, media mentions, and other written updates about the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
     type: content
     enabled: true
   -
@@ -446,5 +308,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652207640
+updated_at: 1652208135
 ---
