@@ -10,14 +10,6 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'MBLGTACC updates and featured news'
-      -
         type: paragraph
         content:
           -
@@ -25,7 +17,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Top news, news by year, and more. Sign-up for email updates to be among the first to learn about key announcements, deadlines, and information.'
+            text: 'Sign-up for email updates to be among the first to learn about key announcements, deadlines, and information.'
       -
         type: set
         attrs:
@@ -42,7 +34,21 @@ sections:
                 target_blank: false
             contain: true
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC updates and featured news'
     type: content
     enabled: true
   -
@@ -66,7 +72,7 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC 2022 news'
+            text: 'MBLGTACC 2022 news (complete listing)'
       -
         type: set
         attrs:
@@ -308,5 +314,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652208316
+updated_at: 1652454244
 ---
