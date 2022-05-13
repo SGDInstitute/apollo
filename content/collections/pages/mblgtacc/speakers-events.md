@@ -90,6 +90,7 @@ sections:
                           target: null
                           title: null
                     text: 'Maker Market →'
+            right_content:
               -
                 type: heading
                 attrs:
@@ -122,48 +123,6 @@ sections:
                           target: null
                           title: null
                     text: 'Virtual Track →'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'How to Register →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Present at MBLGTACC →'
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Proposals due May 13 (11:59 p.m. EDT)'
       -
         type: paragraph
         content:
@@ -212,5 +171,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651765366
+updated_at: 1652454556
 ---
