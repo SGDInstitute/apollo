@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1651764462
+updated_at: 1652503756
 sections:
   -
     bg_type: image
@@ -31,13 +31,12 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Submit workshop proposal'
+                text: 'Proposal form closed'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
-                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
             contain: true
       -
         type: paragraph
@@ -180,21 +179,7 @@ sections:
         content:
           -
             type: text
-            text: 'Complete your '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: submission
-          -
-            type: text
-            text: ' by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
+            text: 'Complete your submission by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
       -
         type: heading
         attrs:
