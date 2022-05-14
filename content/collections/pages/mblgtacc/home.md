@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652216015
+updated_at: 1652503494
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -12,8 +12,8 @@ sections:
     subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
     tag: 'October 21-23, 2022  |  Columbus'
-    link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-    text: 'Submit a workshop proposal'
+    link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+    text: Register
     color: btn-green
     size: btn-xl
     block: true
@@ -21,7 +21,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -231,14 +231,6 @@ sections:
               -
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'How to Register'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-              -
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: Present
                 color: btn-green
                 size: btn-lg
                 block: false
