@@ -1,0 +1,6 @@
+id: cc07e296-f11b-4b90-9ace-f29aac80dbb8
+enabled: true
+source: /maker-market
+destination: /speakers-events/maker-market
+type: '302'
+match_type: exact
