@@ -1,0 +1,6 @@
+id: 713a0ca7-3bbc-4706-b208-fa658942628e
+enabled: true
+source: /news/take-the-last-bite-s2e6-1
+destination: /news/take-the-last-bite-s2e7
+type: '301'
+match_type: exact
