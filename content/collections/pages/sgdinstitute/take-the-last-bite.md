@@ -15,7 +15,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 2 streaming now on Apple, Google, and Spotify'
-    link: 'entry::0994d36e-0184-40c1-90aa-5d256956811b'
+    link: 'entry::7b408b68-c7a0-41fa-b001-badb23528e77'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -85,6 +85,25 @@ sections:
           -
             type: text
             text: 'Season 2'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::7b408b68-c7a0-41fa-b001-badb23528e77'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 7: Trans Policy Issues: Why Are We Talking about Sports? [redux] '
+          -
+            type: text
+            text: →
       -
         type: heading
         attrs:
@@ -558,7 +577,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652195860
+updated_at: 1653398606
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
