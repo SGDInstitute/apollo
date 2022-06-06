@@ -92,6 +92,14 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::cf91038c-d579-45cb-b3da-dd4ff6fecc67'
+                  rel: null
+                  target: null
+                  title: null
             text: 'Ep. 8: I Guess I''ll Vote *shrug* →'
       -
         type: heading
@@ -585,7 +593,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1654555977
+updated_at: 1654556026
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
