@@ -1,0 +1,6 @@
+id: fb68d2c0-acbb-4899-8590-b8dbf3e29467
+enabled: true
+source: /news/take-the-last-bite-season-two
+destination: /news/take-the-last-bite-s2-streaming-now
+type: '301'
+match_type: exact
