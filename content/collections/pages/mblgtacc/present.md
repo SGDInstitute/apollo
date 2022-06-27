@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652534937
+updated_at: 1656361206
 sections:
   -
     bg_type: image
@@ -142,7 +142,7 @@ sections:
                     marks:
                       -
                         type: bold
-                    text: 'mid-July, 2022'
+                    text: 'June 27, 2022'
           -
             type: list_item
             content:
@@ -151,7 +151,16 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Presenter confirmation: TBA'
+                    text: 'Presenter confirmation deadline: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'July 11, 2022'
+                  -
+                    type: text
+                    text: ' (11:59 p.m. EDT)'
     type: content
     enabled: true
   -
@@ -199,7 +208,7 @@ sections:
         content:
           -
             type: text
-            text: 'New for presenters: Workshop tracks'
+            text: 'Workshop tracks'
       -
         type: paragraph
         content:
