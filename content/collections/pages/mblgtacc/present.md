@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656432479
+updated_at: 1656432549
 sections:
   -
     bg_type: image
@@ -175,6 +175,23 @@ sections:
               -
                 type: lead
             text: 'Workshop decisions were sent out to aspiring presenters on Monday, June 27. Check your email or login to view the status of your submission, and confirm your presentation by July 11. '
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::fbdfa512-dcf6-4309-b036-b0ddcd4372e8'
+                text: 'Next steps'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     image: news/mblgtacc-2020-workshop-panel-3-1090x681.jpg
     bg_type: color
     num_colors: 2
