@@ -53,7 +53,7 @@ sections:
     enabled: true
   -
     articles:
-      - ca546ec3-e1bb-40db-822a-7e01b783a310
+      - fbdfa512-dcf6-4309-b036-b0ddcd4372e8
       - 34580b4c-d99d-440b-a0de-2ee25124f2ef
       - be612a3e-8439-443f-b257-b95bccde7c62
       - 1c227b11-474f-41a8-aa27-82522fdb59e4
@@ -89,6 +89,27 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::fbdfa512-dcf6-4309-b036-b0ddcd4372e8'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'Workshop decisions sent out—Secure your spot by confirming by July 11'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'June 28, 2022'
       -
         type: paragraph
         content:
@@ -314,5 +335,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652454301
+updated_at: 1656432037
 ---
