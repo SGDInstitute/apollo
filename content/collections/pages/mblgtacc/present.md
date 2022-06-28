@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656361206
+updated_at: 1656432479
 sections:
   -
     bg_type: image
@@ -15,17 +15,6 @@ sections:
     enabled: true
   -
     bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: lead
-            text: 'The workshop submission period has concluded. '
       -
         type: paragraph
         content:
@@ -164,6 +153,35 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Workshop decisions sent out—Secure your spot by confirming by July 11'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Workshop decisions were sent out to aspiring presenters on Monday, June 27. Check your email or login to view the status of your submission, and confirm your presentation by July 11. '
+    image: news/mblgtacc-2020-workshop-panel-3-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
+  -
     bard:
       -
         type: heading
@@ -281,7 +299,7 @@ sections:
                 link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
             contain: true
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -353,7 +371,7 @@ sections:
     num_colors: 2
     bg_color: bg-gray-200
     type: two_column
-    enabled: true
+    enabled: false
   -
     bard:
       -
