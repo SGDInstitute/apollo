@@ -39,14 +39,10 @@ sections:
     users:
       - dcd190a9-db32-4705-ad6a-2795ef6f415b
       - 19a591a2-66c3-420a-9e1e-d76651f2bf19
-      - 093d501c-4e2b-4e72-891a-48924219cffb
       - 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
       - cc1d6f85-bab6-480d-8bd1-226c3d628cb2
       - 64bfc780-ec30-4700-965f-318f71d3f2b3
       - ce0032cc-cdd1-4805-bbf4-8e95e3272619
-      - 7f42dd16-20ab-4975-a14c-25ce48be94a6
-      - 55e452ec-2a93-4c16-a9a4-f4f8981044cf
-      - 67003621-9088-401e-8179-40b984ddbcc0
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-200
@@ -88,6 +84,63 @@ sections:
         content:
           -
             type: text
+            text: Collaborators
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our work is supported by input and advice from outstanding accomplices.'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'TK Morton'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Mai Jakubowski'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Robert Alberts'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Noah Barth'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Interested in joining the board?'
       -
         type: paragraph
@@ -115,7 +168,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:justin@sgdinstitute.org,stephanie@sgdinstitute.org?subject=Board%20of%20Directors'
                 text: 'Contact Us About Joining the Board'
                 color: btn-green
@@ -127,7 +179,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -158,7 +210,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -175,8 +226,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646022339
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1656432336
 image:
   - headers/header-hug.JPG
 ---
