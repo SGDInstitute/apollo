@@ -72,7 +72,7 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC 2022 news (complete listing)'
+            text: 'MBLGTACC 2022 news'
       -
         type: set
         attrs:
@@ -268,7 +268,7 @@ sections:
         content:
           -
             type: text
-            text: 'All MBLGTACC news'
+            text: 'All MBLGTACC news (complete listing)'
       -
         type: paragraph
         content:
@@ -335,5 +335,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656432037
+updated_at: 1656432674
 ---
