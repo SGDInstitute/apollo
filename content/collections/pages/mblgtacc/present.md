@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656432549
+updated_at: 1656432578
 sections:
   -
     bg_type: image
@@ -339,8 +339,6 @@ sections:
           -
             type: text
             text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -391,8 +389,6 @@ sections:
     enabled: false
   -
     bard:
-      -
-        type: paragraph
       -
         type: heading
         attrs:
