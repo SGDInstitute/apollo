@@ -70,6 +70,9 @@ sections:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
       - 02412e98-c0f6-4624-add0-5dbb57f95da7
+      - fe58fa2e-d72a-40dd-9b70-378f09c2d7f4
+      - 124f7c83-15d4-4f13-81c7-97b227982c92
+      - e6fb3a3e-86e1-496d-9118-4b75c0002cbd
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-200
@@ -226,8 +229,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1656432336
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1658349674
 image:
   - headers/header-hug.JPG
 ---
