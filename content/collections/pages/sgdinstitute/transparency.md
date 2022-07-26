@@ -275,9 +275,33 @@ sections:
       -
         type: paragraph
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Charitable solicitation registration'
       -
-        type: paragraph
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/documents/SGD_Institute-Charitable_Solicitation_Registration-58908.pdf'
+                          rel: null
+                          target: null
+                          title: null
+                    text: '2022-23 certificate of registration'
     type: content
     enabled: true
   -
@@ -368,8 +392,8 @@ sections:
     bg_color: bg-gray-100
     type: two_column
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656265778
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1658852445
 image:
   - headers/header-chicago_pier.jpg
 ---
