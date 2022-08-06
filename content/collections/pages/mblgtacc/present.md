@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656432578
+updated_at: 1659799582
 sections:
   -
     bg_type: image
@@ -184,7 +184,7 @@ sections:
               -
                 link: 'entry::fbdfa512-dcf6-4309-b036-b0ddcd4372e8'
                 text: 'Next steps'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
@@ -195,7 +195,7 @@ sections:
     image: news/mblgtacc-2020-workshop-panel-3-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-100
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
