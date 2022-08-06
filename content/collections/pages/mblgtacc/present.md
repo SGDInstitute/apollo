@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659799582
+updated_at: 1659799666
 sections:
   -
     bg_type: image
@@ -165,7 +165,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop decisions sent out—Secure your spot by confirming by July 11'
+            text: 'Workshop decisions sent out'
       -
         type: paragraph
         content:
@@ -174,7 +174,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Workshop decisions were sent out to aspiring presenters on Monday, June 27. Check your email or login to view the status of your submission, and confirm your presentation by July 11. '
+            text: 'Workshop decisions were sent out to aspiring presenters on Monday, June 27. Check your email or login to view the status of your submission. Presenters were asked to confirm their sessions by July 11.'
       -
         type: set
         attrs:
