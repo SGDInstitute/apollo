@@ -269,7 +269,7 @@ sections:
     image: news/announce-03172022_web-redux-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-200
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -500,5 +500,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652504459
+updated_at: 1659816246
 ---
