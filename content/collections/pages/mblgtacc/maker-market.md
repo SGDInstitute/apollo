@@ -166,12 +166,12 @@ sections:
     image: vendor-fair-2017-from-stairs-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-transparent
+    bg_color: bg-white
     type: two_column
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659799813
+updated_at: 1659799832
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
