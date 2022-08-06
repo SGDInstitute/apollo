@@ -3,8 +3,8 @@ id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 blueprint: pages
 title: About
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638378902
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1659816143
 sections:
   -
     title: 'About the Institute'
@@ -49,8 +49,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://mblgtacc.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: MBLGTACC
           -
             type: text
@@ -62,8 +63,9 @@ sections:
                 type: link
                 attrs:
                   href: /programs
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'other programs'
           -
             type: text
@@ -84,7 +86,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
-                button: null
             contain: true
       -
         type: paragraph
@@ -109,8 +110,9 @@ sections:
                 type: link
                 attrs:
                   href: /about/philosophy
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'our philosophy'
           -
             type: text
@@ -122,8 +124,9 @@ sections:
                 type: link
                 attrs:
                   href: /giving
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: "support\_"
           -
             type: text
@@ -135,8 +138,9 @@ sections:
                 type: link
                 attrs:
                   href: /contact
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'let us know'
           -
             type: text
@@ -152,12 +156,11 @@ sections:
               -
                 link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
                 text: 'Contact us'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: false
                 target_blank: false
-                button: null
             contain: true
       -
         type: paragraph
@@ -169,7 +172,7 @@ sections:
     exclude: false
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-100
+    bg_color: bg-green-600
     type: news
     enabled: true
 image:
