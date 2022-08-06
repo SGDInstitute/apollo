@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659799227
+updated_at: 1659799467
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -188,7 +188,7 @@ sections:
               -
                 link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
                 text: 'View toolkit & checklist'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
@@ -197,7 +197,7 @@ sections:
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-100
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
