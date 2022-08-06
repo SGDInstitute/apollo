@@ -280,25 +280,26 @@ sections:
                 type: lead
             text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                text: 'Open toolkit & checklist'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
         type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: lead
-            text: 'Check out our student group toolkit and checklist →'
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-200
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -347,5 +348,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649085300
+updated_at: 1659800396
 ---
