@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656431958
+updated_at: 1659799227
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -51,7 +51,7 @@ sections:
               -
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'Registration and ticket options'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
@@ -60,14 +60,13 @@ sections:
       -
         type: paragraph
     price: $85
-    below_price: 'per person'
+    below_price: 'per person (in-person experience)'
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-900
+    bg_color: bg-green-600
     type: two_column
     enabled: true
     center_columns: false
-    above_price: 'In-person experience'
   -
     title: 'Keynotes and featured session'
     event: mblgtacc-2021-keynote
