@@ -4,7 +4,7 @@ blueprint: pages
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659816143
+updated_at: 1659816207
 sections:
   -
     title: 'About the Institute'
@@ -172,7 +172,7 @@ sections:
     exclude: false
     bg_type: color
     num_colors: 2
-    bg_color: bg-green-600
+    bg_color: bg-gray-100
     type: news
     enabled: true
 image:
