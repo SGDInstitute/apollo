@@ -22,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: 'We empower students of diverse sexualities and genders to inspire sustainable change; lead higher education colleagues in relevant and inclusive practices; and advance knowledge of sexuality and gender through advocacy and expansive programming.'
+            text: 'We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
       -
         type: heading
         attrs:
@@ -36,7 +36,7 @@ sections:
         content:
           -
             type: text
-            text: 'We re-envision an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity.'
+            text: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
       -
         type: heading
         attrs:
@@ -66,7 +66,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'We provide opportunities that are considerate of varying intellectual, physical, and financial capacities and levels of college readiness'
+                    text: 'We provide opportunities that are considerate of varying intellectual, physical, and financial capacities.'
             right_content:
               -
                 type: heading
@@ -84,7 +84,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Through intentional collaboration, we liaise for various social justice efforts to build sustainable coalitions and strengthen relationships across difference.'
+                    text: 'We view community as an ongoing act of love, establishing intentional, mutually beneficial relationships that strengthen our collective capacities.'
       -
         type: paragraph
       -
@@ -108,7 +108,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'We uplift the voices of systemically disadvantaged students and colleagues as well as act as accomplices to all those participating in anti-oppression work.'
+                    text: 'We act to improve conditions for queer and trans people across the Midwest, informed by and prioritizing the most marginalized within our community. We collaborate with and support others engaged in anti-oppression work.'
             right_content:
               -
                 type: heading
@@ -123,7 +123,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'We emphasize the importance of culturally relevant academic experiences and expanding understandings of students’ integration into campus life.'
+                    text: 'We prioritize culturally relevant learning experiences and education that is not confined to academic institutions.'
       -
         type: paragraph
       -
@@ -147,7 +147,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'We vow transparency in our processes, take ownership of our limitations and commit to continuous self-work. Through this modeling, we expect and challenge our colleagues and partners to do the same.'
+                    text: 'We vow transparency in our processes, take ownership of our limitations and commit to continuous self-work. Through this modeling, we expect and challenge our community and corporate partners to do the same.'
             right_content:
               -
                 type: heading
@@ -162,15 +162,79 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'We situate ourselves in this work with determination to annihilate systemic barriers, combat deeply ingrained beliefs and practices that negatively impact our communities, and conduct our work with urgency toward an inevitable revolution.'
-      -
-        type: paragraph
-      -
-        type: paragraph
+                    text: 'We work to dismantle systemic barriers, combat deeply ingrained beliefs and practices that harm our communities, and conduct our work with urgency toward an inevitable revolution.'
     type: content
     enabled: true
   -
     bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Guiding principles'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In addition to our mission, vision, and values, our work is shaped by our guiding principles:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Opposing oppression'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Rescripting and challenging higher education'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Adapting to changing contexts and integrating into existing movement work'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Using expansive and accessible language'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Rejecting disproportionate wealth distribution and capitalism'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Learn more about our guiding principles, our origin story, and our work in our organizational philosophy. '
       -
         type: paragraph
       -
@@ -187,7 +251,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -204,8 +267,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646022314
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1660245151
 image:
   - headers/header-chicago_pier.jpg
 ---
