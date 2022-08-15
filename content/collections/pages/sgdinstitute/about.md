@@ -3,8 +3,8 @@ id: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 blueprint: pages
 title: About
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659816207
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1660575909
 sections:
   -
     title: 'About the Institute'
@@ -27,7 +27,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'At the Midwest Institute for Sexuality and Gender Diversity, we re-envision a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
+            text: 'At the Midwest Institute for Sexuality and Gender Diversity, we envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
       -
         type: heading
         attrs:
