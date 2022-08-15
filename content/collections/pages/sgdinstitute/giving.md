@@ -55,7 +55,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity.'
+            text: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
       -
         type: paragraph
         content:
@@ -459,7 +459,7 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1647563648
+updated_at: 1660575869
 image:
   - headers/header-test2.jpg
 ---
