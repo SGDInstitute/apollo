@@ -7,7 +7,7 @@ sections:
   -
     header_image: headers/mblgtacc2020-attendee-overalls-header-2500x800.jpg
     title: 'Connect. Educate. Empower.'
-    subtitle: 'We re-envision an educational climate that centers the needs and experiences of systemically disadvantaged students and affirms and encourages sexuality and gender diversity.'
+    subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
     tag: asdfasdfasdfasdf
     text: Listen
@@ -55,8 +55,8 @@ sections:
     bg_color: bg-white
     type: countdown
     enabled: false
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659798874
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1660576468
 description: 'The Midwest Institute for Sexuality and Gender Diversity re-envisions a culture of higher education where the needs and experiences of systematically disadvantaged students are centered and the diverse experiences across the spectrums of sexuality and gender are celebrated.'
 image:
   - headers/homepage-hero1.jpg
