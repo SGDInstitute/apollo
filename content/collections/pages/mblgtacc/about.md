@@ -357,7 +357,52 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
     bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC Alumnx: Share your memories!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In celebration of this milestone in queer and trans community building, education, and empowerment, we are gathering stories, reflections, and memories of MBLGTACC across its three-decade history. We invite all MBLGTACC alumnx to share their favorite memories, stories, and photos to be compiled in a mixed-media celebration. Your memories may be shared leading up to and during the 30th annual MBLGTACC.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://sgdinstitute.org/programs/mblgtacc-alumnx'
+                text: 'Share your memories'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
+    bard:
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -500,5 +545,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661026693
+updated_at: 1661027337
 ---
