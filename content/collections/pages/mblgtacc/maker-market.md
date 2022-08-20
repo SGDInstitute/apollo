@@ -20,6 +20,85 @@ sections:
             width: w-1/4
             margin_direction: all
       -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: Hours
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: 'Friday, October 21, 2022'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: '5:00 - 10:00 p.m. EDT'
+            right_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: Location
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: 'Convention Center'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: 'Union Station Ballroom A'
+      -
         type: heading
         attrs:
           level: 2
@@ -34,36 +113,11 @@ sections:
             type: text
             marks:
               -
-                type: bold
-            text: 'Friday, October 21, 2022'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
+                type: lead
+            text: 'The Maker Market is an exciting, new, and interactive part of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: '5:00 - 10:00 p.m. EDT'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Union Station Ballroom A'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Maker Market is an interactive programming component of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC). The space invites conference attendees and vendors to'
+            text: 'The space invites conference attendees and vendors to'
       -
         type: ordered_list
         attrs:
@@ -94,7 +148,7 @@ sections:
         content:
           -
             type: text
-            text: 'How to attend'
+            text: 'Visit the Maker Market'
       -
         type: paragraph
         content:
@@ -111,7 +165,7 @@ sections:
             text: 'Register to attend MBLGTACC'
           -
             type: text
-            text: .
+            text: ' and then come to the Maker Market on Friday, October 21 from 5:00 - 10:00 p.m. in Union Station Ballroom A.'
       -
         type: heading
         attrs:
@@ -125,7 +179,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll post details about Maker Market vendors here as participants are confirmed.'
+            text: 'We''ll have more to share soon about makers at the market.'
       -
         type: paragraph
     type: content
@@ -181,7 +235,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661021386
+updated_at: 1661022247
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
