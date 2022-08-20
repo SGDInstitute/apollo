@@ -14,7 +14,7 @@ sections:
         attrs:
           values:
             type: image
-            image: maker-market-jun2022-inline-image3.png
+            image: maker-market-jun2022-inline-nonstandardsize-1574x798.png
             inline: false
             direction: float-right
             width: w-1/4
@@ -181,7 +181,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661020610
+updated_at: 1661020924
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
