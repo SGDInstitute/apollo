@@ -79,21 +79,81 @@ sections:
         content:
           -
             type: text
-            text: 'Advisor Social and other opportunities'
+            text: 'Advisor Social'
+      -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: 'Date & time'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: 'Friday, October 21'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: '8:00 - 10:00 p.m. EDT'
+            right_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: Location
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: TBD
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We''ll host a social for advisors, higher ed pros, graduate students, and others who work with, in, and on behalf of students and institutions. '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'More information later this summer.'
-      -
-        type: paragraph
+            text: 'The Advisor Social is open to all advisors, higher ed pros, graduate students, and others who work with, in, and on behalf of students and institutions. Drink tickets and hors d''oeuvres will be available.'
     type: content
     enabled: true
   -
@@ -149,6 +209,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1648999301
+updated_at: 1661034277
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
