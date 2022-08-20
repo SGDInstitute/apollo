@@ -53,8 +53,8 @@ sections:
     enabled: true
   -
     articles:
+      - 1ca4944a-efd4-4885-ac66-c3a48e047c71
       - fbdfa512-dcf6-4309-b036-b0ddcd4372e8
-      - 34580b4c-d99d-440b-a0de-2ee25124f2ef
       - be612a3e-8439-443f-b257-b95bccde7c62
       - 1c227b11-474f-41a8-aa27-82522fdb59e4
       - 103a8572-9a57-4afc-becd-d990631846c3
@@ -89,6 +89,27 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::1ca4944a-efd4-4885-ac66-c3a48e047c71'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'Design key art for America''s oldest and largest LGBTQIA+ college conference'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'August 19, 2022'
       -
         type: paragraph
         content:
@@ -335,5 +356,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1656432674
+updated_at: 1661018841
 ---
