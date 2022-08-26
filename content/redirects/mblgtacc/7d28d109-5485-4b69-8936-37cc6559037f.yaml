@@ -1,0 +1,6 @@
+id: 7d28d109-5485-4b69-8936-37cc6559037f
+enabled: true
+source: /hotels
+destination: /hotels-transportation-parking
+type: '302'
+match_type: exact
