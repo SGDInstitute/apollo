@@ -1,13 +1,14 @@
 ---
 id: d016c432-1882-44d8-b8ca-dd0b53a9461a
+published: false
 blueprint: pages
-title: 'Speakers (Duplicated)'
+title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661995273
+updated_at: 1661995653
 sections:
   -
-    title: Keynotes
+    title: Entertainment
     type: header_small
     enabled: true
   -
@@ -29,7 +30,21 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Schuyler Bailar and Imani Barbarin as keynotes for our thirtieth annual conference.'
+            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Hayden Kristal—'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+              -
+                type: lead
+            text: 'America''s Got Talent'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: ' contestant and longtime MBLGTACC presenter—as the host and emcee of our open mic night.'
       -
         type: heading
         attrs:
@@ -37,7 +52,7 @@ sections:
         content:
           -
             type: text
-            text: 'Schuyler Bailar'
+            text: 'Open mic night'
       -
         type: heading
         attrs:
@@ -45,39 +60,13 @@ sections:
         content:
           -
             type: text
-            text: 'Friday, October 21 | 7:00 - 8:00 p.m. EDT'
+            text: 'Friday, October 21 | x:xx - x:xx p.m. EDT'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Schuyler Bailar (he/him) is the first transgender athlete to compete in any sport on an NCAA Division 1 men’s team. By 15, he was one of the nation’s top-20 15-year-old breast-strokers. By 17, he set a national age-group record. In college, he swam for Harvard University, on Harvard’s winningest team in 50 years. Schuyler’s difficult choice – to transition while potentially giving up the prospect of being an NCAA Champion – was historic. His story has appeared everywhere from 60 Minutes to '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The Washington Post'
-          -
-            type: text
-            text: '. Schuyler’s tireless advocacy has earned him numerous honors including LGBTQ Nation’s Instagram Advocate for 2020. In 2021, Schuyler also released his first middle-grade novel, '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Obie Is Man Enough'
-          -
-            type: text
-            text: '. And in 2022, Schuyler created LaneChanger.com making gender literacy education accessible to every team, school and company. '
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Imani Barbarin'
+            text: Blurb
       -
         type: heading
         attrs:
@@ -85,7 +74,15 @@ sections:
         content:
           -
             type: text
-            text: 'Saturday, October 22 | 5:30 - 6:30 p.m. EDT'
+            text: 'About our emcee'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Hayden Kristal'
       -
         type: paragraph
         content:
@@ -139,7 +136,7 @@ sections:
         content:
           -
             type: text
-            text: 'Featured session'
+            text: 'Drag Show'
       -
         type: heading
         attrs:
@@ -147,7 +144,7 @@ sections:
         content:
           -
             type: text
-            text: 'Amor y salud: A night with Curly Velazquez'
+            text: 'Saturday, October 22 | 8:00 - 11:00 p.m. EDT'
       -
         type: set
         attrs:
@@ -155,15 +152,6 @@ sections:
             type: image
             image: headshots/curly-velazquez-featured-1090x681.jpg
             inline: false
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Friday, October 8'
       -
         type: paragraph
         content:
