@@ -5,7 +5,7 @@ blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661995140
+updated_at: 1661995215
 sections:
   -
     title: Keynotes
@@ -42,7 +42,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 5
+          level: 3
         content:
           -
             type: text
@@ -80,13 +80,12 @@ sections:
             type: text
             text: 'Imani Barbarin'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
             text: 'Saturday, October 22 | 5:30 - 6:30 p.m. EDT'
       -
         type: paragraph
