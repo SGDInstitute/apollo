@@ -5,7 +5,7 @@ blueprint: pages
 title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661995653
+updated_at: 1661995783
 sections:
   -
     title: Entertainment
@@ -76,19 +76,17 @@ sections:
             type: text
             text: 'About our emcee'
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Hayden Kristal'
-      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Imani Barbarin (she/her) is a disability rights and inclusion activist and speaker who uses her voice and social media platforms to create conversations engaging the disability community. Born with cerebral palsy, Imani often writes and uses her platform to speak from the perspective of a disabled black woman. In the last few years she has created over a dozen trending hashtags that allow disabled folk the opportunity to have their perspectives heard while forcing the world to take notice. #PatientsAreNotFaking, #ThingsDisabledPeopleKnow, #AbledsAreWeird and others each provide a window into disabled life while forming community. Imani is from the Philadelphia area and holds a master’s in global communications from the American University of Paris, her published works include those in '
+            marks:
+              -
+                type: bold
+            text: 'Imani Barbarin'
+          -
+            type: text
+            text: ' (she/her) is a disability rights and inclusion activist and speaker who uses her voice and social media platforms to create conversations engaging the disability community. Born with cerebral palsy, Imani often writes and uses her platform to speak from the perspective of a disabled black woman. In the last few years she has created over a dozen trending hashtags that allow disabled folk the opportunity to have their perspectives heard while forcing the world to take notice. #PatientsAreNotFaking, #ThingsDisabledPeopleKnow, #AbledsAreWeird and others each provide a window into disabled life while forming community. Imani is from the Philadelphia area and holds a master’s in global communications from the American University of Paris, her published works include those in '
           -
             type: text
             marks:
@@ -130,6 +128,13 @@ sections:
   -
     bard:
       -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: headshots/curly-velazquez-featured-1090x681.jpg
+            inline: false
+      -
         type: heading
         attrs:
           level: 2
@@ -145,13 +150,6 @@ sections:
           -
             type: text
             text: 'Saturday, October 22 | 8:00 - 11:00 p.m. EDT'
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: headshots/curly-velazquez-featured-1090x681.jpg
-            inline: false
       -
         type: paragraph
         content:
@@ -171,7 +169,7 @@ sections:
                 type: italic
             text: 'Mucho Mucho Amor.'
     type: content
-    enabled: false
+    enabled: true
   -
     limit: 3
     pagination: false

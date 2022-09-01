@@ -1,0 +1,6 @@
+id: c71d4b6d-2001-4631-8abc-8b023a89987f
+enabled: true
+source: '/speakers-events/speakers-1(.*)'
+destination: /speakers-events/entertainment$1
+type: '301'
+match_type: regex
