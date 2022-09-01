@@ -5,10 +5,10 @@ blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661994479
+updated_at: 1661995008
 sections:
   -
-    title: 'Keynotes and skill shares'
+    title: Keynotes
     type: header_small
     enabled: true
   -
@@ -21,23 +21,18 @@ sections:
             image: bailar-barbarin-1090x681_email-image.jpg
             inline: false
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Keynote speakers'
-      -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Schuyler Bailar and Imani Barbarin as keynotes for our thirtieth annual conference.'
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -50,7 +45,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Friday, October 21'
+            text: 'Friday, October 21 | 7:00 - 8:00 p.m. EDT'
       -
         type: paragraph
         content:
@@ -78,7 +73,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -91,7 +86,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Saturday, October 22'
+            text: 'Saturday, October 22 | 5:30 - 6:30 p.m. EDT'
       -
         type: paragraph
         content:
