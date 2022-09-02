@@ -170,7 +170,20 @@ sections:
             text: 'Imani Barbarin'
           -
             type: text
-            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday.'
+            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Learn more about Bailar and Barbarin.'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -209,5 +222,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662081793
+updated_at: 1662081915
 ---
