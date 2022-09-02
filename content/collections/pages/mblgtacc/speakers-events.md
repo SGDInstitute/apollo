@@ -72,6 +72,8 @@ sections:
                   rel: null
                   target: null
                   title: null
+              -
+                type: italic
             text: 'Learn more about Bailar and Barbarin.'
       -
         type: paragraph
@@ -222,5 +224,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662082024
+updated_at: 1662082063
 ---
