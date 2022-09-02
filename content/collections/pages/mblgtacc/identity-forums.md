@@ -1,6 +1,5 @@
 ---
 id: 45a7eef9-88a0-48eb-b1f4-9145dc67c56a
-published: false
 blueprint: pages
 title: 'Identity Forums'
 sections:
@@ -20,17 +19,219 @@ sections:
                 type: lead
             text: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences. '
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            text: 'Facilitators are not assigned to these spaces. We strongly assert that only individuals who align with the identity centered in each space attend the forum. We will operate on a good faith system that attendees will select spaces in which they are not visitors or guests. As a reminder: identity forums are not ally spaces. '
+            text: Hours
+      -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: 'Saturday, October 22'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: '1:00 - 2:15 p.m EDT'
+            right_content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: lead
+                    text: 'Sunday, October 23'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: '10:00 - 11:15 a.m.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'List of identity forums'
+      -
+        type: set
+        attrs:
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Bi/pan/fluid sexualiites'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: QTIBIPOC
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Nonbinary/genderqueer/gender non-conforming'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Transgender
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Asexual/aromantic
+            right_content:
+              -
+                type: bullet_list
+                content:
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Lesbian
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Gay
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Disabled / Neurodivergent'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Advisor Roundtable (Saturday only)'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: 'Queer People of Faith'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: DIY/Overflow
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Here are some general ideas and guidelines for forming your discussions in the identity forums: '
+            marks:
+              -
+                type: italic
+            text: 'See forthcoming conference print program for location details.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'What should I know or understand before entering an identity forum?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences. We strongly assert that only individuals who align with the identity centered in each space attend the forum. We will operate on a good faith system that attendees will select spaces in which they are not visitors or guests. As a reminder: identity forums are not ally spaces. Here are some general ideas and guidelines for forming your discussions in the identity forums: '
       -
         type: bullet_list
         content:
@@ -99,16 +300,12 @@ sections:
                     text: 'Please refer to the Code for Inclusion for additional guidelines.'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'A list of Identity Forums will be published later this year. '
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647186489
+updated_at: 1662142205
+description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
