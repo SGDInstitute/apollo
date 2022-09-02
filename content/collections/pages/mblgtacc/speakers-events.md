@@ -21,7 +21,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The 30th annual MBLGTACC will bring together students, makers, thought leaders, advisors and staff, artists, and more. Keep an eye on this space as we continue to confirm programming, and sign-up for email updates using the form at the bottom of this page.'
+            text: 'The 30th annual MBLGTACC will bring together students, makers, thought leaders, advisors and staff, artists, and more.'
     type: content
     enabled: true
   -
@@ -222,5 +222,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662082006
+updated_at: 1662082024
 ---
