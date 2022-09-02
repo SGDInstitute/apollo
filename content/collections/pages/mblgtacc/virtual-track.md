@@ -41,6 +41,10 @@ sections:
                 outline: true
                 target_blank: false
             contain: true
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -133,6 +137,10 @@ sections:
                   -
                     type: text
                     text: 'Queer History: Being an LGBTQ+ Historian in the Midwest (Peyton Savington)'
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: heading
         attrs:
@@ -194,15 +202,11 @@ sections:
             contain: true
       -
         type: paragraph
-      -
-        type: paragraph
-      -
-        type: paragraph
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662080681
+updated_at: 1662080762
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
