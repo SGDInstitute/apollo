@@ -128,7 +128,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll be able to share more information on specific workshops following the conclusion of the workshop selection process.'
+            text: 'We''ll be able to share more information on specific workshops in late September when session descriptions are final.'
       -
         type: paragraph
     type: content
@@ -142,15 +142,53 @@ sections:
         content:
           -
             type: text
-            text: 'Keynotes and entertainment'
+            text: Keynotes
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: bailar-barbarin-1090x681_email-image.jpg
+            inline: false
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Announcements coming summer 2022. '
+            marks:
+              -
+                type: bold
+            text: 'Schuyler Bailar'
+          -
+            type: text
+            text: ', the first trans NCAA D1 men’s athlete, will deliver the Friday keynote. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Imani Barbarin'
+          -
+            type: text
+            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Entertainment
       -
         type: paragraph
+        content:
+          -
+            type: text
+            text: 'Announcements coming September 2022. '
     type: content
     enabled: true
   -
@@ -171,5 +209,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1652534995
+updated_at: 1662081793
 ---
