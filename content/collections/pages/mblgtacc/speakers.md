@@ -1,11 +1,10 @@
 ---
 id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
-published: false
 blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661995273
+updated_at: 1662079478
 sections:
   -
     title: Keynotes
@@ -52,7 +51,7 @@ sections:
         content:
           -
             type: text
-            text: 'Schuyler Bailar (he/him) is the first transgender athlete to compete in any sport on an NCAA Division 1 men’s team. By 15, he was one of the nation’s top-20 15-year-old breast-strokers. By 17, he set a national age-group record. In college, he swam for Harvard University, on Harvard’s winningest team in 50 years. Schuyler’s difficult choice – to transition while potentially giving up the prospect of being an NCAA Champion – was historic. His story has appeared everywhere from 60 Minutes to '
+            text: 'Schuyler Bailar (he/him) is the first transgender athlete to compete in any sport on an NCAA Division 1 men’s team. By 15, he was one of the nation’s top-20 15-year-old breast-strokers. By 17, he set a national age-group record. In college, he swam for Harvard University, on Harvard’s winningest team in 50 years. Schuyler’s difficult choice—to transition while potentially giving up the prospect of being an NCAA Champion—was historic. His story has appeared everywhere from 60 Minutes to '
           -
             type: text
             marks:
@@ -131,60 +130,6 @@ sections:
             text: ' and more. She runs the blog CrutchesAndSpice.com and a podcast of the same name. She currently serves as the communications director for a nonproﬁt in Pennsylvania.'
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Featured session'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Amor y salud: A night with Curly Velazquez'
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: headshots/curly-velazquez-featured-1090x681.jpg
-            inline: false
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Friday, October 8'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Curly Velazquez '
-          -
-            type: text
-            text: 'is an actor, content creator and artist who celebrates all things Latinx and beautiful. He began his career in fashion working for celebrity photographer David LaChappelle, and design icon Jeremy Scott before starting his own line. By the age of 25, he was celebrated as one of the “IT” designers in LA by H&M and directed a music video for Interscope records. Curly produces and appears in BuzzFeed’s Latinx division: Pero Like. You can also see Curly on Starz’s VIDA (seasons 2 and 3) and Netflix’s documentary, '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Mucho Mucho Amor.'
-    type: content
-    enabled: false
   -
     limit: 3
     pagination: false
