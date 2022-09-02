@@ -4,7 +4,7 @@ blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662082622
+updated_at: 1662082693
 sections:
   -
     title: Keynotes
@@ -115,8 +115,35 @@ sections:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: lead
-            text: 'Saturday, October 22 | 5:30 - 6:30 p.m. EDT'
+            text: 'Date/time: '
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Saturday, October 22, 5:30 - 6:30 p.m. EDT'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: lead
+            text: 'Location: '
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Union Station Ballroom B-C'
       -
         type: paragraph
         content:
