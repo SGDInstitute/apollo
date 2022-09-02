@@ -138,12 +138,28 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::45a7eef9-88a0-48eb-b1f4-9145dc67c56a'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Identity Forums →'
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::277a370e-1f77-4660-b9e0-17e7873a7443'
                           rel: null
                           target: null
                           title: null
                     text: 'Maker Market →'
-            right_content:
               -
                 type: heading
                 attrs:
@@ -222,5 +238,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662082328
+updated_at: 1662142427
 ---
