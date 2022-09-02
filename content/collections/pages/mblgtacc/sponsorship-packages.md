@@ -46,7 +46,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://sgdinstitute.org/assets/documents/mblgtacc-2022-sponsorship-prospectus.pdf'
                 text: 'Download prospectus'
                 color: btn-green
@@ -55,7 +54,6 @@ sections:
                 outline: false
                 target_blank: false
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Get in touch'
                 color: btn-green
@@ -311,7 +309,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us to sponsor MBLGTACC'
                 color: btn-green
@@ -339,7 +336,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
@@ -348,7 +344,6 @@ sections:
                 outline: false
                 target_blank: true
               -
-                button: null
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: 'Program ads'
                 color: btn-green
@@ -357,6 +352,33 @@ sections:
                 outline: false
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Thank you to our 2022 sponsors'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The MBLGTACC 2022 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations.'
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: 2022-sponsor-logo-wall-090222-01.png
+            inline: false
       -
         type: paragraph
     type: content
@@ -384,7 +406,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Email us'
                 color: btn-green
@@ -401,5 +422,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645145053
+updated_at: 1662144673
 ---
