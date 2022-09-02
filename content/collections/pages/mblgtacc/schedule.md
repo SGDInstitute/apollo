@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661034393
+updated_at: 1662080016
 sections:
   -
     bg_type: image
@@ -67,7 +67,7 @@ sections:
               -
                 cells:
                   - '7:00 - 8:00 p.m.'
-                  - Keynote
+                  - '<a href="https://mblgtacc.org/speakers-events/speakers"><font color="#07807b"><b>Keynote: Schuyler Bailar</b></font></a>'
                   - 'Union Station Ballroom B-C'
               -
                 cells:
@@ -158,7 +158,7 @@ sections:
               -
                 cells:
                   - '5:30 - 6:30 p.m.'
-                  - Keynote
+                  - '<a href="https://mblgtacc.org/speakers-events/speakers"><font color="#07807b"><b>Keynote: Imani Barbarin</b></font></a>'
                   - 'Union Station Ballroom B-C'
               -
                 cells:
