@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645282962
+updated_at: 1662144450
 sections:
   -
     bg_type: image
@@ -31,7 +31,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
               -
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
@@ -40,7 +39,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
               -
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: Advertise
@@ -49,7 +47,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -96,19 +93,19 @@ sections:
         content:
           -
             type: text
-            text: 'Thank you to our 2021 sponsors'
+            text: 'Thank you to our 2022 sponsors'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The MBLGTACC 2021 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations. The conference would not have been possible without the levels of support they’ve given the conference.'
+            text: 'The MBLGTACC 2022 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations.'
       -
         type: set
         attrs:
           values:
             type: image
-            image: sponsors/2021-sponsor-logo-wall.png
+            image: 2022-sponsor-logo-wall-090222.png
             inline: false
       -
         type: paragraph
