@@ -14,6 +14,59 @@ sections:
   -
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Keynotes
+      -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: bailar-barbarin-1090x681_email-image.jpg
+            inline: false
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Schuyler Bailar'
+          -
+            type: text
+            text: ', the first trans NCAA D1 men’s athlete, will deliver the Friday keynote. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Imani Barbarin'
+          -
+            type: text
+            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Learn more about Bailar and Barbarin.'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
         type: paragraph
         content:
           -
@@ -142,59 +195,6 @@ sections:
         content:
           -
             type: text
-            text: Keynotes
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: bailar-barbarin-1090x681_email-image.jpg
-            inline: false
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Schuyler Bailar'
-          -
-            type: text
-            text: ', the first trans NCAA D1 men’s athlete, will deliver the Friday keynote. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Imani Barbarin'
-          -
-            type: text
-            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'Learn more about Bailar and Barbarin.'
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
             text: Entertainment
       -
         type: paragraph
@@ -222,5 +222,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662081951
+updated_at: 1662081988
 ---
