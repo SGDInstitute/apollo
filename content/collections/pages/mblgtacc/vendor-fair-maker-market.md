@@ -19,199 +19,6 @@ sections:
         content:
           -
             type: text
-            text: 'Vendor Fair'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Organizations at the fair typically seek to promote opportunities, recruit future employees, sell merchandise, or reach out to an amazing group of college students and their advisors.\_"
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'What will your organization do?'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Hours of operation:'
-                  -
-                    type: text
-                    text: "\_Saturday, 10:00 a.m. - 5:00 p.m."
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Set-up time:'
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: ' '
-                  -
-                    type: text
-                    text: 'Saturday, 8:00 a.m. - 10:00 a.m. (Friday set up hours available upon request)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Location:'
-                  -
-                    type: text
-                    text: "\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://columbusconventions.com'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Greater Columbus Convention Center'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Need special arrangements? Please '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'contact us'
-          -
-            type: text
-            text: .
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Pricing
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'For all vendors, pay what you can: $150, $250, $350, $500.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Recommended contributions:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Small non-profits at $150'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Businesses selling goods at $350'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Corporations at $500'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'All exhibit spaces come with one 8'' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit hall is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property.'
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'mailto:development@sgdinstitute.org'
-                text: 'Contact us to reserve your table'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
             text: 'Maker Market'
       -
         type: paragraph
@@ -487,6 +294,206 @@ sections:
         content:
           -
             type: text
+            text: 'Vendor Fair'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'A la carte vendor fair tables are sold out at this time and available only to sponsors.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Organizations at the fair typically seek to promote opportunities, recruit future employees, sell merchandise, or reach out to an amazing group of college students and their advisors.\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'What will your organization do?'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Hours of operation:'
+                  -
+                    type: text
+                    text: "\_Saturday, 10:00 a.m. - 5:00 p.m."
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Set-up time:'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: ' '
+                  -
+                    type: text
+                    text: 'Saturday, 8:00 a.m. - 10:00 a.m. (Friday set up hours available upon request)'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Location:'
+                  -
+                    type: text
+                    text: "\_"
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://columbusconventions.com'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Greater Columbus Convention Center'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Need special arrangements? Please '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact us'
+          -
+            type: text
+            text: .
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: Pricing
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'For all vendors, pay what you can: $150, $250, $350, $500.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Recommended contributions:'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Small non-profits at $150'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Businesses selling goods at $350'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Corporations at $500'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'All exhibit spaces come with one 8'' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit hall is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property.'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Contact us to reserve your table'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Questions?'
       -
         type: paragraph
@@ -515,7 +522,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647110369
+updated_at: 1662504987
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
