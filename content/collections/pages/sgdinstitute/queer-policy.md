@@ -28,14 +28,145 @@ sections:
               -
                 type: lead
             text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'October 27, 2022, 4:00-5:15 pm EDT (3:00-3:15 pm CDT)'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Information about a summer 2022 Queer Policy Series event will be available later this spring.'
+            text: 'Racial Foundations of Public Policy is a speaker series that focuses on the historical roots and impact of race in shaping public policy as both a disciplinary field and as a course of action. Through it, we bring in renowned scholar-experts from across the country to be in conversation with Dean Celeste Watkins-Hayes, the founding director of the Center for Racial Justice at the Ford School of Public Policy. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Join us for a discussion with Dr. Bianca D.M. Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute, and Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'This event is free and open to the public.  event is co-sponsored by the Center for Racial Justice and Gerald R. Ford School of Public Policy at the University of Michigan.'
     type: content
-    enabled: true
+    enabled: false
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'About the speakers'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: image
+            image: news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
+            caption: Wilson
+            inline: false
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Bianca D.M. Wilson, Ph.D.'
+          -
+            type: text
+            text: ', is the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute. Her research focuses primarily on system-involved LGBTQ youth, LGBT poverty, and sexual health among queer women. In addition to multiple peer-reviewed and institution-published reports, she co-edited a special issue of the Journal of Lesbian Studies that featured a multidisciplinary collection of work on health and other topics from the perspectives of Black Lesbians in the U.S., Caribbean, and South Africa. Wilson earned a doctorate in Psychology from the Community and Prevention Research program at the University of Illinois at Chicago (UIC) with a minor in Statistics, Methods, and Measurement, and received postdoctoral training at the UCSF Institute for Health Policy Studies and the UCSF Lesbian Health and Research Center through an Agency for Health Research and Quality (AHRQ) postdoctoral fellowship. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://williamsinstitute.law.ucla.edu/experts/bianca-d-m-wilson/'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'Read Wilson''s full bio.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Celeste Watkins-Hayes'
+          -
+            type: text
+            text: " is the interim dean of the University of Michigan's Gerald R. Ford School of Public Policy\_and founding director of the school's Center for Racial Justice. Watkins-Hayes is also the Jean E. Fairfax Collegiate Professor of Public Policy, University Diversity and Social Transformation Professor, professor of sociology, and an Anti-Racism Collaborative research and community impact fellow. She is an internationally-recognized scholar and expert widely credited for her research at the intersection of inequality, public policy, and institutions, with a special focus on urban poverty and race, class, and gender studies. "
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://fordschool.umich.edu/faculty/celeste-watkins-hayes'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'Read Watkins-Hayes'' full bio.'
+    type: content
+    enabled: false
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Accessibility
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The Ford School and their production partner, Michigan Media, are providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the form linked below, please let us know as early as possible about any accommodations we can help facilitate.'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'mailto:fspp-events@umich.edu'
+                text: 'Submit an accessibility request'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: false
   -
     bard:
       -
@@ -83,7 +214,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::3b2719eb-9fce-437a-85e2-597c086365e9'
                 text: 'Panelist bios'
                 color: btn-green
@@ -94,279 +224,6 @@ sections:
             contain: true
       -
         type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'July 20, 2021, 4:00-5:00 pm EDT (3:00-4:00 pm CDT)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Trans rights are currently being challenged at all levels of government. This event will discuss issues and policies related to trans rights and what is happening on the ground now. The panelists will also talk about why sports have been a key issue—why the freedom to compete is about much more than sports. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Join us for a discussion with Katie Barnes, feature writer at '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ESPN
-          -
-            type: text
-            text: '; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'This event is co-sponsored by the Gerald R. Ford School of Public Policy at the University of Michigan.'
-    type: content
-    enabled: false
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Panelists
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: image
-            image: barnes-goldberg-mosier-featured-1090x681.jpg
-            caption: 'L-R: Barnes, Goldberg, Mosier'
-            inline: false
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Katie Barnes'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Katie Barnes (they/them) is a feature writer at '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ESPN
-          -
-            type: text
-            text: ', covering culture, LGBTQ issues, women’s basketball, collegiate softball and women’s combat sports. Since joining '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ESPN
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://kebarnes.com/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: Barnes
-          -
-            type: text
-            text: ' has written on a variety of topics, such as transgender athletes, racial justice and Hollywood stunt doubles. Their articles on high school transgender athletes have earned them two GLAAD Award nominations. They were also a producer on the 30 for 30 short '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Mack Wrestles'
-          -
-            type: text
-            text: '. Barnes holds a BA in history, Russian studies and American studies from St. Olaf College, and an MS in student affairs and higher education from Miami University (OH). They were named the 2017 Journalist of the Year by The Association of LGBTQ Journalists.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Naomi Goldberg'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Naomi Goldberg (she/her) has worked for 14 years in the LGBTQ movement as a researcher and policy expert. She’s the deputy director and LGBTQ program director at the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.lgbtmap.org/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Movement Advancement Project'
-          -
-            type: text
-            text: ', which works to speed equality and opportunity for all through messaging and communications, policy analysis, and collaboration.  Her team tracks LGBTQ laws and policies across the states, authors reports about key LGBTQ issues, and frequently partners with leading LGBTQ and progressive organizations to draw attention to how issues of nondiscrimination, religious exemptions, and equality impact LGBTQ people, their families, and all people in the United States. She received her MPP from the Ford School of Public Policy and is an avid Michigan sports fan.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Chris Mosier'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Chris Mosier (he/him) is a trailblazing athlete, coach, and founder of '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://TransAthlete.com'
-                  rel: null
-                  target: null
-                  title: null
-            text: TransAthlete.com
-          -
-            type: text
-            text: '. In 2020 he made history by becoming the first transgender athlete to compete in the Olympic Trials in the gender with which they identify. Prior to that, in 2015 he became the first openly trans man to make a Men''s US National Team. Following the national championship race, he was instrumental in getting the International Olympic Committee policy on transgender athletes changed, and in June 2016 he became the first trans athlete to compete in a world championship race under the new rules. Chris is a six-time member of Team USA, representing the United States in the sprint triathlon and the short course and long course duathlon, a two-time Men''s National Champion, and a Men''s All-American. Chris is also a nationally recognized four-time Ironman triathlete, and inductee into the National Gay and Lesbian Sports Hall of Fame. He is sponsored by Nike and has been featured in multiple global Nike campaigns. Chris has been featured in publications including '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'ESPN The Magazine'
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The New York Times,'
-          -
-            type: text
-            text: ' '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Wall Street Journal'
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Rolling Stone'
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: Esquire
-          -
-            type: text
-            text: ', and more.  Chris''s website transathlete.com is the go-to source for information about transgender athletes in sport. Chris has written and advocated for change in policies from the high school level to national governing bodies and professional leagues. He has become one of the leading grassroots organizers against the current wave of anti-trans legislation across the United States, and when not fighting the good fight, he mentors transgender and non-binary athletes around the world in hopes that he can live by his motto of "be who you needed when you were younger."'
-    type: content
-    enabled: false
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Accessibility
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Ford School and their production partner, Michigan Media, are providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the form linked below, please let us know as early as possible about any accommodations we can help facilitate.'
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'https://forms.gle/MGBaSf8sQH831TVU8'
-                text: 'Submit an accessibility request'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: false
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Questions?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Contact Justin Drwencke (justin@sgdinstitute.org).'
     type: content
     enabled: true
   -
@@ -417,6 +274,24 @@ sections:
           -
             type: text
             text: "\_and sign up for a monthly recurring gift.\_"
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Questions?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Contact Nick Pfost (nick@sgdinstitute.org).'
       -
         type: paragraph
       -
@@ -425,7 +300,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646411834
+updated_at: 1662566256
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
