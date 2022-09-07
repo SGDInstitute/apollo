@@ -59,7 +59,7 @@ sections:
             type: text
             text: 'This event is free and open to the public.  event is co-sponsored by the Center for Racial Justice and Gerald R. Ford School of Public Policy at the University of Michigan.'
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -73,7 +73,6 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: image
             image: news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
@@ -130,7 +129,7 @@ sections:
                 type: italic
             text: 'Read Watkins-Hayes'' full bio.'
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -166,7 +165,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -300,7 +299,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662566256
+updated_at: 1662566284
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
