@@ -211,11 +211,10 @@ sections:
         content:
           -
             type: text
-            text: 'The Ford School and their production partner, Michigan Media, are providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the form linked below, please let us know as early as possible about any accommodations we can help facilitate.'
+            text: 'The Ford School and their production partner, Michigan Media, are providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the email linked below, please let us know as early as possible about any accommodations we can help facilitate.'
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: buttons
             buttons:
@@ -365,7 +364,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662566532
+updated_at: 1662566626
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
