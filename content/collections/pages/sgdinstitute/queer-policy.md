@@ -39,7 +39,55 @@ sections:
         content:
           -
             type: text
-            text: 'October 27, 2022, 4:00-5:15 pm EDT (3:00-3:15 pm CDT)'
+            text: 'Racial foundations of public policy: LGBT rights'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'October 27, 2022'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: '4:00-5:15 pm EDT (3:00-3:15 pm CDT)'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: Virtual
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://forms.gle/wK6PcLaEruJNCfVL9'
+                text: Register
+                color: btn-green
+                size: btn-xl
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
       -
         type: paragraph
         content:
@@ -299,7 +347,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662566284
+updated_at: 1662566378
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
