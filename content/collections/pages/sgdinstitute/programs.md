@@ -128,7 +128,6 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
-                button: null
             contain: true
     type: content
     enabled: true
@@ -170,7 +169,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
                 text: 'Learn more'
                 color: btn-green
@@ -194,12 +192,6 @@ sections:
             type: text
             text: 'Transgender Justice Teach-In'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
-      -
         type: set
         attrs:
           values:
@@ -214,7 +206,7 @@ sections:
         content:
           -
             type: text
-            text: 'The fifth annual event, "The next genderation: Building a liberated future for queer and trans youth," will take place Tuesday, November 16, 2021.'
+            text: 'The Transgender Justice Teach-In is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
       -
         type: set
         attrs:
@@ -229,7 +221,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -252,28 +243,12 @@ sections:
             type: text
             text: 'The Queer Policy Series is designed to bring diverse audiences together to examine policies at various levels that impact queer and trans students and youth, and that introduce tools and frameworks for effecting policy changes that embrace and affirm diverse sexualities and genders. '
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Our inaugural event, "Trans policy issues: Why are we talking about sports?," brought into conversation Katie Barnes, feature writer for '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ESPN
-          -
-            type: text
-            text: '; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; and Naomi Goldberg, deputy director and LGBTQ programs director of the Movement Advancement Project.'
-      -
         type: set
         attrs:
           values:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::857e03a1-fd97-468a-afd6-86fc7331ff87'
                 text: 'Learn more'
                 color: btn-green
@@ -326,7 +301,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: false
-                button: null
             contain: true
       -
         type: paragraph
@@ -336,8 +310,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1645576723
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1662566727
 image:
   - headers/header-chicago_pier.jpg
 ---
