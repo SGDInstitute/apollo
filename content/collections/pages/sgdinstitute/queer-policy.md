@@ -93,13 +93,31 @@ sections:
         content:
           -
             type: text
-            text: 'Racial Foundations of Public Policy is a speaker series that focuses on the historical roots and impact of race in shaping public policy as both a disciplinary field and as a course of action. Through it, we bring in renowned scholar-experts from across the country to be in conversation with Dean Celeste Watkins-Hayes, the founding director of the Center for Racial Justice at the Ford School of Public Policy. '
+            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Join us for a discussion with Dr. Bianca D.M. Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute, and Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan.'
+            text: 'Join us for a rich discussion with '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dr. Bianca D.M. Wilson'
+          -
+            type: text
+            text: ', the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute, and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dr. Celeste Watkins-Hayes'
+          -
+            type: text
+            text: ', dean of the Gerald R. Ford School of Public Policy at the University of Michigan.'
       -
         type: paragraph
         content:
@@ -347,7 +365,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662566378
+updated_at: 1662566532
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
