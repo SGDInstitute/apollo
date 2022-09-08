@@ -191,7 +191,7 @@ sections:
             type: text
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -216,7 +216,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599964
+updated_at: 1662600082
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
