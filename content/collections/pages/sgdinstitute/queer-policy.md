@@ -27,6 +27,8 @@ sections:
               -
                 type: lead
             text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -51,13 +53,13 @@ sections:
             marks:
               -
                 type: lead
-            text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT)'
+            text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT) | Free'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan. The virtual conversation is free and open to the public.'
+            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan.'
       -
         type: set
         attrs:
@@ -214,7 +216,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599865
+updated_at: 1662599922
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
