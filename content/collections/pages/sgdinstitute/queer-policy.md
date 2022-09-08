@@ -59,7 +59,7 @@ sections:
         content:
           -
             type: text
-            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan.'
+            text: 'Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan.'
       -
         type: set
         attrs:
@@ -216,7 +216,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599922
+updated_at: 1662599964
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
