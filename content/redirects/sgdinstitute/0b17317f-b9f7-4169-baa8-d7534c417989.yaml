@@ -1,0 +1,6 @@
+id: 0b17317f-b9f7-4169-baa8-d7534c417989
+enabled: true
+source: '/programs/transgender-justice/2020-trans-abolitionist-vision-1(.*)'
+destination: /programs/queer-policy/2022-racial-foundations-public-policy-lgbt-rights$1
+type: '301'
+match_type: regex

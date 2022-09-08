@@ -228,12 +228,6 @@ sections:
               -
                 type: italic
             text: 'Read Watkins-Hayes'' full bio.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Justin Toliver (they/them) is a Black, Queer, and Gender Non-Conforming facilitator, trainer, and educator currently serving as the Assistant Director of the Gender and Sexuality Center for Queer and Trans Life at the University Minnesota - Twin Cities. Justin completed their Bachelors of Science from Central Michigan University and received their Masters of Arts in Student Affairs Administration in Higher Education from Ball State University. Justin is also a community organizer, abolitionist, and creative based in Minneapolis, Minnesota. Justin deeply believes in the power of community and approaches all aspects of their work from a human centered, imagination driven, and Black Queer Feminist lens.'
     type: content
     enabled: true
   -
@@ -340,7 +334,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662598867
+updated_at: 1662598947
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
