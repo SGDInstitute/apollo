@@ -26,8 +26,6 @@ tree:
             entry: 7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc
           -
             entry: 174b8159-fec3-487b-b329-177118c234eb
-          -
-            entry: f69f8733-4bed-44e3-a13c-d8fb091495de
       -
         entry: 4cd5cb6b-658c-4d69-b525-7325fb90766f
       -
@@ -35,6 +33,8 @@ tree:
         children:
           -
             entry: 3b2719eb-9fce-437a-85e2-597c086365e9
+          -
+            entry: f69f8733-4bed-44e3-a13c-d8fb091495de
   -
     entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
   -
