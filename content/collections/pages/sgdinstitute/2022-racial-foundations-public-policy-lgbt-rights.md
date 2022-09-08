@@ -331,10 +331,12 @@ sections:
           -
             type: text
             text: "\_and sign up for a monthly recurring gift.\_"
+      -
+        type: paragraph
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662598947
+updated_at: 1662598968
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
