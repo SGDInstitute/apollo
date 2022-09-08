@@ -18,6 +18,19 @@ sections:
     enabled: true
     tag: Program
   -
+    bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+    type: content
+    enabled: true
+  -
     column_widths: third_right
     left_column: content
     right_column: image
@@ -54,19 +67,6 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
-    type: content
     enabled: true
   -
     bard:
@@ -201,7 +201,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599599
+updated_at: 1662599651
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
