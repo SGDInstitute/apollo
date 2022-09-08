@@ -334,9 +334,9 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662600020
+updated_at: 1662600111
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
