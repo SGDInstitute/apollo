@@ -18,6 +18,44 @@ sections:
     enabled: true
     tag: Program
   -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Racial foundations of public policy: LGBT rights'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. Join us for a rich discussion with Dr. Bianca D.M. Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute, and Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan. The virtual conversation is free and open to the public.'
+      -
+        type: paragraph
+    image: news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
+    caption: Wilson
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
     bard:
       -
         type: paragraph
@@ -88,44 +126,6 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
-  -
-    column_widths: third_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Racial foundations of public policy: LGBT rights'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action. Join us for a rich discussion with Dr. Bianca D.M. Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute, and Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan. The virtual conversation is free and open to the public.'
-      -
-        type: paragraph
-    image: news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
-    caption: Wilson
-    bg_type: color
-    num_colors: 2
-    bg_color: bg-green-600
-    type: two_column
     enabled: true
   -
     bard:
@@ -201,7 +201,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599348
+updated_at: 1662599599
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
