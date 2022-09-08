@@ -298,14 +298,14 @@ sections:
         content:
           -
             type: text
-            text: 'Programs like the Transgender Justice Teach-in are made possible by the generous financial support of grassroots donors. If you learned something from this program, please '
+            text: "Programs like this\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please\_"
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: /giving
+                  href: 'https://sgdinstitute.org/giving'
                   rel: null
                   target: null
                   title: null
@@ -336,7 +336,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599019
+updated_at: 1662600020
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
