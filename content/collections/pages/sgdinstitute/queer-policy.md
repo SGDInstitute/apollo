@@ -8,12 +8,11 @@ sections:
     title: 'Queer Policy Series'
     has_tag: true
     has_button: false
-    text: 'Watch on YouTube'
     color: btn-green
     size: btn-lg
     block: false
     outline: false
-    target_blank: true
+    target_blank: false
     type: header_large
     enabled: true
     tag: Program
@@ -215,7 +214,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662599801
+updated_at: 1662599865
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
