@@ -44,7 +44,7 @@ sections:
         content:
           -
             type: text
-            text: 'Racial foundations of public policy: LGBT rights'
+            text: 'Racial Foundations of Public Policy: LGBT Rights'
       -
         type: paragraph
         content:
@@ -216,7 +216,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662600103
+updated_at: 1662686688
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
