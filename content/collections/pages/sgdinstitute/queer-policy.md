@@ -52,11 +52,13 @@ sections:
             type: text
             marks:
               -
-                type: lead
+                type: bold
             text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT) | Free'
-      -
-        type: paragraph
-        content:
+          -
+            type: hard_break
+            marks:
+              -
+                type: bold
           -
             type: text
             text: 'Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan.'
@@ -216,7 +218,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662689404
+updated_at: 1662689516
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
