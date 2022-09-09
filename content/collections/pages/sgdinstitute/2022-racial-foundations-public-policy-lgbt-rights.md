@@ -1,11 +1,11 @@
 ---
 id: f69f8733-4bed-44e3-a13c-d8fb091495de
 blueprint: pages
-title: 'Racial foundations of public policy: LGBT rights | Queer Policy Series 2022'
+title: 'Racial Foundations of Public Policy: LGBT Rights | Queer Policy Series 2022'
 sections:
   -
     header_image: headers/blurry-background.jpg
-    title: 'Racial foundations of public policy: LGBT rights'
+    title: 'Racial Foundations of Public Policy: LGBT Rights'
     subtitle: 'A conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes'
     has_tag: true
     tag: 'Queer Policy Series 2022'
@@ -337,7 +337,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662600314
+updated_at: 1662686605
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
