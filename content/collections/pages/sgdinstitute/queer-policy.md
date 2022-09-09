@@ -40,14 +40,6 @@ sections:
       -
         type: heading
         attrs:
-          level: 5
-        content:
-          -
-            type: text
-            text: 'N E X T   U P'
-      -
-        type: heading
-        attrs:
           level: 2
         content:
           -
@@ -224,7 +216,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662688720
+updated_at: 1662688742
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
