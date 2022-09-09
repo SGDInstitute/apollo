@@ -88,7 +88,7 @@ sections:
             marks:
               -
                 type: lead
-            text: '4:00-5:15 pm EDT (3:00-3:15 pm CDT)'
+            text: '4:00-5:15 pm EDT (3:00-4:15 pm CDT)'
           -
             type: hard_break
             marks:
@@ -337,7 +337,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662686605
+updated_at: 1662689471
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
