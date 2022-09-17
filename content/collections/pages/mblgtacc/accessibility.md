@@ -40,7 +40,6 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
@@ -171,39 +170,6 @@ sections:
           -
             type: text
             text: 'We have sent all presenters information on accessible color, contrast, and text size for their materials. Large-print programs will be available for all on-site attendees who registered prior to the registration deadline and opted to receive one. There may be a limited number produced for on-site registrants.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Digital
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We are hosting a platform for attendees to connect across in-person and remote attendance. See workshop conversation threads to engage asynchronously too! See your conference program for the Discord link.'
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                button: null
-                link: 'http://go.wisc.edu/mblgtaccdiscord'
-                text: 'Launch Discord'
-                color: btn-green
-                size: btn-base
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -356,5 +322,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645051324
+updated_at: 1663428587
 ---
