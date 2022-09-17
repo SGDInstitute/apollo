@@ -100,14 +100,6 @@ sections:
                 type: lead
             text: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Visit the Vendor Fair'
-      -
         type: paragraph
         content:
           -
@@ -123,7 +115,7 @@ sections:
             text: 'Register to attend MBLGTACC'
           -
             type: text
-            text: ' and then come to the Maker Market on Saturday, October 22 from 10:00 a.m. - 5:30 p.m. in Union Station Ballroom A.'
+            text: ' and then come to the Vendor Fair on Saturday, October 22 from 10:00 a.m. - 5:30 p.m. in Union Station Ballroom A.'
       -
         type: heading
         attrs:
@@ -293,7 +285,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663449035
+updated_at: 1663449135
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
