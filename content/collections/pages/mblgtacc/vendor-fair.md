@@ -5,21 +5,11 @@ blueprint: pages
 title: 'Vendor Fair'
 sections:
   -
-    title: 'Maker Market'
+    title: 'Vendor Fair'
     type: header_small
     enabled: true
   -
     bard:
-      -
-        type: set
-        attrs:
-          values:
-            type: image
-            image: maker-market-jun2022-inline-nonstandardsize-1574x798.png
-            inline: false
-            direction: float-right
-            width: w-1/4
-            margin_direction: all
       -
         type: set
         attrs:
@@ -51,7 +41,7 @@ sections:
                     marks:
                       -
                         type: lead
-                    text: 'Friday, October 21, 2022'
+                    text: 'Saturday, October 22, 2022'
                   -
                     type: hard_break
                     marks:
@@ -62,7 +52,7 @@ sections:
                     marks:
                       -
                         type: lead
-                    text: '5:00 - 10:00 p.m. EDT'
+                    text: '10:00 a.m. - 5:30 p.m. EDT'
             right_content:
               -
                 type: paragraph
@@ -100,13 +90,7 @@ sections:
                         type: lead
                     text: 'Union Station Ballroom A'
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Highlighting queer and trans makers and creators'
+        type: paragraph
       -
         type: paragraph
         content:
@@ -115,33 +99,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Maker Market is an exciting, new, and interactive part of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
-          -
-            type: text
-            text: 'The space invites conference attendees and vendors to'
-      -
-        type: ordered_list
-        attrs:
-          order: 1
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'buy, sell and trade their creations and '
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'participate in makers-stations that may include design-your-own-swag tables, prize giveaways, arts and crafts, skill-share demos, and much more! '
+            text: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
       -
         type: heading
         attrs:
@@ -149,7 +107,7 @@ sections:
         content:
           -
             type: text
-            text: 'Visit the Maker Market'
+            text: 'Visit the Vendor Fair'
       -
         type: paragraph
         content:
@@ -166,7 +124,7 @@ sections:
             text: 'Register to attend MBLGTACC'
           -
             type: text
-            text: ' and then come to the Maker Market on Friday, October 21 from 5:00 - 10:00 p.m. in Union Station Ballroom A.'
+            text: ' and then come to the Maker Market on Saturday, October 22 from 10:00 a.m. - 5:30 p.m. in Union Station Ballroom A.'
       -
         type: heading
         attrs:
@@ -174,16 +132,34 @@ sections:
         content:
           -
             type: text
-            text: 'Who will be at the Maker Market?'
+            text: 'Who will be at the Vendor Fair?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Here''s who is coming so far:'
+            text: 'Here''s who is coming so far:'
       -
         type: bullet_list
         content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'The Pride Center of Terre Haute, Inc.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'University of Wisconsin-Madison School of Education Office of Equity, Diversity, and Inclusion'
           -
             type: list_item
             content:
@@ -219,7 +195,43 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Columbia University School of Social Work '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Smith College School for Social Work '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'College of the Holy Cross'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
                     text: 'Music City Creative'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Peace Corps'
           -
             type: list_item
             content:
@@ -282,7 +294,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663448639
+updated_at: 1663449032
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
