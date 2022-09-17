@@ -1,0 +1,6 @@
+id: f6ada276-5ceb-41f9-8181-ba34bc7186f4
+enabled: true
+source: '/speakers-events/maker-market-1(.*)'
+destination: /speakers-events/vendor-fair$1
+type: '301'
+match_type: regex
