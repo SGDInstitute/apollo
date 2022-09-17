@@ -179,9 +179,55 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll have more to share soon about makers at the market.'
+            text: 'The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Here''s who is coming so far:'
       -
-        type: paragraph
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Janatee Craftily'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Queer Comics Peddler'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Stewie''s Got Pride'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Music City Creative'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Nifty Giftys Shop'
     type: content
     enabled: true
   -
@@ -235,7 +281,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661091715
+updated_at: 1663448460
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
