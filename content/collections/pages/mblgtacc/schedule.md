@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662080016
+updated_at: 1663437726
 sections:
   -
     bg_type: image
@@ -143,7 +143,7 @@ sections:
               -
                 cells:
                   - '1:00 - 2:15 p.m.'
-                  - 'Identity Forums'
+                  - '<a href="https://mblgtacc.org/speakers-events/identity-forums"><font color="#07807b"><b>Identity Forums</b></font></a>'
                   - Various
               -
                 cells:
@@ -209,7 +209,7 @@ sections:
               -
                 cells:
                   - '10:00 - 11:30 a.m.'
-                  - 'Identity Forums'
+                  - '<a href="https://mblgtacc.org/speakers-events/identity-forums"><font color="#07807b"><b>Identity Forums</b></font></a>'
                   - Various
               -
                 cells:
