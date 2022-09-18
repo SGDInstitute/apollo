@@ -143,6 +143,22 @@ sections:
                           target: null
                           title: null
                     text: 'Identity Forums →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Advisor Programming →'
             right_content:
               -
                 type: heading
@@ -171,11 +187,11 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          href: 'statamic://entry::0684fecc-18a0-425b-a0f7-286b638eed64'
                           rel: null
                           target: null
                           title: null
-                    text: 'Advisor Programming →'
+                    text: 'Vendor Fair →'
               -
                 type: heading
                 attrs:
@@ -238,5 +254,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662142427
+updated_at: 1663511191
 ---
