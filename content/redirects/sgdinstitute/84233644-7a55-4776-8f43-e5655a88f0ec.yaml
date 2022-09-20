@@ -1,0 +1,6 @@
+id: 84233644-7a55-4776-8f43-e5655a88f0ec
+enabled: true
+source: /programs/take-the-last-bite
+destination: /take-the-last-bite
+type: '302'
+match_type: exact
