@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663449523
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1664392043
 sections:
   -
     bg_type: image
@@ -61,8 +61,8 @@ sections:
                   - 'Union Station Ballroom A'
               -
                 cells:
-                  - '6:00 - 7:00 p.m.'
-                  - 'Welcome Reception &<br/>Opening Remarks'
+                  - '6:30 - 7:00 p.m.'
+                  - 'Welcome &<br/>Opening Remarks'
                   - 'Union Station Ballroom B-C'
               -
                 cells:
@@ -73,12 +73,12 @@ sections:
                 cells:
                   - '8:00 - 10:00 p.m.'
                   - '<a href="https://mblgtacc.org/speakers-events/advisor-programming"><font color="#07807b"><b>Advisor Social</b></font></a>'
-                  - TBD
+                  - 'Hilton Columbus Downtown'
               -
                 cells:
-                  - '8:00 - 11:00 p.m.'
+                  - '8:00 - 10:00 p.m.'
                   - Entertainment
-                  - TBD
+                  - 'Union Station Ballroom B-C'
             full_width: true
       -
         type: paragraph
@@ -164,7 +164,7 @@ sections:
                 cells:
                   - '8:00 - 11:00 p.m.'
                   - Entertainment
-                  - TBD
+                  - 'Union Station Ballroom B-C'
             full_width: true
       -
         type: paragraph
