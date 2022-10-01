@@ -868,5 +868,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664635227
+updated_at: 1664635293
+description: 'Our glossary of LGBTQIA+ terms defines words you may encounter that are commonly related to lesbian, gay, transgender, queer, intersex, and asexual people and communities around the United States.'
 ---
