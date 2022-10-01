@@ -23,7 +23,7 @@ sections:
         content:
           -
             type: text
-            text: 'Together with student organizers of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, we review these for relevance and continued cultural and historical accuracy. We know and respect that identities exist on spectrums, so this is not an exhaustive or inviolable list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person.'
+            text: 'Together with student organizers of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference, we review these annually for relevance and continued cultural and historical accuracy. We know and respect that identities exist on spectrums, so this is not an exhaustive or inviolable list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person.'
       -
         type: paragraph
         content:
@@ -36,6 +36,14 @@ sections:
           -
             type: text
             text: 'Have a suggestion to revise a definition? Want to see other terms included? Let us know through your daily conference evaluations, DM us on social media, or email us at hello@mblgtacc.org.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Terms
       -
         type: heading
         attrs:
@@ -860,5 +868,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664635167
+updated_at: 1664635227
 ---
