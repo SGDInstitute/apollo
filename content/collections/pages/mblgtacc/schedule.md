@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664751554
+updated_at: 1664751650
 sections:
   -
     bg_type: image
@@ -23,7 +23,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'This is a working schedule and may be updated as programming is confirmed and announced.'
+            text: 'This is a working schedule and may be updated as needed.'
     type: content
     enabled: true
   -
