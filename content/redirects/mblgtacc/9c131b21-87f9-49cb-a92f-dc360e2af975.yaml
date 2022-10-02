@@ -1,0 +1,6 @@
+id: 9c131b21-87f9-49cb-a92f-dc360e2af975
+enabled: true
+source: '/speakers-events/maker-market-1(.*)'
+destination: /speakers-events/lunch-learn$1
+type: '301'
+match_type: regex
