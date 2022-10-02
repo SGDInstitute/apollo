@@ -131,7 +131,7 @@ sections:
         attrs:
           values:
             type: image
-            image: jenson-careaga-1090x681_text.jpg
+            image: jenson-careaga-1090x681_program-page.jpg
             inline: false
       -
         type: paragraph
@@ -213,7 +213,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664730255
+updated_at: 1664730439
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
