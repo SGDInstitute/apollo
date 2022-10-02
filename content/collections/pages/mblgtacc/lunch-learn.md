@@ -1,7 +1,7 @@
 ---
 id: 81e3cfa9-4200-4162-b899-966f8d86a954
 blueprint: pages
-title: 'Lunch and learn'
+title: 'Lunch and Learn'
 sections:
   -
     title: 'The Revoluncheon'
@@ -114,6 +114,18 @@ sections:
               -
                 type: lead
             text: 'The Revoluncheon is a lunch and learn space at MBLGTACC led by Merrique Jenson and Jade Careaga.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'This lunch and learn session focuses on the greatest issues facing Midwest queer and trans communities. Featured educators will aid us in grappling with major questions around community building, movement work, and creating a liberated future. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'All attendees welcome to join this space. Only those who purchased lunch tickets will be provided lunch, and external food is not allowed in the space.'
     type: content
     enabled: true
   -
@@ -213,7 +225,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664730439
+updated_at: 1664751003
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
