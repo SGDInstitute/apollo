@@ -226,12 +226,6 @@ sections:
                     text: 'Virtual Track →'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'We''ll be able to share more information on specific workshops in late September when session descriptions are final.'
-      -
-        type: paragraph
     type: content
     enabled: true
   -
@@ -270,5 +264,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664751342
+updated_at: 1664751379
 ---
