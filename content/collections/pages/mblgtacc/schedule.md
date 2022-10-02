@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664392043
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1664751499
 sections:
   -
     bg_type: image
@@ -138,7 +138,7 @@ sections:
               -
                 cells:
                   - '11:30 a.m. - 1:00 p.m.'
-                  - 'Lunch & Learn:<br/>State of the Region'
+                  - '<a href="https://mblgtacc.org/speakers-events/lunch-learn"><font color="#07807b"><b>Lunch & Learn: The Revoluncheon</b></font></a>'
                   - 'Union Station Ballroom B-C'
               -
                 cells:
