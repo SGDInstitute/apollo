@@ -187,6 +187,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::81e3cfa9-4200-4162-b899-966f8d86a954'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'The Revoluncheon →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::0684fecc-18a0-425b-a0f7-286b638eed64'
                           rel: null
                           target: null
@@ -254,5 +270,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663511191
+updated_at: 1664751342
 ---
