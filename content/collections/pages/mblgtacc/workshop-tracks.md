@@ -67,33 +67,6 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Doing the Work in Rural & Small Communities'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Taking Care of Ourselves to Take Care of Others'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Designing a Queer Future Through Media'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
                     text: 'Activism & Protest as Tools for Justice'
           -
             type: list_item
@@ -112,7 +85,43 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Advisor Track'
+                    text: 'Designing a Queer Future Through Media'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Doing the Work in Rural & Small Communities'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Historical and Contemporary Identities'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Taking Care of Ourselves to Take Care of Others'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'The Dolls are Thriving'
           -
             type: list_item
             content:
@@ -122,6 +131,15 @@ sections:
                   -
                     type: text
                     text: 'Virtual Track'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Advisor Track'
     type: content
     enabled: true
   -
@@ -134,6 +152,138 @@ sections:
           -
             type: text
             text: 'About our tracks'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: "Activism & Protest as Tools for Justice\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.\_Content in this track should focus on:"
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Current movement work, mutual aid projects, direct action and other activism within the region impacting queer and trans communities\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Analyzing movements and activism throughout history to extract lessons for us in today’s context\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Policies and political actions that pose barriers to activism efforts\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: "Creating Change on College Campuses\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.\_Content in this track should focus on:"
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Experiences with student organizations and on-campus programming, events and advocacy\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Ways to access support services and resources as a queer/trans college student\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Advocating for improved campus policies and creating an affirming campus climate\_"
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: "Designing a Queer Future Through Media\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers– media and content creation is a strong tool for gender justice and sexual liberation.\_Content in this track should focus on:"
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Supporting artistic and creative content creation by queer and trans communities\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Representation, gaps in visibility, and analyzing the quality of queer and trans content in film, television, music\_ journalism and other mass media\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Using social media and creative platforms to build community, raise awareness and mobilize movements\_"
       -
         type: heading
         attrs:
@@ -191,6 +341,23 @@ sections:
         content:
           -
             type: text
+            text: 'Historical and Contemporary Identities'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Description forthcoming'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: "Taking Care of Ourselves to Take Care of Others\_"
       -
         type: paragraph
@@ -233,7 +400,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "Improving and understanding mental health outcomes for queer and trans communities, especially in the Midwest region\_\_"
+                    text: "Improving and understanding mental health outcomes for queer and trans communities, especially in the Midwest region\_\_\_"
       -
         type: heading
         attrs:
@@ -241,199 +408,19 @@ sections:
         content:
           -
             type: text
-            text: "Designing a Queer Future Through Media\_"
+            text: 'The Dolls are Thriving'
       -
         type: paragraph
         content:
           -
             type: text
-            text: "Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers– media and content creation is a strong tool for gender justice and sexual liberation.\_"
+            text: 'The Dolls Are Thriving is organized by Transformations and is an annual national virtual summit on women of color of trans experience in leadership, advocacy and mentorship. At MBLGTACC, they are bringing aspects of the national conference, led by trans women of color activists and organizers. Across two extended sessions and an identity forum, you’ll combine facilitated conversations, small group breakout activities, case scenarios, and media clips.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Content in this track should focus on:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Supporting artistic and creative content creation by queer and trans communities\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Representation, gaps in visibility, and analyzing the quality of queer and trans content in film, television, music\_ journalism and other mass media\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Using social media and creative platforms to build community, raise awareness and mobilize movements\_"
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: "Activism & Protest as Tools for Justice\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content in this track should focus on:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Current movement work, mutual aid projects, direct action and other activism within the region impacting queer and trans communities\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Analyzing movements and activism throughout history to extract lessons for us in today’s context\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Policies and political actions that pose barriers to activism efforts\_"
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: "Creating Change on College Campuses\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content in this track should focus on:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Experiences with student organizations and on-campus programming, events and advocacy\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Ways to access support services and resources as a queer/trans college student\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Advocating for improved campus policies and creating an affirming campus climate\_"
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: "Advisor Track\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. We want to recognize this work and hold space for these roles who often attend the conference with their student groups.\_\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content in this track should focus on:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated\_"
+            text: 'In this track, attendees can choose to attend either or both of the Saturday extended sessions. The morning block combines workshop sessions 1-2, and the afternoon block combines sessions 3-4.'
       -
         type: heading
         attrs:
@@ -484,6 +471,50 @@ sections:
                   -
                     type: text
                     text: 'Demonstrating strong workshop delivery skills in a virtual setting (aka not replicating an in-person workshop for this setting)'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: "Advisor Track\_"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. We want to recognize this work and hold space for these roles who often attend the conference with their student groups.\_\_Content in this track should focus on:"
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions\_"
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated'
       -
         type: paragraph
     type: content
@@ -669,7 +700,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661091973
+updated_at: 1664750887
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
