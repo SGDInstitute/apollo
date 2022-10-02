@@ -147,6 +147,15 @@ sections:
                           -
                             type: text
                             text: Asexual/aromantic
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            text: Lesbian
             right_content:
               -
                 type: bullet_list
@@ -159,16 +168,10 @@ sections:
                         content:
                           -
                             type: text
-                            text: Lesbian
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
                             text: Gay
+              -
+                type: bullet_list
+                content:
                   -
                     type: list_item
                     content:
@@ -204,7 +207,22 @@ sections:
                         content:
                           -
                             type: text
+                            text: 'Trans BIPOC*'
+                  -
+                    type: list_item
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
                             text: DIY/Overflow
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '*This session is part of The Dolls are Thriving track and will center trans women of color, but all trans BIPOC attendees are welcome. '
       -
         type: paragraph
         content:
@@ -306,6 +324,6 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662142227
+updated_at: 1664750484
 description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
