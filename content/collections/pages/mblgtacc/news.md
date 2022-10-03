@@ -53,7 +53,7 @@ sections:
     enabled: true
   -
     articles:
-      - b7816cc5-a0a9-4112-8edf-e08a70682e86
+      - d3710e56-ef2a-408f-83a7-0e63f71e57fb
       - 409b4fbb-dd8d-4845-bafc-642ca8d967bf
       - 473aa071-83e1-4c8a-acd3-475be69220e7
       - be612a3e-8439-443f-b257-b95bccde7c62
@@ -89,6 +89,27 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d3710e56-ef2a-408f-83a7-0e63f71e57fb'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'New podcast episode highlights MBLGTACC planners, what it takes, what we''re learning'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'September 20, 2022'
       -
         type: paragraph
         content:
@@ -401,5 +422,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663424357
+updated_at: 1664767863
 ---
