@@ -9,6 +9,22 @@ sections:
       -
         type: heading
         attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Session 1'
+      -
+        type: heading
+        attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: 'Saturday, October 22 | 8:30-9:45 a.m.'
+      -
+        type: heading
+        attrs:
           level: 3
         content:
           -
@@ -387,5 +403,6 @@ sections:
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664911793
+updated_at: 1664912107
+description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 1 runs 8:30-9:45 a.m. on Saturday, October 22.'
 ---
