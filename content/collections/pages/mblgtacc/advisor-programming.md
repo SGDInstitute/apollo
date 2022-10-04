@@ -68,6 +68,196 @@ sections:
                   -
                     type: text
                     text: "Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated\_"
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Advisor Track Schedule'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Supporting & Advocating Alongside LGBTQ+ Center Staff: Reflections from Practitioners & Scholars '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Kalyani Kannan'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Time: Sat., Oct. 22, 2022 8:30 - 9:45 am'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A111'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Individuals can appreciate the tremendous work of LGBTQ+ center staff without knowing what it means to support them and their work. This session is for those who want to partner with LGBTQ+ center staff and/or advocate for LGBTQ+ centers to have greater resources. Other topics include: alignment with and advocacy alongside LGBTQ+ center staff, how to inquire and then advocate for their needs, and collaboration opportunities for larger justice efforts on campus.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'The Art of Calm '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Will Van Roosenbeek'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Time: Sat., Oct. 22, 2022 10:00 - 11:15 am'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A111'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Work demands, pandemic uncertainty, families, friends, and boredom could be taking their toll on our ability to find quiet, peace, and/or calm. Join University of Wisconsin La Crosse Pride Center Director Will Van Roosenbeek and explore techniques that restore, calm, and get you back to center.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Ash Wilson'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Time: Sat., Oct. 22, 2022 2:30 - 3:45 pm'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A111'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners will be a session that provides one example of how LGBTQIA+ centers can take their campus pride index data (regardless of score), work with campus partners, and create measurable change through creating and utilizing an Advisory and Action Group.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Meeting in the Center '
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Cornelius Baker'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 pm'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A111'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Queer and trans (QT) educational trainings can often occur at the detriment of QT individuals in the space that may feel tokenized or experience harm for the benefit of non-QT folks’ learning. In this workshop I plan to exam the ways in which we can center QT peoples’ learning in educational trainings. We plan on re-focusing our assessment efforts to better understand the gaps in educational support and personal development for QT individuals.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Content Warnings: Biphobia or homophobia, Transphobia, Racism'
     type: content
     enabled: true
   -
@@ -208,7 +398,7 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661034277
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1664915808
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
