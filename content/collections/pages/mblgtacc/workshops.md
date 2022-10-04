@@ -76,7 +76,6 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: buttons
             buttons:
@@ -167,5 +166,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664916322
+updated_at: 1664916445
 ---
