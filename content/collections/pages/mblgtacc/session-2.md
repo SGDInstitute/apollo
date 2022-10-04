@@ -117,7 +117,7 @@ sections:
             type: hard_break
           -
             type: text
-            text: ' Stone identity is as rich and complex as it is misunderstood band oversimplified. Unlike the term implies, stone identity is a place for warmth, growth, and physical fulfillment. Stone identities have existed for decades, and while research suggests that the number of stone people has remained relatively constant, the identity has seen a resurgence in popular queer culture. Delve into the history and politics of this complex sexual and emotional identity! This workshop is 18+.'
+            text: 'Stone identity is as rich and complex as it is misunderstood and oversimplified. Unlike the term implies, stone identity is a place for warmth, growth, and physical fulfillment. Stone identities have existed for decades, and while research suggests that the number of stone people has remained relatively constant, the identity has seen a resurgence in popular queer culture. Delve into the history and politics of this complex sexual and emotional identity! This workshop is 18+.'
       -
         type: heading
         attrs:
@@ -506,5 +506,5 @@ template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 2 runs 10-11:15 a.m. on Saturday, October 22.'
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664912553
+updated_at: 1664912637
 ---
