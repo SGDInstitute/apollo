@@ -401,11 +401,13 @@ sections:
           -
             type: text
             text: 'Content Warnings: Transphobia, Sexism'
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664912584
+updated_at: 1664913665
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 1 runs 8:30-9:45 a.m. on Saturday, October 22.'
 ---
