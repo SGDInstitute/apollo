@@ -69,6 +69,10 @@ sections:
         type: heading
         attrs:
           level: 2
+        content:
+          -
+            type: text
+            text: 'Workshops by Track'
       -
         type: set
         attrs:
@@ -83,6 +87,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::d230d54f-cf41-4dfe-828a-b5dd34babf08'
               -
                 text: 'Creating Change on College Campuses'
                 color: btn-green
@@ -90,6 +95,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::a07ec015-b171-4f1c-9c32-f1e221447f33'
               -
                 text: 'Designing a Queer Future Through Media'
                 color: btn-green
@@ -97,6 +103,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::09a9c0fc-d5f8-4575-9008-23c97aac3ee2'
               -
                 text: 'Doing the Work in Rural and Small Communities'
                 color: btn-green
@@ -104,6 +111,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::8a77e9b0-558d-4751-89c0-66dd0d155e33'
               -
                 text: 'Historical and Contemporary Identities'
                 color: btn-green
@@ -111,6 +119,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::5b951a24-b6d1-41ae-8b55-210a587664b9'
               -
                 text: 'Taking Care of Ourselves to Take Care of Others'
                 color: btn-green
@@ -118,6 +127,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::3e041856-cf57-4d9a-9a86-002c3c5b06d5'
               -
                 text: 'The Dolls are Thriving'
                 color: btn-green
@@ -125,6 +135,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::041bfaf7-db36-4e2d-a682-5c047f66c162'
               -
                 text: 'Advisor Track'
                 color: btn-green
@@ -132,6 +143,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
               -
                 text: General
                 color: btn-green
@@ -139,6 +151,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::673f9ad0-e5b9-4e23-8c80-6be1328e9270'
               -
                 text: 'Virtual Track'
                 color: btn-green
@@ -146,6 +159,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
             contain: true
       -
         type: paragraph
@@ -153,5 +167,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664913899
+updated_at: 1664916322
 ---
