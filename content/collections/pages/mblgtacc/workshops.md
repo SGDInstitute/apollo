@@ -31,6 +31,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::106fcf96-6fcd-43c7-adbf-689869e2775f'
               -
                 text: 'Session 2<br/>Sat., Oct. 22, 2022 10:00 - 11:15 am'
                 color: btn-green
@@ -38,6 +39,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::c7e5c7a3-f6e6-4ccb-b955-9a6733d3182f'
               -
                 text: 'Session 3<br/>Sat., Oct. 22, 2022 2:30 - 3:45 pm'
                 color: btn-green
@@ -45,6 +47,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::93ce0543-ef3f-4edb-937a-689c5752c045'
               -
                 text: 'Session 4<br/>Sat., Oct. 22, 2022 4:00 - 5:15 pm'
                 color: btn-green
@@ -52,6 +55,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::0cf409c5-6faa-44a7-afb5-a7c2e1b8034d'
               -
                 text: 'Session 5<br/>Sun., Oct. 23, 2022 8:30 - 9:45 am'
                 color: btn-green
@@ -59,6 +63,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
+                link: 'entry::af7498a3-e16d-4afa-b198-58d2e79ea65f'
             contain: true
       -
         type: heading
@@ -148,5 +153,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664911186
+updated_at: 1664913899
 ---
