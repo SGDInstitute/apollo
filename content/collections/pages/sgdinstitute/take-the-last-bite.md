@@ -8,14 +8,14 @@ sections:
     title: 'Take the Last Bite'
     has_tag: true
     tag: Podcast
-    has_button: false
+    has_button: true
     block: false
     outline: false
     target_blank: true
     type: header_large
     enabled: true
     subtitle: 'Season 3 streaming now—New episodes bi-weekly'
-    link: 'entry::53f1a842-18cb-4e11-a73e-cc23ff40bd85'
+    link: 'entry::d51f91d7-369c-4cf7-9b0f-f6f2cb0a7e9f'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -85,6 +85,25 @@ sections:
           -
             type: text
             text: 'Season 3'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d51f91d7-369c-4cf7-9b0f-f6f2cb0a7e9f'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 2: Our Post-Roe Reality'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -646,7 +665,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663685260
+updated_at: 1664919110
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
