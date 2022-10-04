@@ -11,14 +11,145 @@ sections:
   -
     bard:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            text: content
+            text: 'Workshops by Session'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Session 1<br/>Sat., Oct. 22, 2022 8:30 - 9:45 am'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Session 2<br/>Sat., Oct. 22, 2022 10:00 - 11:15 am'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Session 3<br/>Sat., Oct. 22, 2022 2:30 - 3:45 pm'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Session 4<br/>Sat., Oct. 22, 2022 4:00 - 5:15 pm'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Session 5<br/>Sun., Oct. 23, 2022 8:30 - 9:45 am'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Workshops by Track'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                text: 'Activism and Protest as Tools for Justice'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Creating Change on College Campuses'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Designing a Queer Future Through Media'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Doing the Work in Rural and Small Communities'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Historical and Contemporary Identities'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Taking Care of Ourselves to Take Care of Others'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'The Dolls are Thriving'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Advisor Track'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: General
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+              -
+                text: 'Virtual Track'
+                color: btn-green
+                size: btn-xl
+                block: true
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645142340
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1664911169
 ---
