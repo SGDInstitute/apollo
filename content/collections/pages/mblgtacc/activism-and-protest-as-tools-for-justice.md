@@ -4,6 +4,10 @@ blueprint: pages
 title: 'Activism and Protest as Tools for Justice'
 sections:
   -
+    title: 'Activism and Protest as Tools for Justice'
+    type: header_small
+    enabled: true
+  -
     type: content
     enabled: true
     bard:
@@ -211,6 +215,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252317
+updated_at: 1665252976
 description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
 ---
