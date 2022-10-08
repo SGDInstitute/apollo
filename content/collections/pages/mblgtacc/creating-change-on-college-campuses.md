@@ -15,6 +15,15 @@ sections:
             type: text
             text: 'Creating Change on College Campuses'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.'
+      -
         type: heading
         attrs:
           level: 3
@@ -214,6 +223,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Creating Change on College Campuses'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664914653
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251951
 ---
