@@ -211,6 +211,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252304
+updated_at: 1665252317
 description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
 ---
