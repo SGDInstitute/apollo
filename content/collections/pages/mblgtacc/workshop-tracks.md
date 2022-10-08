@@ -67,6 +67,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::d230d54f-cf41-4dfe-828a-b5dd34babf08'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Activism & Protest as Tools for Justice'
           -
             type: list_item
@@ -76,6 +84,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::a07ec015-b171-4f1c-9c32-f1e221447f33'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Creating Change on College Campuses'
           -
             type: list_item
@@ -85,6 +101,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::09a9c0fc-d5f8-4575-9008-23c97aac3ee2'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Designing a Queer Future Through Media'
           -
             type: list_item
@@ -94,7 +118,15 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Doing the Work in Rural & Small Communities'
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::8a77e9b0-558d-4751-89c0-66dd0d155e33'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Doing the Work in Rural and Small Communities'
           -
             type: list_item
             content:
@@ -112,6 +144,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::3e041856-cf57-4d9a-9a86-002c3c5b06d5'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Taking Care of Ourselves to Take Care of Others'
           -
             type: list_item
@@ -121,6 +161,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::041bfaf7-db36-4e2d-a682-5c047f66c162'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'The Dolls are Thriving'
           -
             type: list_item
@@ -130,6 +178,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Virtual Track'
           -
             type: list_item
@@ -139,6 +195,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Advisor Track'
     type: content
     enabled: true
@@ -700,7 +764,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664750887
+updated_at: 1665253262
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
