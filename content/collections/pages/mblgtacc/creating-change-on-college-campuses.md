@@ -1,6 +1,5 @@
 ---
 id: a07ec015-b171-4f1c-9c32-f1e221447f33
-published: false
 blueprint: pages
 title: 'Creating Change on College Campuses'
 sections:
@@ -224,5 +223,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Creating Change on College Campuses'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665251951
+updated_at: 1665251955
 ---
