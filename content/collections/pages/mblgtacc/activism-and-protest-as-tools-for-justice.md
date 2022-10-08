@@ -1,6 +1,5 @@
 ---
 id: d230d54f-cf41-4dfe-828a-b5dd34babf08
-published: false
 blueprint: pages
 title: 'Activism and Protest as Tools for Justice'
 sections:
@@ -16,6 +15,15 @@ sections:
           -
             type: text
             text: 'Activism and Protest as Tools for Justice'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.'
       -
         type: heading
         attrs:
@@ -202,7 +210,7 @@ sections:
             type: hard_break
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664914543
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251931
 description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
 ---
