@@ -4,6 +4,10 @@ blueprint: pages
 title: 'Session 1'
 sections:
   -
+    title: 'Session 1'
+    type: header_small
+    enabled: true
+  -
     bard:
       -
         type: heading
@@ -461,6 +465,6 @@ sections:
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252671
+updated_at: 1665252841
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 1 runs 8:30-9:45 a.m. on Saturday, October 22.'
 ---
