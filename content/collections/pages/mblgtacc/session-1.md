@@ -401,15 +401,15 @@ sections:
             type: text
             text: 'Content Warnings: Transphobia, Sexism'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'The Dolls Are Thriving on Campus'
       -
         type: bullet_list
@@ -446,10 +446,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our initial morning extended session, part one of two, will provide the groundwork for exploring what kinds of common realities young trans women of color, along with young femmes of color, experience on college campuses in the Midwest. We’ll dive into interactive conversations on ways that our instructors and admin, our peers, student housing options, classrooms and campuses can be affirming and create proactive solutions to keeping trans communities of color safer. We’ll also be introduced to harm reduction and transformative justice advocacy approaches to care that value removing judgement, valuing personal choice, centering accountability and exploring alternative avenues to healing and justice.'
-      -
-        type: paragraph
-        content:
+            text: 'Our initial morning extended session, part one of two, will provide the groundwork for exploring what kinds of common realities young trans women of color, along with young femmes of color, experience on college campuses in the Midwest. We’ll dive into interactive conversations on ways that our instructors and admin, our peers, student housing options, classrooms and campuses can be affirming and create proactive solutions to keeping trans communities of color safer. We’ll also be introduced to harm reduction and transformative justice advocacy approaches to care that value removing judgement, valuing personal choice, centering accountability and exploring alternative avenues to healing and justice. '
           -
             type: text
             marks:
@@ -458,12 +455,12 @@ sections:
             text: 'NOTE: '
           -
             type: text
-            text: 'Time Shift The Dolls Are Thriving on Campus will start at 9:00 a.m. (not 8:30 a.m.). Other workshop start times are unchanged. The Dolls Are Thriving on Campus will run from 9:00 - 11:15 a.m., covering workshop sessions 1 and 2. Attendees who choose this session would not attend another workshop during session 2.'
+            text: 'The Dolls Are Thriving on Campus will start at 9:00 a.m. (not 8:30 a.m.— and other workshop start times are unchanged) and run until 11:15 a.m., covering workshop sessions 1 and 2. Attendees who choose this session would not attend another workshop during session 2.'
     type: content
     enabled: true
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252414
+updated_at: 1665252671
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 1 runs 8:30-9:45 a.m. on Saturday, October 22.'
 ---
