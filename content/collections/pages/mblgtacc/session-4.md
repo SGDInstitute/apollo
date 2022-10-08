@@ -516,7 +516,7 @@ sections:
     enabled: true
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
-description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 4 runs 4-5:15 p.m. on Saturday, October 22.'
+description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 4 runs 4:00-5:15 p.m. on Saturday, October 22.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665251398
+updated_at: 1665251404
 ---
