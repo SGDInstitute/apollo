@@ -50,7 +50,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: Sat., Oct. 22, 2022 8:30 - 9:45 am'
+                    text: 'Time: Sat., Oct. 22, 2022 8:30 - 9:45 a.m.'
           -
             type: list_item
             content:
@@ -100,7 +100,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: Sat., Oct. 22, 2022 10:00 - 11:15 am'
+                    text: 'Time: Sat., Oct. 22, 2022 10:00 - 11:15 a.m.'
           -
             type: list_item
             content:
@@ -144,7 +144,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: Sat., Oct. 22, 2022 2:30 - 3:45 pm'
+                    text: 'Time: Sat., Oct. 22, 2022 2:30 - 3:45 p.m.'
           -
             type: list_item
             content:
@@ -194,7 +194,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 pm'
+                    text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 p.m.'
           -
             type: list_item
             content:
@@ -222,5 +222,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Taking Care of Ourselves to Take Care of Others'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252090
+updated_at: 1665252111
 ---
