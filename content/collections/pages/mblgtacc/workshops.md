@@ -1,6 +1,5 @@
 ---
 id: 96f92224-6822-42f4-a06a-14260ce278f9
-published: false
 blueprint: pages
 title: Workshops
 sections:
@@ -17,7 +16,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshops by Session'
+            text: 'Workshops by session'
       -
         type: set
         attrs:
@@ -25,7 +24,7 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Session 1<br/>Sat., Oct. 22, 2022 8:30 - 9:45 am'
+                text: 'Session 1<br/>Sat., Oct. 22, 2022 8:30 - 9:45 a.m.'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -33,7 +32,7 @@ sections:
                 target_blank: false
                 link: 'entry::106fcf96-6fcd-43c7-adbf-689869e2775f'
               -
-                text: 'Session 2<br/>Sat., Oct. 22, 2022 10:00 - 11:15 am'
+                text: 'Session 2<br/>Sat., Oct. 22, 2022 10:00 - 11:15 a.m.'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -41,7 +40,7 @@ sections:
                 target_blank: false
                 link: 'entry::c7e5c7a3-f6e6-4ccb-b955-9a6733d3182f'
               -
-                text: 'Session 3<br/>Sat., Oct. 22, 2022 2:30 - 3:45 pm'
+                text: 'Session 3<br/>Sat., Oct. 22, 2022 2:30 - 3:45 p.m.'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -49,7 +48,7 @@ sections:
                 target_blank: false
                 link: 'entry::93ce0543-ef3f-4edb-937a-689c5752c045'
               -
-                text: 'Session 4<br/>Sat., Oct. 22, 2022 4:00 - 5:15 pm'
+                text: 'Session 4<br/>Sat., Oct. 22, 2022 4:00 - 5:15 p.m.'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -57,7 +56,7 @@ sections:
                 target_blank: false
                 link: 'entry::0cf409c5-6faa-44a7-afb5-a7c2e1b8034d'
               -
-                text: 'Session 5<br/>Sun., Oct. 23, 2022 8:30 - 9:45 am'
+                text: 'Session 5<br/>Sun., Oct. 23, 2022 8:30 - 9:45 a.m.'
                 color: btn-green
                 size: btn-xl
                 block: true
@@ -72,7 +71,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshops by Track'
+            text: 'Workshops by track'
       -
         type: set
         attrs:
@@ -165,6 +164,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664916445
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251541
 ---
