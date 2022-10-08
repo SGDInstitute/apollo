@@ -50,7 +50,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: 9-11:15 a.m.'
+                    text: 'Time: 9:00 - 11:15 a.m.'
       -
         type: heading
         attrs:
@@ -79,7 +79,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: 1-2:15 p.m.'
+                    text: 'Time: 1:00 - 2:15 p.m.'
       -
         type: heading
         attrs:
@@ -108,7 +108,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Time: 2:30-5:15 p.m.'
+                    text: 'Time: 2:30 - 5:15 p.m.'
       -
         type: paragraph
         content:
@@ -121,5 +121,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: The Dolls are Thriving'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252057
+updated_at: 1665252152
 ---
