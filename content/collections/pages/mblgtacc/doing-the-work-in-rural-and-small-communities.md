@@ -4,6 +4,10 @@ blueprint: pages
 title: 'Doing the Work in Rural and Small Communities'
 sections:
   -
+    title: 'Doing the Work in Rural and Small Communities'
+    type: header_small
+    enabled: true
+  -
     bard:
       -
         type: heading
@@ -266,5 +270,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Doing the Work in Rural and Small Communities'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252204
+updated_at: 1665253026
 ---
