@@ -1,6 +1,5 @@
 ---
 id: 09a9c0fc-d5f8-4575-9008-23c97aac3ee2
-published: false
 blueprint: pages
 title: 'Designing a Queer Future Through Media'
 sections:
@@ -14,6 +13,15 @@ sections:
           -
             type: text
             text: 'Designing a Queer Future Through Media'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers– media and content creation is a strong tool for gender justice and sexual liberation.'
       -
         type: heading
         attrs:
@@ -271,6 +279,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Designing a Queer Future Through Media'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664914778
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251978
 ---
