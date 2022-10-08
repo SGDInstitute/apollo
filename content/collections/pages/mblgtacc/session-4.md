@@ -1,6 +1,5 @@
 ---
 id: 0cf409c5-6faa-44a7-afb5-a7c2e1b8034d
-published: false
 blueprint: pages
 title: 'Session 4'
 sections:
@@ -24,7 +23,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Saturday, October 22 | 4-5:15 p.m.'
+            text: 'Saturday, October 22  |  4:00-5:15 p.m.'
       -
         type: heading
         attrs:
@@ -518,6 +517,6 @@ sections:
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 4 runs 4-5:15 p.m. on Saturday, October 22.'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664913409
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251398
 ---
