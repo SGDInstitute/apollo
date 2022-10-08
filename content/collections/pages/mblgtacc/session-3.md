@@ -24,7 +24,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Saturday, October 22 | 2:30-3:45 p.m.'
+            text: 'Saturday, October 22  |  2:30-3:45 p.m.'
       -
         type: heading
         attrs:
@@ -500,6 +500,6 @@ sections:
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 3 runs 2:30-3:45 p.m. on Saturday, October 22.'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664912984
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665251354
 ---
