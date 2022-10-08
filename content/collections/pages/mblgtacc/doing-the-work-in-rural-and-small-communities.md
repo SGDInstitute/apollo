@@ -15,6 +15,15 @@ sections:
             type: text
             text: 'Doing the Work in Rural and Small Communities'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Rural and/or small communities are a major focus of this year’s conference to honor the LGBTQ+ communities who exist in these complex campus and community spaces. Communities outside of urban spaces are often disregarded by political campaigning and resource allocation, leaving marginalized communities to manifest their own models of advocacy, organizing, and activism. By focusing on the work being done in rural communities to bridge resource gaps, build extensive communities, and combat small town conservative ideologies, we expand our toolkit of possible tactics and strategies for social change.'
+      -
         type: heading
         attrs:
           level: 3
@@ -257,6 +266,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Doing the Work in Rural and Small Communities'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664914894
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665252002
 ---
