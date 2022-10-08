@@ -138,6 +138,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::96f92224-6822-42f4-a06a-14260ce278f9'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Workshops →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::45a7eef9-88a0-48eb-b1f4-9145dc67c56a'
                           rel: null
                           target: null
@@ -264,5 +280,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664751391
+updated_at: 1665251771
 ---
