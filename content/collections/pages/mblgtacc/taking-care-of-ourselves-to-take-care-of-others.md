@@ -15,6 +15,15 @@ sections:
             type: text
             text: 'Taking Care of Ourselves to Take Care of Others'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle. Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.'
+      -
         type: heading
         attrs:
           level: 3
@@ -213,6 +222,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Taking Care of Ourselves to Take Care of Others'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664915116
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1665252018
 ---
