@@ -494,11 +494,67 @@ sections:
           -
             type: text
             text: 'Content Warnings: Ableism, Sexual violence, Sexism, Relationship violence, Racism'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'The Dolls Are Thriving: Expanding Our Communities'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Merrique Jenson, Jade Careaga'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A212'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Track: The Dolls are Thriving '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our afternoon The Dolls are Thriving extended session, part two of two, modifies portions of the award-winning “Queering Violence: Conversations about IPV, Sexual Violence and Trauma in LGBTQ and HIV+ Communities of Color” workshop, from SocialScope Productions, with case scenario group work to explore the complex ways violence and trauma affect queer and trans people of color and our communities. We know that violence directed at trans women of color, as well as femmes of color, is staggering. We also know that trans people of color are extremely creative, strong and resilient. This institute allows participants to reflect on multimedia clips from individual survivors and process the realities, complexities, and nuances in large and small group discussions. Participants will share any potential advocacy approaches and solutions to healing when working on anti-violence issues and the intricate ways a person’s identities intersect with their experiences coping. Participants will increase their ability to effectively advocate and understand different transformative justice healing options for queer and trans survivors of color, as well as how to empower survivors within their own, off-campus, community led initiatives and resources.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'NOTE: '
+          -
+            type: text
+            text: 'Expanding Our Communities will run from 2:30 - 5:15 p.m., covering workshop sessions 3 and 4. Attendees who choose this session would not attend another workshop during session 4.'
     type: content
     enabled: true
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 3 runs 2:30-3:45 p.m. on Saturday, October 22.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665251371
+updated_at: 1665252518
 ---
