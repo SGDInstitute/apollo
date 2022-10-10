@@ -171,50 +171,6 @@ sections:
         content:
           -
             type: text
-            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Ash Wilson'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022 2:30 - 3:45 pm'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A111'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners will be a session that provides one example of how LGBTQIA+ centers can take their campus pride index data (regardless of score), work with campus partners, and create measurable change through creating and utilizing an Advisory and Action Group.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
             text: 'Meeting in the Center '
       -
         type: bullet_list
@@ -399,6 +355,6 @@ sections:
     type: news
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1664915808
+updated_at: 1665442052
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
