@@ -167,50 +167,6 @@ sections:
         content:
           -
             type: text
-            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Ash Wilson'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A111'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Track: Advisor'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Advisory and Action Group: Leveraging your campus pride index score and campus partners will be a session that provides one example of how LGBTQIA+ centers can take their campus pride index data (regardless of score), work with campus partners, and create measurable change through creating and utilizing an Advisory and Action Group.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
             text: 'Adamantly Bisexual (in a biphobic world)'
       -
         type: bullet_list
@@ -556,6 +512,6 @@ sections:
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 3 runs 2:30-3:45 p.m. on Saturday, October 22.'
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252899
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1665442030
 ---
