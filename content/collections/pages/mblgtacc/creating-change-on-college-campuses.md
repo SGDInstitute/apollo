@@ -33,6 +33,50 @@ sections:
         content:
           -
             type: text
+            text: 'Cultivating Queer Resilience and Community'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Morgan Thompson'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Time: Sat., Oct. 22, 2022, 8:30 - 9:45 a.m.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A211'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'This workshop will explore the strategy and impact of queer resilience programming on a small, liberal arts campus in the rural Midwest. We will explore strategies that help LGBTQ+ people better understand themselves and others in efforts to cultivate collective advocacy to embody Adam Eli’s call that “queer people anywhere are responsible for queer people everywhere”. The workshop will include resilience cultivation strategies and provide findings from the implementation of the LGBTQ+ Empowerment Workshop Series.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: 'The Fight for Gender-Neutral Bathrooms on Small College Campuses '
       -
         type: bullet_list
@@ -226,6 +270,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Creating Change on College Campuses'
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252994
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1665525632
 ---
