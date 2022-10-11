@@ -32,19 +32,9 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: video
-            video: 'https://youtu.be/E3Ey97tf0SA'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Please note, closed captioning is available for this video; however, due to a technical difficulty, the ASL interpretation that was available during the live session was not recorded.'
+            video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0'
       -
         type: paragraph
       -
@@ -66,7 +56,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -337,7 +327,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662689471
+updated_at: 1665497819
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
