@@ -25,6 +25,34 @@ sections:
         content:
           -
             type: text
+            text: 'Advisor social'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Connect and mingle with your fellow advisors, grad students, and higher ed folks! Join us Friday, October 21 from 8:00 - 10:00 p.m. at the Hilton Columbus Downtown, attached to the GCCC. Beverages and light refreshments available. Please no undergraduate students.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Counseling
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Please visit the information desk for counseling information.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Food and meals'
       -
         type: paragraph
@@ -39,13 +67,13 @@ sections:
         content:
           -
             type: text
-            text: 'Quiet spaces'
+            text: 'HIV/STI testing by Equitas Health'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We will have mindfulness spaces available for those who need a moment to center themselves. These rooms are non-staffed spaces to provide conference attendees with a quiet place to rest and rejuvenate. The rooms will be equipped with yoga mats, coloring books, fidgets, etc. Conference attendees can use these spaces during the times when events are happening in those buildings.'
+            text: 'Know your status—get tested at MBLGTACC! Available Saturday, October 21 from 10:00 a.m. - 7:00 p.m. in room A224.'
       -
         type: heading
         attrs:
@@ -53,13 +81,13 @@ sections:
         content:
           -
             type: text
-            text: 'Restrooms (gender inclusive and unisex facilities)'
+            text: 'Quiet space'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Gender inclusive restrooms will be available in the conference space and will be marked in maps provided of the facility.'
+            text: 'Visit our quiet space in room A225, open on Saturday from 8:00 a.m. - 11:00 p.m. and on Sunday from 8:00 a.m. - 12:00 p.m. Ear plugs will be available in the quiet space during those hours, and at the conference info desk while supplies last. '
       -
         type: heading
         attrs:
@@ -67,21 +95,13 @@ sections:
         content:
           -
             type: text
-            text: Social
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Advisor social'
+            text: Restrooms
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'An advisor social will be held during MBLGTACC 2022. More information will be available at a later date.'
+            text: 'Gender inclusive restrooms will be available in the conference space.'
       -
         type: heading
         attrs:
@@ -95,21 +115,9 @@ sections:
         content:
           -
             type: text
-            text: 'At the Greater Columbus Convention Center, all attendees are invited to use the facility''s guest wireless network for the duration of the conference. Check back later for access instructions.'
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Information forthcoming'
+            text: 'At the Greater Columbus Convention Center, free WiFi for light use like reading emails and web browsing is available in all public spaces including all meeting rooms.'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Information about other hospitality amenities, including STI/HIV testing, mental wellness resources, etc. will be available at a later date.'
     type: content
     enabled: true
   -
@@ -123,6 +131,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649005807
+updated_at: 1665525832
 template: default
 ---
