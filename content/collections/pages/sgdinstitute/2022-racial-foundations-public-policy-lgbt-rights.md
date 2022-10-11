@@ -22,44 +22,6 @@ sections:
   -
     bard:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Watch the conversation'
-      -
-        type: set
-        attrs:
-          values:
-            type: video
-            video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0'
-      -
-        type: paragraph
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
-                text: 'Read the written reflection'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    bard:
-      -
         type: paragraph
         content:
           -
@@ -90,6 +52,46 @@ sections:
               -
                 type: lead
             text: Virtual
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Watch the conversation'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0'
+      -
+        type: set
+        attrs:
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
+                text: 'Read the written reflection'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
+    bard:
       -
         type: paragraph
         content:
@@ -327,7 +329,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665497819
+updated_at: 1665497858
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
