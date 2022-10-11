@@ -411,6 +411,56 @@ sections:
         content:
           -
             type: text
+            text: 'Cultivating Queer Resilience and Community'
+      -
+        type: bullet_list
+        content:
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Presented by: Morgan Thompson'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Location: A211'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Track: Creating Change on College Campuses'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: strike
+            text: This
+          -
+            type: text
+            text: ' workshop will explore the strategy and impact of queer resilience programming on a small, liberal arts campus in the rural Midwest. We will explore strategies that help LGBTQ+ people better understand themselves and others in efforts to cultivate collective advocacy to embody Adam Eli’s call that “queer people anywhere are responsible for queer people everywhere”. The workshop will include resilience cultivation strategies and provide findings from the implementation of the LGBTQ+ Empowerment Workshop Series.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             marks:
               -
                 type: bold
@@ -464,7 +514,7 @@ sections:
     enabled: true
 template: default
 parent: 96f92224-6822-42f4-a06a-14260ce278f9
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252841
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1665525549
 description: 'MBLGTACC 2022 workshops take place in breakout spaces throughout the Convention Center. Session 1 runs 8:30-9:45 a.m. on Saturday, October 22.'
 ---
