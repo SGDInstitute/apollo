@@ -17,7 +17,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'We''re committed to the attendee experience.'
+            text: 'We''re committed to the attendee experience. Learn more below, and visit us at the information desk'
       -
         type: heading
         attrs:
@@ -60,6 +60,20 @@ sections:
           -
             type: text
             text: 'As always, all attendees are responsible for arranging and paying for their own food and meals during conference weekend, except where otherwise specifically noted.'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Information desk / registration / check-in'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Questions? Need help checking in or registering on-site? Something else we can do? Stop by our information desk Friday from 2:00 - 10:00 p.m. (Union Station Ballroom A), Saturday from 8:00 a.m. - 10:00 p.m. (Union Station Ballroom A), and Sunday from 8:00 a.m. - 12:30 p.m.'
       -
         type: heading
         attrs:
@@ -131,6 +145,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665525850
+updated_at: 1665526159
 template: default
 ---
