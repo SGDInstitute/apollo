@@ -22,41 +22,6 @@ sections:
   -
     bard:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'October 27, 2022'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: '4:00-5:15 pm EDT (3:00-4:15 pm CDT)'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: Virtual
-    type: content
-    enabled: true
-  -
-    bard:
-      -
         type: heading
         attrs:
           level: 2
@@ -92,6 +57,37 @@ sections:
     enabled: true
   -
     bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'October 27, 2022'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: '4:00-5:15 pm EDT (3:00-4:15 pm CDT)'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: Virtual
       -
         type: paragraph
         content:
@@ -329,7 +325,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665497858
+updated_at: 1665497875
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
