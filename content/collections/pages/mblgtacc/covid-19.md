@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665800601
+updated_at: 1665800672
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -67,7 +67,7 @@ sections:
             text: 'For nearly every person, getting vaccinated against COVID-19 is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. '
           -
             type: text
-            text: 'The MBLGTACC 2022 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and boosted unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine and booster requirements.'
+            text: 'The MBLGTACC 2022 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and up to date with the latest bivalent booster unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine and booster requirements.'
       -
         type: paragraph
         content:
