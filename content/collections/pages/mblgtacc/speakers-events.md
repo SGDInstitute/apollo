@@ -23,6 +23,23 @@ sections:
                 type: lead
             text: 'The 30th annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://drive.google.com/file/d/1nEw6p0GWzMp5NKmP9wvy9qmPTb5JBwTm/view?usp=sharing'
+                text: 'Download program PDF'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+      -
         type: paragraph
       -
         type: heading
@@ -280,5 +297,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665251771
+updated_at: 1665798820
 ---
