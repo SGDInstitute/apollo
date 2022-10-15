@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1649037409
+updated_at: 1665800601
 sections:
   -
     title: 'COVID-19 FAQs'
@@ -76,7 +76,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'We '
+            text: 'Attendees are '
           -
             type: text
             marks:
@@ -84,16 +84,16 @@ sections:
                 type: bold
               -
                 type: italic
-            text: may
+            text: 'strongly encouraged'
           -
             type: text
             marks:
               -
                 type: bold
-            text: ' expect attendees to wear masks and follow common social distancing measures in indoor conference spaces, '
+            text: ' to wear face masks in the conference venue, regardless of COVID-19 vaccination status, and to physically distance indoors when possible. '
           -
             type: text
-            text: 'and will communicate a final determination with attendees and partners based on public health conditions in early October. '
+            text: 'We ask attendees to carry these practices into other establishments they may enter while visiting Columbus.'
       -
         type: paragraph
         content:
