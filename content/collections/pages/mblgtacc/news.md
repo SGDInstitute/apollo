@@ -98,6 +98,27 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'statamic://entry::1df01ff1-bc73-4dcf-8de0-3c4308ab8eec'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'MBLGTACC, Institute spotlight Midwest LGBTQIA+ artists, makers'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'October 16, 2022'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'statamic://entry::18a84c2f-93b4-4567-97b1-59c89737e23a'
                   rel: null
                   target: null
@@ -443,5 +464,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665948050
+updated_at: 1665948124
 ---
