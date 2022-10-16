@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665800161
+updated_at: 1665939141
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -35,13 +35,13 @@ sections:
         content:
           -
             type: text
-            text: 'Registration now open'
+            text: 'Register on-site or for the virtual track'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Tickets for in-person participants are $85. Virtual tickets are $20 per person. Registration will be available until early October. If you don''t register in advance, you can still attend by registering on site for $100.'
+            text: 'You can still join us! Register on-site at the Greater Columbus Convention Center for $100. Virtual tickets are $20 per person and available through October 20.'
       -
         type: set
         attrs:
@@ -59,7 +59,7 @@ sections:
             contain: true
       -
         type: paragraph
-    price: $85
+    price: $100
     below_price: 'per person (in-person experience)'
     bg_type: color
     num_colors: 2
@@ -67,6 +67,7 @@ sections:
     type: two_column
     enabled: true
     center_columns: false
+    above_price: 'On-site registration'
   -
     title: 'Keynotes and entertainment'
     event: mblgtacc-2022-keynote
