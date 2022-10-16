@@ -98,6 +98,27 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'statamic://entry::18a84c2f-93b4-4567-97b1-59c89737e23a'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'Transformations'' Jenson, Careaga to lead MBLGTACC lunch and learn'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'October 3, 2022'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'statamic://entry::d3710e56-ef2a-408f-83a7-0e63f71e57fb'
                   rel: null
                   target: null
@@ -422,5 +443,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665800202
+updated_at: 1665939980
 ---
