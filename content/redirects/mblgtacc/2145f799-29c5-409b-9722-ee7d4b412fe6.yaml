@@ -1,0 +1,6 @@
+id: 2145f799-29c5-409b-9722-ee7d4b412fe6
+enabled: true
+source: '/news/mblgtacc-institute-spotlight-midwest-lgbtqia-artists-makers(.*)'
+destination: /news/mblgtacc-institute-spotlight-midwest-lgbtqia-artists$1
+type: '301'
+match_type: regex
