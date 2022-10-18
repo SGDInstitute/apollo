@@ -272,11 +272,87 @@ sections:
             type: text
             text: Entertainment
       -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Open Mic Night hosted with Hayden Kristal '
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'as seen on TikTok and America''s Got Talent™'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Announcements coming October 2022. '
+            text: 'Friday, October 21'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:00 - 10:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom B-C'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Drag Show'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Saturday, October 22'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:00 - 11:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom B-C'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Games and crafts'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Saturday, October 22'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:30 - 11:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom A'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -297,5 +373,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665798863
+updated_at: 1666095434
 ---
