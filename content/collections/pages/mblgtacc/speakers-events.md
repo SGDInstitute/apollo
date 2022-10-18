@@ -103,6 +103,37 @@ sections:
         content:
           -
             type: text
+            text: Entertainment
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hayden Kristal—as seen on TikTok and America''s Got Talent™—will host and emcee Open Mic Night on Friday night, and on Saturday we''ll feature a drag show for high-energy entertainment, with a games and crafts room running concurrently. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d016c432-1882-44d8-b8ca-dd0b53a9461a'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Learn more about entertainment.'
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: Activities
       -
         type: set
@@ -262,37 +293,6 @@ sections:
     type: content
     enabled: true
   -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Entertainment
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Hayden Kristal—as seen on TikTok and America''s Got Talent™—will host and emcee Open Mic Night on Friday night, and on Saturday we''ll feature a drag show for high-energy entertainment, with a games and crafts room running concurrently. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::d016c432-1882-44d8-b8ca-dd0b53a9461a'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: italic
-            text: 'Learn more about entertainment.'
-    type: content
-    enabled: true
-  -
     limit: 3
     pagination: false
     exclude: false
@@ -310,5 +310,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666095687
+updated_at: 1666095723
 ---
