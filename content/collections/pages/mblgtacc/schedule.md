@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1666105304
+updated_at: 1666105424
 sections:
   -
     bg_type: image
@@ -131,12 +131,12 @@ sections:
               -
                 cells:
                   - '8:30 - 9:45 a.m.'
-                  - 'Workshop 1'
+                  - '<a href="https://mblgtacc.org/speakers-events/workshops/session-1"><font color="#07807b"><b>Workshop Session 1</b></font></a>'
                   - Various
               -
                 cells:
                   - '10:00 - 11:15 a.m.'
-                  - 'Workshop 2'
+                  - '<a href="https://mblgtacc.org/speakers-events/workshops/session-2"><font color="#07807b"><b>Workshop Session 2</b></font></a>'
                   - Various
               -
                 cells:
@@ -156,12 +156,12 @@ sections:
               -
                 cells:
                   - '2:30 - 3:45 p.m.'
-                  - 'Workshop 3'
+                  - '<a href="https://mblgtacc.org/speakers-events/workshops/session-3"><font color="#07807b"><b>Workshop Session 3</b></font></a>'
                   - Various
               -
                 cells:
                   - '4:00 - 5:15 p.m.'
-                  - 'Workshop 4'
+                  - '<a href="https://mblgtacc.org/speakers-events/workshops/session-4"><font color="#07807b"><b>Workshop Session 4</b></font></a>'
                   - Various
               -
                 cells:
@@ -212,7 +212,7 @@ sections:
               -
                 cells:
                   - '8:30 - 9:45 a.m.'
-                  - 'Workshop 5'
+                  - '<a href="https://mblgtacc.org/speakers-events/workshops/session-5"><font color="#07807b"><b>Workshop Session 5</b></font></a>'
                   - Various
               -
                 cells:
