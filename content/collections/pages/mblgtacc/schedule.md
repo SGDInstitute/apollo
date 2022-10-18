@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665798590
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1666105304
 sections:
   -
     bg_type: image
@@ -15,15 +15,6 @@ sections:
     enabled: true
   -
     bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'This is a working schedule and may be updated as needed.'
       -
         type: set
         attrs:
@@ -94,7 +85,7 @@ sections:
               -
                 cells:
                   - '8:00 - 10:00 p.m.'
-                  - Entertainment
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a>'
                   - 'Union Station Ballroom B-C'
             full_width: true
       -
@@ -180,7 +171,7 @@ sections:
               -
                 cells:
                   - '8:00 - 11:00 p.m.'
-                  - Entertainment
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a>'
                   - 'Union Station Ballroom B-C'
             full_width: true
       -
