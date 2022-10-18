@@ -96,6 +96,25 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'statamic://entry::60eaa126-1912-4947-81d1-9bf8104d6943'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 3: Building the Next Genderation [redux]'
+          -
+            type: text
+            text: ' →'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'statamic://entry::d51f91d7-369c-4cf7-9b0f-f6f2cb0a7e9f'
                   rel: null
                   target: null
@@ -664,8 +683,8 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664919110
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1666098291
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
