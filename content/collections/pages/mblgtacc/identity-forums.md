@@ -230,8 +230,15 @@ sections:
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'https://drive.google.com/file/d/1nEw6p0GWzMp5NKmP9wvy9qmPTb5JBwTm/view?usp=sharing'
+                  rel: null
+                  target: null
+                  title: null
+              -
                 type: italic
-            text: 'See forthcoming conference print program for location details.'
+            text: 'See conference print program for location details.'
     type: content
     enabled: true
   -
@@ -323,7 +330,7 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664750484
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1666105488
 description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
