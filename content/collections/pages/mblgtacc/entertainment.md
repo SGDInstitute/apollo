@@ -1,15 +1,101 @@
 ---
 id: d016c432-1882-44d8-b8ca-dd0b53a9461a
-published: false
 blueprint: pages
 title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661995839
+updated_at: 1666095518
 sections:
   -
     title: Entertainment
     type: header_small
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Open Mic Night hosted with Hayden Kristal '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+              -
+                type: lead
+            text: 'as seen on TikTok and America''s Got Talent™'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Friday, October 21'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:00 - 10:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom B-C'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Drag Show'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Saturday, October 22'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:00 - 11:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom B-C'
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Games and crafts'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Saturday, October 22'
+          -
+            type: hard_break
+          -
+            type: text
+            text: '8:30 - 11:00 p.m.'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Union Station Ballroom A'
+    type: content
     enabled: true
   -
     bard:
@@ -124,7 +210,7 @@ sections:
             type: text
             text: ' and more. She runs the blog CrutchesAndSpice.com and a podcast of the same name. She currently serves as the communications director for a nonproﬁt in Pennsylvania.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -169,7 +255,7 @@ sections:
                 type: italic
             text: 'Mucho Mucho Amor.'
     type: content
-    enabled: true
+    enabled: false
   -
     limit: 3
     pagination: false
