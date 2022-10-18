@@ -421,6 +421,7 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662144673
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1666105048
+description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
