@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1666105424
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1666200484
 sections:
   -
     bg_type: image
@@ -85,7 +85,7 @@ sections:
               -
                 cells:
                   - '8:00 - 10:00 p.m.'
-                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a>'
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a><br>Open Mic Night with host and emcee Hayden Kristal'
                   - 'Union Station Ballroom B-C'
             full_width: true
       -
@@ -171,8 +171,13 @@ sections:
               -
                 cells:
                   - '8:00 - 11:00 p.m.'
-                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a>'
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a><br>Drag Show'
                   - 'Union Station Ballroom B-C'
+              -
+                cells:
+                  - '8:30 - 11:00 p.m.'
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a><br>Games and Crafts'
+                  - 'Union Station Ballroom A'
             full_width: true
       -
         type: paragraph
