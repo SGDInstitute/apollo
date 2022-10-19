@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666200484
+updated_at: 1666200533
 sections:
   -
     bg_type: image
@@ -85,7 +85,7 @@ sections:
               -
                 cells:
                   - '8:00 - 10:00 p.m.'
-                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a><br>Open Mic Night with host and emcee Hayden Kristal'
+                  - '<a href="https://mblgtacc.org/speakers-events/entertainment"><font color="#07807b"><b>Entertainment</b></font></a><br>Open Mic Night<br>Host and emcee Hayden Kristal'
                   - 'Union Station Ballroom B-C'
             full_width: true
       -
