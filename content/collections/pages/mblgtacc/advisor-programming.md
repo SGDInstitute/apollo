@@ -293,7 +293,18 @@ sections:
                     marks:
                       -
                         type: lead
-                    text: TBD
+                    text: 'Hilton Columbus Downtown'
+                  -
+                    type: hard_break
+                    marks:
+                      -
+                        type: lead
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: lead
+                    text: 'Robert King Room'
       -
         type: paragraph
         content:
@@ -355,6 +366,6 @@ sections:
     type: news
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1665442052
+updated_at: 1666277826
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
