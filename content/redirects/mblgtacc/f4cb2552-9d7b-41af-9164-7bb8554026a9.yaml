@@ -1,0 +1,6 @@
+id: f4cb2552-9d7b-41af-9164-7bb8554026a9
+enabled: true
+source: '/speakers-events/workshop-tracks/activism-and-protest-as-tools-for-justice-1(.*)'
+destination: /speakers-events/workshop-tracks/activism-protest-as-tools-for-justice$1
+type: '301'
+match_type: regex
