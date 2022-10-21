@@ -135,6 +135,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::57e8a415-6c1e-44e9-9ae5-659fd5106e06'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Historical and Contemporary Identities'
           -
             type: list_item
@@ -785,7 +793,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666370746
+updated_at: 1666371497
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
