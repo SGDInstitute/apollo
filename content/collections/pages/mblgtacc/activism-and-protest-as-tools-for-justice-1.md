@@ -1,10 +1,10 @@
 ---
 id: 57e8a415-6c1e-44e9-9ae5-659fd5106e06
 blueprint: pages
-title: 'Activism and Protest as Tools for Justice (Duplicated)'
+title: 'Historical and Contemporary Identities'
 sections:
   -
-    title: 'Activism and Protest as Tools for Justice'
+    title: 'Historical and Contemporary Identities'
     type: header_small
     enabled: true
   -
@@ -14,11 +14,11 @@ sections:
       -
         type: heading
         attrs:
-          level: 2
+          level: 3
         content:
           -
             type: text
-            text: 'Activism and Protest as Tools for Justice'
+            text: 'Historical and Contemporary Identities'
       -
         type: paragraph
         content:
@@ -27,194 +27,37 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Fat Liberation: LGBT+ Bodies & Identities'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Stefani Vargas'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022, 8:30 - 9:45 a.m.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A122-123'
+            text: 'Brought to you by FEMME, the Federation of Experienced Multiple MBLGTACC Educators, the Historical and Contemporary Identities Track explores sexuality, gender, history and community.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mainstream culture defines “beautiful” and “healthy” as “thin, ” and while our community has often subverted this notion, fatphobia is prevalent. We will discuss loving our bodies and identities because they are fat not in spite of that fact, the history of the fat liberation and body positivity movements, and the intersection of queer and fat identities. This workshop gives fat folks a space to speak, and explores the intersection of fatness and queerness.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'The Politics of Disability'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
+            marks:
               -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Imani Barbarin'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022, 10:00 - 11:15 a.m.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A122-123'
+                type: lead
+            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'How desirability often isolates and obscures the perspectives of queer disabled, Black, Indigenous and people of color when our inclusion is vital for liberation. In this session, we will explore how structures like white supremacy and ableism inform our notions about who has voices worth valuing and what can be done to tread the path of liberation together.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Pride With Prejudice: Pinkwashing, Palestine, and Queer Liberation '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Stephanie Skora'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022, 2:30 - 3:45 p.m.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A122-123'
+            text: 'Stephanie Skora is an Anti-zionist Jew, writer, speaker, educator, non-profit executive, and political pundit (muckraker). She is an expert in lesbian history/identity and Pinkwashing. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Pinkwashing, the attempt to cover up the human rights abuses of the Israeli State by pointing to its liberal record on LGBTQ rights, is a hot topic of discussion in LGBTQ spaces across the country. This workshop addresses what pinkwashing is and where it came from, what organizations engage in pinkwashing, myths about LGBTQ Israel and Palestine, exposing the Islamophobia industry''s role in pinkwashing, and how queer and trans people can fight back in their communities.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Not-So-Secret Secrets to a Successful Activist Career, Without the Non-Profit Industrial Complex'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: JAC Stringer'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022, 4:00 - 5:15 p.m.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A122-123'
+            text: 'Stefani Vargas is a Peruvian American student affairs educator, speaker, consultant, trainer, community organizer, & social scientist. She is an expert in butch/femme history and identity, rural student development, and fat liberation.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'This combination of a workshop and storytelling focuses on the elements and obstacles of professional activism outside of the non-profit industrial complex, drawn from a 20 year career of a freelance organizer, trainer, and founder of multiple sustained initiatives. It will discuss the intricacies of finding our people, building grassroots resources, and navigating multi-community dynamics inherent to Midwestern (and other politically conservative) environments in the face of poverty, isolation, and self-preservation.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content Warnings: Abuse (physical/mental/emotional/verbal), Ableism, Self-harm/self-injury, Suicide, Sexual violence, Transphobia, Violence, Relationship violence, Misogyny, Racism, Death, Classism '
-          -
-            type: hard_break
+            text: "With a combined 23 years of experience in their fields, Bisexual Stefani and Dyke Stephanie bring you an engaging, and informational track filled with laughs, learning, and lesbians.\_"
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252976
-description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
+updated_at: 1666370946
+description: 'MBLGTACC 2022 Workshop Track: Historical and Contemporary Identities'
 ---
