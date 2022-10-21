@@ -98,6 +98,27 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'statamic://entry::17d73968-1f5f-42b6-9625-65d7d89ea12d'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'Welcome to the 30th annual MBLGTACC'
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'October 21, 2022'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'statamic://entry::1df01ff1-bc73-4dcf-8de0-3c4308ab8eec'
                   rel: null
                   target: null
@@ -464,5 +485,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666357302
+updated_at: 1666357366
 ---
