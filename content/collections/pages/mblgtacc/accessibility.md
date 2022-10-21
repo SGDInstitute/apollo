@@ -89,7 +89,7 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per Monona Terrace policy, ESAs are not permitted in the venue.'
+            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per Greater Columbus Convention Center policy, ESAs are not permitted in the venue.'
       -
         type: heading
         attrs:
@@ -140,7 +140,7 @@ sections:
         content:
           -
             type: text
-            text: 'Visit our quiet space in the Hall of Fame Room, open on Saturday from 8:00 am - 11:00 pm and on Sunday from 8:00 am - 12:00 pm.'
+            text: 'Visit our quiet space in the room A225, open on Saturday from 8:00 a.m. - 11:00 p.m. and on Sunday from 8:00 a.m. - 12:00 p.m. Ear plugs will be available in the quiet space during these hours, and at the conference info desk while supplies last.'
       -
         type: heading
         attrs:
@@ -321,5 +321,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666370847
+updated_at: 1666371966
 ---
