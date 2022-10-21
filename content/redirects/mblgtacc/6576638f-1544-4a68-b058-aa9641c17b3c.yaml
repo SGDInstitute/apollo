@@ -1,0 +1,6 @@
+id: 6576638f-1544-4a68-b058-aa9641c17b3c
+enabled: true
+source: '/speakers-events/workshop-tracks/activism-protest-as-tools-for-justice(.*)'
+destination: /speakers-events/workshop-tracks/historical-contemporary-identities$1
+type: '301'
+match_type: regex

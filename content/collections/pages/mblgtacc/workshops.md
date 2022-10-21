@@ -117,7 +117,7 @@ sections:
                 block: true
                 outline: false
                 target_blank: false
-                link: 'entry::5b951a24-b6d1-41ae-8b55-210a587664b9'
+                link: 'entry::57e8a415-6c1e-44e9-9ae5-659fd5106e06'
               -
                 text: 'Taking Care of Ourselves to Take Care of Others'
                 color: btn-green
@@ -165,5 +165,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665251541
+updated_at: 1666371179
 ---
