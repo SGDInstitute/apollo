@@ -1,6 +1,5 @@
 ---
 id: 9bbcccdc-3add-4de7-b6a9-cdf3c9cc2cb0
-published: false
 blueprint: pages
 title: Welcome
 sections:
@@ -154,5 +153,5 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1645051090
+updated_at: 1666356249
 ---
