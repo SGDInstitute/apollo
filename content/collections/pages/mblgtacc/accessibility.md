@@ -1,6 +1,5 @@
 ---
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
-published: false
 blueprint: pages
 title: Accessibility
 sections:
@@ -322,5 +321,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663428587
+updated_at: 1666370847
 ---
