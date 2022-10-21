@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666356880
+updated_at: 1666357531
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -35,13 +35,13 @@ sections:
         content:
           -
             type: text
-            text: 'Register on-site or for the virtual track'
+            text: 'Register on-site'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'You can still join us! Register on-site at the Greater Columbus Convention Center for $100. Virtual tickets are $20 per person and available through October 20.'
+            text: 'You can still join us! Register on-site at the Greater Columbus Convention Center for $100.'
       -
         type: set
         attrs:
