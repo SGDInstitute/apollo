@@ -292,38 +292,11 @@ sections:
             type: text
             text: 'Queer History: Being an LGBTQ+ Historian in the Midwest '
       -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Peyton Savington'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 pm'
-      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Welcome to the Queerist history class you''ve ever attended! Going through pieces of current research while also applying historical methods will lead us to come up with conclusions and re-analyze pieces of history we may have glanced over. This presentation will also guide us through some key components we need to move through the Midwest as queer historians.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content Warnings: Biphobia or homophobia, Ableism, Self-harm/self-injury, Suicide, Sexual violence, Transphobia, Violence, Sexism, Relationship violence, Misogyny, Racism, Death, Classism, Fatphobia'
+            text: '***Queer History session canceled'
       -
         type: heading
         attrs:
@@ -436,7 +409,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666460490
+updated_at: 1666465552
 image:
   - headers/20180216-JJM_0749-fav-hero-1250x400.jpg
 ---
