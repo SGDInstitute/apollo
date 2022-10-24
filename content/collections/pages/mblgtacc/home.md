@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666628100
+updated_at: 1666628576
 sections:
   -
     header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
@@ -89,7 +89,7 @@ sections:
         content:
           -
             type: text
-            text: 'See you next fall! '
+            text: 'Thank you, MBLGTACC—See you next fall! '
       -
         type: set
         attrs:
@@ -293,8 +293,8 @@ sections:
     type: content
     enabled: false
   -
-    date: '2022-10-21 19:00'
-    hashtag: 'until #mblgtacc30'
+    date: '2023-11-03 19:00'
+    hashtag: 'until #mblgtacc31'
     bg_type: color
     num_colors: 2
     bg_color: bg-gray-200
