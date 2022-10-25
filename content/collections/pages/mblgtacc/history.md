@@ -340,16 +340,16 @@ sections:
         content:
           -
             type: text
-            text: '1994 - Greetings from the 90''s... Wish you were '
+            text: '1994 - Greetings from the 90''s... Wish You Were '
           -
             type: text
             marks:
               -
                 type: strike
-            text: here
+            text: Here
           -
             type: text
-            text: ' queer'
+            text: ' Queer'
       -
         type: paragraph
         content:
@@ -384,7 +384,7 @@ sections:
         content:
           -
             type: text
-            text: '1995 - Building queer success in the Midwest'
+            text: '1995 - Building Queer Success in the Midwest'
       -
         type: paragraph
         content:
@@ -404,7 +404,7 @@ sections:
         content:
           -
             type: text
-            text: '1996 - Building queer success in the Midwest'
+            text: '1996 - Building Queer Success in the Midwest'
       -
         type: paragraph
         content:
@@ -424,7 +424,7 @@ sections:
         content:
           -
             type: text
-            text: '1997 - We''re here! We''re queer! We''re fabulous!'
+            text: '1997 - We''re Here! We''re Queer! We''re Fabulous!'
       -
         type: paragraph
         content:
@@ -444,7 +444,7 @@ sections:
         content:
           -
             type: text
-            text: '1998 - Across the fruited plain'
+            text: '1998 - Across the Fruited Plain'
       -
         type: paragraph
         content:
@@ -464,7 +464,7 @@ sections:
         content:
           -
             type: text
-            text: '1999 - Moving forward, looking back'
+            text: '1999 - Moving Forward, Looking Back'
       -
         type: paragraph
         content:
@@ -484,7 +484,7 @@ sections:
         content:
           -
             type: text
-            text: '2000 - Making waves into the new millennium'
+            text: '2000 - Making Waves into the New Millennium'
       -
         type: paragraph
         content:
@@ -504,7 +504,7 @@ sections:
         content:
           -
             type: text
-            text: '2001 - Out and about: Breaking the silence, breaking the boundaries, breaking the labels'
+            text: '2001 - Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
       -
         type: paragraph
         content:
@@ -524,7 +524,7 @@ sections:
         content:
           -
             type: text
-            text: '2002 - Still moving forward'
+            text: '2002 - Still Moving Forward'
       -
         type: paragraph
         content:
@@ -559,7 +559,7 @@ sections:
         content:
           -
             type: text
-            text: '2003 - Loving with pride'
+            text: '2003 - Loving with Pride'
       -
         type: paragraph
         content:
@@ -573,7 +573,7 @@ sections:
         content:
           -
             type: text
-            text: '2004 - Speak up! Speak out! Celebrating the power of communication to fight hate and fear'
+            text: '2004 - Speak up! Speak out! Celebrating the Power of Communication to Fight Hate and Fear'
       -
         type: paragraph
         content:
@@ -593,7 +593,7 @@ sections:
         content:
           -
             type: text
-            text: '2005 - Building the bridge to bring it all together'
+            text: '2005 - Building the Bridge to Bring It All Together'
       -
         type: paragraph
         content:
@@ -613,7 +613,7 @@ sections:
         content:
           -
             type: text
-            text: '2006 - Painting the rainbow: Celebrating unity through diversity'
+            text: '2006 - Painting the Rainbow: Celebrating Unity through Diversity'
       -
         type: paragraph
         content:
@@ -633,7 +633,7 @@ sections:
         content:
           -
             type: text
-            text: '2007 - Alphabet soup: No matter the letter we stand together'
+            text: '2007 - Alphabet Soup: No Matter the Letter We Stand Together'
       -
         type: paragraph
         content:
@@ -668,7 +668,7 @@ sections:
         content:
           -
             type: text
-            text: '2008 - Voting for change: Liberty and justice for all'
+            text: '2008 - Voting for Change: Liberty and Justice for All'
       -
         type: paragraph
         content:
@@ -706,7 +706,7 @@ sections:
         content:
           -
             type: text
-            text: '2009 - Living out loud: Examining our past to enhance our future'
+            text: '2009 - Living Out Loud: Examining Our Past to Enhance Our Future'
       -
         type: paragraph
         content:
@@ -741,7 +741,7 @@ sections:
         content:
           -
             type: text
-            text: '2010 - Get real! Confronting privilege, provoking dialogue and building new foundations'
+            text: '2010 - Get Real! Confronting Privilege, Provoking Dialogue, and Building New Foundations'
       -
         type: paragraph
         content:
@@ -776,7 +776,7 @@ sections:
         content:
           -
             type: text
-            text: '2011 - Justice or just us? Achieving liberty for all'
+            text: '2011 - Justice or Just Us? Achieving Liberty for All'
       -
         type: paragraph
         content:
@@ -811,7 +811,7 @@ sections:
         content:
           -
             type: text
-            text: '2012 - The butterfly effect: Evolution to revolution'
+            text: '2012 - The Butterfly Effect: Evolution to Revolution'
       -
         type: paragraph
         content:
@@ -846,7 +846,7 @@ sections:
         content:
           -
             type: text
-            text: '2013 - Mosaic: Putting the pieces together'
+            text: '2013 - Mosaic: Putting the Pieces Together'
       -
         type: paragraph
         content:
@@ -881,7 +881,7 @@ sections:
         content:
           -
             type: text
-            text: '2014 - Jazzin'' it up'
+            text: '2014 - Jazzin'' It Up'
       -
         type: paragraph
         content:
@@ -916,7 +916,7 @@ sections:
         content:
           -
             type: text
-            text: '2015 - Narrating a new normal'
+            text: '2015 - Narrating a New Normal'
       -
         type: paragraph
         content:
@@ -951,7 +951,7 @@ sections:
         content:
           -
             type: text
-            text: '2016 - Introspection at the crossroads'
+            text: '2016 - Introspection at the Crossroads'
       -
         type: paragraph
         content:
@@ -989,7 +989,7 @@ sections:
         content:
           -
             type: text
-            text: '2017 - United in solidarity'
+            text: '2017 - United in Solidarity'
       -
         type: paragraph
         content:
@@ -1024,7 +1024,7 @@ sections:
         content:
           -
             type: text
-            text: '2018 - All roads lead to intersectionality'
+            text: '2018 - All Roads Lead to Intersectionality'
       -
         type: paragraph
         content:
@@ -1059,7 +1059,7 @@ sections:
         content:
           -
             type: text
-            text: '2019 - Beyond the rainbow and to the stars'
+            text: '2019 - Beyond the Rainbow and to the Stars'
       -
         type: paragraph
         content:
@@ -1094,7 +1094,7 @@ sections:
         content:
           -
             type: text
-            text: '2020 - Envisioning a future together'
+            text: '2020 - Envisioning a Future Together'
       -
         type: paragraph
         content:
@@ -1129,7 +1129,7 @@ sections:
         content:
           -
             type: text
-            text: '2021 - From protest and beyond pride'
+            text: '2021 - From Protest and Beyond Pride'
       -
         type: paragraph
         content:
@@ -1166,7 +1166,7 @@ sections:
         content:
           -
             type: text
-            text: '2022 - 30th annual MBLGTACC'
+            text: '2022 - Limitless: Queer Activism of the Future'
       -
         type: paragraph
         content:
@@ -1196,6 +1196,26 @@ sections:
             contain: true
       -
         type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: '2023 - 31st annual MBLGTACC'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Lexington, Kentucky. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the University of Kentucky.'
     type: content
     enabled: true
   -
@@ -1263,5 +1283,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666713486
+updated_at: 1666713944
 ---
