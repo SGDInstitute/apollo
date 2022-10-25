@@ -61,7 +61,7 @@ sections:
         content:
           -
             type: text
-            text: 'For over 27 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
+            text: 'For 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
       -
         type: paragraph
         content:
@@ -75,8 +75,9 @@ sections:
                 type: link
                 attrs:
                   href: 'http://sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Institute
           -
             type: text
@@ -97,8 +98,9 @@ sections:
                 type: link
                 attrs:
                   href: 'mailto:noah@sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Noah
           -
             type: text
@@ -218,8 +220,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/news/post/our-next-quarter-century'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'officially launched'
           -
             type: text
@@ -255,8 +258,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://mblgtacc.org/news/2018/10/01/updated-name-for-the-nation-s-largest-conference-for-queer-and-trans-college-students'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'renamed the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
           -
             type: text
@@ -296,7 +300,7 @@ sections:
             text: '2022:'
           -
             type: text
-            text: ' The 30th annual conference will be held.'
+            text: ' The 30th annual conference was held in Columbus, Ohio.'
     type: content
     enabled: true
   -
@@ -365,14 +369,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgcc_1994_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -541,14 +544,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2002_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -651,14 +653,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2007_program_guide_192c0d66c3e7b1'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -690,14 +691,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2008_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -726,14 +726,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2009_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -762,14 +761,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2010_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -798,14 +796,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2011_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -834,14 +831,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2012_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -870,14 +866,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2013_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -906,14 +901,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2014_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -942,14 +936,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2015_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -981,14 +974,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2016_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -1017,14 +1009,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2017_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -1053,14 +1044,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2018_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -1089,14 +1079,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2019_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -1125,14 +1114,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2020_program_guide'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: heading
@@ -1161,14 +1149,13 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
                 block: false
                 outline: false
-                target_blank: false
+                target_blank: true
             contain: true
       -
         type: paragraph
@@ -1192,6 +1179,23 @@ sections:
               -
                 type: italic
             text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity and a multi-institution, multi-state coalition of student organizers.'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc30-program'
+                text: 'View program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -1259,5 +1263,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1637257147
+updated_at: 1666713486
 ---
