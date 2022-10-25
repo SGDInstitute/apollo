@@ -141,7 +141,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'The Pride Center of Terre Haute, Inc.'
+                    text: 'ACLU of Ohio'
           -
             type: list_item
             content:
@@ -150,7 +150,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'University of Wisconsin-Madison School of Education Office of Equity, Diversity, and Inclusion'
+                    text: 'Antioch College'
           -
             type: list_item
             content:
@@ -159,43 +159,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Janatee Craftily'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Queer Comics Peddler'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Stewie''s Got Pride'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Columbia University School of Social Work '
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Smith College School for Social Work '
+                    text: 'Black, Out, & Proud'
           -
             type: list_item
             content:
@@ -213,7 +177,61 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Columbia University School of Social Work'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Equitas Health'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Janatee Craftily'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: Kroger
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
                     text: 'Music City Creative'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Nifty Giftys Shop'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Partners in Pride'
           -
             type: list_item
             content:
@@ -231,7 +249,52 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Nifty Giftys Shop'
+                    text: 'The Pride Center of Terre Haute, Inc.'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Queer Comics Peddler'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Rainbow Clinic'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Stewie''s Got Pride'
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Smith College School for Social Work '
+          -
+            type: list_item
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'University of Wisconsin-Madison School of Education Office of Equity, Diversity, and Inclusion'
     type: content
     enabled: true
   -
@@ -285,7 +348,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1663449173
+updated_at: 1666712937
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
