@@ -16,7 +16,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
     link: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0&feature=emb_title&ab_channel=FordSchool'
     text: 'Watch on YouTube'
   -
@@ -325,7 +325,7 @@ sections:
     type: content
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666921790
+updated_at: 1666921813
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
