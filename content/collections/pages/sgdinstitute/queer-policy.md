@@ -84,7 +84,7 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -94,7 +94,45 @@ sections:
         content:
           -
             type: text
-            text: 'Watch our last queer policy event'
+            text: 'Watch past queer policy events'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Racial Foundations of Public Policy: LGBT Rights (2022)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Dr. Bianca D.M. Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute in conversation with Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan. Co-sponsored by the Gerald R. Ford School of Public Policy and Center for Racial Justice at the University of Michigan.'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0&feature=emb_title&ab_channel=FordSchool'
+            caption: 'Racial Foundations of Public Policy: LGBT Rights'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::f69f8733-4bed-44e3-a13c-d8fb091495de'
+                text: 'Speaker bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
       -
         type: heading
         attrs:
@@ -218,7 +256,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1662689733
+updated_at: 1666921674
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
