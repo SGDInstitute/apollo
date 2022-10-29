@@ -4,12 +4,12 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667063884
+updated_at: 1667064290
 sections:
   -
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
-    title: 'MBLGTACC 2023'
-    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    title: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    subtitle: '31st annual MBLGTACC. Registration and workshop RFP open in April 2023.'
     has_tag: true
     tag: 'November 3-5, 2023  |  Lexington'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
@@ -91,11 +91,17 @@ sections:
             type: text
             text: 'Thank you, MBLGTACC—See you next fall! '
       -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://youtu.be/o8JVbyTvnU0'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Thank you to all our attendees, presenters, partners, and supporters in Columbus and around the Midwest. With your help, we brought together college students, young adults, and higher ed pros for an important weekend of connection, education, and empowerment. View photos from the conference on '
+            text: 'View photos from the 2022 Columbus conference on '
           -
             type: text
             marks:
@@ -123,13 +129,7 @@ sections:
             text: Flickr
           -
             type: text
-            text: '. We look forward to welcoming you to Lexington next year!'
-      -
-        type: set
-        attrs:
-          values:
-            type: video
-            video: 'https://youtu.be/o8JVbyTvnU0'
+            text: .
     type: content
     enabled: true
   -
@@ -240,7 +240,7 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -286,7 +286,7 @@ sections:
                 target_blank: false
             contain: true
     type: content
-    enabled: true
+    enabled: false
   -
     type: content
     enabled: true
