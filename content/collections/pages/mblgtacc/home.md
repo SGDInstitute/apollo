@@ -4,10 +4,10 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666714890
+updated_at: 1667062751
 sections:
   -
-    header_image: headers/columbus-skyline-sunlight-hero2-1250x400.jpg
+    header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
     title: 'Limitless: Queer Activism of the Future'
     subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
