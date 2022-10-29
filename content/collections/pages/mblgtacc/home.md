@@ -4,14 +4,14 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667062751
+updated_at: 1667063884
 sections:
   -
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
-    title: 'Limitless: Queer Activism of the Future'
-    subtitle: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    title: 'MBLGTACC 2023'
+    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
-    tag: 'October 21-23, 2022  |  Columbus'
+    tag: 'November 3-5, 2023  |  Lexington'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
     text: Register
     color: btn-green
@@ -90,6 +90,40 @@ sections:
           -
             type: text
             text: 'Thank you, MBLGTACC—See you next fall! '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Thank you to all our attendees, presenters, partners, and supporters in Columbus and around the Midwest. With your help, we brought together college students, young adults, and higher ed pros for an important weekend of connection, education, and empowerment. View photos from the conference on '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.facebook.com/media/set/?set=a.1999629303580808&type=3'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Facebook
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.flickr.com/photos/sgdinstitute/albums/72177720303224981'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: Flickr
+          -
+            type: text
+            text: '. We look forward to welcoming you to Lexington next year!'
       -
         type: set
         attrs:
