@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667064407
+updated_at: 1667064617
 sections:
   -
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
@@ -89,7 +89,7 @@ sections:
         content:
           -
             type: text
-            text: 'Thank you, MBLGTACC—See you next fall! '
+            text: 'Save the date for MBLGTACC 2023'
       -
         type: set
         attrs:
@@ -101,6 +101,9 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'View photos from the 2022 Columbus conference on '
           -
             type: text
@@ -112,9 +115,14 @@ sections:
                   rel: null
                   target: _blank
                   title: null
+              -
+                type: bold
             text: Facebook
           -
             type: text
+            marks:
+              -
+                type: bold
             text: ' and '
           -
             type: text
@@ -126,9 +134,14 @@ sections:
                   rel: null
                   target: _blank
                   title: null
+              -
+                type: bold
             text: Flickr
           -
             type: text
+            marks:
+              -
+                type: bold
             text: .
     type: content
     enabled: true
