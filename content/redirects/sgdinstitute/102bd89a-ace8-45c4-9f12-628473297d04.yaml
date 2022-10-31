@@ -1,0 +1,6 @@
+id: 102bd89a-ace8-45c4-9f12-628473297d04
+enabled: true
+source: '/news/take-the-last-bite-s3e3-1(.*)'
+destination: /news/take-the-last-bite-s3e4$1
+type: '301'
+match_type: regex
