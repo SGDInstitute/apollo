@@ -237,17 +237,21 @@ sections:
             type: text
             text: 'Queer Policy Series'
       -
+        type: set
+        attrs:
+          values:
+            type: image
+            image: barnes-goldberg-mosier-featured-1090x681.jpg
+            caption: 'Past featured guests Katie Barnes (ESPN), Naomi Goldberg (Movement Advancement Project), and Chris Mosier (TransAthlete.com)'
+            inline: false
+      -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Queer Policy Series is designed to bring diverse audiences together to examine policies at various levels that impact queer and trans students and youth, and that introduce tools and frameworks for effecting policy changes that embrace and affirm diverse sexualities and genders. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Featured guests have included Katie Barnes, ESPN feature writer; Chris Mosier, Olympic Trials athlete and founder of TransAthlete.com; Naomi Goldberg, deputy director and LGBTQ program director at the Movement Advancement Project; and Dr. Bianca Wilson, the Rabbi Zacky Senior Scholar of Public Policy at the Williams Institute;  and Dr. Celeste Watkins-Hayes, dean of the Gerald R. Ford School of Public Policy at the University of Michigan.'
+            text: 'The Queer Policy Series is designed to bring diverse audiences together to examine policies at various levels that impact queer and trans students and youth, and that introduce tools and frameworks for effecting policy changes that embrace and affirm diverse sexualities and genders. '
       -
         type: set
         attrs:
@@ -317,7 +321,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667338007
+updated_at: 1667338144
 image:
   - headers/header-chicago_pier.jpg
 ---
