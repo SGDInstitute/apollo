@@ -113,7 +113,7 @@ sections:
         content:
           -
             type: text
-            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run.'
+            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students and young adults. And it remains proudly student-run.'
       -
         type: set
         attrs:
@@ -321,7 +321,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667338144
+updated_at: 1667338266
 image:
   - headers/header-chicago_pier.jpg
 ---
