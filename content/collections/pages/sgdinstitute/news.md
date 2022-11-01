@@ -28,7 +28,7 @@ sections:
     enabled: true
   -
     articles:
-      - 60eaa126-1912-4947-81d1-9bf8104d6943
+      - a07a3d66-8daa-427b-8f3e-bd9817525588
       - 1dc7e545-657e-4359-b937-1cf1ff5a1442
       - db23fd82-17a3-4e7f-8bdc-8af8e191f10d
       - 90f8f48e-b662-48b9-9b41-f842dcc25581
@@ -138,8 +138,8 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1666104870
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1667336607
 image:
   - headers/homepage-hero1.jpg
 ---
