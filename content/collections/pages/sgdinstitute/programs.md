@@ -107,7 +107,7 @@ sections:
         content:
           -
             type: text
-            text: 'Over its nearly 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Patrisse Cullors, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+            text: 'Over three decades, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Patrisse Cullors, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
       -
         type: paragraph
         content:
@@ -321,7 +321,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667338266
+updated_at: 1667338282
 image:
   - headers/header-chicago_pier.jpg
 ---
