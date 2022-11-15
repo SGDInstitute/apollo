@@ -53,11 +53,11 @@ sections:
     enabled: true
   -
     articles:
+      - f35d91d0-8672-48fd-993d-7ce17df1f308
       - 17d73968-1f5f-42b6-9625-65d7d89ea12d
       - 1df01ff1-bc73-4dcf-8de0-3c4308ab8eec
       - 18a84c2f-93b4-4567-97b1-59c89737e23a
       - d3710e56-ef2a-408f-83a7-0e63f71e57fb
-      - 409b4fbb-dd8d-4845-bafc-642ca8d967bf
     bg_type: color
     num_colors: 2
     bg_color: bg-transparent
@@ -408,7 +408,7 @@ sections:
             type: text
             text: 'November 18, 2021'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -485,5 +485,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666357366
+updated_at: 1668553310
 ---
