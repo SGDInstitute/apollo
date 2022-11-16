@@ -1,0 +1,6 @@
+id: 4e33453a-4a83-4800-95ca-f92a8ed1c759
+enabled: true
+source: '/news/how-to-conceptualize-a-mblgtacc-workshop(.*)'
+destination: /news/how-to-conceptualize-an-mblgtacc-workshop$1
+type: '301'
+match_type: regex
