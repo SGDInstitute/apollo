@@ -1,5 +1,6 @@
 ---
 id: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
+published: false
 blueprint: pages
 title: 'Vendor Fair & Maker Market'
 sections:
