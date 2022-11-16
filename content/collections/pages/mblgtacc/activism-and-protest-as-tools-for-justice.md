@@ -1,5 +1,6 @@
 ---
 id: d230d54f-cf41-4dfe-828a-b5dd34babf08
+published: false
 blueprint: pages
 title: 'Activism and Protest as Tools for Justice'
 sections:
