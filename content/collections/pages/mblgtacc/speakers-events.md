@@ -1,5 +1,6 @@
 ---
 id: 37fc3b87-a724-47f9-8608-4b49c6a0b984
+published: false
 blueprint: pages
 title: 'Speakers & Events'
 sections:
@@ -318,5 +319,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666461149
+updated_at: 1668560224
 ---
