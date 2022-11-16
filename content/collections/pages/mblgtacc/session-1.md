@@ -1,5 +1,6 @@
 ---
 id: 106fcf96-6fcd-43c7-adbf-689869e2775f
+published: false
 blueprint: pages
 title: 'Session 1'
 sections:
