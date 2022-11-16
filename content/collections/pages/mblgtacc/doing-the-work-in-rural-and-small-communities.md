@@ -1,5 +1,6 @@
 ---
 id: 8a77e9b0-558d-4751-89c0-66dd0d155e33
+published: false
 blueprint: pages
 title: 'Doing the Work in Rural and Small Communities'
 sections:
