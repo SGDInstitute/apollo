@@ -41,6 +41,23 @@ sections:
       -
         type: set
         attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                text: 'Get updates'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
           enabled: false
           values:
             type: buttons
@@ -566,5 +583,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668562416
+updated_at: 1668562471
 ---
