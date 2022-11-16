@@ -1,5 +1,6 @@
 ---
 id: 8fe5c804-da7c-474e-bf42-75f8dbf3a914
+published: false
 blueprint: pages
 title: Advertise
 sections:
