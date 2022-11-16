@@ -17,10 +17,11 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from October 21-23, 2022 at the Greater Columbus Convention Center in Columbus, Ohio.'
+            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky.'
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -237,7 +238,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     column_widths: two_fifths_right
     left_column: content
@@ -271,7 +272,7 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -299,7 +300,7 @@ sections:
             type: text
             text: 'The state-of-the-art, award-winning Greater Columbus Convention Center is one of the busiest convention centers in North America. The facility offers the South Café & Marketplace for quick-service dining, with additional dining located across the street from the Arena District and Short North Arts District. Amenities also include a free-standing nursing parent''s room, an enclosed skybridge to the official conference hotel partner—Hilton Columbus Downtown—and robust WiFi service throughout.'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -545,5 +546,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661027449
+updated_at: 1668562065
 ---
