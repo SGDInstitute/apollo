@@ -1,5 +1,6 @@
 ---
 id: 96f92224-6822-42f4-a06a-14260ce278f9
+published: false
 blueprint: pages
 title: Workshops
 sections:
