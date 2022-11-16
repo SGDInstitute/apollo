@@ -17,7 +17,27 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky.'
+            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We''ll share announcements and details about MBLGTACC starting in the spring. In April 2023, we''ll open registration and start accepting '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'workshop proposals'
+          -
+            type: text
+            text: .
       -
         type: set
         attrs:
@@ -546,5 +566,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668562065
+updated_at: 1668562416
 ---
