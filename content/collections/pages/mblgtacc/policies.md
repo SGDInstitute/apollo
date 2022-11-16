@@ -463,7 +463,7 @@ sections:
               -
                 link: 'https://sgdinstitute.org/legal-privacy'
                 text: 'Learn more'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
@@ -488,7 +488,7 @@ sections:
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561874
+updated_at: 1668561887
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
