@@ -1,5 +1,6 @@
 ---
 id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
+published: false
 blueprint: pages
 title: Hospitality
 sections:
