@@ -1,5 +1,6 @@
 ---
 id: 277a370e-1f77-4660-b9e0-17e7873a7443
+published: false
 blueprint: pages
 title: 'Maker Market'
 sections:
