@@ -1,5 +1,6 @@
 ---
 id: a07ec015-b171-4f1c-9c32-f1e221447f33
+published: false
 blueprint: pages
 title: 'Creating Change on College Campuses'
 sections:
