@@ -1,5 +1,6 @@
 ---
 id: 09a9c0fc-d5f8-4575-9008-23c97aac3ee2
+published: false
 blueprint: pages
 title: 'Designing a Queer Future Through Media'
 sections:
