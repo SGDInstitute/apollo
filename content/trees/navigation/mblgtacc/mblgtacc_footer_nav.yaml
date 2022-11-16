@@ -5,6 +5,9 @@ tree:
     url: '#'
     children:
       -
+        id: cc71aefe-5f6a-4913-bf19-1d9d8be7b1f8
+        entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
+      -
         id: 593aceae-db84-43a0-8c9b-53131a7e2616
         entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
         title: 'News & Updates'
@@ -52,9 +55,6 @@ tree:
     url: '#'
     children:
       -
-        id: cc71aefe-5f6a-4913-bf19-1d9d8be7b1f8
-        entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
-      -
         id: b91489be-bf7c-4dce-91cc-49125fb71e1d
         entry: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
       -
@@ -70,10 +70,6 @@ tree:
           -
             id: 5f07aca9-877a-4a29-bf44-0ce939dec063
             entry: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
-          -
-            id: ab5a3d0f-e3e9-458d-93f6-521d3684417b
-            title: Donate
-            url: 'https://apps.sgdinstitute.org/donations/create/mblgtacc'
   -
     id: 64df8eee-4f69-4217-aa82-3b7a1db99c10
     title: Column
