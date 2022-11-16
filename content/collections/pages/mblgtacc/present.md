@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561141
+updated_at: 1668561727
 sections:
   -
     bg_type: image
@@ -78,7 +78,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? Now is a great time to do some key brainstorming. Read our helpful guide to learn more.'
+            text: 'So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? It''s a great time for you to do some brainstorming. Read our helpful guide to learn more.'
       -
         type: set
         attrs:
