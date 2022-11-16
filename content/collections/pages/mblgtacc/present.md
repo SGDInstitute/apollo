@@ -4,13 +4,13 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659799666
+updated_at: 1668561141
 sections:
   -
     bg_type: image
     bg_image: headers/header_group.jpg
     num_colors: 2
-    title: 'Present a workshop at MBLGTACC 2022'
+    title: 'Present a workshop at MBLGTACC'
     type: header
     enabled: true
   -
@@ -25,131 +25,35 @@ sections:
                 type: lead
             text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: lead
+            text: 'Workshop proposals will be accepted starting in April 2023.'
+      -
         type: set
         attrs:
-          enabled: false
           values:
             type: buttons
             buttons:
               -
-                text: 'Proposal form closed'
+                text: 'Get updates about presenting'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
+                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
             contain: true
-      -
-        type: paragraph
       -
         type: heading
         attrs:
           level: 2
-        content:
-          -
-            type: text
-            text: 'Key dates'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Workshop proposals accepted starting: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'April 4, 2022'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Live chat and FAQ for prospective presenters: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'May 1, 2022 '
-                  -
-                    type: text
-                    text: (
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.youtube.com/watch?v=77drD8XAdRk&ab_channel=MidwestInstituteforSexualityandGenderDiversity'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'watch recording'
-                  -
-                    type: text
-                    text: )
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Submission deadline: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'May 13, 2022'
-                  -
-                    type: text
-                    text: ' (11:59 p.m. EDT)'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Decision notification: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'June 27, 2022'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presenter confirmation deadline: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'July 11, 2022'
-                  -
-                    type: text
-                    text: ' (11:59 p.m. EDT)'
     type: content
     enabled: true
   -
@@ -165,7 +69,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop decisions sent out'
+            text: 'How to conceptualize an MBLGTACC workshop'
       -
         type: paragraph
         content:
@@ -174,7 +78,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Workshop decisions were sent out to aspiring presenters on Monday, June 27. Check your email or login to view the status of your submission. Presenters were asked to confirm their sessions by July 11.'
+            text: 'So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? Now is a great time to do some key brainstorming. Read our helpful guide to learn more.'
       -
         type: set
         attrs:
@@ -182,8 +86,8 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'entry::fbdfa512-dcf6-4309-b036-b0ddcd4372e8'
-                text: 'Next steps'
+                link: 'entry::79b20e53-7e95-476e-adcd-6748ba545021'
+                text: 'Get started'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -335,7 +239,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'We are delighted—for the first time ever—to officially offer complimentary conference registrations to all presenters of accepted workshops.'
+            text: 'Presenters of accepted workshops receive complimentary conference registrations.'
           -
             type: text
             text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
