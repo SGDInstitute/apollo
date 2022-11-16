@@ -1,5 +1,6 @@
 ---
 id: 0684fecc-18a0-425b-a0f7-286b638eed64
+published: false
 blueprint: pages
 title: 'Vendor Fair'
 sections:
