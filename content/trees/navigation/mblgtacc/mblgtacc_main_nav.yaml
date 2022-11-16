@@ -63,16 +63,16 @@ tree:
     entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
     title: 'News & Updates'
   -
-    id: f4a878f4-82e0-405e-80b4-80432cdf3e49
-    entry: 59865639-7c77-43d1-a56c-333bc38efccc
-    title: About
-  -
     id: 8f5f21a1-9b60-4eae-8a10-753e8b7274e1
     title: 'General Info'
     children:
       -
         id: 5e73461f-5a39-4769-82bc-65092e68cd4f
         entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
+      -
+        id: f4a878f4-82e0-405e-80b4-80432cdf3e49
+        entry: 59865639-7c77-43d1-a56c-333bc38efccc
+        title: About
       -
         id: a66b308f-eada-4d78-840e-3e04dc534f77
         entry: f014f793-2dc9-4709-8f2f-57a25fc94f8e
