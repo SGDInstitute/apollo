@@ -1,5 +1,6 @@
 ---
 id: db847b46-c043-41ef-b602-d963a8624cbf
+published: false
 blueprint: pages
 title: 'Sponsorship Packages'
 sections:
