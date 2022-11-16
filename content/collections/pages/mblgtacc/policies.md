@@ -474,7 +474,7 @@ sections:
     image: news/board-recruit-apr2022-1090x681.jpg
     bg_type: color
     num_colors: 2
-    bg_color: bg-gray-100
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -488,7 +488,7 @@ sections:
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561844
+updated_at: 1668561874
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
