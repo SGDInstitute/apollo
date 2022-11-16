@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561362
+updated_at: 1668563252
 sections:
   -
     bg_type: image
@@ -138,7 +138,7 @@ sections:
         attrs:
           values:
             type: image
-            image: 2022-sponsor-logo-wall-090222-01.png
+            image: 2022-sponsor-logo-wall-102122.png
             inline: false
       -
         type: paragraph
