@@ -1,7 +1,7 @@
 ---
 id: 9190d5d4-5689-4d54-8a52-3a6604d7ffd6
 blueprint: pages
-title: 'Trans Fat: Lessons from Large Trans Folks | 2022 Transgender Justice Teach-in'
+title: 'Trans Fat: Lessons from Large Trans Folks | 2022 Trans(Gender) Justice Teach-in'
 sections:
   -
     header_image: headers/tj-placeholder-web@2x.jpg
@@ -34,7 +34,7 @@ sections:
           values:
             type: video
             video: 'https://youtu.be/T9_VfXIYRms'
-            caption: 'Trans Fat: Lessons from Large Trans Folks (2022 Transgender Justice Teach-in)'
+            caption: 'Trans Fat: Lessons from Large Trans Folks (2022 Trans(Gender) Justice Teach-in)'
     type: content
     enabled: true
   -
@@ -281,7 +281,7 @@ sections:
         content:
           -
             type: text
-            text: "Programs like this\_Transgender Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
           -
             type: text
             marks:
@@ -330,7 +330,7 @@ sections:
         content:
           -
             type: text
-            text: '(Re)watch the 2021 Transgender Justice Teach-in: The Next Genderation'
+            text: '(Re)watch the 2021 Trans(Gender) Justice Teach-in: The Next Genderation'
       -
         type: paragraph
         content:
@@ -360,7 +360,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668886719
+updated_at: 1668886957
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
