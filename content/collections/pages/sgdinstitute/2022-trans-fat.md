@@ -1,5 +1,6 @@
 ---
 id: 9190d5d4-5689-4d54-8a52-3a6604d7ffd6
+published: false
 blueprint: pages
 title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth | 2021 Transgender Justice Teach-in (Duplicated)'
 sections:
@@ -488,8 +489,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1649608109
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1668883126
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
