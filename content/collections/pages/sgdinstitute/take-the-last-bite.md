@@ -818,6 +818,23 @@ sections:
               -
                 type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                text: 'Give now'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
     image: news/lastbite-launch-promo-web-featured-1090x681.jpg
     bg_type: color
     num_colors: 2
@@ -826,7 +843,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888967
+updated_at: 1668889085
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
