@@ -251,7 +251,7 @@ sections:
     type: content
     enabled: false
   -
-    column_widths: two_fifths_right
+    column_widths: third_right
     left_column: content
     right_column: image
     center_columns: false
@@ -343,7 +343,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888423
+updated_at: 1668888455
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
