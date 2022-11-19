@@ -69,6 +69,17 @@ sections:
               -
                 type: lead
             text: '6:00 p.m. EST / 5:00 p.m. CST'
+          -
+            type: hard_break
+            marks:
+              -
+                type: lead
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Virtual / Free'
       -
         type: set
         attrs:
@@ -77,7 +88,6 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
                 text: 'Watch last year''s event'
                 color: btn-white
                 size: btn-base
@@ -92,7 +102,7 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-    column_widths: third_left
+    column_widths: two_fifths_right
     image: headers/tj-placeholder-web@2x.jpg
   -
     bard:
@@ -243,7 +253,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668887431
+updated_at: 1668887488
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
