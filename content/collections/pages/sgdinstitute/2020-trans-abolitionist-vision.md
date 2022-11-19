@@ -1,14 +1,14 @@
 ---
 id: 174b8159-fec3-487b-b329-177118c234eb
 blueprint: pages
-title: 'The Rise of a Trans Abolitionist Vision | 2020 Transgender Justice Teach-in'
+title: 'The Rise of a Trans Abolitionist Vision | 2020 Trans(Gender) Justice Teach-in'
 sections:
   -
     header_image: headers/tj-f20-web@2x.jpg
     title: 'The Rise of a Trans Abolitionist Vision'
-    subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
-    tag: 'Transgender Justice Teach-in 2020'
+    tag: 'Trans(Gender) Justice Teach-in 2020'
     color: btn-green
     size: btn-lg
     block: false
@@ -51,7 +51,6 @@ sections:
             type: buttons
             buttons:
               -
-                button: null
                 link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
                 text: 'Read the written reflection'
                 color: btn-green
@@ -79,12 +78,13 @@ sections:
                 type: link
                 attrs:
                   href: 'https://www.d.umn.edu/sgei/'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' hosted the 4th annual Transgender Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: ' hosted the 4th annual Trans(Gender) Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
     type: content
     enabled: true
   -
@@ -223,7 +223,7 @@ sections:
         content:
           -
             type: text
-            text: 'Programs like the Transgender Justice Teach-in are made possible by the generous financial support of grassroots donors. If you learned something from this program, please '
+            text: 'Programs like the Trans(Gender) Justice Teach-in are made possible by the generous financial support of grassroots donors. If you learned something from this program, please '
           -
             type: text
             marks:
@@ -259,7 +259,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646406341
+updated_at: 1668886881
 template: default
 image:
   - headers/tj-f20-web@2x.jpg
