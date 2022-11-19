@@ -1,6 +1,5 @@
 ---
 id: 9190d5d4-5689-4d54-8a52-3a6604d7ffd6
-published: false
 blueprint: pages
 title: 'Trans Fat: Lessons from Large Trans Folks | 2022 Transgender Justice Teach-in'
 sections:
@@ -361,7 +360,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668884548
+updated_at: 1668886719
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
