@@ -286,6 +286,21 @@ sections:
                 type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                text: 'Give now'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
         type: paragraph
     image: news/three-rad-ways-get-involved-mblgtacc-1090x681.jpg
     bg_type: color
@@ -295,7 +310,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888748
+updated_at: 1668888798
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 ---
