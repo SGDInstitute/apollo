@@ -33,7 +33,7 @@ sections:
         content:
           -
             type: text
-            text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives. More information about the fall 2022 Trans(Gender) Justice Teach-in will be made available later this year.'
+            text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives.'
     type: content
     enabled: true
   -
@@ -251,7 +251,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668887510
+updated_at: 1668887531
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
