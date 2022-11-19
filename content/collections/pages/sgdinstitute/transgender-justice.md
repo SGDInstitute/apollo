@@ -196,60 +196,10 @@ sections:
           -
             type: text
             text: 'Contact R.B. Brooks (rb@sgdinstitute.org)'
+      -
+        type: paragraph
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Support our programs'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: /giving
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'make a contribution'
-          -
-            type: text
-            text: ". To support future programs, please consider joining the\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'OPE Giving Program'
-          -
-            type: text
-            text: "\_and sign up for a monthly recurring gift.\_"
-      -
-        type: paragraph
-    type: content
-    enabled: false
   -
     column_widths: third_right
     left_column: content
@@ -302,7 +252,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
+                  href: 'statamic://entry::5ec9896f-169f-4790-b16a-571785f81fe5'
                   rel: null
                   target: null
                   title: null
@@ -343,7 +293,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888455
+updated_at: 1668888523
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
