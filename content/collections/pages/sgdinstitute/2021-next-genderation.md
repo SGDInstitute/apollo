@@ -1,14 +1,14 @@
 ---
 id: 7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc
 blueprint: pages
-title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth | 2021 Transgender Justice Teach-in'
+title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth | 2021 Trans(Gender) Justice Teach-in'
 sections:
   -
     header_image: headers/tj-f21-redux_site-banner.jpg
     title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth'
-    subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
-    tag: 'Transgender Justice Teach-in 2021'
+    tag: 'Trans(Gender) Justice Teach-in 2021'
     text: 'Registration closed'
     color: btn-green
     size: btn-lg
@@ -54,7 +54,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' hosted the 5th annual Transgender Justice Teach-in. This year''s conversation, "The Next Genderation: Building Liberated Futures with Queer and Trans Youth," brought together '
+            text: ' hosted the 5th annual Trans(Gender) Justice Teach-in. This year''s conversation, "The Next Genderation: Building Liberated Futures with Queer and Trans Youth," brought together '
           -
             type: text
             marks:
@@ -410,7 +410,7 @@ sections:
         content:
           -
             type: text
-            text: "Programs like this\_Transgender Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
           -
             type: text
             marks:
@@ -488,8 +488,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1649608109
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1668886917
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
