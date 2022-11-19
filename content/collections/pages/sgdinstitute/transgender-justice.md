@@ -249,7 +249,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     column_widths: two_fifths_right
     left_column: content
@@ -257,10 +257,21 @@ sections:
     center_columns: false
     bard:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Support our programs'
+      -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: lead
             text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please\_"
           -
             type: text
@@ -276,9 +287,14 @@ sections:
                 type: bold
               -
                 type: underline
+              -
+                type: lead
             text: 'make a contribution'
           -
             type: text
+            marks:
+              -
+                type: lead
             text: ". To support future programs, please consider joining the\_"
           -
             type: text
@@ -294,10 +310,30 @@ sections:
                 type: bold
               -
                 type: underline
+              -
+                type: lead
             text: 'OPE Giving Program'
           -
             type: text
+            marks:
+              -
+                type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://sgdinstitute.org/giving'
+                text: 'Give now'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
       -
         type: paragraph
     image: mblgtacc-2018-candid1-1090x681.jpg
@@ -307,7 +343,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888322
+updated_at: 1668888423
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
