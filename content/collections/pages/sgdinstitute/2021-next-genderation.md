@@ -459,13 +459,13 @@ sections:
         content:
           -
             type: text
-            text: '(Re)watch the 2020 Transgender Justice Teach-in: The Rise of a Trans Abolitionist Vision'
+            text: '(Re)watch the 2020 Trans(Gender) Justice Teach-in: The Rise of a Trans Abolitionist Vision'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The 4th annual Transgender Justice Teach-in brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: 'The 4th annual Trans(Gender) Justice Teach-in brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
         type: set
         attrs:
@@ -489,7 +489,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668886917
+updated_at: 1668886985
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
