@@ -5,11 +5,11 @@ blueprint: pages
 title: 'Trans Fat: Lessons from Large Trans Folks | 2022 Transgender Justice Teach-in'
 sections:
   -
-    header_image: headers/tj-f21-redux_site-banner.jpg
+    header_image: headers/tj-placeholder-web@2x.jpg
     title: 'Trans Fat: Lessons from Large Trans Folks'
-    subtitle: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
-    tag: 'Transgender Justice Teach-in 2022'
+    tag: 'Trans(Gender) Justice Teach-in 2022'
     text: 'Registration closed'
     color: btn-green
     size: btn-lg
@@ -148,9 +148,10 @@ sections:
       -
         type: set
         attrs:
+          enabled: false
           values:
             type: image
-            image: tj-f21-headshots-1090x681-102321-250pm.jpg
+            image: headers/tj-placeholder-web@2x.jpg
             caption: '(L-R): Bishop Howard, Cody Charles, Merrique Jenson, and Romeo Jackson'
             inline: false
       -
@@ -360,7 +361,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668884400
+updated_at: 1668884548
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
