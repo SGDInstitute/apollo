@@ -611,65 +611,6 @@ sections:
         content:
           -
             type: text
-            text: 'Support our programs'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Programs like\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Take the Last Bite'
-          -
-            type: text
-            text: "\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: /giving
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'make a contribution'
-          -
-            type: text
-            text: ". To support future programs, please consider joining the\_"
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'OPE Giving Program'
-          -
-            type: text
-            text: "\_and sign up for a monthly recurring gift.\_"
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
             text: Attributions
       -
         type: paragraph
@@ -843,7 +784,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668889085
+updated_at: 1668889105
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
