@@ -723,9 +723,110 @@ sections:
   -
     type: content
     enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Support our programs'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'Programs like '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+              -
+                type: lead
+            text: 'Take the Last Bite'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: "\_are made possible by the generous financial support of grassroots donors."
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: "If you learned something from this program, please\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/giving'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+              -
+                type: underline
+              -
+                type: lead
+            text: 'make a contribution'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: ". To support future programs, please consider joining the\_"
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/news/announcing-ope-giving-program'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+              -
+                type: underline
+              -
+                type: lead
+            text: 'OPE Giving Program'
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: "\_and sign up for a monthly recurring gift.\_"
+    image: news/lastbite-launch-promo-web-featured-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668545940
+updated_at: 1668888967
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
