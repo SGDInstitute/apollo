@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Trans(Gender) Justice Teach-in'
 sections:
   -
-    header_image: headers/tj-f21-redux_site-banner.jpg
+    header_image: headers/tj-placeholder-web@2x.jpg
     title: 'Trans(Gender) Justice Teach-in'
     has_tag: true
     tag: Program
@@ -480,7 +480,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668887081
+updated_at: 1668887096
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
