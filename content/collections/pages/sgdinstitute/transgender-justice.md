@@ -1,11 +1,11 @@
 ---
 id: 39be0806-bfbb-4197-96fd-6b830a4f009a
 blueprint: pages
-title: 'Transgender Justice Teach-in'
+title: 'Trans(Gender) Justice Teach-in'
 sections:
   -
     header_image: headers/tj-f21-redux_site-banner.jpg
-    title: 'Transgender Justice Teach-in'
+    title: 'Trans(Gender) Justice Teach-in'
     has_tag: true
     tag: Program
     text: 'Registration closed'
@@ -27,13 +27,13 @@ sections:
             marks:
               -
                 type: lead
-            text: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. '
+            text: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives. More information about the fall 2022 Transgender Justice Teach-in will be made available later this year.'
+            text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives. More information about the fall 2022 Trans(Gender) Justice Teach-in will be made available later this year.'
     type: content
     enabled: true
   -
@@ -53,14 +53,14 @@ sections:
         content:
           -
             type: text
-            text: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
+            text: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021)'
       -
         type: set
         attrs:
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=yh2medTXKtk'
-            caption: 'The Next Generation: Building Liberated Futures with Queer and Trans Youth (2021 Transgender Justice Teach-in)'
+            caption: 'The Next Generation: Building Liberated Futures with Queer and Trans Youth (2021 Trans(Gender) Justice Teach-in)'
       -
         type: paragraph
       -
@@ -87,14 +87,14 @@ sections:
         content:
           -
             type: text
-            text: 'The Rise of a Trans Abolitionist Vision (2020 Transgender Justice Teach-in)'
+            text: 'The Rise of a Trans Abolitionist Vision (2020)'
       -
         type: set
         attrs:
           values:
             type: video
             video: 'https://youtu.be/E3Ey97tf0SA'
-            caption: 'The Rise of a Trans Abolitionist Vision (2020 Transgender Justice Teach-in)'
+            caption: 'The Rise of a Trans Abolitionist Vision (2020 Trans(Gender) Justice Teach-in)'
       -
         type: set
         attrs:
@@ -163,7 +163,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' bring you the 5th annual Transgender Justice Teach-in. This year''s conversation, "The next genderation: Building liberated futures with queer and trans youth," brings together '
+            text: ' bring you the 5th annual Trans(Gender) Justice Teach-in. This year''s conversation, "The next genderation: Building liberated futures with queer and trans youth," brings together '
           -
             type: text
             marks:
@@ -377,144 +377,6 @@ sections:
         content:
           -
             type: text
-            text: 'Register / How to attend'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We''d love to have you join us! '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Registrants will receive a link via email to access the stream shortly before the event.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We''re offering low-cost, tiered registration costs starting at $5+, with additional special group rates. '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'QTIBIPOC: $5'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: '(Gender)Queer, Trans, Intersex, Black, Indigenous, People of Color'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Trans & Non-Conforming Folks: $15'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Aspiring Accomplice: $25'
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'The intent of this space is to center the the liberation of trans, nonbinary & intersex people. As such, we ask those outside the community who choose to participate to pay the true cost of putting on this program.'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Group rates'
-              -
-                type: bullet_list
-                content:
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: 'Up to 10 people: $100'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: '11 to 15 people: $150'
-                  -
-                    type: list_item
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: '15 to 20 people: $200'
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                text: 'Registration closed'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-    type: content
-    enabled: false
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
             text: 'Questions?'
       -
         type: paragraph
@@ -539,7 +401,7 @@ sections:
         content:
           -
             type: text
-            text: "Programs like this\_Transgender Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
           -
             type: text
             marks:
@@ -588,13 +450,13 @@ sections:
         content:
           -
             type: text
-            text: '(Re)watch the 2020 Transgender Justice Teach-in: The Rise of a Trans Abolitionist Vision'
+            text: '(Re)watch the 2020 Trans(Gender) Justice Teach-in: The Rise of a Trans Abolitionist Vision'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The 4th annual Transgender Justice Teach-in brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: 'The 4th annual Trans(Gender) Justice Teach-in brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
       -
         type: set
         attrs:
@@ -617,10 +479,10 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1649607728
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1668887081
 template: default
-description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
   - headers/tj-f21_site-banner.jpg
 ---
