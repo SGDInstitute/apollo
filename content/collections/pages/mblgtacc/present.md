@@ -4,11 +4,11 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561727
+updated_at: 1668881559
 sections:
   -
     bg_type: image
-    bg_image: headers/header_group.jpg
+    bg_image: headers/mblgtacc2022-identity-forum-oval-perspective-1875x600.jpg
     num_colors: 2
     title: 'Present a workshop at MBLGTACC'
     type: header
