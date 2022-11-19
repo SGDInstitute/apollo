@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668881559
+updated_at: 1668882577
 sections:
   -
     bg_type: image
@@ -96,12 +96,13 @@ sections:
             contain: true
       -
         type: paragraph
-    image: news/mblgtacc-2020-workshop-panel-3-1090x681.jpg
+    image: news/mblgtacc2022-presenter-podium-audience-gradient-featured-1090x681.jpg
     bg_type: color
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
+    caption: 'Photo by Maddie Schroeder for Walt Middleton Photo'
   -
     bard:
       -
