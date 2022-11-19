@@ -1,0 +1,6 @@
+id: f212919c-bf2d-4edf-92b5-8a0af89ba005
+enabled: true
+source: '/programs/transgender-justice/2021-next-genderation-1(.*)'
+destination: /programs/transgender-justice/2022-trans-fat$1
+type: '301'
+match_type: regex
