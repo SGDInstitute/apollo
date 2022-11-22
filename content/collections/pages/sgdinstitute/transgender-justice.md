@@ -8,7 +8,7 @@ sections:
     title: 'Trans(Gender) Justice Teach-in'
     has_tag: true
     tag: Program
-    text: 'Registration closed'
+    text: 'Register (free)'
     color: btn-green
     size: btn-lg
     block: false
@@ -17,6 +17,7 @@ sections:
     type: header_large
     enabled: true
     has_button: false
+    link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
   -
     bard:
       -
@@ -88,12 +89,13 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Watch last year''s event'
+                text: 'Details & registration'
                 color: btn-white
                 size: btn-base
                 block: false
                 outline: true
                 target_blank: true
+                link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
             contain: true
     bg_type: color
     num_colors: 2
@@ -302,7 +304,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888542
+updated_at: 1669145857
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
