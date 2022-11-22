@@ -164,12 +164,6 @@ sections:
             type: text
             text: 'T.K. Morton'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut odio justo, pharetra quis libero quis, dapibus condimentum elit. Etiam et purus at erat dapibus sollicitudin sit amet a massa. Aliquam pharetra orci id velit sodales, at interdum turpis aliquet. Morbi sagittis risus ut venenatis cursus. Cras massa tellus, rhoncus et posuere id, auctor at risus. Aliquam at pretium arcu. Suspendisse vestibulum tincidunt accumsan. Suspendisse eget auctor enim. Vestibulum varius leo nec nisl pretium gravida.'
-      -
         type: heading
         attrs:
           level: 3
@@ -178,12 +172,6 @@ sections:
             type: text
             text: 'Dr. Jonathan Higgins'
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut odio justo, pharetra quis libero quis, dapibus condimentum elit. Etiam et purus at erat dapibus sollicitudin sit amet a massa. Aliquam pharetra orci id velit sodales, at interdum turpis aliquet. Morbi sagittis risus ut venenatis cursus. Cras massa tellus, rhoncus et posuere id, auctor at risus. Aliquam at pretium arcu. Suspendisse vestibulum tincidunt accumsan. Suspendisse eget auctor enim. Vestibulum varius leo nec nisl pretium gravida.'
-      -
         type: heading
         attrs:
           level: 3
@@ -191,12 +179,6 @@ sections:
           -
             type: text
             text: 'Shane McClure Smoore'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut odio justo, pharetra quis libero quis, dapibus condimentum elit. Etiam et purus at erat dapibus sollicitudin sit amet a massa. Aliquam pharetra orci id velit sodales, at interdum turpis aliquet. Morbi sagittis risus ut venenatis cursus. Cras massa tellus, rhoncus et posuere id, auctor at risus. Aliquam at pretium arcu. Suspendisse vestibulum tincidunt accumsan. Suspendisse eget auctor enim. Vestibulum varius leo nec nisl pretium gravida.'
     type: content
     enabled: true
   -
@@ -360,7 +342,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668887832
+updated_at: 1669145947
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
