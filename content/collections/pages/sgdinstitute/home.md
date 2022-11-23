@@ -74,7 +74,19 @@ sections:
         content:
           -
             type: text
-            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
+            marks:
+              -
+                type: lead
+            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: 'We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
       -
         type: set
         attrs:
@@ -107,7 +119,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669218410
+updated_at: 1669218443
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
