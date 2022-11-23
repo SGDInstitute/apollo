@@ -76,6 +76,29 @@ sections:
             type: text
             text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
       -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://apps.sgdinstitute.org/donations/create'
+                text: 'Give now'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                text: 'Learn more'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
         type: paragraph
     image: news/mblgtacc2022-workshops-1-1090x681.jpg
     bg_type: color
@@ -84,7 +107,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669218336
+updated_at: 1669218410
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
