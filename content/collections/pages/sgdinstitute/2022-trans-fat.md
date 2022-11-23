@@ -179,6 +179,16 @@ sections:
           -
             type: text
             text: 'Shane McClure Smoore'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Moderator: R.B. Brooks'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -342,7 +352,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669145947
+updated_at: 1669217364
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
