@@ -45,11 +45,19 @@ sections:
       -
         type: heading
         attrs:
+          level: 4
+        content:
+          -
+            type: text
+            text: '6TH ANNUAL TRANS(GENDER) JUSTICE TEACH-IN'
+      -
+        type: heading
+        attrs:
           level: 2
         content:
           -
             type: text
-            text: 'Save the date: 6th annual Trans(Gender) Justice Teach-in'
+            text: 'Trans Fat: Lessons from Large Trans Folks'
       -
         type: paragraph
         content:
@@ -82,6 +90,12 @@ sections:
                 type: lead
             text: 'Virtual / Free'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'A conversation with T.K. Morton, Dr. Jonathan Higgins, and Shane McClure Smoore, moderated by R.B. Brooks.'
+      -
         type: set
         attrs:
           values:
@@ -101,7 +115,7 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-    column_widths: quarter_right
+    column_widths: third_right
     image: headers/tj-placeholder-web@2x.jpg
   -
     bard:
@@ -303,7 +317,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669216810
+updated_at: 1669217075
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
