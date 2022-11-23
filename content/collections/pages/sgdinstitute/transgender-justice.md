@@ -8,7 +8,7 @@ sections:
     title: 'Trans(Gender) Justice Teach-in'
     has_tag: true
     tag: Program
-    text: 'Register (free)'
+    text: 'Tune-in Dec. 6'
     color: btn-green
     size: btn-lg
     block: false
@@ -317,7 +317,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217125
+updated_at: 1669217629
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
