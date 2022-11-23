@@ -55,8 +55,36 @@ sections:
     bg_color: bg-white
     type: countdown
     enabled: false
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Support our work in the Midwest'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
+      -
+        type: paragraph
+    image: news/mblgtacc2022-workshops-1-1090x681.jpg
+    bg_type: color
+    num_colors: 2
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668546013
+updated_at: 1669218336
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
