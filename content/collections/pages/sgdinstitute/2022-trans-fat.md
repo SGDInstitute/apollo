@@ -279,7 +279,16 @@ sections:
             marks:
               -
                 type: lead
-            text: "Programs like the Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors.If you learned something from this program, please\_"
+            text: "Programs like the Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors."
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: lead
+            text: "If you learned something from this program, please\_"
           -
             type: text
             marks:
@@ -351,7 +360,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217958
+updated_at: 1669217973
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
