@@ -88,7 +88,7 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Details & registration'
+                text: 'Learn more & Tune in'
                 color: btn-white
                 size: btn-base
                 block: false
@@ -303,7 +303,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669145885
+updated_at: 1669216810
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
