@@ -77,7 +77,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
+            text: 'With the generous financial support of grassroots donors, we build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
       -
         type: paragraph
         content:
@@ -86,7 +86,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Our work is made possible through the generous financial support of grassroots donors. Join our efforts to build community and build strong movements—make a gift now.'
+            text: 'Join our efforts to build community and build strong movements—make a gift now.'
       -
         type: set
         attrs:
@@ -119,7 +119,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669218766
+updated_at: 1669218839
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
