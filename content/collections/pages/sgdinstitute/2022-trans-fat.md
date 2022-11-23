@@ -348,10 +348,10 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-    column_widths: quarter_right
+    column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217940
+updated_at: 1669217958
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
