@@ -228,7 +228,7 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Visit stream'
+                text: 'Visit stream / get YouTube notification'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -352,7 +352,7 @@ sections:
     type: two_column
     enabled: false
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217364
+updated_at: 1669217388
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
