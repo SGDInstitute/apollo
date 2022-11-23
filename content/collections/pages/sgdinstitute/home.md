@@ -68,7 +68,7 @@ sections:
         content:
           -
             type: text
-            text: 'Support our work in the Midwest'
+            text: 'Build community. Build strong movements.'
       -
         type: paragraph
         content:
@@ -77,16 +77,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Our life-saving work is made possible through the generous financial support of grassroots donors. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
+            text: 'Our work is made possible through the generous financial support of grassroots donors. Join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
       -
         type: set
         attrs:
@@ -119,7 +110,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669218443
+updated_at: 1669218612
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
