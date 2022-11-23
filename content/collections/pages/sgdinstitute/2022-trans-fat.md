@@ -259,6 +259,9 @@ sections:
     type: content
     enabled: true
   -
+    left_column: content
+    right_column: video
+    center_columns: false
     bard:
       -
         type: heading
@@ -273,22 +276,32 @@ sections:
         content:
           -
             type: text
-            text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. If you learned something from this program, please "
+            marks:
+              -
+                type: lead
+            text: "Programs like the Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors.If you learned something from this program, please\_"
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: /giving
+                  href: 'https://sgdinstitute.org/giving'
                   rel: null
                   target: null
                   title: null
               -
+                type: bold
+              -
                 type: underline
+              -
+                type: lead
             text: 'make a contribution'
           -
             type: text
+            marks:
+              -
+                type: lead
             text: ". To support future programs, please consider joining the\_"
           -
             type: text
@@ -296,39 +309,23 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
+                  href: 'https://sgdinstitute.org/news/announcing-ope-giving-program'
                   rel: null
                   target: null
                   title: null
               -
+                type: bold
+              -
                 type: underline
+              -
+                type: lead
             text: 'OPE Giving Program'
           -
             type: text
+            marks:
+              -
+                type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
-      -
-        type: paragraph
-    type: content
-    enabled: true
-  -
-    left_column: content
-    right_column: video
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: '(Re)watch the 2021 Trans(Gender) Justice Teach-in: The Next Genderation'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The 5th annual Transgender Justice Teach-in brought together four TGQ organizers, educators and change-makers to share what they’re witnessing in their own communities, how their experiences inform the direction of their projects, and their ideas on how to be aligned with the needs of trans, nonbinary and intersex youth.'
       -
         type: set
         attrs:
@@ -336,10 +333,10 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'entry::7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc'
-                text: 'Watch last year''s event'
+                link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                text: 'Give now'
                 color: btn-white
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -350,9 +347,9 @@ sections:
     num_colors: 2
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217388
+updated_at: 1669217805
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
