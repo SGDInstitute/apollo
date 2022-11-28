@@ -89,7 +89,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' hosted the 6th annual Trans(Gender) Justice Teach-in. This year''s teach-in, "Trans Fat: Lessons from Large Trans Folks," brings together '
+            text: ' invite you to the 6th annual Trans(Gender) Justice Teach-in. This year''s teach-in, "Trans Fat: Lessons from Large Trans Folks," brings together '
           -
             type: text
             marks:
@@ -360,7 +360,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217973
+updated_at: 1669676476
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
