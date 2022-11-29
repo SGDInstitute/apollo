@@ -595,6 +595,107 @@ sections:
         content:
           -
             type: text
+            text: 'Follow us'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We’ve joined '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.tiktok.com/@take.the.last.bite'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: TikTok
+          -
+            type: text
+            text: '! You can also find us on '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://twitter.com/sgdinstitute/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: Twitter
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.facebook.com/sgdinstitute'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: Facebook
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.instagram.com/sgdinstitute/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: Instagram
+          -
+            type: text
+            text: ' or at '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: sgdinstitute.org
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: .
+    type: content
+    enabled: true
+  -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
             text: 'Contact us'
       -
         type: paragraph
@@ -800,7 +901,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669760242
+updated_at: 1669760344
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
