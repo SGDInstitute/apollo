@@ -164,6 +164,12 @@ sections:
             type: text
             text: 'T.K. Morton'
       -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Tristan "TK" Morton (Ze/Zir/Zirs) is a Black Trans Queer person residing on Nisenan, Maidu, Miwok and Me-Wuk land (Sacramento, California). Tristan is currently the Director of the LGBTQIA Resource Center at the University of California - Davis. Ze has a bachelor’s in Women’s and Gender Studies from Eastern Michigan University and will have zirs master’s in Higher Education Administration from Stony Brook University come December 2022. Ze focuses on centering Queer and Trans BIPOC joy, laughter, and advocacy making sure that all spaces are accessible and centering the love and care of the community. Ze has worked at several institutions across the country bringing a variety of experiences to support LGBTQIA+ folks such as Macalester College, and the University of Kansas. When ze isn’t working ze is trying new foods, going on an adventure, reading the dozens of books that are still waiting to be read on zirs bookshelves, listening to their favorite music, and discovering new amazing possibilities with community and their loved ones.'
+      -
         type: heading
         attrs:
           level: 3
@@ -171,6 +177,39 @@ sections:
           -
             type: text
             text: 'Dr. Jonathan Higgins'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Jonathan Paul Higgins is an educator, professor, national speaker, freelance journalist, thought leader and media critic who is passionate about television and film. A Culture Strike 2021 Disruptor and Twitter Spaces Spark Creator, Dr. Higgins is a trailblazer who is creating, sharing, and crafting the stories their ancestors didn’t get to tell. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Dr. Higgins has held positions at both Chernin Entertainment & Edith Productions and currently consults at United Artists, Amazon, and other media leaders. They have worked on inclusion projects with leaders in entertainment including Fox, the NFL, Apple, Disney, Instagram, Buzzfeed and GLAAD. They have also been a featured speaker for SXSW & TEDx and also competed on the latest season of Netflix’s hit show, “Nailed It”. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'They are the creator, executive producer and host of the “Black Fat Femme Podcast” which was developed via IHeartMedia’s Next Up Initiative. The podcast has been named “top Black podcast to listen to” by '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Essence Magazine'
+          -
+            type: text
+            text: '. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Dr. Higgins holds a doctorate in educational justice and regularly writes and lectures on what liberation means for Black, queer, fat, non-binary people.'
       -
         type: heading
         attrs:
@@ -360,7 +399,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669847652
+updated_at: 1669847798
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
