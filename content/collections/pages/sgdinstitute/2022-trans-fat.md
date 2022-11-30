@@ -58,7 +58,7 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Virtual / Free and open to the public'
+            text: '6:00 p.m. EST / 5:00 p.m. CST / 4:00 p.m. MST / 3:00 p.m. PST'
           -
             type: hard_break
             marks:
@@ -66,7 +66,10 @@ sections:
                 type: lead
           -
             type: text
-            text: '6:00 p.m. EST / 5:00 p.m. CST / 4:00 p.m. MST / 3:00 p.m. PST'
+            marks:
+              -
+                type: lead
+            text: 'Virtual / Free and open to the public'
       -
         type: paragraph
         content:
@@ -357,7 +360,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669847628
+updated_at: 1669847652
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
