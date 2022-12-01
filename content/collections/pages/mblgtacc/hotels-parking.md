@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Hotels & Parking'
 sections:
   -
-    title: 'Hotels, Transportation, and Parking'
+    title: 'Hotels and Parking'
     type: header_small
     enabled: true
   -
@@ -239,6 +239,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669927110
+updated_at: 1669927130
 template: default
 ---

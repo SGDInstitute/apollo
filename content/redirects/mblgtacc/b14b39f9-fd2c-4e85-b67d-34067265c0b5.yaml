@@ -1,0 +1,6 @@
+id: b14b39f9-fd2c-4e85-b67d-34067265c0b5
+enabled: true
+source: '/hotels-transportation-parking(.*)'
+destination: /hotels-parking$1
+type: '301'
+match_type: regex
