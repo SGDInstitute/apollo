@@ -22,7 +22,16 @@ sections:
         content:
           -
             type: text
-            text: 'Two hotels are offering a group rate for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
+            text: 'Two hotels are offering a discounted group rate of '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '$169 per night '
+          -
+            type: text
+            text: 'for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
       -
         type: paragraph
         content:
@@ -30,107 +39,93 @@ sections:
             type: text
             text: 'Please note, the quoted rates do not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Hyatt Regency Lexington'
-      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Address: 401 West High Street, Lexington, KY  40507'
+            marks:
+              -
+                type: lead
+            text: 'Book early—discounted rates end October 3, 2023!'
       -
         type: set
         attrs:
           values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
               -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Hyatt Regency Lexington'
               -
-                cells:
-                  - 'Standard - Double Queen'
-                  - '125'
-                  - $169
-                  - 10/4/2023
-            full_width: true
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '401 West High Street'
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    text: 'Lexington, KY  40507'
               -
-                link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
-                text: 'Book Online with Hyatt Regency Lexington'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Hilton Lexington/Downtown'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Address: 369 West Vine Street, Lexington, KY  40507'
-      -
-        type: set
-        attrs:
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
+                type: set
+                attrs:
+                  values:
+                    type: buttons
+                    buttons:
+                      -
+                        text: 'Book Online with Hyatt Regency Lexington'
+                        color: btn-green
+                        size: btn-base
+                        block: false
+                        outline: false
+                        target_blank: false
+                    contain: true
               -
-                cells:
-                  - 'Room Type'
-                  - 'Rooms Available'
-                  - Rate
-                  - 'Available Until'
+                type: paragraph
+            right_content:
               -
-                cells:
-                  - 'Standard - King or Double Queen'
-                  - '125'
-                  - $169
-                  - 10/4/2023
-            full_width: true
-      -
-        type: set
-        attrs:
-          values:
-            type: buttons
-            buttons:
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Hilton Lexington/Downtown'
               -
-                link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
-                text: 'Book Online with Hilton Lexington/Downtown'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: '369 West Vine Street'
+                  -
+                    type: hard_break
+                  -
+                    type: text
+                    text: 'Lexington, KY  40507'
+              -
+                type: set
+                attrs:
+                  values:
+                    type: buttons
+                    buttons:
+                      -
+                        text: 'Book Online with Hilton Lexington/Downtown'
+                        color: btn-green
+                        size: btn-base
+                        block: false
+                        outline: false
+                        target_blank: false
+                    contain: true
+              -
+                type: paragraph
     type: content
     enabled: true
   -
@@ -521,6 +516,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669925692
+updated_at: 1669926420
 template: default
 ---
