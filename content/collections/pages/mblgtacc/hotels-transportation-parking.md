@@ -81,6 +81,7 @@ sections:
                     type: buttons
                     buttons:
                       -
+                        link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
                         text: 'Book Online with Hyatt Regency Lexington'
                         color: btn-green
                         size: btn-base
@@ -117,6 +118,7 @@ sections:
                     type: buttons
                     buttons:
                       -
+                        link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
                         text: 'Book Online with Hilton Lexington/Downtown'
                         color: btn-green
                         size: btn-base
@@ -516,6 +518,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669926420
+updated_at: 1669926459
 template: default
 ---
