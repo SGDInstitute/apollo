@@ -37,7 +37,7 @@ sections:
         content:
           -
             type: text
-            text: 'Please note, the quoted rates do not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
+            text: 'Please note, the quoted rate does not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
       -
         type: paragraph
         content:
@@ -267,28 +267,7 @@ sections:
         content:
           -
             type: text
-            text: 'On-site parking is available at the Hilton Columbus Downtown for guests staying at the hotel. Access the parking facility through the motor court off of North High Street. Current daily parking rates (may be subject to change) are:'
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Self-park: $33'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Valet: $35'
+            text: 'Our contracted room blocks with the Hyatt Regency Lexington and the Hilton Lexington/Downtown include complimentary parking for conference attendees staying at these hotels.'
       -
         type: heading
         attrs:
@@ -296,171 +275,43 @@ sections:
         content:
           -
             type: text
-            text: 'Park near the Greater Columbus Convention Center'
+            text: 'Accessible parking at the Central Bank Center'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'There are several parking facilities near the Greater Columbus Convention Center. '
+            text: 'Designated accessible parking is available in the Central Bank Center''s High Street lot. A valid state-issued handicap accessible placard or license plate is required.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Additional parking'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: underline
-            text: 'Ohio Center Garage'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '400 N High Street'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215 '
-          -
-            type: hard_break
+            text: 'For additional downtown Lexington parking information, please visit '
           -
             type: text
             marks:
               -
-                type: italic
-            text: 'GPS directional address 500 N. 3rd Street '
-      -
-        type: paragraph
-        content:
+                type: link
+                attrs:
+                  href: 'http://lexpark.org'
+                  rel: null
+                  target: null
+                  title: null
+            text: LexPark.org
           -
             type: text
-            marks:
-              -
-                type: underline
-            text: 'South Garage'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '50 E Nationwide Boulevard'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: 'Goodale Garage'
-          -
-            type: hard_break
-            marks:
-              -
-                type: underline
-          -
-            type: text
-            text: '70 East Goodale Street'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: 'Vine Garage'
-          -
-            type: hard_break
-            marks:
-              -
-                type: underline
-          -
-            type: text
-            text: '37 Vine Street'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: 'North Surface Lot'
-          -
-            type: hard_break
-            marks:
-              -
-                type: underline
-          -
-            type: text
-            text: '50 E Goodale Street'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: 'East Surface Lot'
-          -
-            type: hard_break
-            marks:
-              -
-                type: underline
-          -
-            type: text
-            text: '80 East Nationwide Boulevard'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, OH 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: 'Battelle Grand Loading Dock'
-          -
-            type: hard_break
-            marks:
-              -
-                type: underline
-          -
-            type: text
-            text: '500 N. 3rd St.'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Columbus, Ohio 43215'
+            text: .
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -476,21 +327,7 @@ sections:
         content:
           -
             type: text
-            text: 'For questions about hotel reservations or amenities, please '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.hilton.com/en/hotels/cmhdwhh-hilton-columbus-downtown/'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'contact the hotel directly'
-          -
-            type: text
-            text: '. For questions about the conference, '
+            text: 'For questions about hotel reservations or amenities, please contact the hotel directly. For questions about the conference, '
           -
             type: text
             marks:
@@ -518,6 +355,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669926459
+updated_at: 1669927041
 template: default
 ---
