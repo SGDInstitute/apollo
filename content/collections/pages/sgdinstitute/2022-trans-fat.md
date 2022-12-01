@@ -147,11 +147,10 @@ sections:
       -
         type: set
         attrs:
-          enabled: false
           values:
             type: image
-            image: headers/tj-placeholder-web@2x.jpg
-            caption: '(L-R): Bishop Howard, Cody Charles, Merrique Jenson, and Romeo Jackson'
+            image: news/tj-f22-tk-jonathan-placeholder-featured-1090x681.jpg
+            caption: '(L-R): T.K. Morton, Dr. Jonathan Higgins'
             inline: false
       -
         type: paragraph
@@ -399,7 +398,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669847798
+updated_at: 1669860587
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
