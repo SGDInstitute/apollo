@@ -30,7 +30,7 @@ sections:
     articles:
       - f28fe500-0247-4c86-8837-a4a47c88331d
       - 763e6570-37bd-48cf-a3ac-29722aba9bee
-      - 1dc7e545-657e-4359-b937-1cf1ff5a1442
+      - c7cbd3c6-8d49-4daa-8c29-c273691cae5b
       - db23fd82-17a3-4e7f-8bdc-8af8e191f10d
       - 90f8f48e-b662-48b9-9b41-f842dcc25581
     bg_type: color
@@ -139,7 +139,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669851139
+updated_at: 1669856393
 image:
   - headers/homepage-hero1.jpg
 ---
