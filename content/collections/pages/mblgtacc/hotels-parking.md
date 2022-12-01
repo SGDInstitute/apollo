@@ -1,7 +1,7 @@
 ---
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
 blueprint: pages
-title: 'Hotels, Transportation, & Parking'
+title: 'Hotels & Parking'
 sections:
   -
     title: 'Hotels, Transportation, and Parking'
@@ -126,124 +126,8 @@ sections:
                         outline: false
                         target_blank: false
                     contain: true
-              -
-                type: paragraph
     type: content
     enabled: true
-  -
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Transportation
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'The Greater Columbus Convention Center address is:'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: '400 – 500 North High Street Columbus, Ohio 43215'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'From I-70 on the East'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Take I-70 West to East Mound Street. Take Exit 101B from I-70 W Continue on E Mound St. Take S 4th to Nationwide BLVD The Turn right onto N High St'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'From I-71 on the North'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Take I-71 South Travel West on I-670 “109-A” Take Exit “4-B” to the Greater Columbus Convention CenterOrTake I-71 South to the Spring Street Exit Travel West on Spring Street to Fourth Street Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'From I-71 on the South'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Take I-71 North to I-70 East Travel on I-70 East to the Fourth Street Exit Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'From I-70 on the West'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Take I-70 East to the Fourth Street Exit Head North on Fourth Street to Nationwide Boulevard Turn Left onto Nationwide Boulevard'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'From the John Glenn Columbus International Airport'
-          -
-            type: hard_break
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Take I-670 West Exit at “4-B” to the Greater Columbus Convention Center'
-    type: content
-    enabled: false
   -
     bard:
       -
@@ -355,6 +239,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669927041
+updated_at: 1669927110
 template: default
 ---
