@@ -22,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Hilton Columbus Downtown is offering a group rate for MBLGTACC 2022 attendees.'
+            text: 'Two hotels are offering a group rate for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
       -
         type: paragraph
         content:
@@ -36,30 +36,65 @@ sections:
         content:
           -
             type: text
-            text: 'Hilton Columbus Downtown'
+            text: 'Hyatt Regency Lexington'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Address: '
-          -
-            type: text
-            marks:
+            text: 'Address: 401 West High Street, Lexington, KY  40507'
+      -
+        type: set
+        attrs:
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
               -
-                type: link
-                attrs:
-                  href: 'https://goo.gl/maps/pe2tB6pneSjfjPSh9'
-                  rel: null
-                  target: null
-                  title: null
-            text: '401 N High St., Columbus, OH  43215'
+                cells:
+                  - 'Room Type'
+                  - 'Rooms Available'
+                  - Rate
+                  - 'Available Until'
+              -
+                cells:
+                  - 'Standard - Double Queen'
+                  - '125'
+                  - $169
+                  - 10/4/2023
+            full_width: true
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
+                text: 'Book Online with Hyatt Regency Lexington'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Hilton Lexington/Downtown'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Hilton Columbus Downtown features direct access via skywalk to the Greater Columbus Convention Center.'
+            text: 'Address: 369 West Vine Street, Lexington, KY  40507'
       -
         type: set
         attrs:
@@ -77,9 +112,9 @@ sections:
               -
                 cells:
                   - 'Standard - King or Double Queen'
-                  - '250'
+                  - '125'
                   - $169
-                  - ' 9/28/22'
+                  - 10/4/2023
             full_width: true
       -
         type: set
@@ -88,8 +123,8 @@ sections:
             type: buttons
             buttons:
               -
-                link: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
-                text: 'Book Online with Hilton Columbus Downtown'
+                link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
+                text: 'Book Online with Hilton Lexington/Downtown'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -211,7 +246,7 @@ sections:
             type: text
             text: 'Take I-670 West Exit at “4-B” to the Greater Columbus Convention Center'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -428,7 +463,7 @@ sections:
             type: text
             text: 'Columbus, Ohio 43215'
     type: content
-    enabled: true
+    enabled: false
   -
     bard:
       -
@@ -485,7 +520,7 @@ sections:
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668563326
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1669925692
 template: default
 ---
