@@ -149,8 +149,8 @@ sections:
         attrs:
           values:
             type: image
-            image: news/tj-f22-tk-jonathan-placeholder-featured-1090x681.jpg
-            caption: '(L-R): T.K. Morton, Dr. Jonathan Higgins'
+            image: news/tj-f22-web-featured-tk-jonathan-shane-featured-1090x681.jpg
+            caption: '(L-R): T.K. Morton, Dr. Jonathan Higgins, Shane McClure Smoore'
             inline: false
       -
         type: paragraph
@@ -404,7 +404,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670109233
+updated_at: 1670109423
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
