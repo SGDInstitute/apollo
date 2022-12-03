@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Trans Fat: Lessons from Large Trans Folks | 2022 Trans(Gender) Justice Teach-in'
 sections:
   -
-    header_image: headers/tj-placeholder-web@2x.jpg
+    header_image: headers/tj-f22_site-banner.jpg
     title: 'Trans Fat: Lessons from Large Trans Folks'
     subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
     has_tag: true
@@ -404,7 +404,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670109423
+updated_at: 1670109835
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
