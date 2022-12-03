@@ -167,7 +167,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tristan "TK" Morton (Ze/Zir/Zirs) is a Black Trans Queer person residing on Nisenan, Maidu, Miwok and Me-Wuk land (Sacramento, California). Tristan is currently the Director of the LGBTQIA Resource Center at the University of California - Davis. Ze has a bachelor’s in Women’s and Gender Studies from Eastern Michigan University and will have zirs master’s in Higher Education Administration from Stony Brook University come December 2022. Ze focuses on centering Queer and Trans BIPOC joy, laughter, and advocacy making sure that all spaces are accessible and centering the love and care of the community. Ze has worked at several institutions across the country bringing a variety of experiences to support LGBTQIA+ folks such as Macalester College, and the University of Kansas. When ze isn’t working ze is trying new foods, going on an adventure, reading the dozens of books that are still waiting to be read on zirs bookshelves, listening to their favorite music, and discovering new amazing possibilities with community and their loved ones.'
+            text: 'Tristan "TK" Morton (ze/zir/zirs) is a Black Trans Queer person residing on Nisenan, Maidu, Miwok and Me-Wuk land (Sacramento, California). Tristan is currently the Director of the LGBTQIA Resource Center at the University of California - Davis. Ze has a bachelor’s in Women’s and Gender Studies from Eastern Michigan University and will have zirs master’s in Higher Education Administration from Stony Brook University come December 2022. Ze focuses on centering Queer and Trans BIPOC joy, laughter, and advocacy making sure that all spaces are accessible and centering the love and care of the community. Ze has worked at several institutions across the country bringing a variety of experiences to support LGBTQIA+ folks such as Macalester College, and the University of Kansas. When ze isn’t working ze is trying new foods, going on an adventure, reading the dozens of books that are still waiting to be read on zirs bookshelves, listening to their favorite music, and discovering new amazing possibilities with community and their loved ones.'
       -
         type: heading
         attrs:
@@ -181,7 +181,7 @@ sections:
         content:
           -
             type: text
-            text: 'Jonathan Paul Higgins is an educator, professor, national speaker, freelance journalist, thought leader and media critic who is passionate about television and film. A Culture Strike 2021 Disruptor and Twitter Spaces Spark Creator, Dr. Higgins is a trailblazer who is creating, sharing, and crafting the stories their ancestors didn’t get to tell. '
+            text: 'Jonathan Paul Higgins (they/them) is an educator, professor, national speaker, freelance journalist, thought leader and media critic who is passionate about television and film. A Culture Strike 2021 Disruptor and Twitter Spaces Spark Creator, Dr. Higgins is a trailblazer who is creating, sharing, and crafting the stories their ancestors didn’t get to tell. '
       -
         type: paragraph
         content:
@@ -217,6 +217,12 @@ sections:
           -
             type: text
             text: 'Shane McClure Smoore'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Shane Smoore (he/him) is a chubby, queer, trans man who calls the Midwest home. As a model, speaker, and influencer, he is making space for body liberation within the LGBTQ community. He strives to spread positivity and hopes to empower others to be their authentic selves.'
       -
         type: heading
         attrs:
@@ -398,7 +404,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669860587
+updated_at: 1670109233
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
