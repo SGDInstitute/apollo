@@ -24,6 +24,26 @@ sections:
     outline: true
     has_button: false
   -
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'LIVE NOW: 6th annual Trans(Gender) Justice Teach-in'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://youtu.be/T9_VfXIYRms'
+      -
+        type: paragraph
+    type: content
+    enabled: true
+  -
     articles:
       - f28fe500-0247-4c86-8837-a4a47c88331d
       - 5279f0b4-ebeb-4032-b8a8-42a3cd855689
@@ -119,7 +139,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669859421
+updated_at: 1670369334
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
