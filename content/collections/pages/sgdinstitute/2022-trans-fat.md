@@ -90,66 +90,6 @@ sections:
             text: 'R.B. Brooks'
           -
             type: text
-            text: '.Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure. Panelists reflected on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love, and so much more. And they shared stories about their lived experiences, observations of health and beauty practices that inhibit our livelihoods, and ways fat/plus size trans folks are (re)claiming agency over their bodies.'
-    type: content
-    enabled: true
-  -
-    bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'On Tuesday, December 6, 2022, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.d.umn.edu/sgei/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Sexuality & Gender Equity Initiatives'
-          -
-            type: text
-            text: ' hosted the 6th annual Trans(Gender) Justice Teach-in. The 2022 teach-in, "Trans Fat: Lessons from Large Trans Folks," brought together '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'T.K. Morton'
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Dr. Jonathan Higgins'
-          -
-            type: text
-            text: ', and '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Shane McClure Smoore'
-          -
-            type: text
-            text: ' in a conversation moderated by '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'R.B. Brooks'
-          -
-            type: text
             text: .
       -
         type: paragraph
@@ -158,7 +98,7 @@ sections:
             type: text
             text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure. Panelists reflected on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love, and so much more. And they shared stories about their lived experiences, observations of health and beauty practices that inhibit our livelihoods, and ways fat/plus size trans folks are (re)claiming agency over their bodies.'
     type: content
-    enabled: false
+    enabled: true
   -
     bard:
       -
@@ -429,7 +369,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670375173
+updated_at: 1670375204
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
