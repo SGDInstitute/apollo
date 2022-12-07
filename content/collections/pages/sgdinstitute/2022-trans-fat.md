@@ -44,38 +44,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
-            text: 'Tuesday, December 6, 2022'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: '6:00 p.m. EST / 5:00 p.m. CST / 4:00 p.m. MST / 3:00 p.m. PST'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Virtual / Free and open to the public'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: 'On Tuesday, December 6, 2022, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
           -
             type: text
             marks:
@@ -89,7 +58,7 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' invite you to the 6th annual Trans(Gender) Justice Teach-in. This year''s teach-in, "Trans Fat: Lessons from Large Trans Folks," brings together '
+            text: ' hosted the 6th annual Trans(Gender) Justice Teach-in. The 2022 teach-in, "Trans Fat: Lessons from Large Trans Folks," brought together '
           -
             type: text
             marks:
@@ -131,7 +100,7 @@ sections:
         content:
           -
             type: text
-            text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure. This panel discussion will reflect on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love and so much more. Panelists will offer stories about their lived experiences, observations of health and beauty practices that inhibit our livelihoods, and ways fat/plus size trans folks are (re)claiming agency over their bodies.'
+            text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure. Panelists reflected on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love, and so much more. And they shared stories about their lived experiences, observations of health and beauty practices that inhibit our livelihoods, and ways fat/plus size trans folks are (re)claiming agency over their bodies.'
     type: content
     enabled: true
   -
@@ -404,7 +373,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670110180
+updated_at: 1670375129
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
