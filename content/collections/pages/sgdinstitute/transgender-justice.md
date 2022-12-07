@@ -113,6 +113,37 @@ sections:
         content:
           -
             type: text
+            text: 'Trans Fat: Lessons from Large Trans Folks (2022)'
+      -
+        type: set
+        attrs:
+          values:
+            type: video
+            video: 'https://youtu.be/T9_VfXIYRms'
+      -
+        type: set
+        attrs:
+          values:
+            type: buttons
+            buttons:
+              -
+                link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
+                text: 'Details & Bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
             text: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth (2021)'
       -
         type: set
@@ -296,7 +327,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670374717
+updated_at: 1670374860
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
