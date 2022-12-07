@@ -16,7 +16,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
     link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
   -
     bard:
@@ -66,35 +66,13 @@ sections:
             marks:
               -
                 type: lead
-            text: 'Tuesday, December 6, 2022'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: '6:00 p.m. EST / 5:00 p.m. CST'
-          -
-            type: hard_break
-            marks:
-              -
-                type: lead
-          -
-            type: text
-            marks:
-              -
-                type: lead
-            text: 'Virtual / Free'
+            text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'A conversation with T.K. Morton, Dr. Jonathan Higgins, and Shane McClure Smoore, moderated by R.B. Brooks.'
+            text: '(Re)watch our latest teach-in—with T.K. Morton, Dr. Jonathan Higgins, Shane Smoore, and R.B. Brooks—where we reflected on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love and so much more. '
       -
         type: set
         attrs:
@@ -102,9 +80,9 @@ sections:
             type: buttons
             buttons:
               -
-                text: 'Learn more & Tune in'
+                text: 'Watch & Learn more'
                 color: btn-white
-                size: btn-base
+                size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
@@ -115,8 +93,9 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-    column_widths: third_right
-    image: headers/tj-placeholder-web@2x.jpg
+    column_widths: two_fifths_right
+    image: news/tj-f22-web-featured-tk-jonathan-shane-featured-1090x681.jpg
+    video: 'https://youtu.be/T9_VfXIYRms'
   -
     bard:
       -
@@ -317,7 +296,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669217629
+updated_at: 1670374717
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
