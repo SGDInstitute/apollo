@@ -265,6 +265,8 @@ sections:
           -
             type: text
             text: 'Contact R.B. Brooks (rb@sgdinstitute.org)'
+      -
+        type: paragraph
     type: content
     enabled: true
   -
@@ -369,7 +371,7 @@ sections:
     column_widths: third_right
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670375222
+updated_at: 1670375238
 template: default
 description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
