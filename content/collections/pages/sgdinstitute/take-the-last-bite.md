@@ -92,16 +92,42 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                  rel: null
+                  target: null
+                  title: null
             text: 'Ep. 7: You Are Not a Student Loan ('
           -
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                  rel: null
+                  target: null
+                  title: null
+              -
                 type: italic
             text: 'Dec. 27'
           -
             type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                  rel: null
+                  target: null
+                  title: null
             text: )
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -954,7 +980,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1672077021
+updated_at: 1672077093
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
