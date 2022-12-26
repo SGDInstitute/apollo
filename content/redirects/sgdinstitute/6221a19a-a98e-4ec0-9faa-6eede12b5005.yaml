@@ -1,0 +1,6 @@
+id: 6221a19a-a98e-4ec0-9faa-6eede12b5005
+enabled: true
+source: '/news/skora-appears-on-chicago-daily-podcast-to-discuss-new-lgbtq-executive-order-1(.*)'
+destination: /news/skora-returns-reset-podcast-discuss-creating-inclusive-lgbtq-affirming-sex-ed$1
+type: '301'
+match_type: regex
