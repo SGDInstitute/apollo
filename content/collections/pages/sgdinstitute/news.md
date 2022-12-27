@@ -28,10 +28,10 @@ sections:
     enabled: true
   -
     articles:
+      - 506d86dc-8e94-4982-b8ce-f8e3f2932fe4
       - a8bac138-2c2c-46c3-8bcb-263bd2b9dbfc
       - b62f94e7-2958-41db-aae6-8c3fb4052afd
       - 39e32201-2422-4c9f-91ac-f37cc7baea1f
-      - f28fe500-0247-4c86-8837-a4a47c88331d
       - 2a0bfc3e-2c65-4e29-9474-4c5dc42a7b91
     bg_type: color
     num_colors: 2
@@ -139,7 +139,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1672075851
+updated_at: 1672171743
 image:
   - headers/homepage-hero1.jpg
 ---
