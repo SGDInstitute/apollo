@@ -15,7 +15,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 3 streaming now—New episodes bi-weekly'
-    link: 'entry::f28fe500-0247-4c86-8837-a4a47c88331d'
+    link: 'entry::506d86dc-8e94-4982-b8ce-f8e3f2932fe4'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -96,35 +96,11 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                  href: 'statamic://entry::506d86dc-8e94-4982-b8ce-f8e3f2932fe4'
                   rel: null
                   target: null
                   title: null
-            text: 'Ep. 7: You Are Not a Student Loan ('
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: italic
-            text: 'Dec. 27'
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
-                  rel: null
-                  target: null
-                  title: null
-            text: )
+            text: 'Ep. 7: You Are Not a Student Loan'
           -
             type: text
             text: ' →'
@@ -980,7 +956,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1672077093
+updated_at: 1672171339
 description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
 image:
   - headers/lastbite-hero2.jpg
