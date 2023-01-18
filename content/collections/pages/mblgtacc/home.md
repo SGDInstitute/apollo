@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1669850658
+updated_at: 1674080130
 sections:
   -
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
@@ -159,11 +159,11 @@ sections:
     enabled: true
   -
     articles:
+      - 3e5f036b-a493-4823-8f42-f763d32b7f0b
       - 79b20e53-7e95-476e-adcd-6748ba545021
       - 31da7e8e-cc8e-462e-9bb5-0570de9fe70c
       - f35d91d0-8672-48fd-993d-7ce17df1f308
       - 1df01ff1-bc73-4dcf-8de0-3c4308ab8eec
-      - d3710e56-ef2a-408f-83a7-0e63f71e57fb
     bg_type: gradient
     num_colors: 2
     from_color: from-black
