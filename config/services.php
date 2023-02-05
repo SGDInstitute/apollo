@@ -32,6 +32,6 @@ return [
 
     'mailcoach' => [
         'token' => env('MAILCOACH_TOKEN'),
-    ]
+    ],
 
 ];

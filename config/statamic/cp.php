@@ -41,7 +41,7 @@ return [
         [
             'type' => 'seo_pro',
             'width' => 50,
-        ]
+        ],
     ],
 
     /*
