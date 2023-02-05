@@ -13,21 +13,21 @@
         "austenc/statamic-instagram-feed": "^2.2",
         "doublethreedigital/duplicator": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^8.83",
-        "laravel/tinker": "^2.5",
+        "laravel/framework": "^9.50",
+        "laravel/tinker": "^2.7",
         "rias/statamic-redirect": "^2.0",
-        "statamic/cms": "^3.0",
+        "statamic/cms": "^3.3",
         "statamic/seo-pro": "^2.2",
         "symfony/postmark-mailer": "^6.0",
         "symfony/http-client": "^6.0"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^3.5",
-        "facade/ignition": "^2.5",
+        "barryvdh/laravel-debugbar": "^3.6",
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^5.10",
-        "phpunit/phpunit": "^9.5.10"
+        "nunomaduro/collision": "^6.3",
+        "phpunit/phpunit": "^9.5.10",
+        "spatie/laravel-ignition": "^1.4"
     },
     "config": {
         "optimize-autoloader": true,
