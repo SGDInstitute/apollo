@@ -16,7 +16,7 @@ class FieldWidth extends Tags
             66 => 'w-2/3',
             50 => 'w-1/2',
             33 => 'w-1/3',
-            25 => 'w-1/4'
+            25 => 'w-1/4',
         ];
 
         return $options[$width] ?? 'w-full';

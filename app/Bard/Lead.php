@@ -7,6 +7,7 @@ use ProseMirrorToHtml\Marks\Mark;
 class Lead extends Mark
 {
     protected $markType = 'lead';
+
     protected $tagName = 'p';
 
     public function matching(): bool
@@ -19,7 +20,7 @@ class Lead extends Mark
         return [
             ['tag' => 'p',
                 'attrs' => [
-                    'class' => "lead",
+                    'class' => 'lead',
                 ],
             ],
         ];

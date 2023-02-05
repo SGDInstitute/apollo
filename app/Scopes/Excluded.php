@@ -9,6 +9,6 @@ class Excluded extends Scope
     public function apply($query, $values)
     {
         dd($values);
-            $query->whereNotIn('id', $values);
+        $query->whereNotIn('id', $values);
     }
 }

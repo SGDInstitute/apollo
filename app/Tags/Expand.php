@@ -15,7 +15,7 @@ class Expand extends Tags
         $left = $this->context->raw('margin_left') ?? '';
         $margin = $this->context->raw('margin') ?? '';
 
-        if($directions === 'same') {
+        if ($directions === 'same') {
             return $margin;
         }
 
