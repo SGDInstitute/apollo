@@ -18,7 +18,8 @@
         "rias/statamic-redirect": "^2.0",
         "statamic/cms": "^3.0",
         "statamic/seo-pro": "^2.2",
-        "wildbit/swiftmailer-postmark": "^3.3"
+        "symfony/postmark-mailer": "^6.0",
+        "symfony/http-client": "^6.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.5",
