@@ -350,6 +350,27 @@ fields:
                 icon: form
                 listable: hidden
                 localizable: false
+        iframe:
+          display: iFrame
+          fields:
+            -
+              handle: html
+              field:
+                theme: light
+                mode: htmlmixed
+                mode_selectable: false
+                indent_type: tabs
+                indent_size: 4
+                key_map: default
+                line_numbers: true
+                line_wrapping: true
+                display: html
+                type: code
+                icon: code
+                localizable: false
+                listable: hidden
+                instructions_position: above
+                visibility: visible
       buttons:
         - h2
         - h3
