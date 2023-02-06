@@ -59,34 +59,22 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'October 27, 2022'
           -
             type: hard_break
-            marks:
-              -
-                type: lead
           -
             type: text
-            marks:
-              -
-                type: lead
             text: '4:00-5:15 pm EDT (3:00-4:15 pm CDT)'
           -
             type: hard_break
-            marks:
-              -
-                type: lead
           -
             type: text
-            marks:
-              -
-                type: lead
             text: Virtual
       -
         type: paragraph

@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” '
       -
         type: paragraph
@@ -237,74 +237,54 @@ sections:
             left_content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: 'Date & time'
                   -
                     type: hard_break
                     marks:
                       -
-                        type: bold
-                      -
-                        type: lead
+                        type: bol
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Friday, October 21'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '8:00 - 10:00 p.m. EDT'
             right_content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Location
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Hilton Columbus Downtown'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Robert King Room'
       -
         type: paragraph

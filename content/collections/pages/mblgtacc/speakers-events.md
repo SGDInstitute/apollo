@@ -19,9 +19,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The 30th annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more.'
       -
         type: set

@@ -20,12 +20,12 @@ sections:
             text: 'Creating Change on College Campuses'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.'
       -
         type: heading

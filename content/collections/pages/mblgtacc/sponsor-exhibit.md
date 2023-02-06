@@ -53,12 +53,12 @@ sections:
         type: paragraph
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'For three decades, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others.'
       -
         type: paragraph

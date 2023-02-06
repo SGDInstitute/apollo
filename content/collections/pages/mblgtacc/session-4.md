@@ -25,9 +25,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Saturday, October 22  |  4:00-5:15 p.m.'
       -
         type: heading

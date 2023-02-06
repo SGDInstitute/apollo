@@ -27,9 +27,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Schuyler Bailar and Imani Barbarin as keynotes for our thirtieth annual conference.'
       -
         type: heading
@@ -47,35 +44,23 @@ sections:
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'Date/time: '
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Friday, October 21, 7:00 - 8:00 p.m. EDT'
           -
             type: hard_break
             marks:
               -
                 type: bold
-              -
-                type: lead
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'Location: '
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Union Station Ballroom B-C'
       -
         type: paragraph
@@ -117,33 +102,20 @@ sections:
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'Date/time: '
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Saturday, October 22, 5:30 - 6:30 p.m. EDT'
           -
             type: hard_break
-            marks:
-              -
-                type: lead
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'Location: '
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Union Station Ballroom B-C'
       -
         type: paragraph

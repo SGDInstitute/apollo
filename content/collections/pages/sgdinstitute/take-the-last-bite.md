@@ -66,12 +66,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. '
     type: content
     enabled: true
@@ -874,35 +874,30 @@ sections:
             text: 'Support our programs'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Programs like '
           -
             type: text
             marks:
               -
                 type: italic
-              -
-                type: lead
             text: 'Take the Last Bite'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "\_are made possible by the generous financial support of grassroots donors."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "If you learned something from this program, please\_"
           -
             type: text
@@ -918,14 +913,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'make a contribution'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ". To support future programs, please consider joining the\_"
           -
             type: text
@@ -941,14 +931,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'OPE Giving Program'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
       -
         type: set

@@ -19,12 +19,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empower queer and trans students to inspire sustainable change, and build community among queer and trans students in the Midwest.'
       -
         type: paragraph
@@ -288,12 +288,12 @@ sections:
             text: 'Support our programs'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Our work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation provides space for queer and trans students to experience the joy of being in community and help remove barriers to accessing queer- and trans-centered spaces.'
       -
         type: paragraph

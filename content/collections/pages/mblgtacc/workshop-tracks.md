@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests.'
       -
         type: set
@@ -764,12 +764,12 @@ sections:
             text: 'Workshop submissions open through May 13'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
       -
         type: set

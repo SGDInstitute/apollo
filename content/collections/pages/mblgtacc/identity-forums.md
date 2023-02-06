@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences. '
       -
         type: heading
@@ -37,48 +37,38 @@ sections:
             left_content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: 'Saturday, October 22'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '1:00 - 2:15 p.m EDT'
             right_content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: 'Sunday, October 23'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '10:00 - 11:15 a.m. EDT'
     type: content
     enabled: true

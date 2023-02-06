@@ -226,12 +226,12 @@ sections:
             text: 'Organizing a delegation or small group'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
       -
         type: set
@@ -268,12 +268,12 @@ sections:
             text: 'Get engaged'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'From attending to presenting to sponsoring and more, be part of what makes MBLGTACC special. '
       -
         type: set

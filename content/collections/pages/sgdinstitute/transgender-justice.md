@@ -22,12 +22,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. '
       -
         type: paragraph
@@ -60,12 +60,12 @@ sections:
             text: 'Trans Fat: Lessons from Large Trans Folks'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure.'
       -
         type: paragraph
@@ -241,21 +241,21 @@ sections:
             text: 'Support our programs'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "Programs like this\_Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors. "
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "If you learned something from this program, please\_"
           -
             type: text
@@ -271,14 +271,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'make a contribution'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ". To support future programs, please consider joining the\_"
           -
             type: text
@@ -294,14 +289,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'OPE Giving Program'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
       -
         type: set

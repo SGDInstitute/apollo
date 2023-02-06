@@ -35,32 +35,19 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Hours
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Saturday, October 22, 2022'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '11:30 a.m. - 1:00 p.m. EDT'
             right_content:
               -
@@ -71,32 +58,19 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Location
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: GCCC
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Union Station Ballroom B-C'
       -
         type: set
@@ -118,12 +92,12 @@ sections:
         type: paragraph
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Revoluncheon is a lunch and learn space at MBLGTACC led by Merrique Jenson and Jade Careaga.'
       -
         type: paragraph

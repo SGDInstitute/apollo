@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'We''re committed to the attendee experience. Learn more below, and visit us at the information desk'
       -
         type: heading

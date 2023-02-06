@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Sign-up for email updates to be among the first to learn about key announcements, deadlines, and information.'
       -
         type: set
@@ -117,12 +117,12 @@ sections:
             text: 'All MBLGTACC news (complete listing)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Below, find all news, announcements and updates, blog posts, media mentions, and other written updates about the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
     type: content
     enabled: true
@@ -148,12 +148,12 @@ sections:
             text: 'Contact us'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Questions? '
           -
             type: text
@@ -165,14 +165,9 @@ sections:
                   rel: null
                   target: null
                   title: null
-              -
-                type: lead
             text: 'Send us a message!'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ' Someone on our team will return your message as soon as possible :)'
       -
         type: paragraph

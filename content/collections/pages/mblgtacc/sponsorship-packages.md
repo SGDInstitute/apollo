@@ -15,12 +15,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'In October 2022, the Midwest Institute for Sexuality and Gender Diversity alongside a coalition of students from Midwest universities will host the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) in Columbus, Ohio.'
       -
         type: paragraph

@@ -91,21 +91,21 @@ sections:
             text: 'Build community. Build strong movements.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'With the support of grassroots donors, we build community among queer and trans youth, expand knowledge of sexuality and gender, and create lasting change across the Midwest.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Join our efforts to build community and build strong movements—make a gift now.'
       -
         type: set

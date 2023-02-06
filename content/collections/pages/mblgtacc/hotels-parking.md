@@ -40,12 +40,12 @@ sections:
             text: 'Please note, the quoted rate does not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Book early—discounted rates end October 3, 2023!'
       -
         type: set

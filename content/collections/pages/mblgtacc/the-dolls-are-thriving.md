@@ -20,12 +20,12 @@ sections:
             text: 'The Dolls are Thriving'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Dolls are Thriving is organized by Transformations and is an annual national virtual summit on women of color of trans experience in leadership, advocacy, and mentorship. At MBLGTACC, they are bringing aspects of the national conference, led by trans women of color activists and organizers. Across two super sessions^ and an identity forum, you''ll combine facilitated conversations, small group breakout activities, case scenarios, and media clips.'
       -
         type: heading

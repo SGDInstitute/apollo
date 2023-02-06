@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan and dedicated to the entire Midwest, including Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.'
       -
         type: heading
@@ -320,54 +320,39 @@ sections:
             text: 'Institute-wide policies'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Midwest Institute for Sexuality and Gender Diversity maintains policies across the organization that guide our work and engagement with others, including those related to '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: privacy
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ', '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'copyright and intellectual property'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ', and '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: non-discrimination
           -
             type: text
-            marks:
-              -
-                type: lead
             text: .
       -
         type: set

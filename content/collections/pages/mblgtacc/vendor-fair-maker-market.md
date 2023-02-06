@@ -23,12 +23,12 @@ sections:
             text: 'Maker Market'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Maker Market invites conference attendees and vendors to buy, sell, and trade their creations and participate in makers-stations that may include design-your-own-swag tables, prize giveaways, arts and crafts, skill-share demos, and much more!'
       -
         type: paragraph
@@ -298,12 +298,12 @@ sections:
             text: 'Vendor Fair'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'A la carte vendor fair tables are sold out at this time and available only to sponsors.'
       -
         type: paragraph

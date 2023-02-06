@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "Our work is rooted in and inspired by the fight and efforts of those before us. Fulfilling this work is an iterative process, taking what has been executed previously and adjusting, adapting, and re-envisioning according to new social situations and changing contexts. Our work requires constant analysis, exposure, and consideration of these situations and contexts in order to both model improved practices as well as contribute to continued efforts and fights for our collective liberation.\_ We do not see ourselves as leaders of liberation, but as contributors and facilitators, participating in, creating and holding space for others to also be exposed to and inspired by new possibilities.\_"
       -
         type: paragraph

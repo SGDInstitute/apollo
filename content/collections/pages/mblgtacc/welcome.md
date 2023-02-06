@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "These community welcomes serve as acknowledgements of our vast community to ensure we are centering subcommunities less visible or afforded less agency in the mainstream efforts for queer and trans liberation, bodily and sexual autonomy, and gender justice. These acknowledgements have been drafted by members of the Midwest Institute for Sexuality and Gender Diversity, in collaboration with conference partners. We fully recognize this is not an exhaustive list and welcome recommendations for future community acknowledgements to continue honoring the beauty of our expansive collective. We fully subscribe to the notion that you cannot implore people to show up in their fullness if you only build space for a fraction of who they are, and this is one way we have opted to identify the intersections of our greater community.\_"
       -
         type: paragraph
