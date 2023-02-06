@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38acf0ef3668ed39a95a20b9c0051636",
+    "content-hash": "5d0f12fe53e545325ed9ff76101d351e",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -1776,6 +1776,53 @@
                 }
             ],
             "time": "2022-05-21T17:30:32+00:00"
+        },
+        {
+            "name": "jacksleight/statamic-bard-texstyle",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jacksleight/statamic-bard-texstyle.git",
+                "reference": "670497b3d19efdd46ba7856cd78ec9f9d2de7f16"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jacksleight/statamic-bard-texstyle/zipball/670497b3d19efdd46ba7856cd78ec9f9d2de7f16",
+                "reference": "670497b3d19efdd46ba7856cd78ec9f9d2de7f16",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "^3.4"
+            },
+            "type": "library",
+            "extra": {
+                "statamic": {
+                    "name": "Bard Texstyle",
+                    "description": "This Statamic addon gives you the ability to add custom heading, paragraph and span styles to the Bard fieldtype."
+                },
+                "laravel": {
+                    "providers": [
+                        "JackSleight\\StatamicBardTexstyle\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "JackSleight\\StatamicBardTexstyle\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/jacksleight/statamic-bard-texstyle/issues",
+                "source": "https://github.com/jacksleight/statamic-bard-texstyle/tree/2.0.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/jacksleight",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-01-31T16:46:58+00:00"
         },
         {
             "name": "james-heinrich/getid3",
