@@ -20,12 +20,12 @@ sections:
             text: 'Doing the Work in Rural and Small Communities'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Rural and/or small communities are a major focus of this year’s conference to honor the LGBTQ+ communities who exist in these complex campus and community spaces. Communities outside of urban spaces are often disregarded by political campaigning and resource allocation, leaving marginalized communities to manifest their own models of advocacy, organizing, and activism. By focusing on the work being done in rural communities to bridge resource gaps, build extensive communities, and combat small town conservative ideologies, we expand our toolkit of possible tactics and strategies for social change.'
       -
         type: heading

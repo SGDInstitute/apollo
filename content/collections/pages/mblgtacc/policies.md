@@ -405,54 +405,39 @@ sections:
             text: 'Institute-wide policies'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Midwest Institute for Sexuality and Gender Diversity maintains additional policies across the organization that apply to MBLGTACC, including those related to '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: privacy
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ', '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'copyright and intellectual property'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ', and '
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: non-discrimination
           -
             type: text
-            marks:
-              -
-                type: lead
             text: .
       -
         type: set

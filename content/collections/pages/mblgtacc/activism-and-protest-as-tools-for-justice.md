@@ -22,12 +22,12 @@ sections:
             text: 'Activism and Protest as Tools for Justice'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.'
       -
         type: heading

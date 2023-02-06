@@ -12,10 +12,3 @@ Statamic.booting(() => {
 });
 
 */
-
-import Lead from "./components/bard/Lead";
-
-Statamic.$bard.extend(({ mark }) => mark(new Lead()));
-Statamic.$bard.buttons(() => [
-    { name: 'lead', text: __('Lead'), command: 'lead', icon: 'paint-brush' },
-]);

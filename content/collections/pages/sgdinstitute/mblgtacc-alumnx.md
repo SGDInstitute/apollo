@@ -18,12 +18,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
       -
         type: paragraph

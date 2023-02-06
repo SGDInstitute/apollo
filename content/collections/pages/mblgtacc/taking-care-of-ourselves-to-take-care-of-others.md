@@ -20,12 +20,12 @@ sections:
             text: 'Taking Care of Ourselves to Take Care of Others'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle. Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.'
       -
         type: heading

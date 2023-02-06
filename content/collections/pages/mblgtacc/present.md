@@ -17,23 +17,24 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
             marks:
               -
                 type: bold
-              -
-                type: lead
             text: 'Workshop proposals will be accepted starting in April 2023.'
       -
         type: set
@@ -72,12 +73,12 @@ sections:
             text: 'How to conceptualize an MBLGTACC workshop'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? It''s a great time for you to do some brainstorming. Read our helpful guide to learn more.'
       -
         type: set
@@ -261,12 +262,12 @@ sections:
             text: '(Re)watch our information session and Q&A live chat'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'This session was held on May 1, 2022 and was led by MBLGTACC 2022 student planners and Institute volunteer staff. '
       -
         type: set

@@ -50,12 +50,12 @@ sections:
             text: 'What COVID-19 precautions will there be at MBLGTACC?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Please be assured that we are continuously monitoring the recommendations from the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines based in science that best protect the most vulnerable in our community. '
       -
         type: paragraph

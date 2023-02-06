@@ -2,9 +2,7 @@
 
 namespace App\Providers;
 
-use App\Bard\Lead;
 use Illuminate\Support\ServiceProvider;
-use Statamic\Fieldtypes\Bard\Augmentor;
 use Statamic\Statamic;
 
 class AppServiceProvider extends ServiceProvider
@@ -27,7 +25,6 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         Statamic::script('app', 'cp');
-        Augmentor::addMark(Lead::class);
         // Statamic::style('app', 'cp');
     }
 }

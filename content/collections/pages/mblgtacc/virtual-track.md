@@ -20,12 +20,12 @@ sections:
             text: 'A dedicated virtual track for a digital-first audience'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'All content available to virtual ticket-holders is curated to prioritize their experience.'
       -
         type: set

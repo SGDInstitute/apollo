@@ -21,12 +21,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'At the Midwest Institute for Sexuality and Gender Diversity, we envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
       -
         type: heading

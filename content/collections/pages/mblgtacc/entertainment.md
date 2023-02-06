@@ -23,14 +23,15 @@ sections:
             text: 'Open Mic Night hosted with Hayden Kristal '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
             marks:
               -
                 type: italic
-              -
-                type: lead
             text: 'as seen on TikTok and America''s Got Talent™'
       -
         type: paragraph
@@ -111,26 +112,21 @@ sections:
         type: paragraph
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Hayden Kristal—'
           -
             type: text
             marks:
               -
                 type: italic
-              -
-                type: lead
             text: 'America''s Got Talent'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ' contestant and longtime MBLGTACC presenter—as the host and emcee of our open mic night.'
       -
         type: heading

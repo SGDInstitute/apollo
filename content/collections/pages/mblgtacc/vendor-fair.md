@@ -26,32 +26,19 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Hours
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Saturday, October 22, 2022'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '10:00 a.m. - 5:30 p.m. EDT'
             right_content:
               -
@@ -62,43 +49,30 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Location
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: GCCC
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Union Station Ballroom A'
       -
         type: paragraph
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
       -
         type: paragraph

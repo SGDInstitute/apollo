@@ -50,12 +50,12 @@ sections:
             text: 'All Institute news'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Below, find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
       -
         type: set
@@ -106,12 +106,12 @@ sections:
             text: Contact
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Questions? '
           -
             type: text
@@ -123,14 +123,9 @@ sections:
                   rel: null
                   target: null
                   title: null
-              -
-                type: lead
             text: 'Send us a message!'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ' A member of our team will return your message as soon as possible :)'
       -
         type: paragraph

@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky. '
       -
         type: paragraph
@@ -135,6 +135,9 @@ sections:
                     text: 'Key resources'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -146,11 +149,12 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'How to Register →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -162,11 +166,12 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Student Group Toolkit →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -178,11 +183,12 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Latest News →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -194,8 +200,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Get Updates →'
               -
                 type: paragraph
@@ -210,6 +214,9 @@ sections:
                     text: Details
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -221,11 +228,12 @@ sections:
                           rel: null
                           target: _blank
                           title: null
-                      -
-                        type: lead
                     text: 'Schedule →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -237,11 +245,12 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Speakers & Events →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -253,11 +262,12 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Hospitality →'
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: lead
                 content:
                   -
                     type: text
@@ -269,8 +279,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: lead
                     text: 'Hotels, Transportation, and Parking →'
       -
         type: paragraph

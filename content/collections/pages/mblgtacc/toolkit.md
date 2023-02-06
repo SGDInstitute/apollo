@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
       -
         type: set

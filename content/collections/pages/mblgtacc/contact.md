@@ -19,12 +19,12 @@ sections:
             text: 'Conference updates'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Find all the latest updates on our '
           -
             type: text
@@ -38,14 +38,9 @@ sections:
                   title: null
               -
                 type: italic
-              -
-                type: lead
             text: News
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ' page.  '
       -
         type: paragraph
@@ -79,12 +74,12 @@ sections:
             text: Contact
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Have a question for us? Send us a message through the form below.'
       -
         type: paragraph

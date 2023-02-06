@@ -284,21 +284,21 @@ sections:
             text: 'Support our programs'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "Programs like the Trans(Gender) Justice Teach-in\_are made possible by the generous financial support of grassroots donors."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "If you learned something from this program, please\_"
           -
             type: text
@@ -314,14 +314,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'make a contribution'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: ". To support future programs, please consider joining the\_"
           -
             type: text
@@ -337,14 +332,9 @@ sections:
                 type: bold
               -
                 type: underline
-              -
-                type: lead
             text: 'OPE Giving Program'
           -
             type: text
-            marks:
-              -
-                type: lead
             text: "\_and sign up for a monthly recurring gift.\_"
       -
         type: set

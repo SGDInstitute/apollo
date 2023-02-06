@@ -36,32 +36,19 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Hours
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Friday, October 21, 2022'
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: '5:00 - 10:00 p.m. EDT'
             right_content:
               -
@@ -72,32 +59,19 @@ sections:
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                     text: Location
                   -
                     type: hard_break
                     marks:
                       -
                         type: bold
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: GCCC
                   -
                     type: hard_break
-                    marks:
-                      -
-                        type: lead
                   -
                     type: text
-                    marks:
-                      -
-                        type: lead
                     text: 'Union Station Ballroom A'
       -
         type: heading
@@ -109,12 +83,12 @@ sections:
             text: 'Highlighting queer and trans makers and creators'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'The Maker Market is an exciting, new, and interactive part of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference.'
           -
             type: text

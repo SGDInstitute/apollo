@@ -20,12 +20,12 @@ sections:
             text: 'Designing a Queer Future Through Media'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers– media and content creation is a strong tool for gender justice and sexual liberation.'
       -
         type: heading

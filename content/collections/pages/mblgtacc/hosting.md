@@ -12,12 +12,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Hosting the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is a rewarding adventure presented to one group of student leaders in the Midwest each year, and you could be next. Your journey begins here.'
       -
         type: heading

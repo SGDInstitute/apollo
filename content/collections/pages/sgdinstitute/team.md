@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more—who''ve dedicated themselves to the causes of building queer success in the Midwest.'
     type: content
     enabled: true

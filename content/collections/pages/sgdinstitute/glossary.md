@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'We''ve curated this glossary to highlight and define words you may encounter that are commonly related to LGBTQIA+ people and communities around the United States. '
       -
         type: paragraph

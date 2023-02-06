@@ -11,12 +11,12 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: lead
             text: 'By no means is this glossary to be considered a comprehensive or inviolable list of words commonly related to the LGBTQIA+ communities within the United States. Please keep in mind all of these identities exist on spectrums, so this is not an exhaustive list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person. '
       -
         type: paragraph
