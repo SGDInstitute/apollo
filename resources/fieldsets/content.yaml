@@ -18,6 +18,7 @@ fields:
                 icon: toggle
                 listable: hidden
                 width: 25
+                localizable: false
             -
               handle: direction
               field:
@@ -33,6 +34,7 @@ fields:
                 if:
                   inline: 'equals true'
                 width: 25
+                localizable: false
             -
               handle: width
               field:
@@ -53,6 +55,7 @@ fields:
                 width: 25
                 if:
                   inline: 'equals true'
+                localizable: false
             -
               handle: margin_direction
               field: margin.margin_directions
@@ -140,6 +143,7 @@ fields:
                 icon: toggle
                 width: 50
                 listable: hidden
+                localizable: false
             -
               handle: last_row_footer
               field:
@@ -148,12 +152,14 @@ fields:
                 icon: toggle
                 width: 50
                 listable: hidden
+                localizable: false
             -
               handle: table
               field:
                 display: Table
                 type: table
                 listable: hidden
+                localizable: false
             -
               handle: full_width
               field:
@@ -161,6 +167,7 @@ fields:
                 type: toggle
                 icon: toggle
                 listable: hidden
+                localizable: false
         2_columns:
           display: '2 Columns'
           fields:
@@ -181,6 +188,7 @@ fields:
                 type: select
                 width: 50
                 listable: hidden
+                localizable: false
             -
               handle: right_column
               field:
@@ -198,12 +206,14 @@ fields:
                 type: select
                 width: 50
                 listable: hidden
+                localizable: false
             -
               handle: left_column_section
               field:
                 display: 'Left Column'
                 type: section
                 listable: hidden
+                localizable: false
             -
               import: image_block
               prefix: left
@@ -215,6 +225,7 @@ fields:
                 listable: hidden
                 if:
                   left_column: 'equals video'
+                localizable: false
             -
               handle: left_content
               field:
@@ -252,12 +263,14 @@ fields:
                         import: content_buttons
                 if:
                   left_column: 'equals content'
+                localizable: false
             -
               handle: right_column_section
               field:
                 display: 'Right Column'
                 type: section
                 listable: hidden
+                localizable: false
             -
               handle: right_image
               field:
@@ -272,6 +285,7 @@ fields:
                 max_files: 1
                 if:
                   right_column: 'equals image'
+                localizable: false
             -
               handle: right_video
               field:
@@ -280,6 +294,7 @@ fields:
                 listable: hidden
                 if:
                   right_column: 'equals video'
+                localizable: false
             -
               handle: right_content
               field:
@@ -317,6 +332,7 @@ fields:
                         import: content_buttons
                 if:
                   right_column: 'equals content'
+                localizable: false
         buttons:
           display: Buttons
           fields:
@@ -333,6 +349,7 @@ fields:
                 type: form
                 icon: form
                 listable: hidden
+                localizable: false
       buttons:
         - h2
         - h3
@@ -342,11 +359,18 @@ fields:
         - italic
         - underline
         - strikethrough
+        - lead
+        - small
         - unorderedlist
         - orderedlist
         - removeformat
         - quote
         - anchor
+        - image
+        - alignleft
+        - aligncenter
+        - alignright
+        - alignjustify
       save_html: false
       toolbar_mode: floating
       link_noopener: false
@@ -360,3 +384,12 @@ fields:
       listable: hidden
       enable_input_rules: true
       enable_paste_rules: true
+      localizable: false
+      instructions_position: above
+      visibility: visible
+      collapse: false
+      previews: true
+      smart_typography: false
+      inline: false
+      antlers: false
+      remove_empty_nodes: false
