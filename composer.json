@@ -18,7 +18,8 @@
         "statamic/cms": "^3.4",
         "statamic/seo-pro": "^4.0",
         "symfony/http-client": "^6.0",
-        "symfony/postmark-mailer": "^6.0"
+        "symfony/postmark-mailer": "^6.0",
+        "techenby/transistor-for-statamic": "dev-main"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
@@ -73,5 +74,11 @@
         "post-update-cmd": [
             "@php artisan vendor:publish --tag=laravel-assets --ansi --force"
         ]
-    }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../../4-packages/transistor-for-statamic"
+        }
+    ]
 }
