@@ -4,16 +4,17 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668882610
+updated_at: 1676664800
 sections:
   -
+    id: zR1BNzlK
     bg_type: image
     bg_image: headers/mblgtacc2022-identity-forum-oval-perspective-1875x600.jpg
-    num_colors: 2
     title: 'Present a workshop at MBLGTACC'
     type: header
     enabled: true
   -
+    id: hl7KJM0M
     bard:
       -
         type: paragraph
@@ -23,7 +24,7 @@ sections:
         content:
           -
             type: text
-            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference''s bread and butter, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+            text: "Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Our workshop sessions are the conference's bread and butter, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors."
       -
         type: paragraph
         attrs:
@@ -35,14 +36,16 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Workshop proposals will be accepted starting in April 2023.'
+            text: 'Workshop proposals will be accepted starting April 10, 2023.'
       -
         type: set
         attrs:
+          id: qDrFtvl5
           values:
             type: buttons
             buttons:
               -
+                id: 7kHrnjQq
                 text: 'Get updates about presenting'
                 color: btn-green
                 size: btn-lg
@@ -54,6 +57,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
     type: content
     enabled: true
@@ -79,14 +83,16 @@ sections:
         content:
           -
             type: text
-            text: 'So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? It''s a great time for you to do some brainstorming. Read our helpful guide to learn more.'
+            text: "So you’ve attended MBLGTACC and you’ve got a great idea for a workshop... now what? It's a great time for you to do some brainstorming. Read our helpful guide to learn more."
       -
         type: set
         attrs:
+          id: TsPWJS62
           values:
             type: buttons
             buttons:
               -
+                id: zPjJw3cH
                 link: 'entry::79b20e53-7e95-476e-adcd-6748ba545021'
                 text: 'Get started'
                 color: btn-white
@@ -99,15 +105,16 @@ sections:
         type: paragraph
     image: news/mblgtacc2022-presenter-podium-audience-gradient-featured-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
+    id: EsjP0Rg5
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -116,6 +123,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -123,6 +131,9 @@ sections:
             text: Eligibility
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -130,6 +141,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -137,13 +149,17 @@ sections:
             text: Process
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Complete your submission by May 13, 2022 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for MBLGTACC 2022. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program.'
+            text: "Complete your submission by May XX, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -151,10 +167,13 @@ sections:
             text: 'Workshop tracks'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'In 2022, we''re expanding MBLGTACC''s workshop tracks. With stakeholder feedback and input from a  public survey, we selected and announced the '
+            text: 'Workshop tracks, a series of sessions around a particular topic or experience, will continue this year after being reintroduced robustly for the '
           -
             type: text
             marks:
@@ -165,12 +184,15 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: 'tracks for the 30th annual conference'
+            text: '30th annual conference'
           -
             type: text
-            text: '. When you submit your proposal, you''ll be asked if your session should be considered for inclusion in any of the tracks. '
+            text: ". When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks. "
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -199,11 +221,13 @@ sections:
       -
         type: set
         attrs:
+          id: 0726apwO
           enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: yN9HRrpC
                 link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
                 text: 'Workshop tracks'
                 color: btn-green
@@ -212,6 +236,7 @@ sections:
                 outline: true
                 target_blank: false
               -
+                id: ngQEanep
                 text: 'Submit workshop proposal'
                 color: btn-green
                 size: btn-lg
@@ -223,6 +248,7 @@ sections:
     type: content
     enabled: false
   -
+    id: 3tpPaz0K
     bard:
       -
         type: heading
@@ -272,10 +298,12 @@ sections:
       -
         type: set
         attrs:
+          id: rhHhVDhJ
           values:
             type: buttons
             buttons:
               -
+                id: ypBui4me
                 text: 'Watch recording'
                 color: btn-green
                 size: btn-lg
@@ -288,15 +316,16 @@ sections:
         type: paragraph
     image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: two_column
     enabled: false
   -
+    id: yRLGLYeO
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -305,11 +334,13 @@ sections:
       -
         type: set
         attrs:
+          id: xz2cMZD0
           values:
             type: buttons
             buttons:
               -
-                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2022 workshops'
+                id: a3zvdHvu
+                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2023 workshops'
                 text: 'Contact us'
                 color: btn-green
                 size: btn-lg
@@ -319,15 +350,23 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
+    id: uK1gjjyl
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -335,6 +374,9 @@ sections:
             text: 'Keynote or perform'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -349,18 +391,24 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: '30 year history'
+            text: '31 year history'
           -
             type: text
             text: ', MBLGTACC has become a destination for acclaimed entertainers, activists, and thought leaders, including Kate Borenstein, J Mace III, Chely Wright, Janet Mock, Jujubee, and others. From the very beginning, conference organizers sought to create an oasis in what Justin Connor (MBLGCC ‘94) says was seen as “a queer desert.”'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'MBLGTACC has also given a platform for countless local and regional leaders and performers. Much of this success is the product of rich ties to our communities around the Midwest, and we''re excited to expand our circles.'
+            text: "MBLGTACC has also given a platform for countless local and regional leaders and performers. Much of this success is the product of rich ties to our communities around the Midwest, and we're excited to expand our circles."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -382,22 +430,22 @@ sections:
     type: content
     enabled: false
   -
+    id: 2nmfMD7G
     type: content
     enabled: true
   -
+    id: 02s9I1gi
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
   -
+    id: rZnZzeOr
     date: '2022-05-13 23:59'
     hashtag: 'until workshop proposal deadline'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: false
