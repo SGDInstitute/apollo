@@ -4,12 +4,13 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1674080130
+updated_at: 1676663322
 sections:
   -
+    id: j7D4Zmil
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
     title: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
-    subtitle: 'MBLGTACC 2023 registration and workshop RFP open in April 2023.'
+    subtitle: 'MBLGTACC 2023 registration and workshop RFP open April 10, 2023.'
     has_tag: true
     tag: 'Nov. 3-5, 2023  |  Lexington'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
@@ -45,10 +46,12 @@ sections:
       -
         type: set
         attrs:
+          id: 2ywrq54o
           values:
             type: buttons
             buttons:
               -
+                id: OC6tsdRF
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'Registration and ticket options'
                 color: btn-white
@@ -62,13 +65,13 @@ sections:
     price: $100
     below_price: 'per person (in-person experience)'
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: false
     center_columns: false
     above_price: 'On-site registration'
   -
+    id: xC5gzPwZ
     title: 'Keynotes and entertainment'
     event: mblgtacc-2022-keynote
     date_format: day_of_week_full
@@ -81,6 +84,7 @@ sections:
     type: speakers
     enabled: false
   -
+    id: xLYATvQT
     bard:
       -
         type: heading
@@ -93,6 +97,7 @@ sections:
       -
         type: set
         attrs:
+          id: b2fpjp1m
           values:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
@@ -146,6 +151,7 @@ sections:
     type: content
     enabled: true
   -
+    id: yyaLhKYm
     bard:
       -
         type: heading
@@ -158,6 +164,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 02SNfQeN
     articles:
       - 3e5f036b-a493-4823-8f42-f763d32b7f0b
       - 79b20e53-7e95-476e-adcd-6748ba545021
@@ -171,6 +178,7 @@ sections:
     type: news_feature
     enabled: true
   -
+    id: 490wgudL
     bard:
       -
         type: heading
@@ -183,10 +191,12 @@ sections:
       -
         type: set
         attrs:
+          id: RF9jfBmS
           values:
             type: buttons
             buttons:
               -
+                id: dlIQ2mhD
                 link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                 text: 'Schedule overview'
                 color: btn-green
@@ -195,6 +205,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: 8n6C1C9z
                 link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
                 text: 'View program PDF'
                 color: btn-green
@@ -232,14 +243,16 @@ sections:
         content:
           -
             type: text
-            text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
+            text: "We want to make organizing a group as easy as possible so that you can make the most out of your—and your group's—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October."
       -
         type: set
         attrs:
+          id: j3RguJpQ
           values:
             type: buttons
             buttons:
               -
+                id: FIaz8yQV
                 link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
                 text: 'View toolkit & checklist'
                 color: btn-white
@@ -250,11 +263,11 @@ sections:
             contain: true
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: false
   -
+    id: MeJVZ4VN
     bard:
       -
         type: paragraph
@@ -278,10 +291,12 @@ sections:
       -
         type: set
         attrs:
+          id: neAyZ0aU
           values:
             type: buttons
             buttons:
               -
+                id: HiJrBkKt
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'How to Register'
                 color: btn-green
@@ -290,6 +305,7 @@ sections:
                 outline: true
                 target_blank: false
               -
+                id: pYpFXTHD
                 link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
                 text: 'Sponsor & Exhibit'
                 color: btn-green
@@ -301,9 +317,11 @@ sections:
     type: content
     enabled: false
   -
+    id: yhrbwVd2
     type: content
     enabled: true
   -
+    id: EQ6luHrj
     bard:
       -
         type: heading
@@ -322,6 +340,7 @@ sections:
       -
         type: set
         attrs:
+          id: dfeCtgK7
           values:
             type: image
             image: sponsors/2021-sponsor-logo-wall.png
@@ -340,15 +359,15 @@ sections:
     type: content
     enabled: false
   -
+    id: Pc6yw7TI
     date: '2023-11-03 19:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 template: default
-description: 'The 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+description: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
 image:
   - headers/mblgtacc30-reveal-01.jpg
 ---
