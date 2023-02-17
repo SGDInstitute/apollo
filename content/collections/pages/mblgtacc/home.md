@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676663322
+updated_at: 1676663333
 sections:
   -
     id: j7D4Zmil
@@ -326,6 +326,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -333,6 +334,9 @@ sections:
             text: Sponsors
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -347,6 +351,9 @@ sections:
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -356,6 +363,9 @@ sections:
             text: 'MBLGTACC 2021 is also funded in part by a grant from the New Harvest Foundation, Inc.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: false
   -
