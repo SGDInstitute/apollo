@@ -1,27 +1,34 @@
 ---
 id: 77581097-4408-48b2-a124-97fc61e209e3
-published: false
 blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665800672
+updated_at: 1676740786
 sections:
   -
+    id: x1GdrJts
     title: 'COVID-19 FAQs'
     type: header_small
     enabled: true
   -
+    id: BdOQlWT0
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
+          id: 40zlbXqW
+          enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: 0cQHiP5U
                 link: 'https://www.columbus.gov/covidtesting/'
                 text: 'Get a COVID test in Columbus'
                 color: btn-green
@@ -30,6 +37,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: mm1AjeNd
                 link: 'mailto:support@sgdinstitute.org'
                 text: 'Report a positive result'
                 color: btn-green
@@ -40,9 +48,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -56,28 +68,34 @@ sections:
         content:
           -
             type: text
-            text: 'Please be assured that we are continuously monitoring the recommendations from the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines based in science that best protect the most vulnerable in our community. '
+            text: 'We continue to look to findings and recommendations of the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines for the conference based in science that best protect the most vulnerable in our community. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'For nearly every person, getting vaccinated against COVID-19 is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. '
+            text: 'For nearly every person, getting vaccinated and boosted against COVID-19 is the single-most effective means of protecting oneself and preventing severe illness and death from the disease. '
           -
             type: text
-            text: 'The MBLGTACC 2022 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and up to date with the latest bivalent booster unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine and booster requirements.'
+            text: 'The MBLGTACC 2023 planning team and the Institute give our highest and most emphatic recommendation that people attending in person be fully vaccinated and up to date with the latest bivalent booster unless advised otherwise by their doctor. We are very encouraged by the reality that so many MBLGTACC attendees come from institutions and communities already covered by vaccine and booster requirements.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'Attendees are '
+            text: 'We '
           -
             type: text
             marks:
@@ -85,18 +103,21 @@ sections:
                 type: bold
               -
                 type: italic
-            text: 'strongly encouraged'
+            text: may
           -
             type: text
             marks:
               -
                 type: bold
-            text: ' to wear face masks in the conference venue, regardless of COVID-19 vaccination status, and to physically distance indoors when possible. '
+            text: ' expect attendees to wear masks, regardless of COVID-19 vaccination status, and follow common social distancing measures in indoor conference spaces. '
           -
             type: text
-            text: 'We ask attendees to carry these practices into other establishments they may enter while visiting Columbus.'
+            text: "We'll communicate a final determination with attendees and partners based on public health conditions in early October."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -112,6 +133,9 @@ sections:
             text: ' to help keep yourselves and others safe. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -119,6 +143,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -126,6 +151,9 @@ sections:
             text: 'How will I be notified in the event of a COVID-19 exposure at MBLGTACC?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -146,12 +174,18 @@ sections:
             text: ' so that we may begin the contact tracing process. Contact information for all attendees will be kept on file so that we may notify you in the event of an exposure.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -172,9 +206,13 @@ sections:
             text: ' if you feel new symptoms after arriving. It is also requested that all attendees cooperate with contact tracers.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -182,12 +220,18 @@ sections:
             text: 'How can I safely interact with other attendees?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'The COVID-19 pandemic has highlighted the disparities faced by our most marginalized communities, and as such, it is important to remember that everyone has a different comfort level for their own safety and health. We ask that all attendees be respectful of each others’ boundaries and prioritize the safety of others.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -218,6 +262,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -225,6 +270,9 @@ sections:
             text: 'What if I have symptoms or a positive test before MBLGTACC?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -246,6 +294,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -253,6 +302,9 @@ sections:
             text: 'Have other questions?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -260,11 +312,10 @@ sections:
     type: content
     enabled: true
   -
+    id: 5cNKWwBa
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
