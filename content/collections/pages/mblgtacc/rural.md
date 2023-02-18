@@ -6,7 +6,7 @@ title: 'Small-Town Queerness'
 sections:
   -
     id: iENBjo0A
-    title: 'Doing the Work in Rural and Small Communities'
+    title: 'Small-Town Queerness'
     type: header_small
     enabled: true
   -
@@ -15,11 +15,12 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Doing the Work in Rural and Small Communities'
+            text: 'Small-Town Queerness'
       -
         type: paragraph
         attrs:
@@ -32,6 +33,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -45,6 +47,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -54,6 +59,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -63,12 +71,18 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Location: A120-121'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -76,6 +90,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -89,6 +104,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -98,6 +116,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -107,18 +128,27 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Location: A120-121'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: ' This workshop focuses on archival work in LGBTQ+ communities and will have information on conducting oral history interviews, accessing records that your school may have, national and international LGBTQ+ archives, and an overview of why this work is so important. This workshop would be best for anyone who is starting their journey of learning LGBTQ+ histories and/or has an interest in documenting LGBTQ+ history, whether that be for your larger community or your school’s LGBTQ+ organization.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -126,6 +156,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -139,6 +170,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -148,6 +182,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -157,18 +194,27 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Location: A120-121'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'As global culture appears to grow more progressive, trans and queer people’s interaction with it is much more complex. The majority of us live in the “fly over zone;” Central, Midwestern, and Southern states where we are consistently isolated from resources and each other. Living in culturally conservative areas has a significant impact on forming relationships, attending work and school, and navigating self-care. This workshop discusses the varying avenues community building found within our struggle and resilience.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -176,6 +222,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -189,6 +236,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -198,6 +248,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -207,18 +260,27 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Location: A120-121'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'This workshop is about recognizing and pushing back against transphobia within the LGBTQ+ community. Even with how inclusive our communities, media, social movements, and spaces can be, there is much work to do. Trans people endure inequalities, civil rights violations, and violence because of ignorance, fear, and prejudice toward their identities even from other LGBTQ+ people. When we recognize and confront these inequalities we make safer, more inclusive spaces for trans people to exist in.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -226,6 +288,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -239,6 +302,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -248,6 +314,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -257,12 +326,18 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Location: A120-121'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -271,7 +346,7 @@ sections:
     enabled: true
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
-description: 'MBLGTACC 2022 Workshop Track: Doing the Work in Rural and Small Communities'
+description: 'MBLGTACC 2023 Workshop Track: Small-Town Queerness'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676738037
+updated_at: 1676738054
 ---
