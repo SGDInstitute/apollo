@@ -47,8 +47,12 @@ tree:
   -
     id: 36d6ebec-dbf3-4afc-abba-0bb8b3ff5ea7
     entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
-    title: Sponsor
+    title: 'Sponsor & Exhibit'
     children:
+      -
+        id: 3be083c9-77ed-467f-8bf6-4ce2db553adb
+        entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
+        title: Sponsor
       -
         id: 871a849a-bc06-416c-b656-121047ff20df
         entry: db847b46-c043-41ef-b602-d963a8624cbf
