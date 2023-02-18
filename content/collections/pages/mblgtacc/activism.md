@@ -5,10 +5,12 @@ blueprint: pages
 title: 'Activism and Protest as Tools for Justice'
 sections:
   -
+    id: gCDOnkVD
     title: 'Activism and Protest as Tools for Justice'
     type: header_small
     enabled: true
   -
+    id: I5B4uZqh
     type: content
     enabled: true
     bard:
@@ -38,10 +40,10 @@ sections:
             type: text
             text: 'Fat Liberation: LGBT+ Bodies & Identities'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -50,7 +52,7 @@ sections:
                     type: text
                     text: 'Presented by: Stefani Vargas'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -59,7 +61,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 8:30 - 9:45 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -82,10 +84,10 @@ sections:
             type: text
             text: 'The Politics of Disability'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -94,7 +96,7 @@ sections:
                     type: text
                     text: 'Presented by: Imani Barbarin'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -103,7 +105,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 10:00 - 11:15 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -126,10 +128,10 @@ sections:
             type: text
             text: 'Pride With Prejudice: Pinkwashing, Palestine, and Queer Liberation '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -138,7 +140,7 @@ sections:
                     type: text
                     text: 'Presented by: Stephanie Skora'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -147,7 +149,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 2:30 - 3:45 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -160,7 +162,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pinkwashing, the attempt to cover up the human rights abuses of the Israeli State by pointing to its liberal record on LGBTQ rights, is a hot topic of discussion in LGBTQ spaces across the country. This workshop addresses what pinkwashing is and where it came from, what organizations engage in pinkwashing, myths about LGBTQ Israel and Palestine, exposing the Islamophobia industry''s role in pinkwashing, and how queer and trans people can fight back in their communities.'
+            text: "Pinkwashing, the attempt to cover up the human rights abuses of the Israeli State by pointing to its liberal record on LGBTQ rights, is a hot topic of discussion in LGBTQ spaces across the country. This workshop addresses what pinkwashing is and where it came from, what organizations engage in pinkwashing, myths about LGBTQ Israel and Palestine, exposing the Islamophobia industry's role in pinkwashing, and how queer and trans people can fight back in their communities."
       -
         type: heading
         attrs:
@@ -170,10 +172,10 @@ sections:
             type: text
             text: 'Not-So-Secret Secrets to a Successful Activist Career, Without the Non-Profit Industrial Complex'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -182,7 +184,7 @@ sections:
                     type: text
                     text: 'Presented by: JAC Stringer'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -191,7 +193,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 4:00 - 5:15 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -212,10 +214,10 @@ sections:
             type: text
             text: 'Content Warnings: Abuse (physical/mental/emotional/verbal), Ableism, Self-harm/self-injury, Suicide, Sexual violence, Transphobia, Violence, Relationship violence, Misogyny, Racism, Death, Classism '
           -
-            type: hard_break
+            type: hardBreak
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665252976
+updated_at: 1676737814
 description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
 ---
