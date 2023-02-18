@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'Welcome! This glossary is a living collection of definitions, curated over decades by MBLGTACC planners and attendees, Midwest LGBTQIA+ college students, and the collective wisdom of our communities. '
+            text: 'Welcome! This glossary is a living collection of definitions, curated over decades by Midwest LGBTQIA+ college students, higher ed professionals, MBLGTACC planners and attendees, and the collective wisdom and experience of our many communities. '
       -
         type: paragraph
         attrs:
@@ -1347,5 +1347,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676739356
+updated_at: 1676739449
 ---
