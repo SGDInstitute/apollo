@@ -11,6 +11,20 @@ sections:
     type: header
     enabled: true
   -
+    id: lea51vy5
+    bard:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: "Information on this page is provided provisionally for your general planning purposes, and may be subject to (likely slight) changes. We'll have final updates and information later this spring."
+    type: content
+    enabled: true
+  -
     id: lea3tmro
     bard:
       -
@@ -692,18 +706,6 @@ sections:
                     type: text
                     text: )
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'This information is provided provisionally for your general planning purposes. '
-      -
         type: heading
         attrs:
           textAlign: left
@@ -1024,7 +1026,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676735506
+updated_at: 1676735722
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
