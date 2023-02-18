@@ -40,10 +40,10 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Help us keep this glossary accurate and relevant! '
+            text: 'Have a suggestion to revise a definition? '
           -
             type: text
-            text: 'Have a suggestion to revise a definition? Want to see other terms included? Let us know through your daily conference evaluations, DM us on social media, or email us at hello@mblgtacc.org.'
+            text: 'Want to see other terms included? Let us know through your daily conference evaluations, DM us on social media, or email us at hello@mblgtacc.org.'
     type: content
     enabled: true
   -
@@ -1347,5 +1347,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676739449
+updated_at: 1676739504
 ---
