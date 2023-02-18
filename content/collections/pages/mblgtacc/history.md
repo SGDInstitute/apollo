@@ -1396,6 +1396,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -1403,6 +1404,9 @@ sections:
             text: 'Can you help us?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1414,8 +1418,9 @@ sections:
                 type: link
                 attrs:
                   href: 'http://sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Institute
           -
             type: text
@@ -1436,8 +1441,9 @@ sections:
                 type: link
                 attrs:
                   href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'Connect with us'
           -
             type: text
@@ -1455,5 +1461,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676742118
+updated_at: 1676742147
 ---
