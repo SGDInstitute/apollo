@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676740786
+updated_at: 1676740882
 sections:
   -
     id: x1GdrJts
@@ -181,34 +181,6 @@ sections:
           -
             type: text
             text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'You can '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.columbus.gov/covidtesting/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'find tests locally in Columbus, OH'
-          -
-            type: text
-            text: ' if you feel new symptoms after arriving. It is also requested that all attendees cooperate with contact tracers.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: heading
         attrs:
