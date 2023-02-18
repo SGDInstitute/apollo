@@ -5,18 +5,22 @@ blueprint: pages
 title: 'How to Register'
 sections:
   -
+    id: m6exj46m
     title: 'How to Register'
     type: header_small
     enabled: true
   -
+    id: PU7Qzvxv
     bard:
       -
         type: set
         attrs:
+          id: E4czGAwS
           values:
             type: buttons
             buttons:
               -
+                id: Xc8XnyHo
                 link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
                 text: 'Reserve tickets now'
                 color: btn-green
@@ -27,9 +31,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -38,6 +46,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -45,6 +54,9 @@ sections:
             text: In-person
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -54,10 +66,10 @@ sections:
             marks:
               -
                 type: bold
-            text: '$85 each'
+            text: '$100 each'
           -
             type: text
-            text: '. You''ll have access to all programming taking place at the Greater Columbus Convention Center '
+            text: ". You'll have access to all programming taking place at the Central Bank Center "
           -
             type: text
             marks:
@@ -68,19 +80,20 @@ sections:
             text: and
           -
             type: text
-            text: ' digital-only programming. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October 14, 2022. When purchasing tickets to attend in person, you''ll have an option to '
+            text: " digital-only programming. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October XX, 2023. When purchasing tickets to attend in person, you'll have an option to "
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'add a meal ticket for $10'
+            text: 'add a meal ticket for $XX'
           -
             type: text
-            text: ' to attend the lunch and learn program on Saturday, October 22. This helps offset the cost of catering for this event.'
+            text: ' to attend the lunch and learn program on Saturday, October XX. This helps offset the cost of catering for this event.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -88,6 +101,9 @@ sections:
             text: 'Virtual track'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -97,7 +113,7 @@ sections:
             marks:
               -
                 type: bold
-            text: '$20 per person'
+            text: '$XX per person'
           -
             type: text
             text: '. Virtual track tickets provide access to live-streamed keynote sessions and virtual-only workshops. More details about '
@@ -128,10 +144,11 @@ sections:
             text: schedule
           -
             type: text
-            text: ' page. Virtual tickets are available until 11:59 p.m. ET October 20, 2022.'
+            text: ' page. Virtual tickets are available until 11:59 p.m. ET October XX, 2023.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -139,6 +156,9 @@ sections:
             text: 'On-site registration (in person)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -148,13 +168,14 @@ sections:
             marks:
               -
                 type: bold
-            text: '$100 per person'
+            text: '$XX per person'
           -
             type: text
             text: .
     type: content
     enabled: true
   -
+    id: OKLlVFEs
     bard:
       -
         type: heading
@@ -183,13 +204,13 @@ sections:
         content:
           -
             type: text
-            text: 'Once you select how many tickets you want to reserve, you''ll have the option to assign a name and email address to each ticket. This allows each ticket holder to access the information on their ticket and update their name, pronouns, and other information. You do not need to assign names to tickets at the time of reservation; if a ticket is unassigned, you will receive periodic email reminders to assign tickets to an attendee.'
+            text: "Once you select how many tickets you want to reserve, you'll have the option to assign a name and email address to each ticket. This allows each ticket holder to access the information on their ticket and update their name, pronouns, and other information. You do not need to assign names to tickets at the time of reservation; if a ticket is unassigned, you will receive periodic email reminders to assign tickets to an attendee."
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Reservations are valid for 45 days (or until October 14). If your tickets are still unpaid after 45 days, you''ll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted.'
+            text: "Reservations are valid for 45 days (or until October 14). If your tickets are still unpaid after 45 days, you'll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted."
       -
         type: heading
         attrs:
@@ -223,7 +244,7 @@ sections:
             text: 'contact us'
           -
             type: text
-            text: ' and we''ll do our best to troubleshoot.'
+            text: " and we'll do our best to troubleshoot."
       -
         type: heading
         attrs:
@@ -243,10 +264,12 @@ sections:
       -
         type: set
         attrs:
+          id: yF3Cly7U
           values:
             type: buttons
             buttons:
               -
+                id: u8cWUfa2
                 link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
                 text: 'Reserve Tickets Now'
                 color: btn-green
@@ -279,14 +302,16 @@ sections:
         content:
           -
             type: text
-            text: 'We want to make organizing a group as easy as possible so that you can make the most out of your—and your group''s—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October.'
+            text: "We want to make organizing a group as easy as possible so that you can make the most out of your—and your group's—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October."
       -
         type: set
         attrs:
+          id: GdoBpImH
           values:
             type: buttons
             buttons:
               -
+                id: z6VIHlTk
                 link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
                 text: 'Open toolkit & checklist'
                 color: btn-white
@@ -299,11 +324,11 @@ sections:
         type: paragraph
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
+    id: m9D8y4cv
     bard:
       -
         type: heading
@@ -318,14 +343,16 @@ sections:
         content:
           -
             type: text
-            text: 'Please contact us with any questions about the registration process and we''ll get back to you as soon as possible.'
+            text: "Please contact us with any questions about the registration process and we'll get back to you as soon as possible."
       -
         type: set
         attrs:
+          id: oBq3B1z6
           values:
             type: buttons
             buttons:
               -
+                id: bMCDYYmc
                 link: 'entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
                 text: 'Contact us'
                 color: btn-green
@@ -339,15 +366,14 @@ sections:
     type: content
     enabled: true
   -
+    id: 3dtnTu88
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1659800396
+updated_at: 1676741067
 ---
