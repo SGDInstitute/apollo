@@ -4,10 +4,12 @@ blueprint: pages
 title: 'Glossary of LGBTQIA+ terms'
 sections:
   -
+    id: ieXqo9dd
     title: 'Glossary of LGBTQIA+ terms'
     type: header_small
     enabled: true
   -
+    id: lea6t5rh
     bard:
       -
         type: paragraph
@@ -17,9 +19,21 @@ sections:
         content:
           -
             type: text
+            text: 'Welcome! This glossary is a living collection of definitions, curated over decades by MBLGTACC planners and attendees, Midwest LGBTQIA+ college students, and the wisdom of our communities. '
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
             text: 'By no means is this glossary to be considered a comprehensive or inviolable list of words commonly related to the LGBTQIA+ communities within the United States. Please keep in mind all of these identities exist on spectrums, so this is not an exhaustive list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -30,9 +44,24 @@ sections:
           -
             type: text
             text: 'Have a suggestion to revise a definition? Want to see other terms included? Let us know through your daily conference evaluations, DM us on social media, or email us at hello@mblgtacc.org.'
+    type: content
+    enabled: true
+  -
+    id: lea6zvh7
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: A
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -40,6 +69,9 @@ sections:
             text: Ableism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -47,6 +79,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -54,6 +87,9 @@ sections:
             text: 'AFAB / AMAB'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -61,6 +97,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -68,6 +105,9 @@ sections:
             text: Ageism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -75,6 +115,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -82,6 +123,9 @@ sections:
             text: Agender
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -89,6 +133,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -96,6 +141,9 @@ sections:
             text: Androgynous
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -103,6 +151,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -110,6 +159,9 @@ sections:
             text: Ally
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -117,6 +169,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -124,6 +177,9 @@ sections:
             text: 'Aromantic / Aro'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -131,6 +187,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -138,13 +195,31 @@ sections:
             text: Asexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes a person who does not experience sexual attraction or who experiences a varying degree of sexual attraction. “Ace” is another term used to describe an asexual person. '
+    type: content
+    enabled: true
+  -
+    id: lea70kk9
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: B
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -152,6 +227,9 @@ sections:
             text: Bigender
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -159,6 +237,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -166,6 +245,9 @@ sections:
             text: Bisexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -173,6 +255,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -180,13 +263,31 @@ sections:
             text: Biromantic
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes a person who experiences romantic attraction to persons of varying genders. '
+    type: content
+    enabled: true
+  -
+    id: lea71n9t
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: C
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -194,6 +295,9 @@ sections:
             text: Cisgender
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -201,6 +305,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -208,6 +313,9 @@ sections:
             text: Cissexism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -215,6 +323,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -222,6 +331,9 @@ sections:
             text: Classism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -229,6 +341,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -236,13 +349,31 @@ sections:
             text: Colorism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the system of oppression that perpetuates the discrimination and exclusion of people within the same racial group on the basis of skin color and other external traits. Appears both systemically and interpersonally. '
+    type: content
+    enabled: true
+  -
+    id: lea7236m
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: D
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -250,6 +381,9 @@ sections:
             text: Deadnaming
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -257,6 +391,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -264,22 +399,49 @@ sections:
             text: Discrimination
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the prejudicial treatment of an individual based on their perceived or actual membership of a specific identity. Involves behaviors towards groups such as excluding or restricting members of one group from opportunities or resources that are available to another group. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Drag. '
-          -
-            type: text
-            text: 'Describes exaggerated, theatrical, or performative gender presentation. Doing drag does not necessarily have anything to do with one’s gender or how one experiences sexual and/or romantic attraction. '
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: Drag
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Describes exaggerated, theatrical, or performative gender presentation. Doing drag does not necessarily have anything to do with one’s gender or how one experiences sexual and/or romantic attraction. '
+    type: content
+    enabled: true
+  -
+    id: lea734tp
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: F
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -287,6 +449,9 @@ sections:
             text: Faithism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -294,6 +459,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -301,13 +467,31 @@ sections:
             text: Femme
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes an identity or presentation that leans toward what is typically defined as feminine. This term is not necessarily interchangeable with “woman,” “girl,” or “female.” '
+    type: content
+    enabled: true
+  -
+    id: lea73ghd
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: G
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -315,6 +499,9 @@ sections:
             text: Gay
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -322,6 +509,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -329,6 +517,9 @@ sections:
             text: 'Gender binary / Binary genders '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -336,6 +527,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -343,6 +535,9 @@ sections:
             text: 'Gender expression / Presentation'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -350,6 +545,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -357,6 +553,9 @@ sections:
             text: 'Gender identity'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -364,6 +563,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -371,6 +571,9 @@ sections:
             text: 'Gender non-conforming (GNC)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -378,20 +581,7 @@ sections:
       -
         type: heading
         attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: Non-binary
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Describes a gender that exists outside the gender binary. '
-      -
-        type: heading
-        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -399,6 +589,9 @@ sections:
             text: Genderfluid
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -406,6 +599,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -413,13 +607,31 @@ sections:
             text: Genderqueer
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "Describes a variety of genders that fall outside the gender binary. It can also be used as a synonym for non-binary, but not necessarily so.\_ "
+    type: content
+    enabled: true
+  -
+    id: lea74cuo
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: H
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -427,6 +639,9 @@ sections:
             text: Heteronormativity
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -434,6 +649,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -441,6 +657,9 @@ sections:
             text: Heterosexism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -448,6 +667,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -455,6 +675,9 @@ sections:
             text: Heterosexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -462,6 +685,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -469,6 +693,9 @@ sections:
             text: Heteroromantic
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -476,6 +703,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -483,6 +711,9 @@ sections:
             text: Homophobia
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -490,6 +721,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -497,13 +729,31 @@ sections:
             text: Homosexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes a person who experiences sexual attraction to persons of the same or similar gender. Can carry negative connotations, but not necessarily so. '
+    type: content
+    enabled: true
+  -
+    id: lea75fna
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: I
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -511,6 +761,9 @@ sections:
             text: 'Inclusive language'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -518,6 +771,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -525,13 +779,31 @@ sections:
             text: Intersex
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes a person who is born with sex characteristics (including genitals, gonads, and chromosome patterns) that do not fit typical binary notions of male or female bodies. '
+    type: content
+    enabled: true
+  -
+    id: lea75xn3
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: L
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -539,6 +811,9 @@ sections:
             text: Lesbian
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -546,6 +821,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -553,13 +829,31 @@ sections:
             text: 'LGBT, LGBTQ, LGBTQIA+'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Stands for the various identities within the Lesbian, Gay, Bisexual, Trans, Queer, Intersex, Asexual, + more communities. '
+    type: content
+    enabled: true
+  -
+    id: lea76cfa
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: M
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -567,6 +861,9 @@ sections:
             text: Masc
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -574,6 +871,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -581,6 +879,9 @@ sections:
             text: 'Middle sexuality'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -588,6 +889,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -595,6 +897,9 @@ sections:
             text: Misgendering
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -602,6 +907,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -609,20 +915,73 @@ sections:
             text: Misogyny
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "Describes the interpersonal system of oppression that perpetuates the discrimination and exclusion of femininity and feminine-aligned people.\_ "
+    type: content
+    enabled: true
+  -
+    id: lea76r9o
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'N'
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
+        content:
+          -
+            type: text
+            text: Non-binary
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Describes a gender that exists outside the gender binary. '
+    type: content
+    enabled: true
+  -
+    id: lea76tov
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: P
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
         content:
           -
             type: text
             text: Pansexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -630,6 +989,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -637,6 +997,9 @@ sections:
             text: Panromantic
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -644,6 +1007,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -651,6 +1015,9 @@ sections:
             text: Polysexual
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -658,6 +1025,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -665,6 +1033,9 @@ sections:
             text: Polyromantic
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -672,6 +1043,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -679,13 +1051,31 @@ sections:
             text: Polyamory
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the practice of having more than one relationship at a time with the consent of everyone involved. Not to be confused with polygamy. '
+    type: content
+    enabled: true
+  -
+    id: lea76vuo
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: Q
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -693,6 +1083,9 @@ sections:
             text: QTPOC
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -700,6 +1093,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -707,6 +1101,9 @@ sections:
             text: Queer
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -714,6 +1111,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -721,13 +1119,31 @@ sections:
             text: Questioning
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes a person who is questioning or exploring their sexual orientation, romantic attraction, gender identity, and/or gender expression. '
+    type: content
+    enabled: true
+  -
+    id: lea785te
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: R
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -735,13 +1151,31 @@ sections:
             text: Racism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the system of oppression that perpetuates the discrimination and exclusion of people who are perceived to be or are actually people of color. Appears both systemically and interpersonally. '
+    type: content
+    enabled: true
+  -
+    id: lea78lne
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: S
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -749,6 +1183,9 @@ sections:
             text: 'Safe space'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -756,6 +1193,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -763,6 +1201,9 @@ sections:
             text: Sex
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -770,6 +1211,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -777,6 +1219,9 @@ sections:
             text: Sexism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -784,6 +1229,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -791,13 +1237,31 @@ sections:
             text: Sizeism
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the system of oppression that perpetuates the discrimination and exclusion of people on the basis of a person’s perceived or actual size, weight, and/or height. Appears both systemically and interpersonally. '
+    type: content
+    enabled: true
+  -
+    id: lea78k93
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: T
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -805,6 +1269,9 @@ sections:
             text: 'Trans / Transgender'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -812,6 +1279,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -819,6 +1287,9 @@ sections:
             text: Transition
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -826,6 +1297,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -833,13 +1305,31 @@ sections:
             text: Transphobia
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Describes the interpersonal system of oppression that perpetuates the discrimination and exclusion of people who are perceived to be or are actually trans. '
+    type: content
+    enabled: true
+  -
+    id: F2LmiFie
+    bard:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: X
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -847,6 +1337,9 @@ sections:
             text: Xenophobia
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -854,5 +1347,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664634194
+updated_at: 1676739270
 ---
