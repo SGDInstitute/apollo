@@ -180,6 +180,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -188,6 +189,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -195,18 +197,27 @@ sections:
             text: 'Reserve tickets'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Visit the registration web app and log in or create an account. Once you are logged in, select the type and number of tickets you want to reserve. You can reserve a single ticket for yourself or several tickets for a group.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "Once you select how many tickets you want to reserve, you'll have the option to assign a name and email address to each ticket. This allows each ticket holder to access the information on their ticket and update their name, pronouns, and other information. You do not need to assign names to tickets at the time of reservation; if a ticket is unassigned, you will receive periodic email reminders to assign tickets to an attendee."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -214,6 +225,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -221,12 +233,18 @@ sections:
             text: 'Pay with a credit card'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'You can pay for your order with any major credit card. Simply click the "Pay with Card" button. Once the payment is successful, you''ll receive a receipt and confirmation that your order is paid.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -248,6 +266,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -255,12 +274,18 @@ sections:
             text: 'Pay by check'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Once you reserve tickets, you''ll have the option to download an invoice and pay by check. Checks should be made payable to "Midwest Institute for Sexuality and Gender Diversity" and mailed to P.O. BOX 1053, East Lansing, MI 48826-1053. As soon as we receive your check, your order will be marked as paid. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
@@ -375,5 +400,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676741067
+updated_at: 1676741087
 ---
