@@ -2,13 +2,15 @@
 id: 8a77e9b0-558d-4751-89c0-66dd0d155e33
 published: false
 blueprint: pages
-title: 'Doing the Work in Rural and Small Communities'
+title: 'Small-Town Queerness'
 sections:
   -
+    id: iENBjo0A
     title: 'Doing the Work in Rural and Small Communities'
     type: header_small
     enabled: true
   -
+    id: bXCglLph
     bard:
       -
         type: heading
@@ -36,10 +38,10 @@ sections:
             type: text
             text: 'Campus and Community Connections: Rural Survival for Over 50 Years'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -48,7 +50,7 @@ sections:
                     type: text
                     text: 'Presented by: Carli Álvarez, Sandy Pensoneau-Conway, Carrie Vine, O.J. Duncan'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -57,7 +59,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 8:30 - 9:45 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -80,10 +82,10 @@ sections:
             type: text
             text: 'LGBTQ+ Histories & the Importance of Archival Work '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -92,7 +94,7 @@ sections:
                     type: text
                     text: 'Presented by: Emily Patterson'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -101,7 +103,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 10:00 - 11:15 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -130,10 +132,10 @@ sections:
             type: text
             text: 'Survival and Resistance: Trans and Queer Resiliency in the Flyover States'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -142,7 +144,7 @@ sections:
                     type: text
                     text: 'Presented by: JAC Stringer'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -151,7 +153,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 2:30 - 3:45 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -180,10 +182,10 @@ sections:
             type: text
             text: 'Combating Transphobia within our Communities '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -192,7 +194,7 @@ sections:
                     type: text
                     text: 'Presented by: Adam Whitney'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -201,7 +203,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022, 4:00 - 5:15 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -230,10 +232,10 @@ sections:
             type: text
             text: 'Research Without Limits: The Future is Rural '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -242,7 +244,7 @@ sections:
                     type: text
                     text: 'Presented by: Stefani Vargas'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -251,7 +253,7 @@ sections:
                     type: text
                     text: 'Time: Sun., Oct. 23, 2022, 8:30 - 9:45 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -271,5 +273,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Doing the Work in Rural and Small Communities'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665253026
+updated_at: 1676738037
 ---
