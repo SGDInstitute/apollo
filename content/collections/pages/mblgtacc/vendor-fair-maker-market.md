@@ -236,7 +236,7 @@ sections:
         content:
           -
             type: text
-            text: "We'll start enrolling makers this spring. In the meantime, we welcome your questions and suggestions. Email us at hello@mblgtacc.org."
+            text: "We'll start enrolling makers this spring. In the meantime, we welcome your questions and suggestions. Email us at development@mblgtacc.org."
     type: content
     enabled: true
   -
@@ -1017,7 +1017,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676735762
+updated_at: 1676735790
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
