@@ -21,7 +21,7 @@ sections:
             buttons:
               -
                 id: Xc8XnyHo
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2023'
                 text: 'Reserve tickets now'
                 color: btn-green
                 size: btn-lg
@@ -400,5 +400,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676741087
+updated_at: 1676741108
 ---
