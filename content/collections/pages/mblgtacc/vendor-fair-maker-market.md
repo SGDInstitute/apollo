@@ -98,7 +98,7 @@ sections:
                         content:
                           -
                             type: text
-                            text: Saturday
+                            text: '(Vendor Fair) Saturday, 10:00 a.m. - 6:00 p.m.'
           -
             type: listItem
             content:
@@ -1017,7 +1017,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676735790
+updated_at: 1676736689
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
