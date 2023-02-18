@@ -2,11 +2,11 @@
 id: d230d54f-cf41-4dfe-828a-b5dd34babf08
 published: false
 blueprint: pages
-title: 'Activism and Protest as Tools for Justice'
+title: 'Justice: Activism & Protest'
 sections:
   -
     id: gCDOnkVD
-    title: 'Activism and Protest as Tools for Justice'
+    title: 'Justice: Activism & Protest'
     type: header_small
     enabled: true
   -
@@ -22,7 +22,7 @@ sections:
         content:
           -
             type: text
-            text: 'Activism and Protest as Tools for Justice'
+            text: 'Justice: Activism & Protest'
       -
         type: paragraph
         attrs:
@@ -274,6 +274,6 @@ sections:
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676737822
-description: 'MBLGTACC 2022 Workshop Track: Activism and Protest as Tools for Justice'
+updated_at: 1676737955
+description: 'MBLGTACC 2023 Workshop Track "Justice: Activism & Protest"'
 ---
