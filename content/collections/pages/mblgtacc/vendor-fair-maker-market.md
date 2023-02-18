@@ -587,15 +587,6 @@ sections:
         content:
           -
             type: text
-            text: 'A la carte vendor fair tables are sold out at this time and available only to sponsors.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
             text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
       -
         type: paragraph
@@ -1026,7 +1017,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676735722
+updated_at: 1676735762
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
