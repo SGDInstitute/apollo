@@ -1,11 +1,10 @@
 ---
 id: 7c7b3ab8-409d-44c4-a26e-56c014b10d83
-published: false
 blueprint: pages
 title: Services
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677347228
+updated_at: 1677347251
 sections:
   -
     id: yABbm9p0
