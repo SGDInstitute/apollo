@@ -22,6 +22,9 @@ sections:
             text: 'The Midwest Institute for Sexuality and Gender Diversity provides individualized technical assistance to organizations seeking to advance knowledge of diverse sexualities and genders and increase capacity to to support and serve the lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA) community.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -29,6 +32,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -36,6 +40,9 @@ sections:
             text: 'Our approach'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -74,6 +81,9 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -86,6 +96,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -95,6 +108,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -104,6 +120,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -113,6 +132,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -122,6 +144,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -129,6 +154,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -136,6 +162,9 @@ sections:
             text: 'Get started'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -151,6 +180,6 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677347006
+updated_at: 1677347023
 description: 'The Midwest Institute for Sexuality and Gender Diversity provides individualized technical assistance to organizations seeking to advance knowledge of diverse sexualities and genders and increase capacity to to support and serve the lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA) community.'
 ---
