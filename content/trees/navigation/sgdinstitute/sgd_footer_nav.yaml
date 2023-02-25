@@ -23,10 +23,6 @@ tree:
       -
         id: 491e5f36-4a54-4e6a-b3c8-7d943f681e03
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
-        children:
-          -
-            id: 5574c133-9e1d-4464-aa5c-dcba12d891b5
-            entry: 174b8159-fec3-487b-b329-177118c234eb
   -
     id: 918c1b26-68b3-4978-8b3d-f33cec3c8c54
     title: Singles
