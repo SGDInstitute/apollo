@@ -6,7 +6,7 @@ template: default
 sections:
   -
     id: Vt5QTgAQ
-    header_image: headers/rb-schuyler-2-mblgtacc-2022-hero-2500x800.jpg
+    header_image: headers/rb-3-mblgtacc-2022-hero-2500x800.jpg
     title: 'Connect. Educate. Empower.'
     subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
@@ -29,6 +29,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -43,6 +44,9 @@ sections:
             video: 'https://youtu.be/T9_VfXIYRms'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: false
   -
@@ -141,7 +145,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677351992
+updated_at: 1677352093
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
