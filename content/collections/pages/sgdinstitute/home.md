@@ -5,11 +5,11 @@ title: Home
 template: default
 sections:
   -
-    header_image: headers/mblgtacc2022-student-through-books-maker-market-2022-hero-2500x800.jpg
+    id: Vt5QTgAQ
+    header_image: headers/rb-schuyler-2-mblgtacc-2022-hero-2500x800.jpg
     title: 'Connect. Educate. Empower.'
     subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
-    tag: asdfasdfasdfasdf
     text: Listen
     target_blank: false
     color: btn-green
@@ -24,6 +24,7 @@ sections:
     outline: true
     has_button: false
   -
+    id: ioAkKW1w
     bard:
       -
         type: heading
@@ -36,6 +37,7 @@ sections:
       -
         type: set
         attrs:
+          id: mt7LBmap
           values:
             type: video
             video: 'https://youtu.be/T9_VfXIYRms'
@@ -44,6 +46,7 @@ sections:
     type: content
     enabled: false
   -
+    id: ZOKwvYpl
     articles:
       - 481cc737-dc5d-4b89-b65f-6d85b302eb8a
       - a32b7b3f-fd1a-493b-bbea-e29549881d4b
@@ -54,24 +57,21 @@ sections:
     num_colors: 2
     from_color: from-black
     to_color: to-white
-    bg_color: bg-pink-500
     type: news_feature
     enabled: true
   -
+    id: PljIs2Mx
     limit: 3
     type: news
     enabled: false
-    pagination: false
     exclude: true
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
   -
+    id: Q5ehnj31
     date: '2021-10-08 12:00'
     hashtag: 'until MBLGTACC 2021'
     bg_type: color
-    num_colors: 2
-    from_color: from-black
     bg_color: bg-white
     type: countdown
     enabled: false
@@ -110,10 +110,12 @@ sections:
       -
         type: set
         attrs:
+          id: eEP3XJAV
           values:
             type: buttons
             buttons:
               -
+                id: ZsMCGaUg
                 link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Give now'
                 color: btn-white
@@ -122,6 +124,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: 642gW5nt
                 link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
                 text: 'Learn more'
                 color: btn-white
@@ -134,12 +137,11 @@ sections:
         type: paragraph
     image: news/mblgtacc2022-workshops-1-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1674080003
+updated_at: 1677351992
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
