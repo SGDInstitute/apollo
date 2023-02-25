@@ -38,9 +38,6 @@ tree:
       -
         id: 0287e7f5-f8a2-475e-9182-8ded766ba373
         entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
-      -
-        id: 11022cb8-a71f-497e-9b67-582233579ed5
-        entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
   -
     id: 2015a4ed-7418-4235-8705-9fbb292d459f
     title: Singles
@@ -49,6 +46,9 @@ tree:
       -
         id: 8e2e13ee-4e90-4003-adae-17977dd307ea
         entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
+      -
+        id: 11022cb8-a71f-497e-9b67-582233579ed5
+        entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef
       -
         id: 206691bd-8f2b-4968-97de-0ed697e3ec8a
         entry: 1d908676-c027-44d3-b60a-ebab30250d45
