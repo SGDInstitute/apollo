@@ -28,4 +28,14 @@ sections:
           localizable: false
           validate:
             - required
-title: 'Podcast Show'
+  SEO:
+    display: SEO
+    fields:
+      -
+        handle: seo
+        field:
+          type: seo_pro
+          listable: false
+          display: SEO
+          localizable: false
+title: 'Podcast Shows'
