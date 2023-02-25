@@ -43,10 +43,6 @@ tree:
       -
         id: d471b29e-c359-4430-b27a-a24ecf50c0eb
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
-        children:
-          -
-            id: 62adde0a-c19c-4608-a924-e70a83422804
-            entry: 174b8159-fec3-487b-b329-177118c234eb
       -
         id: 27b6b020-4f26-4660-8e31-6ba9300bb1fd
         entry: 857e03a1-fd97-468a-afd6-86fc7331ff87
