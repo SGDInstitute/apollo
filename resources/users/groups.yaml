@@ -1,4 +1,4 @@
-# admin:
-#   title: Administrators
-#   roles:
-#     - admin
+staff:
+  title: Staff
+board:
+  title: Board

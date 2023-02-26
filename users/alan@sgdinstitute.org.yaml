@@ -2,4 +2,7 @@ name: 'Alan Toussaint'
 position: 'Board Member'
 pronouns: he/him
 avatar: toussaint-alan-headshot-jul2022-1000x1000.jpg
+slug: alan-toussaint
+groups:
+  - board
 id: 124f7c83-15d4-4f13-81c7-97b227982c92
