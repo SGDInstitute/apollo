@@ -4,10 +4,12 @@ blueprint: pages
 title: 'Student Group Toolkit'
 sections:
   -
+    id: 0DpIwVpQ
     title: 'Student Group Toolkit'
     type: header_small
     enabled: true
   -
+    id: XR5LXPc1
     bard:
       -
         type: paragraph
@@ -17,14 +19,16 @@ sections:
         content:
           -
             type: text
-            text: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!'
+            text: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!"
       -
         type: set
         attrs:
+          id: YriGMD0z
           values:
             type: buttons
             buttons:
               -
+                id: VDUFEZrZ
                 text: 'Download as PDF'
                 color: btn-green
                 size: btn-lg
@@ -33,6 +37,7 @@ sections:
                 target_blank: true
                 link: 'https://mblgtacc.org/assets/documents/mblgtacc-student-group-toolkit.pdf'
               -
+                id: IcdUsgC8
                 link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
                 text: 'Poster/Flier templates'
                 color: btn-green
@@ -46,6 +51,7 @@ sections:
     type: content
     enabled: true
   -
+    id: saAN40gU
     bard:
       -
         type: heading
@@ -58,6 +64,7 @@ sections:
       -
         type: set
         attrs:
+          id: BinWXn6k
           values:
             type: 2_columns
             left_column: content
@@ -130,6 +137,7 @@ sections:
     type: content
     enabled: true
   -
+    id: wwd7sLQ9
     bard:
       -
         type: heading
@@ -154,10 +162,10 @@ sections:
             type: text
             text: "There may be several options available for you to secure funding to attend MBLGTACC.\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -166,7 +174,7 @@ sections:
                     type: text
                     text: "Does your student government offer grants or funding to student organizations?\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -175,7 +183,7 @@ sections:
                     type: text
                     text: "Is there an LGBTQ+ resource center that can provide funding?\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -184,7 +192,7 @@ sections:
                     type: text
                     text: "Does your major’s department/college offer scholarships for conference attendance?\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -285,10 +293,12 @@ sections:
       -
         type: set
         attrs:
+          id: Liz28Aq2
           values:
             type: buttons
             buttons:
               -
+                id: rDbFWUxE
                 link: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
                 text: 'Book with Hilton Columbus Downtown '
                 color: btn-green
@@ -376,10 +386,10 @@ sections:
             type: text
             text: " Keep a few things in mind when planning your travel to and from the conference:\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -388,7 +398,7 @@ sections:
                     type: text
                     text: 'Frequency of rest and meal stops along the way'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -397,7 +407,7 @@ sections:
                     type: text
                     text: 'Do you have drivers for rented vehicles?'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -406,7 +416,7 @@ sections:
                     type: text
                     text: "Is there a time change? Our region is split into Central and Eastern time zones\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -415,7 +425,7 @@ sections:
                     type: text
                     text: "You likely want to check into your hotel before checking into conference registration. Leave plenty of time for this so your group can drop their things and reset.\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -443,10 +453,10 @@ sections:
                 type: bold
             text: "How to get the word out to your campus about attending the conference.\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -455,7 +465,7 @@ sections:
                     type: text
                     text: 'Find relevant email lists in use at your school or college. (ask permission of list owners if needed)'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -464,7 +474,7 @@ sections:
                     type: text
                     text: 'Use existing social media channels'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -473,7 +483,7 @@ sections:
                     type: text
                     text: 'Word of mouth'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -482,7 +492,7 @@ sections:
                     type: text
                     text: 'Poster/flier templates'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -506,10 +516,10 @@ sections:
             type: text
             text: "Here are some recommended questions to ask on a sign-up form for your campus’s students to make registration, travel and attendance simpler:\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -527,7 +537,7 @@ sections:
                     type: text
                     text: ' (keep in mind folks may want to try out different names & pronouns at the conference than what they use on campus)'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -536,7 +546,7 @@ sections:
                     type: text
                     text: 'Email (one they actually use)'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -545,7 +555,7 @@ sections:
                     type: text
                     text: "Dietary restrictions\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -554,10 +564,10 @@ sections:
                     type: text
                     text: 'Accessibility Requests (Ex: ASL interpreters, large print programs, etc)'
               -
-                type: bullet_list
+                type: bulletList
                 content:
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -566,7 +576,7 @@ sections:
                             type: text
                             text: 'In order to guarantee accommodations, accessibility requests should be submitted by September 28, 2022'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -575,7 +585,7 @@ sections:
                     type: text
                     text: "Do they have a preference on who they room with in the hotel?\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -584,7 +594,7 @@ sections:
                     type: text
                     text: "Do they want to attend virtually or in-person?\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -620,10 +630,12 @@ sections:
       -
         type: set
         attrs:
+          id: 1ow56NfM
           values:
             type: buttons
             buttons:
               -
+                id: jRxWjCze
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'How to register'
                 color: btn-green
@@ -663,10 +675,10 @@ sections:
             type: text
             text: "Workshops proposals will be accepted from April 4 until May 13. To prepare a submission:\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -675,7 +687,7 @@ sections:
                     type: text
                     text: "Review the workshop track descriptions to understand our conference priorities\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -684,7 +696,7 @@ sections:
                     type: text
                     text: "Attend an FAQ livestream explaining the workshop process, what the review team is looking for and ask any questions about how to craft a quality submission (details on this will be provided as they become available)\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -717,10 +729,12 @@ sections:
       -
         type: set
         attrs:
+          id: blJtu9ky
           values:
             type: buttons
             buttons:
               -
+                id: Qka5h8RC
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: 'Present at MBLGTACC'
                 color: btn-green
@@ -734,15 +748,15 @@ sections:
     type: content
     enabled: true
   -
+    id: V0KFMKIN
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
   -
+    id: 55JOPo5r
     bard:
       -
         type: heading
@@ -767,10 +781,10 @@ sections:
             type: text
             text: "Start building your schedule before you even arrive at the conference! You can start making the hard choice of what workshops and session you’ll attend by:\_"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -779,7 +793,7 @@ sections:
                     type: text
                     text: 'Checking out the online version of the conference program, which will be made available by October 10.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -788,7 +802,7 @@ sections:
                     type: text
                     text: "Reading through the workshop tracks covering topics/work that interest you\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -854,15 +868,15 @@ sections:
     type: content
     enabled: true
   -
+    id: 4ON5eBXd
     date: '2023-11-03 19:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670168606
-description: 'From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you''re just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information.'
+updated_at: 1677536984
+description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
