@@ -1,13 +1,16 @@
 ---
 id: 6a9e784d-fbdb-4d1c-ab38-2bfe7b3d9738
+published: false
 blueprint: pages
 title: 'Glossary of LGBTQIA+ terms'
 sections:
   -
+    id: H8lL6QKT
     title: 'Glossary of LGBTQIA+ terms'
     type: header_small
     enabled: true
   -
+    id: jHGf4kc4
     bard:
       -
         type: paragraph
@@ -17,7 +20,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''ve curated this glossary to highlight and define words you may encounter that are commonly related to LGBTQIA+ people and communities around the United States. '
+            text: "We've curated this glossary to highlight and define words you may encounter that are commonly related to LGBTQIA+ people and communities around the United States. "
       -
         type: paragraph
         content:
@@ -868,6 +871,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1664635293
+updated_at: 1677539918
 description: 'Our glossary of LGBTQIA+ terms defines words you may encounter that are commonly related to lesbian, gay, transgender, queer, intersex, and asexual people and communities around the United States.'
 ---
