@@ -9,6 +9,8 @@ preferences:
   collections:
     articles:
       after_save: continue_editing
+    pages:
+      after_save: continue_editing
   assets:
     assets:
       per_page: 500
