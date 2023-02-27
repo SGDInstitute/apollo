@@ -40,10 +40,10 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Have a suggestion to revise a definition? '
+            text: 'Have a suggestion to improve a definition? '
           -
             type: text
-            text: 'Want to see other terms included? Let us know through your daily conference evaluations, DM us on social media, or email us at hello@sgdinstitute.org.'
+            text: 'Want to see other terms included? Let us know through your MBLGTACC evaluations, DM us on social media, or email us at hello@sgdinstitute.org.'
     type: content
     enabled: true
   -
@@ -1351,5 +1351,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677540697
+updated_at: 1677540932
 ---
