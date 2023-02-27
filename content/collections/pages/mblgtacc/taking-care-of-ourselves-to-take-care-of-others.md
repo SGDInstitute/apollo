@@ -2,13 +2,15 @@
 id: 3e041856-cf57-4d9a-9a86-002c3c5b06d5
 published: false
 blueprint: pages
-title: 'Taking Care of Ourselves to Take Care of Others'
+title: 'Self and Community Care'
 sections:
   -
+    id: nUReUBCJ
     title: 'Taking Care of Ourselves to Take Care of Others'
     type: header_small
     enabled: true
   -
+    id: u0Z2M2qv
     bard:
       -
         type: heading
@@ -36,10 +38,10 @@ sections:
             type: text
             text: 'Intentional Intersectionality: Fostering Community That Reflects the Community'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -48,7 +50,7 @@ sections:
                     type: text
                     text: 'Presented by: Jamal King'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -57,7 +59,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022 8:30 - 9:45 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -86,10 +88,10 @@ sections:
             type: text
             text: 'Navigating Mobile Dating Apps during the COVID-19 Pandemic '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -98,7 +100,7 @@ sections:
                     type: text
                     text: 'Presented by: Rocky Roque, Abi Leveille'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -107,7 +109,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022 10:00 - 11:15 a.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -130,10 +132,10 @@ sections:
             type: text
             text: 'Rest as an Act of Activism '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -142,7 +144,7 @@ sections:
                     type: text
                     text: 'Presented by: Rachel Simon, LaDarius DuPree, Sarah Doherty'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -151,7 +153,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022 2:30 - 3:45 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -180,10 +182,10 @@ sections:
             type: text
             text: 'Healing QTBIPOC Collective Trauma & Increasing Resilience with Gentle Movement Meditation Practices '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -192,7 +194,7 @@ sections:
                     type: text
                     text: 'Presented by: DeVante Love'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -201,7 +203,7 @@ sections:
                     type: text
                     text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 p.m.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -227,5 +229,5 @@ template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2022 Workshop Track: Taking Care of Ourselves to Take Care of Others'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1665253043
+updated_at: 1677538409
 ---
