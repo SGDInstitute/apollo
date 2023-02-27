@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'Welcome! This glossary is a living collection of definitions, researched and curated over decades by Midwest LGBTQIA+ college students, higher ed professionals, MBLGTACC planners and attendees, and the collective wisdom and experience of our many communities. '
+            text: "We've curated this glossary to highlight and define words you may encounter that are commonly related to LGBTQIA+ people and communities around the United States. "
       -
         type: paragraph
         attrs:
@@ -28,16 +28,7 @@ sections:
         content:
           -
             type: text
-            text: 'At the same time, language is often highly contested. And language related to identity is complex, with meaning that is bound by time and culture. Please keep in mind that identities exist on spectrums, so this is also not an '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: exhaustive
-          -
-            type: text
-            text: ' list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person. '
+            text: 'This is a living resource, researched and maintained over decades by Midwest LGBTQIA+ college students, higher ed professionals, MBLGTACC planners and attendees, and the collective wisdom and experience of our many communities. At the same time, we acknowledge and respect that language is often highly contested. And language related to identity is complex, with meaning that is bound by time and culture. Please keep in mind that identities exist on spectrums, so this is also not an exhaustive list or explanation of all possible identities. All terms used to describe identities are subject to varying interpretation by those who claim the identity, and no identity or definition should be imposed on another person. '
       -
         type: paragraph
         attrs:
@@ -1360,5 +1351,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677537412
+updated_at: 1677540254
 ---
