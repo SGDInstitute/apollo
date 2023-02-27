@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676663333
+updated_at: 1677538132
 sections:
   -
     id: j7D4Zmil
@@ -89,6 +89,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
@@ -103,6 +104,9 @@ sections:
             video: 'https://youtu.be/o8JVbyTvnU0'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -156,6 +160,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
