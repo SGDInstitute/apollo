@@ -5,28 +5,34 @@ blueprint: pages
 title: 'Speakers & Events'
 sections:
   -
+    id: HMevIXoK
     bg_type: image
-    num_colors: 2
-    bg_color: bg-yellow-100
     title: 'Speakers & Events'
     type: header
     enabled: true
     bg_image: headers/header_open-mic.jpg
   -
+    id: Kkag8WsP
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
-            text: 'The 30th annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more.'
+            text: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more.'
       -
         type: set
         attrs:
+          id: VIDcj7Eq
+          enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: CgyOrHwE
                 link: 'https://drive.google.com/file/d/1nEw6p0GWzMp5NKmP9wvy9qmPTb5JBwTm/view?usp=sharing'
                 text: 'Download program PDF'
                 color: btn-green
@@ -35,6 +41,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: YVMKg5uS
                 link: 'https://drive.google.com/file/d/1rjJfbQI_zI-RJONT6vGahhDiGGaKlw9p/view?usp=sharing'
                 text: 'Large print program'
                 color: btn-green
@@ -45,11 +52,18 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -58,12 +72,17 @@ sections:
       -
         type: set
         attrs:
+          id: CP6E9usO
+          enabled: false
           values:
             type: image
             image: bailar-barbarin-1090x681_email-image.jpg
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -98,9 +117,13 @@ sections:
             text: 'Learn more about Bailar and Barbarin.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
+    id: BjPH1yTl
     bard:
       -
         type: heading
@@ -115,7 +138,7 @@ sections:
         content:
           -
             type: text
-            text: 'Hayden Kristal—as seen on TikTok and America''s Got Talent™—will host and emcee Open Mic Night on Friday night, and on Saturday we''ll feature a drag show for high-energy entertainment, with a games and crafts room running concurrently. '
+            text: "Hayden Kristal—as seen on TikTok and America's Got Talent™—will host and emcee Open Mic Night on Friday night, and on Saturday we'll feature a drag show for high-energy entertainment, with a games and crafts room running concurrently. "
           -
             type: text
             marks:
@@ -130,8 +153,9 @@ sections:
                 type: italic
             text: 'Learn more about entertainment.'
     type: content
-    enabled: true
+    enabled: false
   -
+    id: 3dD8hXbF
     bard:
       -
         type: heading
@@ -144,6 +168,7 @@ sections:
       -
         type: set
         attrs:
+          id: 0rY89l7j
           values:
             type: 2_columns
             left_column: content
@@ -299,22 +324,21 @@ sections:
     type: content
     enabled: true
   -
+    id: mpEmu91Z
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
   -
+    id: jQ9WOaBN
     date: '2022-10-21 18:00'
     hashtag: '#mblgtacc30'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668560224
+updated_at: 1677538383
 ---
