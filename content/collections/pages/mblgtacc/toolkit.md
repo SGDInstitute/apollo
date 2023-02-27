@@ -18,6 +18,7 @@ sections:
           values:
             type: iframe
             html: |-
+              <hr>
               <p><font color=#E34234 size=5><b>⚠️ Content on this page may be out of date, but is available for reference. When the page is updated, this flag will be removed.</b></font></p>
 
               <br>
@@ -161,6 +162,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -169,6 +171,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -176,6 +179,9 @@ sections:
             text: 'Estimate your total cost of attendance and secure funding'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -188,6 +194,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -197,6 +206,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -206,6 +218,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -215,18 +230,27 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: "Perhaps your dean of students or VP of student affairs has a conference travel assistance program.\_"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "As part of your funding request, it may be helpful to highlight the educational benefits of attending MBLGTACC, as well as the resources available to attendees at the vendor fair and by networking with students from other institutions.\_"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -248,6 +272,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -255,6 +280,9 @@ sections:
             text: 'Book your hotel'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -277,18 +305,27 @@ sections:
             text: '. The Hilton Columbus Downtown is offering a group rate of $169/night for MBLGTACC 2022 attendees. We encourage attendees to reserve rooms at this hotel, as it is connected via skywalk to the Greater Columbus Convention Center.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'The hotel block is available for reservations until September 28, 2022 so we encourage you to reserve rooms early. Note that in most cases, you won’t be required to pay until check-in and you can cancel your reservation up to 48 hours before your scheduled arrival.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "Check with the department or organization that is sponsoring your conference attendance for support in booking a hotel if you do not have access to a debit or credit card to put on file. Please note that if you will not have the physical debit/credit card used for the reservation, most hotels require a credit card authorization form completed by the cardholder. So check with the hotel and your department/org sponsor to coordinate payment ahead of time.\_"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -328,9 +365,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -338,18 +379,27 @@ sections:
             text: 'Plan and arrange your travel'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Many groups opt to reserve campus vehicles or a charter bus to travel to MBLGTACC. Be sure to check out policies on your campus about reserving vehicles for use by student organizations. It can be helpful to get a quote from multiple bus companies to ensure you’re getting the best deal on travel.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'If students from neighboring institutions are also attending MBLGTACC, consider reaching out to coordinate transportation. In the past, multiple groups have partnered to reserve one charter bus to get to MBLGTACC.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -372,6 +422,9 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -394,6 +447,9 @@ sections:
             text: ' on our website for directions to the Greater Columbus Convention Center and nearby parking options.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -412,6 +468,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -421,6 +480,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -430,6 +492,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -439,6 +504,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -448,15 +516,22 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: "Review the conference schedule regularly for any updates that impact your travel\_"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -464,6 +539,9 @@ sections:
             text: 'Coordinate a group sign-up with students from your school, college, or university'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -479,6 +557,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -488,6 +569,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -497,6 +581,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -506,6 +593,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -515,12 +605,18 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Get in touch with your resource center / multicultural center - can they help with communication or support at all?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -530,6 +626,9 @@ sections:
             text: 'What information to gather from students attending from your campus.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -542,6 +641,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -560,6 +662,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -569,6 +674,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -578,6 +686,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -590,6 +701,9 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          textAlign: left
+                          class: null
                         content:
                           -
                             type: text
@@ -599,6 +713,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -608,6 +725,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -617,6 +737,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -624,6 +747,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -631,6 +755,9 @@ sections:
             text: 'Register for the conference'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -665,9 +792,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -675,6 +806,9 @@ sections:
             text: 'Distribute trip info to your group or make sure they receive our emails'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -682,6 +816,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -689,6 +824,9 @@ sections:
             text: 'Propose a workshop'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -701,6 +839,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -710,6 +851,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -719,6 +863,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -741,6 +888,9 @@ sections:
                     text: " to see what’s been accepted in the past\_"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -764,6 +914,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -917,6 +1070,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677537623
+updated_at: 1677537658
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
