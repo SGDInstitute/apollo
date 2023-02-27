@@ -30,6 +30,11 @@ sections:
           -
             type: text
             text: 'There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle. Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.'
+    type: content
+    enabled: true
+  -
+    id: lenf3oxg
+    bard:
       -
         type: heading
         attrs:
@@ -286,10 +291,10 @@ sections:
             type: text
             text: 'Content Warnings: Transphobia, Sexism, Racism'
     type: content
-    enabled: true
+    enabled: false
 template: default
 parent: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 description: 'MBLGTACC 2023 workshop track: Self and Community Care'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677538474
+updated_at: 1677538512
 ---
