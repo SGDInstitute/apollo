@@ -12,6 +12,18 @@ sections:
     id: XR5LXPc1
     bard:
       -
+        type: set
+        attrs:
+          id: lene9u73
+          values:
+            type: iframe
+            html: '<font color=#E34234 size=5><b>⚠️ Content on this page may be out of date, but is available for reference. When the page is updated, this flag will be removed.</b></font>'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+      -
         type: paragraph
         attrs:
           textAlign: left
@@ -48,6 +60,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -761,6 +776,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -769,6 +785,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -776,6 +793,9 @@ sections:
             text: 'Make your schedule for the weekend'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -788,6 +808,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -797,6 +820,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -806,6 +832,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -827,6 +856,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -834,6 +864,9 @@ sections:
             text: 'Arrive and check-in'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -865,6 +898,9 @@ sections:
             text: ' You’ll have an opportunity to review your name and pronouns—and make any corrections—before we print your name badge. At the convention center, visit the registration/check-in desk to pick up your badge and a swag bag. Name badges will be sorted alphabetically, by last name, so be sure everyone in your group stops by to get their own badge.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -877,6 +913,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677536984
+updated_at: 1677537355
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
