@@ -1,14 +1,15 @@
 ---
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
-published: false
 blueprint: pages
 title: Accessibility
 sections:
   -
+    id: VRSiAQRn
     title: Accessibility
     type: header_small
     enabled: true
   -
+    id: VT5AqijF
     bard:
       -
         type: heading
@@ -17,22 +18,24 @@ sections:
         content:
           -
             type: text
-            text: 'It''s one of our values'
+            text: "It's one of our values"
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'MBLGTACC planners and the Institute are committed to the accessibility of the conference for all attendees. We''re being proactive in engaging our partners around accessibility and in sharing with you the information you need to know about these preparations in order to make informed decisions.'
+            text: "MBLGTACC planners and the Institute are committed to the accessibility of the conference for all attendees. We're being proactive in engaging our partners around accessibility and in sharing with you the information you need to know about these preparations in order to make informed decisions."
       -
         type: paragraph
       -
         type: set
         attrs:
+          id: 0pVgXde9
           values:
             type: buttons
             buttons:
               -
+                id: TwCnADCs
                 link: 'mailto:support@sgdinstitute.org'
                 text: 'Ask an accessibility question'
                 color: btn-green
@@ -46,10 +49,12 @@ sections:
     type: content
     enabled: true
   -
+    id: Gw3JDPFZ
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -58,6 +63,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -66,6 +72,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -73,6 +80,9 @@ sections:
             text: 'Service animals'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -80,6 +90,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -87,13 +98,17 @@ sections:
             text: 'Emotional support animals'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per Greater Columbus Convention Center policy, ESAs are not permitted in the venue.'
+            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per Central Bank Center policy, ESAs are not permitted in the venue.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -101,6 +116,9 @@ sections:
             text: 'Auditory accessibility'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -108,6 +126,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -115,10 +134,13 @@ sections:
             text: 'Mobility accessibility'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'All sessions will be held in the Monona Terrace. The facility is ADA compliant and has large spaces to accommodate the traffic peaks during session transitions. All sessions will beheld in close proximity and transition time will be allowed in the schedule. '
+            text: 'All workshops, identity forums, and keynotes will be held in the Central Bank Center. The facility is ADA compliant and has large spaces to accommodate the traffic peaks during session transitions. All sessions will beheld in close proximity and transition time will be allowed in the schedule. '
           -
             type: text
             marks:
@@ -131,6 +153,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -138,13 +161,17 @@ sections:
             text: 'Quiet spaces'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Visit our quiet space in the room A225, open on Saturday from 8:00 a.m. - 11:00 p.m. and on Sunday from 8:00 a.m. - 12:00 p.m. Ear plugs will be available in the quiet space during these hours, and at the conference info desk while supplies last.'
+            text: 'Visit our quiet space. Ear plugs will be available in the quiet space during these hours, and at the conference info desk while supplies last.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -152,13 +179,17 @@ sections:
             text: 'Scents and scented products'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'To keep shared spaces suitable for those with scent sensitivities, we ask attendees to use scent-free products or limit/forego the excessive use of scented hygiene products while at the conference. Please use the fragrance-free hand soap provided in therestrooms and fragrance-free handsanitizer in common spaces.'
+            text: 'To keep shared spaces suitable for those with scent sensitivities, we ask attendees to use scent-free products or limit/forego the excessive use of scented hygiene products while at the conference. Please use the fragrance-free hand soap provided in the restrooms and fragrance-free hand sanitizer in common spaces.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -166,17 +197,22 @@ sections:
             text: 'Visual accessibility'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'We have sent all presenters information on accessible color, contrast, and text size for their materials. Large-print programs will be available for all on-site attendees who registered prior to the registration deadline and opted to receive one. There may be a limited number produced for on-site registrants.'
+            text: 'All presenters receive information on accessible color, contrast, and text size for their materials. Large-print programs will be available for all on-site attendees who registered prior to the registration deadline and opted to receive one. There may be a limited number produced for on-site registrants.'
     type: content
     enabled: true
   -
+    id: 7A74wZ8h
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -184,13 +220,16 @@ sections:
             text: 'Frequently asked questions'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             marks:
               -
                 type: italic
-            text: 'We''ll continue to add questions based on feedback. Is there more info we should include? '
+            text: "We'll continue to add questions based on feedback. Is there more info we should include? "
           -
             type: text
             marks:
@@ -205,20 +244,23 @@ sections:
                 type: italic
             text: 'Let us know.'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                    text: 'What are the conference''s COVID mitigation strategies?'
+                    text: "What are the conference's COVID mitigation strategies?"
                   -
                     type: text
                     text: ' See our dedicated '
@@ -237,28 +279,34 @@ sections:
                     type: text
                     text: ' page for details.'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     marks:
                       -
                         type: bold
-                    text: 'Will you require a doctor''s note or other proof of disability?'
+                    text: "Will you require a doctor's note or other proof of disability?"
                   -
                     type: text
                     text: ' No. We encourage you to make your specific accommodations request through registration as soon as possible.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -281,10 +329,13 @@ sections:
                           title: null
                     text: 'Lodging and Accommodations page.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -312,15 +363,14 @@ sections:
     type: content
     enabled: true
   -
+    id: pPHeUi3x
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666371966
+updated_at: 1676740209
 ---

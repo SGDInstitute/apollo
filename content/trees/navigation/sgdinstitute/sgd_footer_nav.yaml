@@ -23,30 +23,29 @@ tree:
       -
         id: 491e5f36-4a54-4e6a-b3c8-7d943f681e03
         entry: 39be0806-bfbb-4197-96fd-6b830a4f009a
-        children:
-          -
-            id: 5574c133-9e1d-4464-aa5c-dcba12d891b5
-            entry: 174b8159-fec3-487b-b329-177118c234eb
   -
     id: 918c1b26-68b3-4978-8b3d-f33cec3c8c54
     title: Singles
     url: '#'
     children:
       -
-        id: 8e2e13ee-4e90-4003-adae-17977dd307ea
-        entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-      -
-        id: 0287e7f5-f8a2-475e-9182-8ded766ba373
-        entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
+        id: 8385b559-9f53-4daa-bff1-d27af134da22
+        entry: 507d15b8-8774-444e-af6f-fa28bc4bd26e
       -
         id: c4b55703-b454-4498-8164-82b6d2c1dc83
         entry: 029d818d-ecc3-4356-ace8-0b7d39e7c70a
         title: Podcast
+      -
+        id: 0287e7f5-f8a2-475e-9182-8ded766ba373
+        entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
   -
     id: 2015a4ed-7418-4235-8705-9fbb292d459f
     title: Singles
     url: '#'
     children:
+      -
+        id: 8e2e13ee-4e90-4003-adae-17977dd307ea
+        entry: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
       -
         id: 11022cb8-a71f-497e-9b67-582233579ed5
         entry: 8d78c3fb-8bd7-4467-9212-40fb54fcf5ef

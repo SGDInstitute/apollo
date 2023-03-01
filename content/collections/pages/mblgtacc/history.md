@@ -4,10 +4,12 @@ blueprint: pages
 title: History
 sections:
   -
+    id: NeQcCkYZ
     title: History
     type: header_small
     enabled: true
   -
+    id: xEzljawi
     bard:
       -
         type: heading
@@ -34,7 +36,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Notice the re-ordering of letters in the conference''s second year'
+            text: "Notice the re-ordering of letters in the conference's second year"
           -
             type: text
             text: )
@@ -47,6 +49,7 @@ sections:
     type: content
     enabled: true
   -
+    id: YdXpnKrb
     bard:
       -
         type: heading
@@ -108,6 +111,7 @@ sections:
     type: content
     enabled: true
   -
+    id: EhvRwuX1
     bard:
       -
         type: heading
@@ -304,10 +308,12 @@ sections:
     type: content
     enabled: true
   -
+    id: 6I9CHuqL
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -316,6 +322,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -323,6 +330,9 @@ sections:
             text: '1993 - First annual MBLGCC'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -336,11 +346,12 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: '1994 - Greetings from the 90''s... Wish You Were '
+            text: "1994 - Greetings from the 90's... Wish You Were "
           -
             type: text
             marks:
@@ -352,6 +363,9 @@ sections:
             text: ' Queer'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -365,10 +379,12 @@ sections:
       -
         type: set
         attrs:
+          id: DBIwiMXt
           values:
             type: buttons
             buttons:
               -
+                id: YN7SlNjm
                 link: 'https://issuu.com/sgdinstitute/docs/mblgcc_1994_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -380,6 +396,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -387,6 +404,9 @@ sections:
             text: '1995 - Building Queer Success in the Midwest'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -400,6 +420,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -407,6 +428,9 @@ sections:
             text: '1996 - Building Queer Success in the Midwest'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -420,13 +444,17 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: '1997 - We''re Here! We''re Queer! We''re Fabulous!'
+            text: "1997 - We're Here! We're Queer! We're Fabulous!"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -440,6 +468,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -447,6 +476,9 @@ sections:
             text: '1998 - Across the Fruited Plain'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -460,6 +492,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -467,6 +500,9 @@ sections:
             text: '1999 - Moving Forward, Looking Back'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -480,6 +516,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -487,6 +524,9 @@ sections:
             text: '2000 - Making Waves into the New Millennium'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -500,6 +540,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -507,6 +548,9 @@ sections:
             text: '2001 - Out and About: Breaking the Silence, Breaking the Boundaries, Breaking the Labels'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -520,6 +564,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -527,6 +572,9 @@ sections:
             text: '2002 - Still Moving Forward'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -540,10 +588,12 @@ sections:
       -
         type: set
         attrs:
+          id: 4F2k2r58
           values:
             type: buttons
             buttons:
               -
+                id: sC7lyQ43
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2002_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -555,6 +605,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -562,6 +613,9 @@ sections:
             text: '2003 - Loving with Pride'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -569,6 +623,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -576,6 +631,9 @@ sections:
             text: '2004 - Speak up! Speak out! Celebrating the Power of Communication to Fight Hate and Fear'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -589,6 +647,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -596,6 +655,9 @@ sections:
             text: '2005 - Building the Bridge to Bring It All Together'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -609,6 +671,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -616,6 +679,9 @@ sections:
             text: '2006 - Painting the Rainbow: Celebrating Unity through Diversity'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -629,6 +695,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -636,6 +703,9 @@ sections:
             text: '2007 - Alphabet Soup: No Matter the Letter We Stand Together'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -649,10 +719,12 @@ sections:
       -
         type: set
         attrs:
+          id: Hu9AwGk2
           values:
             type: buttons
             buttons:
               -
+                id: uqEgu607
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2007_program_guide_192c0d66c3e7b1'
                 text: 'View program'
                 color: btn-green
@@ -664,6 +736,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -671,6 +744,9 @@ sections:
             text: '2008 - Voting for Change: Liberty and Justice for All'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -687,10 +763,12 @@ sections:
       -
         type: set
         attrs:
+          id: 6yHz2Bhc
           values:
             type: buttons
             buttons:
               -
+                id: axNrKwKI
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2008_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -702,6 +780,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -709,6 +788,9 @@ sections:
             text: '2009 - Living Out Loud: Examining Our Past to Enhance Our Future'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -722,10 +804,12 @@ sections:
       -
         type: set
         attrs:
+          id: wxnorGwQ
           values:
             type: buttons
             buttons:
               -
+                id: qtHASbaw
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2009_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -737,6 +821,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -744,6 +829,9 @@ sections:
             text: '2010 - Get Real! Confronting Privilege, Provoking Dialogue, and Building New Foundations'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -757,10 +845,12 @@ sections:
       -
         type: set
         attrs:
+          id: XEyDTue3
           values:
             type: buttons
             buttons:
               -
+                id: WZ5iB4ly
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2010_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -772,6 +862,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -779,6 +870,9 @@ sections:
             text: '2011 - Justice or Just Us? Achieving Liberty for All'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -792,10 +886,12 @@ sections:
       -
         type: set
         attrs:
+          id: giCxd07s
           values:
             type: buttons
             buttons:
               -
+                id: qJLjEuc0
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2011_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -807,6 +903,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -814,6 +911,9 @@ sections:
             text: '2012 - The Butterfly Effect: Evolution to Revolution'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -827,10 +927,12 @@ sections:
       -
         type: set
         attrs:
+          id: 4i49Yseq
           values:
             type: buttons
             buttons:
               -
+                id: 2eNB3sTf
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2012_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -842,6 +944,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -849,6 +952,9 @@ sections:
             text: '2013 - Mosaic: Putting the Pieces Together'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -862,10 +968,12 @@ sections:
       -
         type: set
         attrs:
+          id: bN9mqUUm
           values:
             type: buttons
             buttons:
               -
+                id: KKVSZbYd
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2013_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -877,13 +985,17 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: '2014 - Jazzin'' It Up'
+            text: "2014 - Jazzin' It Up"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -897,10 +1009,12 @@ sections:
       -
         type: set
         attrs:
+          id: RttzkWKV
           values:
             type: buttons
             buttons:
               -
+                id: S9XUANai
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2014_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -912,6 +1026,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -919,6 +1034,9 @@ sections:
             text: '2015 - Narrating a New Normal'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -932,10 +1050,12 @@ sections:
       -
         type: set
         attrs:
+          id: iap9w517
           values:
             type: buttons
             buttons:
               -
+                id: ERFDHU1q
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2015_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -947,6 +1067,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -954,6 +1075,9 @@ sections:
             text: '2016 - Introspection at the Crossroads'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -970,10 +1094,12 @@ sections:
       -
         type: set
         attrs:
+          id: owUKdYIG
           values:
             type: buttons
             buttons:
               -
+                id: 0qHEsQY4
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2016_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -985,6 +1111,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -992,6 +1119,9 @@ sections:
             text: '2017 - United in Solidarity'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1005,10 +1135,12 @@ sections:
       -
         type: set
         attrs:
+          id: NNC0ZKt5
           values:
             type: buttons
             buttons:
               -
+                id: o4o5ZqMF
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2017_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -1020,6 +1152,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1027,6 +1160,9 @@ sections:
             text: '2018 - All Roads Lead to Intersectionality'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1040,10 +1176,12 @@ sections:
       -
         type: set
         attrs:
+          id: Ep12lJX9
           values:
             type: buttons
             buttons:
               -
+                id: yhcFfGFk
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2018_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -1055,6 +1193,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1062,6 +1201,9 @@ sections:
             text: '2019 - Beyond the Rainbow and to the Stars'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1075,10 +1217,12 @@ sections:
       -
         type: set
         attrs:
+          id: U60gXLbC
           values:
             type: buttons
             buttons:
               -
+                id: WSBTO0lU
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2019_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -1090,6 +1234,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1097,6 +1242,9 @@ sections:
             text: '2020 - Envisioning a Future Together'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1110,10 +1258,12 @@ sections:
       -
         type: set
         attrs:
+          id: K2bMRBbZ
           values:
             type: buttons
             buttons:
               -
+                id: BUUlATPa
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2020_program_guide'
                 text: 'View program'
                 color: btn-green
@@ -1125,6 +1275,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1132,6 +1283,9 @@ sections:
             text: '2021 - From Protest and Beyond Pride'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1145,10 +1299,12 @@ sections:
       -
         type: set
         attrs:
+          id: VjKjY04Z
           values:
             type: buttons
             buttons:
               -
+                id: LZ2spICl
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
                 text: 'View program'
                 color: btn-green
@@ -1159,9 +1315,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1169,6 +1329,9 @@ sections:
             text: '2022 - Limitless: Queer Activism of the Future'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1182,10 +1345,12 @@ sections:
       -
         type: set
         attrs:
+          id: tlmbCaBW
           values:
             type: buttons
             buttons:
               -
+                id: O8R7syzE
                 link: 'https://issuu.com/sgdinstitute/docs/mblgtacc30-program'
                 text: 'View program'
                 color: btn-green
@@ -1196,9 +1361,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1206,6 +1375,9 @@ sections:
             text: '2023 - 31st annual MBLGTACC'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1215,14 +1387,16 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the University of Kentucky.'
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the University of Kentucky and Visit Lexington.'
     type: content
     enabled: true
   -
+    id: 2feIIcs3
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -1230,6 +1404,9 @@ sections:
             text: 'Can you help us?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1241,8 +1418,9 @@ sections:
                 type: link
                 attrs:
                   href: 'http://sgdinstitute.org'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: Institute
           -
             type: text
@@ -1263,8 +1441,9 @@ sections:
                 type: link
                 attrs:
                   href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
-                  target: null
                   rel: null
+                  target: null
+                  title: null
             text: 'Connect with us'
           -
             type: text
@@ -1272,16 +1451,15 @@ sections:
     type: content
     enabled: true
   -
+    id: nwzwIItW
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666713944
+updated_at: 1676742147
 ---

@@ -4,6 +4,7 @@ blueprint: pages
 title: 'Take the Last Bite podcast'
 sections:
   -
+    id: WVelidSv
     header_image: headers/lastbite-hero2.jpg
     title: 'Take the Last Bite'
     has_tag: true
@@ -14,12 +15,13 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    subtitle: 'Season 3 streaming now—New episodes bi-weekly'
+    subtitle: 'Season 4 coming March 2023—New episodes bi-weekly'
     link: 'entry::1c3d6975-2553-4efc-9058-4d8306027012'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
   -
+    id: 3NoZmKkV
     bard:
       -
         type: heading
@@ -32,10 +34,12 @@ sections:
       -
         type: set
         attrs:
+          id: FkUMP5te
           values:
             type: buttons
             buttons:
               -
+                id: m4vkXyeW
                 link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
                 text: Spotify
                 color: btn-green
@@ -44,6 +48,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: zDuaDqs6
                 link: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
                 text: Apple
                 color: btn-green
@@ -52,6 +57,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: leznssOK
                 link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
                 text: Google
                 color: btn-green
@@ -63,6 +69,7 @@ sections:
     type: content
     enabled: true
   -
+    id: b5puaXj7
     bard:
       -
         type: paragraph
@@ -72,10 +79,11 @@ sections:
         content:
           -
             type: text
-            text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. '
+            text: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. "
     type: content
     enabled: true
   -
+    id: dCcH1RSz
     bard:
       -
         type: heading
@@ -240,6 +248,7 @@ sections:
     type: content
     enabled: true
   -
+    id: mR9nMPlC
     bard:
       -
         type: heading
@@ -283,7 +292,7 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: 'Ep. 8: I Guess I''ll Vote *shrug*'
+            text: "Ep. 8: I Guess I'll Vote *shrug*"
           -
             type: text
             text: ' →'
@@ -397,7 +406,7 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: 'Ep. 2: Let''s Get Down to (Queer) Business'
+            text: "Ep. 2: Let's Get Down to (Queer) Business"
           -
             type: text
             text: ' →'
@@ -416,13 +425,14 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Ep. 1: You''re Allowed to Fire Your Therapist'
+            text: "Ep. 1: You're Allowed to Fire Your Therapist"
           -
             type: text
             text: ' →'
     type: content
     enabled: true
   -
+    id: ZPWU4Mna
     bard:
       -
         type: heading
@@ -625,6 +635,7 @@ sections:
     type: content
     enabled: true
   -
+    id: PacjQoKo
     bard:
       -
         type: heading
@@ -762,6 +773,7 @@ sections:
     type: content
     enabled: true
   -
+    id: r8MCxLgG
     bard:
       -
         type: heading
@@ -794,6 +806,7 @@ sections:
     type: content
     enabled: false
   -
+    id: w4PNGQrL
     bard:
       -
         type: heading
@@ -816,7 +829,7 @@ sections:
             type: text
             text: ' R.B. Brooks'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -827,7 +840,7 @@ sections:
             type: text
             text: ' Justin Drwencke'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -853,6 +866,7 @@ sections:
     type: content
     enabled: true
   -
+    id: eCTjCtKM
     type: content
     enabled: true
   -
@@ -938,10 +952,12 @@ sections:
       -
         type: set
         attrs:
+          id: IePKmgVd
           values:
             type: buttons
             buttons:
               -
+                id: 2Xs4yyzA
                 link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
                 text: 'Give now'
                 color: btn-white
@@ -954,14 +970,13 @@ sections:
         type: paragraph
     image: news/lastbite-launch-promo-web-featured-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1673388673
-description: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place.'
+updated_at: 1677347958
+description: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
 ---

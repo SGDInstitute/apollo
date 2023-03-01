@@ -1,14 +1,15 @@
 ---
 id: 507d15b8-8774-444e-af6f-fa28bc4bd26e
-published: false
 blueprint: pages
 title: 'Technical Assistance'
 sections:
   -
+    id: KZUeEPtG
     title: 'Technical Assistance'
     type: header_small
     enabled: true
   -
+    id: 0hf7e1P1
     bard:
       -
         type: paragraph
@@ -21,6 +22,9 @@ sections:
             text: 'The Midwest Institute for Sexuality and Gender Diversity provides individualized technical assistance to organizations seeking to advance knowledge of diverse sexualities and genders and increase capacity to to support and serve the lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA) community.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -28,6 +32,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -35,6 +40,9 @@ sections:
             text: 'Our approach'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -73,54 +81,72 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Our technical assistance can include:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Custom training covering a wide range of topics related to gender and sexuality'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Program development, climate assessment, and evaluation'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Project management'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Event planning and consultation'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -128,6 +154,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -135,6 +162,9 @@ sections:
             text: 'Get started'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -142,13 +172,14 @@ sections:
       -
         type: set
         attrs:
+          id: oeqsCl8j
           values:
             type: form
             formset: contact
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1674837615
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1677347023
 description: 'The Midwest Institute for Sexuality and Gender Diversity provides individualized technical assistance to organizations seeking to advance knowledge of diverse sexualities and genders and increase capacity to to support and serve the lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA) community.'
 ---
