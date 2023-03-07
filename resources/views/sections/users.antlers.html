@@ -6,7 +6,7 @@
     <div class="container px-8 mx-auto md:px-0">
         <div class="grid grid-cols-1 gap-4 mt-16 md:grid-cols-4">
             {{ users }}
-            <div class="transition duration-150 ease-in-out group h-96 hover:bg-green-500 hover:shadow">
+            <a href="{{ url }}/{{ slug }}" class="transition duration-150 ease-in-out group h-96 hover:bg-green-500 hover:shadow">
                 <div class="bg-center bg-cover h-2/3" style="background-image: url({{ glide:avatar square="500" }});">
                     <img src="{{ glide:avatar square="500" }}" alt="{{ name }}" class="sr-only">
                 </div>
@@ -15,7 +15,7 @@
                     <p class="text-gray-700 dark:text-gray-400 group-hover:text-gray-200">{{ position }}</p>
                     <p class="text-sm text-gray-700 dark:text-gray-400 text-italic group-hover:text-gray-200">{{ pronouns }}</p>
                 </div>
-            </div>
+            </a>
             {{ /users }}
         </div>
     </div>
