@@ -1,0 +1,39 @@
+{{ users slug:is="{slug}" }}
+{{ partial src="sections/breadcrumbs" }}
+<section class="pt-12 mb-8 bg-yellow-300 dark:bg-gray-800">
+    <div class="px-8 mx-auto md:px-0 max-w-prose grid grid-cols-5 gap-8">
+        <div class="col-span-3 pb-4">
+            <div class="space-y-2">
+                <p class="text-gray-900 uppercase tracking-widest dark:text-gray-200 group-hover:text-gray-200">
+                    {{ groups | implode }}
+                </p>
+                <p class="text-4xl py-1 font-bold text-gray-900 dark:text-gray-200">{{ name }}</p>
+                <p class="text-gray-700 text-2xl dark:text-gray-400 group-hover:text-gray-400">{{ position }}</p>
+                <p class="text-2xl text-gray-700 dark:text-gray-400 text-italic">
+                    {{ pronouns }}
+                </p>
+            </div>
+            <hr class="my-4" />
+            <div class="space-y-2">
+                <a href="mailto:{{ email }}" class="flex space-x-4 items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+                    </svg>
+                    <span>{{ email }}</span>
+                </a>
+                {{ partial src="partials/socials" class="text-gray-900" }}
+            </div>
+        </div>
+        <div class="col-span-2">
+            <img src="{{ avatar }}" alt="{{ name }}" class="-mb-12">
+        </div>
+    </div>
+</section>
+<section class="py-16 bg-white dark:bg-gray-800">
+    <div class="px-8 mx-auto md:px-0">
+        {{ partial src="bard/bard" }}
+    </div>
+</section>
+{{ /users }}

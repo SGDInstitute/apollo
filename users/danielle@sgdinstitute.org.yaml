@@ -3,4 +3,7 @@ super: true
 avatar: team/danielle.jpg
 position: 'Director of Community Engagement'
 pronouns: they/them
+slug: danielle-kropveld
+groups:
+  - staff
 id: ce0032cc-cdd1-4805-bbf4-8e95e3272619

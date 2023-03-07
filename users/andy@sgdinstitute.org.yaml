@@ -1,8 +1,71 @@
 name: 'Andy Newhouse'
 super: true
-avatar: team/andy.jpg
+avatar: team/andy-silly.jpg
 position: 'Director of Technology'
 pronouns: they/them
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'My name is Andy Newhouse, but I also go by TechEnby online. I have been a web developer/programmer for around 10 years. Most of which I have been working with MBLGTACC. Besides volunteering for the Institute, I have a full-time programmer position at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://tighten.com'
+              rel: null
+              target: null
+              title: null
+        text: Tighten
+      -
+        type: text
+        text: ' and I help out my spouse with their small crafting business '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://chaoticnotions.xyz'
+              rel: null
+              target: null
+              title: null
+        text: 'Chaotic Notions'
+      -
+        type: text
+        text: ". I'm neurodivergent and non-binary."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+      class: null
+    content:
+      -
+        type: text
+        text: 'I live in a suburb of Chicago, IL with my spouse Jess and our two dogs Velvet and Geo. I love spending free time building LEGO sets, binging various animated TV shows, babysitting our 3D printers, playing video games (mostly Pokémon, Mario Kart and Minecraft), blowing air into a Clarinet or Trumpet in my community band, leveling up my cooking and baking skills, or playing card and board games with friends.'
+slug: andy-newhouse
+groups:
+  - staff
+socials:
+  -
+    id: lekfvohj
+    network: twitter
+    link: 'https://twitter.com/techenby'
+  -
+    id: lekfvwmo
+    network: youtube
+    link: 'https://youtube.com/@techenby'
+  -
+    id: lekfw442
+    network: instagram
+    link: 'https://instagram.com/techenby'
 id: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 password_hash: $2y$10$G/9aLPRwahJQFsl6V6ulCutAKmxryB5kEmmFj9dRHGxNylvElwvpi
 preferences:

@@ -3,4 +3,7 @@ super: true
 avatar: team/stephanie.jpg
 position: 'Board President'
 pronouns: she/her
+slug: stephanie-skora
+groups:
+  - board
 id: 15578ac2-4841-4c44-b5d3-52af7955bd79

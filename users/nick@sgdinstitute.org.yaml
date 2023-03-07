@@ -3,6 +3,9 @@ super: true
 avatar: team/nick.jpg
 position: 'Director of Marketing and Communications'
 pronouns: 'he/him, they/them'
+slug: nick-pfost
+groups:
+  - staff
 id: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
 password_hash: $2y$10$eN055RHp2ReFJKgRtKKwP.oPdnAYxkwCbNgKqFx1WbqK.hUoDO0s6
 preferences:

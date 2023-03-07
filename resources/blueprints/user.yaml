@@ -7,36 +7,32 @@ sections:
         field:
           type: text
           display: Name
+          localizable: false
+          width: 66
+      -
+        handle: slug
+        field:
+          from: name
+          generate: true
+          display: Slug
+          type: slug
+          icon: slug
+          instructions: 'Used for the url when clicking on bio.'
+          localizable: false
+          width: 33
+          listable: hidden
+          instructions_position: below
+          visibility: visible
       -
         handle: email
         field:
           type: text
-          input: email
+          input_type: email
           display: 'Email Address'
-      -
-        handle: roles
-        field:
-          type: user_roles
-          width: 50
-      -
-        handle: groups
-        field:
-          type: user_groups
-          width: 50
-      -
-        handle: avatar
-        field:
-          type: assets
-          max_files: 1
-          container: assets
-      -
-        handle: position
-        field:
-          input_type: text
-          display: Position
-          type: text
-          icon: text
-          listable: hidden
+          listable: true
+          input: email
+          localizable: false
+          width: 66
       -
         handle: pronouns
         field:
@@ -45,3 +41,44 @@ sections:
           type: text
           icon: text
           listable: hidden
+          localizable: false
+          width: 33
+      -
+        handle: position
+        field:
+          input_type: text
+          display: Position
+          type: text
+          icon: text
+          listable: hidden
+          localizable: false
+      -
+        import: content
+      -
+        import: socials
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: roles
+        field:
+          type: user_roles
+          mode: select
+          width: 50
+          listable: true
+          localizable: false
+      -
+        handle: groups
+        field:
+          type: user_groups
+          mode: select
+          width: 50
+          listable: true
+          localizable: false
+      -
+        handle: avatar
+        field:
+          type: assets
+          max_files: 1
+          container: assets
+          localizable: false
