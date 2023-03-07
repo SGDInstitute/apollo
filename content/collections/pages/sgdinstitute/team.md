@@ -43,9 +43,7 @@ sections:
       - cc1d6f85-bab6-480d-8bd1-226c3d628cb2
       - 64bfc780-ec30-4700-965f-318f71d3f2b3
       - ce0032cc-cdd1-4805-bbf4-8e95e3272619
-    bg_type: color
     num_colors: 2
-    bg_color: bg-white
     type: users
     enabled: true
   -
@@ -73,9 +71,7 @@ sections:
       - fe58fa2e-d72a-40dd-9b70-378f09c2d7f4
       - 124f7c83-15d4-4f13-81c7-97b227982c92
       - e6fb3a3e-86e1-496d-9118-4b75c0002cbd
-    bg_type: color
     num_colors: 2
-    bg_color: bg-white
     type: users
     enabled: true
   -
