@@ -4,10 +4,12 @@ blueprint: pages
 title: 'Our Team'
 sections:
   -
+    id: oCZdVWFR
     title: 'Our Team'
     type: header_small
     enabled: true
   -
+    id: K9fder5e
     bard:
       -
         type: paragraph
@@ -17,14 +19,16 @@ sections:
         content:
           -
             type: text
-            text: 'Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more—who''ve dedicated themselves to the causes of building queer success in the Midwest.'
+            text: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields—higher education, financial services, marketing, urban farming, IT/web development, local government, and more—who've dedicated themselves to the causes of building queer success in the Midwest."
     type: content
     enabled: true
   -
+    id: 0iHIDMtT
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -32,6 +36,9 @@ sections:
             text: Staff
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -44,11 +51,11 @@ sections:
       - 64bfc780-ec30-4700-965f-318f71d3f2b3
       - ce0032cc-cdd1-4805-bbf4-8e95e3272619
     bg_type: color
-    num_colors: 2
     bg_color: bg-white
     type: users
     enabled: true
   -
+    id: RhNp8UOd
     bard:
       -
         type: paragraph
@@ -74,11 +81,11 @@ sections:
       - 124f7c83-15d4-4f13-81c7-97b227982c92
       - e6fb3a3e-86e1-496d-9118-4b75c0002cbd
     bg_type: color
-    num_colors: 2
     bg_color: bg-white
     type: users
     enabled: true
   -
+    id: 6k9eE8YY
     bard:
       -
         type: heading
@@ -95,10 +102,10 @@ sections:
             type: text
             text: 'Our work is supported by input and advice from outstanding accomplices.'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -107,7 +114,7 @@ sections:
                     type: text
                     text: 'TK Morton'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -116,7 +123,7 @@ sections:
                     type: text
                     text: 'Mai Jakubowski'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -125,7 +132,7 @@ sections:
                     type: text
                     text: 'Robert Alberts'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -136,6 +143,7 @@ sections:
     type: content
     enabled: true
   -
+    id: yJrx07Ol
     bard:
       -
         type: heading
@@ -167,10 +175,12 @@ sections:
       -
         type: set
         attrs:
+          id: VGEogfb7
           values:
             type: buttons
             buttons:
               -
+                id: Ch1lX62F
                 link: 'mailto:justin@sgdinstitute.org,stephanie@sgdinstitute.org?subject=Board%20of%20Directors'
                 text: 'Contact Us About Joining the Board'
                 color: btn-green
@@ -184,6 +194,7 @@ sections:
     type: content
     enabled: false
   -
+    id: XTdWQsiL
     bard:
       -
         type: heading
@@ -202,10 +213,12 @@ sections:
       -
         type: set
         attrs:
+          id: 2rwodqPk
           values:
             type: buttons
             buttons:
               -
+                id: KWoX1pjA
                 link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
                 text: 'Send us a note'
                 color: btn-green
@@ -219,18 +232,17 @@ sections:
     type: content
     enabled: true
   -
+    id: 3Z4s5zco
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661026524
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678215176
 image:
   - headers/header-hug.JPG
 ---
