@@ -1,7 +1,7 @@
 name: 'Andy Newhouse'
 super: true
 avatar: team/andy.jpg
-position: 'Director of Technology'
+position: 'Director of Tech'
 pronouns: they/them
 id: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 password_hash: $2y$10$G/9aLPRwahJQFsl6V6ulCutAKmxryB5kEmmFj9dRHGxNylvElwvpi
