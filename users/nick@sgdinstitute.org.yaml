@@ -6,6 +6,34 @@ pronouns: 'he/him, they/them'
 slug: nick-pfost
 groups:
   - staff
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "Nick Pfost (he/they) is the director of communications and marketing for the Midwest Institute for Sexuality and Gender Diversity, a volunteer role. An MPP-trained communicator with over a decade of experience in higher education and nonprofits, they lead strategic communications, marketing, and design to advance the Institute's mission and impact."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "By day, Nick is a marketing strategist for the University of Michigan's Division of Student Life, where they serve The Program on Intergroup Relations, Office of Multi-Ethnic Student Affairs, and the Spectrum Center. Previously, Nick was a marketing and communications specialist at U-M’s Gerald R. Ford School of Public Policy, where they functioned as the school’s in-house designer, creative projects lead, and brand manager, advising on and helping implement major marketing initiatives."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "Nick is an Eagle Scout and an alum of the University of Michigan and Michigan State University. They earned their Master of Public Policy from the Ford School (2015) and a dual Bachelor of Arts degree in social relations & policy and international relations from MSU's James Madison College (2011)."
 id: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
 password_hash: $2y$10$eN055RHp2ReFJKgRtKKwP.oPdnAYxkwCbNgKqFx1WbqK.hUoDO0s6
 preferences:
