@@ -4,10 +4,12 @@ blueprint: pages
 title: Contact
 sections:
   -
+    id: CmADUbXp
     title: 'Contact us'
     type: header_small
     enabled: true
   -
+    id: g9cGSmu7
     bard:
       -
         type: heading
@@ -20,6 +22,7 @@ sections:
       -
         type: set
         attrs:
+          id: KWfNWYxy
           values:
             type: form
             formset: contact
@@ -137,7 +140,8 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1638379130
+updated_at: 1678370387
 image:
   - headers/header_poem.jpg
+description: 'Contact the Midwest Institute for Sexuality and Gender Diversity'
 ---
