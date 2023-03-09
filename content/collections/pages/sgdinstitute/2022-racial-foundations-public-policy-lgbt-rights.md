@@ -4,6 +4,7 @@ blueprint: pages
 title: 'Racial Foundations of Public Policy: LGBT Rights | Queer Policy Series 2022'
 sections:
   -
+    id: FRDzeKUt
     header_image: headers/blurry-background.jpg
     title: 'Racial Foundations of Public Policy: LGBT Rights'
     subtitle: 'A conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes'
@@ -20,6 +21,7 @@ sections:
     link: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0&feature=emb_title&ab_channel=FordSchool'
     text: 'Watch on YouTube'
   -
+    id: 46RVUck8
     bard:
       -
         type: heading
@@ -32,17 +34,20 @@ sections:
       -
         type: set
         attrs:
+          id: ooDWBb9Y
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0'
       -
         type: set
         attrs:
+          id: 5gWGD9IY
           enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: iS66xWtK
                 link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
                 text: 'Read the written reflection'
                 color: btn-green
@@ -56,6 +61,7 @@ sections:
     type: content
     enabled: true
   -
+    id: hnXjIBu8
     bard:
       -
         type: paragraph
@@ -67,12 +73,12 @@ sections:
             type: text
             text: 'October 27, 2022'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '4:00-5:15 pm EDT (3:00-4:15 pm CDT)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: Virtual
@@ -111,10 +117,11 @@ sections:
         content:
           -
             type: text
-            text: 'This event is co-sponsored by the Center for Racial Justice and Gerald R. Ford School of Public Policy at the University of Michigan, presented as part of their Racial Foundations of Public Policy series and the Institute''s Queer Policy Series. The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
+            text: "This event is co-sponsored by the Center for Racial Justice and Gerald R. Ford School of Public Policy at the University of Michigan, presented as part of their Racial Foundations of Public Policy series and the Institute's Queer Policy Series. The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders."
     type: content
     enabled: true
   -
+    id: vJvufAUg
     bard:
       -
         type: heading
@@ -129,6 +136,7 @@ sections:
       -
         type: set
         attrs:
+          id: hS7JbMjI
           values:
             type: image
             image: news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
@@ -171,7 +179,7 @@ sections:
                   title: null
               -
                 type: italic
-            text: 'Read Wilson''s full bio.'
+            text: "Read Wilson's full bio."
       -
         type: heading
         attrs:
@@ -204,10 +212,11 @@ sections:
                   title: null
               -
                 type: italic
-            text: 'Read Watkins-Hayes'' full bio.'
+            text: "Read Watkins-Hayes' full bio."
     type: content
     enabled: true
   -
+    id: c8xh70vU
     bard:
       -
         type: heading
@@ -226,10 +235,12 @@ sections:
       -
         type: set
         attrs:
+          id: Lzflb00C
           values:
             type: buttons
             buttons:
               -
+                id: wUmIMr9u
                 link: 'mailto:fspp-events@umich.edu'
                 text: 'Submit accessibility request'
                 color: btn-green
@@ -243,6 +254,7 @@ sections:
     type: content
     enabled: true
   -
+    id: mqP6ij4y
     bard:
       -
         type: heading
@@ -261,6 +273,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 13nJKcmG
     bard:
       -
         type: heading
@@ -312,9 +325,10 @@ sections:
         type: paragraph
     type: content
     enabled: false
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666921813
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370341
 template: default
 image:
   - news/bianca-wilson-aug2022-featured-redux-1090x681.jpg
+description: 'The historical roots and impact of race, gender, and sexuality shape public policy as both a disciplinary field and as a course of action.'
 ---
