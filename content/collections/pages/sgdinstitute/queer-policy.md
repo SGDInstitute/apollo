@@ -4,6 +4,7 @@ blueprint: pages
 title: 'Queer Policy Series'
 sections:
   -
+    id: A3APcH3W
     header_image: headers/transpolicyevent-hero-jul2021-01.jpg
     title: 'Queer Policy Series'
     has_tag: true
@@ -17,6 +18,7 @@ sections:
     enabled: true
     tag: Program
   -
+    id: ToDdx7AO
     bard:
       -
         type: paragraph
@@ -55,7 +57,7 @@ sections:
                 type: bold
             text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT) | Free'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: bold
@@ -65,10 +67,12 @@ sections:
       -
         type: set
         attrs:
+          id: FS5E2T4g
           values:
             type: buttons
             buttons:
               -
+                id: dvwYepDs
                 link: 'entry::f69f8733-4bed-44e3-a13c-d8fb091495de'
                 text: 'Learn more & register'
                 color: btn-white
@@ -81,11 +85,11 @@ sections:
         type: paragraph
     image: bianca-wilson-oct27-date-featured-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: false
   -
+    id: bnbjFdhL
     bard:
       -
         type: heading
@@ -112,6 +116,7 @@ sections:
       -
         type: set
         attrs:
+          id: 8VRlNGcM
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=Sjk5gaKnsM0&feature=emb_title&ab_channel=FordSchool'
@@ -119,10 +124,12 @@ sections:
       -
         type: set
         attrs:
+          id: ZkJJkDfo
           values:
             type: buttons
             buttons:
               -
+                id: BD3cUmUV
                 link: 'entry::f69f8733-4bed-44e3-a13c-d8fb091495de'
                 text: 'Speaker bios'
                 color: btn-green
@@ -159,6 +166,7 @@ sections:
       -
         type: set
         attrs:
+          id: 9JvhKSVh
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
@@ -166,10 +174,12 @@ sections:
       -
         type: set
         attrs:
+          id: ULMnzBVU
           values:
             type: buttons
             buttons:
               -
+                id: rnggYGx9
                 link: 'entry::3b2719eb-9fce-437a-85e2-597c086365e9'
                 text: 'Panelist bios'
                 color: btn-green
@@ -183,6 +193,7 @@ sections:
     type: content
     enabled: true
   -
+    id: jY2xoskX
     bard:
       -
         type: heading
@@ -278,10 +289,12 @@ sections:
       -
         type: set
         attrs:
+          id: TmqnBxR9
           values:
             type: buttons
             buttons:
               -
+                id: zTinYS4T
                 link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
                 text: 'Give now'
                 color: btn-white
@@ -294,13 +307,13 @@ sections:
         type: paragraph
     image: news/three-rad-ways-get-involved-mblgtacc-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668888798
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370309
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
+description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
 ---
