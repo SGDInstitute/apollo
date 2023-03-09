@@ -1,0 +1,17 @@
+{
+  "resources/js/cp.js": {
+    "file": "assets/cp.2e361259.js",
+    "src": "resources/js/cp.js",
+    "isEntry": true
+  },
+  "resources/js/site.js": {
+    "file": "assets/site.5f3ad8a7.js",
+    "src": "resources/js/site.js",
+    "isEntry": true
+  },
+  "resources/css/tailwind.css": {
+    "file": "assets/tailwind.a9d4fc36.css",
+    "src": "resources/css/tailwind.css",
+    "isEntry": true
+  }
+}

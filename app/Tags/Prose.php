@@ -12,7 +12,7 @@ class Prose extends Tags
 
         if ($backgroundColor !== '') {
             $searchString = $backgroundColor.' {  --bg-opacity: 1;  background-color: ';
-            $file = str_replace(["\r", "\n"], '', file_get_contents(public_path('css/tailwind.css')));
+            $file = $this->getCssFile();
             $position = strpos($file, $searchString);
 
             if ($position) {
@@ -32,6 +32,13 @@ class Prose extends Tags
         if ($backgroundColor === null || $backgroundColor === 'bg-gray-200') {
             return 'dark:prose-invert';
         }
+    }
+
+    private function getCssFile()
+    {
+        $manifest = json_decode(file_get_contents(public_path('build/manifest.json')), true);
+        $cssFilePath = $manifest['resources/css/tailwind.css']['file'];
+        return str_replace(["\r", "\n"], '', file_get_contents(public_path('build/' . $cssFilePath)));
     }
 
     private function whichIsBetter($color)
