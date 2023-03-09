@@ -4,17 +4,19 @@ blueprint: pages
 title: 'News & Blog'
 sections:
   -
+    id: dCBQ4Lcg
     title: 'News & Blog'
     type: header_small
     enabled: true
   -
+    id: 6CyopbwJ
     bg_type: image
     bg_image: headers/blurry-background.jpg
-    num_colors: 2
     title: 'News & Blog'
     type: header
     enabled: false
   -
+    id: g8y27TbA
     bard:
       -
         type: heading
@@ -27,6 +29,7 @@ sections:
     type: content
     enabled: true
   -
+    id: HIFYnfHp
     articles:
       - 481cc737-dc5d-4b89-b65f-6d85b302eb8a
       - 1c3d6975-2553-4efc-9058-4d8306027012
@@ -34,11 +37,11 @@ sections:
       - a8bac138-2c2c-46c3-8bcb-263bd2b9dbfc
       - b62f94e7-2958-41db-aae6-8c3fb4052afd
     bg_type: color
-    num_colors: 2
     bg_color: bg-white
     type: news_feature
     enabled: true
   -
+    id: epnnOyYD
     bard:
       -
         type: heading
@@ -60,10 +63,12 @@ sections:
       -
         type: set
         attrs:
+          id: DN9FzK3E
           values:
             type: buttons
             buttons:
               -
+                id: vdHNNiWD
                 link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
                 text: 'Podcast episodes'
                 color: btn-green
@@ -72,6 +77,7 @@ sections:
                 outline: true
                 target_blank: false
               -
+                id: 69ZhYdSy
                 link: 'https://mblgtacc.org/news'
                 text: 'MBLGTACC news ↗️'
                 color: btn-green
@@ -85,16 +91,17 @@ sections:
     type: content
     enabled: true
   -
+    id: xPsHTGwJ
     limit: 90
     type: news
     enabled: true
     num_per_row: 3
     pagination: true
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     exclude: true
   -
+    id: jetKScTb
     bard:
       -
         type: heading
@@ -133,8 +140,9 @@ sections:
         type: paragraph
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1674080056
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370176
 image:
   - headers/homepage-hero1.jpg
+description: 'Find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
 ---
