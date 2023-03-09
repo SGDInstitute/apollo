@@ -2,7 +2,7 @@ name: 'Nick Pfost'
 super: true
 avatar: team/nick.jpg
 position: 'Director of Marketing and Communications'
-pronouns: 'he/him, they/them'
+pronouns: he/they
 slug: nick-pfost
 groups:
   - staff
