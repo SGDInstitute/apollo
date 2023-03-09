@@ -4,10 +4,12 @@ blueprint: pages
 title: 'Our Mission, Vision, and Values'
 sections:
   -
+    id: uazk314J
     title: 'Our Mission, Vision, and Values'
     type: header_small
     enabled: true
   -
+    id: 20Y6bPZB
     bard:
       -
         type: heading
@@ -54,6 +56,7 @@ sections:
       -
         type: set
         attrs:
+          id: 7HN0hKaN
           values:
             type: 2_columns
             left_column: content
@@ -96,6 +99,7 @@ sections:
       -
         type: set
         attrs:
+          id: sy0GipME
           values:
             type: 2_columns
             left_column: content
@@ -135,6 +139,7 @@ sections:
       -
         type: set
         attrs:
+          id: sSQbbm9z
           values:
             type: 2_columns
             left_column: content
@@ -172,6 +177,7 @@ sections:
     type: content
     enabled: true
   -
+    id: ORPTWrpl
     bard:
       -
         type: heading
@@ -188,10 +194,10 @@ sections:
             type: text
             text: 'In addition to our mission, vision, and values, our work is shaped by our guiding principles:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -200,7 +206,7 @@ sections:
                     type: text
                     text: 'Opposing oppression'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -209,7 +215,7 @@ sections:
                     type: text
                     text: 'Rescripting and challenging higher education'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -218,7 +224,7 @@ sections:
                     type: text
                     text: 'Adapting to changing contexts and integrating into existing movement work'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -227,7 +233,7 @@ sections:
                     type: text
                     text: 'Using expansive and accessible language'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -246,10 +252,12 @@ sections:
       -
         type: set
         attrs:
+          id: g7KQd9YV
           values:
             type: buttons
             buttons:
               -
+                id: 663K70wN
                 link: 'entry::8a6ba15f-784c-468b-9f33-c7d99bfbae8a'
                 text: 'Learn about our philosophy'
                 color: btn-green
@@ -263,18 +271,18 @@ sections:
     type: content
     enabled: true
   -
+    id: 0UbFyC82
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661090711
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370078
 image:
   - headers/header-chicago_pier.jpg
+description: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
 ---
