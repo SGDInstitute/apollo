@@ -4,6 +4,7 @@ blueprint: pages
 title: 'The Rise of a Trans Abolitionist Vision | 2020 Trans(Gender) Justice Teach-in'
 sections:
   -
+    id: 0VjMWxYw
     header_image: headers/tj-f20-web@2x.jpg
     title: 'The Rise of a Trans Abolitionist Vision'
     subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
@@ -18,6 +19,7 @@ sections:
     enabled: true
     has_button: false
   -
+    id: Q4bYzwry
     bard:
       -
         type: heading
@@ -30,6 +32,7 @@ sections:
       -
         type: set
         attrs:
+          id: 9IRyqbzN
           values:
             type: video
             video: 'https://youtu.be/E3Ey97tf0SA'
@@ -47,10 +50,12 @@ sections:
       -
         type: set
         attrs:
+          id: 4PnMkP9h
           values:
             type: buttons
             buttons:
               -
+                id: WNWsJgzT
                 link: 'entry::083c72b6-655d-4fc8-8827-31d7e6123b2e'
                 text: 'Read the written reflection'
                 color: btn-green
@@ -64,13 +69,14 @@ sections:
     type: content
     enabled: true
   -
+    id: Aw5p1DBO
     bard:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: "On November 10, 2020, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth's "
           -
             type: text
             marks:
@@ -84,10 +90,11 @@ sections:
             text: 'Sexuality & Gender Equity Initiatives'
           -
             type: text
-            text: ' hosted the 4th annual Trans(Gender) Justice Teach-in. This year''s panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing.'
+            text: " hosted the 4th annual Trans(Gender) Justice Teach-in. This year's panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence. In conversation our panelists and moderator, we highlighted efforts in the Midwest and emphasize the connections between both queer/trans justice and abolitionist organizing."
     type: content
     enabled: true
   -
+    id: xrl56Xdl
     bard:
       -
         type: heading
@@ -102,10 +109,11 @@ sections:
       -
         type: set
         attrs:
+          id: F9JBE8Yl
           values:
             type: image
             image: news/tj-f20_web-headshots.jpg
-            caption: '(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar''Tesha Saballos'
+            caption: "(L-R): Justin Toliver, Dominique Morgan, Qui Alexander, and Ar'Tesha Saballos"
             inline: false
       -
         type: paragraph
@@ -170,7 +178,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Ar''Tesha Saballos'
+            text: "Ar'Tesha Saballos"
       -
         type: paragraph
         content:
@@ -181,7 +189,7 @@ sections:
                 type: italic
             text: 'any pronouns'
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: italic
@@ -191,6 +199,7 @@ sections:
     type: content
     enabled: true
   -
+    id: Lcbw7EU1
     bard:
       -
         type: heading
@@ -209,6 +218,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 1x4yf2Kb
     bard:
       -
         type: heading
@@ -258,9 +268,10 @@ sections:
             text: "\_and sign up for a monthly recurring gift.\_"
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668886881
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370260
 template: default
 image:
   - headers/tj-f20-web@2x.jpg
+description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. The 2020 panel brought together T/GQ/Enby folks doing abolition work and organizing around/against state-sanctioned violence.'
 ---
