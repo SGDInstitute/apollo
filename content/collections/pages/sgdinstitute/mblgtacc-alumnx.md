@@ -4,6 +4,7 @@ blueprint: pages
 title: 'MBLGTACC Alumnx'
 sections:
   -
+    id: PkZM1yy1
     header_image: headers/header_open-mic.jpg
     title: 'MBLGTACC Alumnx'
     subtitle: 'Alumnx of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
@@ -15,6 +16,7 @@ sections:
     type: header_large
     enabled: true
   -
+    id: sCSHq04o
     bard:
       -
         type: paragraph
@@ -102,10 +104,12 @@ sections:
       -
         type: set
         attrs:
+          id: fRikb1R8
           values:
             type: buttons
             buttons:
               -
+                id: 38T42nxl
                 link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
                 text: 'Donate Today'
                 color: btn-green
@@ -133,10 +137,12 @@ sections:
       -
         type: set
         attrs:
+          id: pJb9MgSH
           values:
             type: buttons
             buttons:
               -
+                id: AFIlO3qk
                 link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
                 text: 'Contact Us'
                 color: btn-green
@@ -151,7 +157,8 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1673989307
+updated_at: 1678370297
 image:
   - headers/header_open-mic.jpg
+description: 'The MBLGTACC Alumnx program connects past attendees to facilitate relationship and coalition building across the region and provide opportunities to continue the conversations started at the conference.'
 ---
