@@ -4,20 +4,22 @@ blueprint: pages
 title: About
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1660575909
+updated_at: 1678369835
 sections:
   -
+    id: VOvzNpus
     title: 'About the Institute'
     type: header_small
     enabled: true
   -
+    id: 3HQVXaB3
     bg_type: image
     bg_image: headers/blurry-background.jpg
-    num_colors: 2
     title: 'About the Institute'
     type: header
     enabled: false
   -
+    id: t6XX0HNI
     bard:
       -
         type: paragraph
@@ -75,10 +77,12 @@ sections:
       -
         type: set
         attrs:
+          id: a8zXeL72
           values:
             type: buttons
             buttons:
               -
+                id: rRb9LDsh
                 link: 'entry::12bd6a1f-1e76-4eec-ab59-16ede7709c1c'
                 text: 'Discover our programs'
                 color: btn-green
@@ -150,10 +154,12 @@ sections:
       -
         type: set
         attrs:
+          id: AY6LUNuH
           values:
             type: buttons
             buttons:
               -
+                id: Dzq4tKKF
                 link: 'entry::8d78c3fb-8bd7-4467-9212-40fb54fcf5ef'
                 text: 'Contact us'
                 color: btn-white
@@ -167,14 +173,14 @@ sections:
     type: content
     enabled: true
   -
+    id: yv4HKLrX
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
 image:
   - headers/homepage-hero1.jpg
+description: 'At the Midwest Institute for Sexuality and Gender Diversity, we envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
 ---
