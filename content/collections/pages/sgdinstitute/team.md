@@ -52,6 +52,8 @@ sections:
       - ce0032cc-cdd1-4805-bbf4-8e95e3272619
     type: users
     enabled: true
+    bg_type: color
+    bg_color: bg-transparent
   -
     id: RhNp8UOd
     bard:
@@ -80,6 +82,8 @@ sections:
       - e6fb3a3e-86e1-496d-9118-4b75c0002cbd
     type: users
     enabled: true
+    bg_type: color
+    bg_color: bg-transparent
   -
     id: 6k9eE8YY
     bard:
@@ -238,7 +242,8 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678215176
+updated_at: 1678380995
 image:
   - headers/header-hug.JPG
+description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
 ---
