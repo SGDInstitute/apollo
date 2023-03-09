@@ -4,10 +4,12 @@ blueprint: pages
 title: 'Our Philosophy'
 sections:
   -
+    id: 5HKavWEh
     title: 'Our Philosophy'
     type: header_small
     enabled: true
   -
+    id: AtMQEMwb
     bard:
       -
         type: paragraph
@@ -95,6 +97,7 @@ sections:
       -
         type: set
         attrs:
+          id: dZiMeViG
           values:
             type: image
             image: history/mission-history-CONTENT.jpg
@@ -279,6 +282,7 @@ sections:
     type: content
     enabled: true
   -
+    id: aznvLUD4
     bard:
       -
         type: heading
@@ -289,10 +293,10 @@ sections:
             type: text
             text: 'Learn more'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -308,7 +312,7 @@ sections:
                           rel: null
                     text: 'Our mission, vision, and values'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -339,22 +343,24 @@ sections:
         content:
           -
             type: text
-            text: 'Let''s collaborate'
+            text: "Let's collaborate"
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'As we continue to grow and evolve, we''re eager to continue building relationships and developing mutually beneficial partnerships with others working in mission- and/or philosophy-aligned movements, initiatives, community spaces, and organizations. If we haven''t met, please reach out and let us introduce ourselves.'
+            text: "As we continue to grow and evolve, we're eager to continue building relationships and developing mutually beneficial partnerships with others working in mission- and/or philosophy-aligned movements, initiatives, community spaces, and organizations. If we haven't met, please reach out and let us introduce ourselves."
       -
         type: paragraph
       -
         type: set
         attrs:
+          id: mfGWcUE7
           values:
             type: buttons
             buttons:
               -
+                id: cm0ZTRUV
                 link: 'mailto:justin@sgdinstitute.org'
                 text: 'Contact our executive director'
                 color: btn-white
@@ -362,29 +368,27 @@ sections:
                 block: false
                 outline: false
                 target_blank: true
-                button: null
             contain: true
       -
         type: paragraph
     image: team/justin-mblgtacc-2018-board-room-teaser-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
+    id: wKevSAju
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-300
     type: news
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1646022277
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678369969
 image:
   - headers/homepage-hero1.jpg
+description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
 ---
