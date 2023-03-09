@@ -4,10 +4,12 @@ blueprint: pages
 title: Transparency
 sections:
   -
+    id: SDizgZLd
     title: Transparency
     type: header_small
     enabled: true
   -
+    id: I5Wcb5bG
     bard:
       -
         type: paragraph
@@ -31,10 +33,11 @@ sections:
         content:
           -
             type: text
-            text: 'Our annual report, Impact, highlights the Institute''s financial position, programming, challenges, and future.'
+            text: "Our annual report, Impact, highlights the Institute's financial position, programming, challenges, and future."
       -
         type: set
         attrs:
+          id: 3B9Q6giR
           values:
             type: 2_columns
             left_column: content
@@ -132,6 +135,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 4VPdZrEV
     bard:
       -
         type: heading
@@ -150,16 +154,17 @@ sections:
       -
         type: set
         attrs:
+          id: 7eBobpPw
           values:
             type: 2_columns
             left_column: content
             right_column: content
             left_content:
               -
-                type: bullet_list
+                type: bulletList
                 content:
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -175,7 +180,7 @@ sections:
                                   rel: null
                             text: '2020 990-EZ'
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -191,7 +196,7 @@ sections:
                                   rel: null
                             text: '2019 990-EZ'
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -208,10 +213,10 @@ sections:
                             text: '2018 990-EZ'
             right_content:
               -
-                type: bullet_list
+                type: bulletList
                 content:
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -227,7 +232,7 @@ sections:
                                   rel: null
                             text: '2017 990-EZ'
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -253,10 +258,10 @@ sections:
             type: text
             text: 'Audit reports'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -283,10 +288,10 @@ sections:
             type: text
             text: 'Charitable solicitation registration'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -357,10 +362,12 @@ sections:
       -
         type: set
         attrs:
+          id: TDX8lJGW
           values:
             type: buttons
             buttons:
               -
+                id: wSAlaGPE
                 link: 'entry::fca78f6d-023b-4830-860d-e3ed26a30ff4'
                 text: 'View policies'
                 color: btn-white
@@ -373,12 +380,12 @@ sections:
         type: paragraph
     image: news/board-recruit-apr2022-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1661026663
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370143
 image:
   - headers/header-chicago_pier.jpg
+description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
 ---
