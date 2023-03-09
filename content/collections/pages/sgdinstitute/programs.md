@@ -4,18 +4,19 @@ blueprint: pages
 title: Programs
 sections:
   -
+    id: idLaPJ7J
     title: 'Our programs'
     type: header_small
     enabled: true
   -
+    id: AOwqd1pU
     bg_type: image
     bg_image: headers/blurry-background.jpg
-    num_colors: 2
-    bg_color: bg-black
     title: Programs
     type: header
     enabled: false
   -
+    id: oICm117T
     bard:
       -
         type: paragraph
@@ -31,7 +32,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our programs are rooted in our organization''s '
+            text: "Our programs are rooted in our organization's "
           -
             type: text
             marks:
@@ -59,7 +60,7 @@ sections:
             text: 'mission, vision, and values'
           -
             type: text
-            text: '. If you''re interested in a programming collaboration, please contact '
+            text: ". If you're interested in a programming collaboration, please contact "
           -
             type: text
             marks:
@@ -85,13 +86,12 @@ sections:
       -
         type: set
         attrs:
+          id: EvDqPb0H
           values:
             type: image
             image: mblgtacc-2020-feat-voice-session-1090x681.jpg
             caption: 'Credit: Tyler Williams / Midwest Institute for Sexuality and Gender Diversity'
             inline: false
-            direction: float-left
-            width: w-1/2
       -
         type: heading
         attrs:
@@ -113,14 +113,16 @@ sections:
         content:
           -
             type: text
-            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students and young adults. And it remains proudly student-run.'
+            text: "To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students and young adults. And it remains proudly student-run."
       -
         type: set
         attrs:
+          id: R6kMSAKe
           values:
             type: buttons
             buttons:
               -
+                id: EevWdUHc
                 link: 'https://mblgtacc.org'
                 text: 'Visit the MBLGTACC website'
                 color: btn-green
@@ -132,6 +134,7 @@ sections:
     type: content
     enabled: true
   -
+    id: WLV324d7
     bard:
       -
         type: heading
@@ -144,6 +147,7 @@ sections:
       -
         type: set
         attrs:
+          id: 2eapEROa
           values:
             type: image
             image: news/lastbite-launch-promo-web-featured-1090x681.jpg
@@ -155,7 +159,7 @@ sections:
         content:
           -
             type: text
-            text: 'Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we''re aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. '
+            text: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. "
       -
         type: paragraph
         content:
@@ -165,10 +169,12 @@ sections:
       -
         type: set
         attrs:
+          id: XO5AEfxE
           values:
             type: buttons
             buttons:
               -
+                id: W5UJSABe
                 link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
                 text: 'Learn more'
                 color: btn-green
@@ -182,6 +188,7 @@ sections:
     type: content
     enabled: true
   -
+    id: me9sgqOZ
     bard:
       -
         type: heading
@@ -194,6 +201,7 @@ sections:
       -
         type: set
         attrs:
+          id: Jx1QnZJM
           values:
             type: image
             image: tj-f21-headshots-1090x681-102321-250pm.jpg
@@ -210,10 +218,12 @@ sections:
       -
         type: set
         attrs:
+          id: 0XqlcONq
           values:
             type: buttons
             buttons:
               -
+                id: Lr7eB20b
                 link: 'entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
                 text: 'Learn more'
                 color: btn-green
@@ -227,6 +237,7 @@ sections:
     type: content
     enabled: true
   -
+    id: hqeUPb0z
     bard:
       -
         type: heading
@@ -239,6 +250,7 @@ sections:
       -
         type: set
         attrs:
+          id: pi2jAYa8
           values:
             type: image
             image: barnes-goldberg-mosier-featured-1090x681.jpg
@@ -255,10 +267,12 @@ sections:
       -
         type: set
         attrs:
+          id: 39lKO0yY
           values:
             type: buttons
             buttons:
               -
+                id: 6KgZUigH
                 link: 'entry::857e03a1-fd97-468a-afd6-86fc7331ff87'
                 text: 'Learn more'
                 color: btn-green
@@ -300,10 +314,12 @@ sections:
       -
         type: set
         attrs:
+          id: pY5Dfo8v
           values:
             type: buttons
             buttons:
               -
+                id: IfnIjqgS
                 link: 'entry::1d908676-c027-44d3-b60a-ebab30250d45'
                 text: Donate
                 color: btn-white
@@ -316,12 +332,12 @@ sections:
         type: paragraph
     image: mblgtacc-2018-candid1-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1667338282
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370194
 image:
   - headers/header-chicago_pier.jpg
+description: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empower queer and trans students to inspire sustainable change, and build community among queer and trans students in the Midwest.'
 ---
