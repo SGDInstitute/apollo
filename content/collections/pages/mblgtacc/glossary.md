@@ -1350,6 +1350,7 @@ sections:
     id: lea7h7wz
     type: content
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677540932
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370508
+description: "We've curated this glossary to highlight and define words you may encounter that are commonly related to LGBTQIA+ people and communities around the United States."
 ---
