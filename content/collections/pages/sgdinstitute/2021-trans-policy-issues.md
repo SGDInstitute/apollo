@@ -4,6 +4,7 @@ blueprint: pages
 title: 'Trans Policy Issues: Why Are We Talking About Sports? | Queer Policy Series 2021'
 sections:
   -
+    id: 7TjfkAED
     header_image: headers/transpolicyevent-hero-jul2021-01.jpg
     title: 'Trans Policy Issues: Why Are We Talking About Sports?'
     has_tag: true
@@ -20,6 +21,7 @@ sections:
     tag: 'Queer Policy Series'
     subtitle: 'A conversation with Katie Barnes, Chris Mosier, and Naomi Goldberg'
   -
+    id: V93byz6p
     bard:
       -
         type: heading
@@ -49,6 +51,7 @@ sections:
       -
         type: set
         attrs:
+          id: XdUcIDS2
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=MZ83h9zNKVw'
@@ -56,10 +59,12 @@ sections:
       -
         type: set
         attrs:
+          id: 28nmtxSM
           values:
             type: buttons
             buttons:
               -
+                id: LuHi2slH
                 link: 'https://drive.google.com/file/d/1PBICmd6W_J6t5Xlrgcl1nxs_QGeEQXj2/view?usp=sharing'
                 text: 'Download transcript'
                 color: btn-green
@@ -73,6 +78,7 @@ sections:
     type: content
     enabled: true
   -
+    id: GtzGFKsb
     bard:
       -
         type: heading
@@ -112,6 +118,7 @@ sections:
     type: content
     enabled: true
   -
+    id: TY0cEnQn
     bard:
       -
         type: heading
@@ -124,6 +131,7 @@ sections:
       -
         type: set
         attrs:
+          id: sEdLGzU2
           values:
             type: image
             image: barnes-goldberg-mosier-featured-1090x681.jpg
@@ -241,7 +249,7 @@ sections:
             text: TransAthlete.com
           -
             type: text
-            text: '. In 2020 he made history by becoming the first transgender athlete to compete in the Olympic Trials in the gender with which they identify. Prior to that, in 2015 he became the first openly trans man to make a Men''s US National Team. Following the national championship race, he was instrumental in getting the International Olympic Committee policy on transgender athletes changed, and in June 2016 he became the first trans athlete to compete in a world championship race under the new rules. Chris is a six-time member of Team USA, representing the United States in the sprint triathlon and the short course and long course duathlon, a two-time Men''s National Champion, and a Men''s All-American. Chris is also a nationally recognized four-time Ironman triathlete, and inductee into the National Gay and Lesbian Sports Hall of Fame. He is sponsored by Nike and has been featured in multiple global Nike campaigns. Chris has been featured in publications including '
+            text: ". In 2020 he made history by becoming the first transgender athlete to compete in the Olympic Trials in the gender with which they identify. Prior to that, in 2015 he became the first openly trans man to make a Men's US National Team. Following the national championship race, he was instrumental in getting the International Olympic Committee policy on transgender athletes changed, and in June 2016 he became the first trans athlete to compete in a world championship race under the new rules. Chris is a six-time member of Team USA, representing the United States in the sprint triathlon and the short course and long course duathlon, a two-time Men's National Champion, and a Men's All-American. Chris is also a nationally recognized four-time Ironman triathlete, and inductee into the National Gay and Lesbian Sports Hall of Fame. He is sponsored by Nike and has been featured in multiple global Nike campaigns. Chris has been featured in publications including "
           -
             type: text
             marks:
@@ -290,6 +298,7 @@ sections:
     type: content
     enabled: true
   -
+    id: ITmVsA81
     bard:
       -
         type: heading
@@ -308,10 +317,12 @@ sections:
       -
         type: set
         attrs:
+          id: l31K5UH6
           values:
             type: buttons
             buttons:
               -
+                id: WdGyfiXd
                 text: 'Form closed'
                 color: btn-green
                 size: btn-lg
@@ -324,6 +335,7 @@ sections:
     type: content
     enabled: true
   -
+    id: H0BAtigG
     bard:
       -
         type: heading
@@ -342,6 +354,7 @@ sections:
     type: content
     enabled: true
   -
+    id: atXTANlT
     bard:
       -
         type: heading
@@ -396,8 +409,9 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1647708299
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678369766
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
+description: 'Trans rights are currently being challenged at all levels of government. This event discussed issues and policies related to trans rights and what is happening on the ground now. The panelists will also talked about why sports have been a key issue—why the freedom to compete is about much more than sports.'
 ---
