@@ -35,11 +35,6 @@ bard:
         type: text
         text: 'Justin currently lives in Lansing, Michigan with their partner, Trevor. In their free time, Justin can be found camping in Saugatuck, baking breads and pastries, or spending too much money at the garden center.'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
-      class: null
-  -
     type: heading
     attrs:
       textAlign: left
