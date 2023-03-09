@@ -4,13 +4,14 @@ blueprint: pages
 title: Giving
 sections:
   -
+    id: hzps0DMS
     bg_type: image
     bg_image: headers/header-test2.jpg
-    num_colors: 2
     title: 'Giving to the Institute'
     type: header
     enabled: true
   -
+    id: Lce3IrS2
     bard:
       -
         type: blockquote
@@ -35,6 +36,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 4vMz9amK
     bard:
       -
         type: paragraph
@@ -65,10 +67,12 @@ sections:
       -
         type: set
         attrs:
+          id: FeVkcUEk
           values:
             type: buttons
             buttons:
               -
+                id: kMReup9a
                 link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Donate now'
                 color: btn-green
@@ -122,10 +126,12 @@ sections:
       -
         type: set
         attrs:
+          id: Ma9O9hgK
           values:
             type: buttons
             buttons:
               -
+                id: ZlhRISwg
                 link: 'https://apps.sgdinstitute.org/donations/create'
                 text: Donate
                 color: btn-green
@@ -139,6 +145,7 @@ sections:
     type: content
     enabled: true
   -
+    id: xH1LC26c
     bard:
       -
         type: heading
@@ -173,10 +180,10 @@ sections:
             type: text
             text: ':'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -185,7 +192,7 @@ sections:
                     type: text
                     text: 'With a monthly gift of $10 or more, you’ll receive a donor-exclusive quarterly newsletter with updates and behind-the-scenes information about Institute programs.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -198,10 +205,12 @@ sections:
       -
         type: set
         attrs:
+          id: MzKw3QFE
           values:
             type: buttons
             buttons:
               -
+                id: 8Odqklox
                 text: 'Join the OPE! giving program'
                 url: 'https://apps.sgdinstitute.org/donations/create/institute'
                 target_blank: true
@@ -214,6 +223,7 @@ sections:
     type: content
     enabled: true
   -
+    id: pR7aBeAJ
     bard:
       -
         type: heading
@@ -234,10 +244,12 @@ sections:
       -
         type: set
         attrs:
+          id: xPXOEsWO
           values:
             type: buttons
             buttons:
               -
+                id: hhJBsMcV
                 link: 'https://apps.sgdinstitute.org/donations/create'
                 text: 'Give now'
                 color: btn-green
@@ -249,6 +261,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 5tcOdmxi
     bard:
       -
         type: heading
@@ -271,13 +284,14 @@ sections:
             type: text
             text: 'P.O. Box 1053'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'East Lansing, MI 48826-1053'
     type: content
     enabled: true
   -
+    id: Uegu3ppg
     bard:
       -
         type: heading
@@ -296,10 +310,12 @@ sections:
       -
         type: set
         attrs:
+          id: gY0QKug5
           values:
             type: buttons
             buttons:
               -
+                id: FYwV1IL3
                 link: 'mailto:fundraising@sgdinstitute.org'
                 text: 'Contact us'
                 color: btn-green
@@ -313,6 +329,7 @@ sections:
     type: content
     enabled: true
   -
+    id: X3XYhViP
     bard:
       -
         type: paragraph
@@ -321,10 +338,10 @@ sections:
             type: text
             text: 'Sources:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -342,7 +359,7 @@ sections:
                     type: text
                     text: ' (pp. 63-76). Duke University Press.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -380,7 +397,7 @@ sections:
                           title: null
                     text: 'https://doi.org/10.1080/19361653.2018.1429978'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -398,7 +415,7 @@ sections:
                     type: text
                     text: '(pp. 129-149). Duke University Press.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -416,7 +433,7 @@ sections:
                     type: text
                     text: '. New York: GLSEN.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -456,10 +473,12 @@ sections:
     type: content
     enabled: true
   -
+    id: HqdZCpZQ
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1660575869
+updated_at: 1678370403
 image:
   - headers/header-test2.jpg
+description: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
 ---
