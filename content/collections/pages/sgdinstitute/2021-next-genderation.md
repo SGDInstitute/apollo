@@ -4,6 +4,7 @@ blueprint: pages
 title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth | 2021 Trans(Gender) Justice Teach-in'
 sections:
   -
+    id: DNQ5GvyJ
     header_image: headers/tj-f21-redux_site-banner.jpg
     title: 'The Next Genderation: Building Liberated Futures with Queer and Trans Youth'
     subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
@@ -19,6 +20,7 @@ sections:
     enabled: true
     has_button: false
   -
+    id: lpYsLbco
     bard:
       -
         type: heading
@@ -31,6 +33,7 @@ sections:
       -
         type: set
         attrs:
+          id: baN1YKmz
           values:
             type: video
             video: 'https://youtu.be/yh2medTXKtk'
@@ -40,7 +43,7 @@ sections:
         content:
           -
             type: text
-            text: 'On November 16, 2021, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth''s '
+            text: "On November 16, 2021, the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota Duluth's "
           -
             type: text
             marks:
@@ -136,6 +139,7 @@ sections:
     type: content
     enabled: true
   -
+    id: sae7vBMN
     bard:
       -
         type: heading
@@ -148,6 +152,7 @@ sections:
       -
         type: set
         attrs:
+          id: pVhgRohW
           values:
             type: image
             image: tj-f21-headshots-1090x681-102321-250pm.jpg
@@ -168,7 +173,7 @@ sections:
         content:
           -
             type: text
-            text: 'Bishop Howard (they/them) is a non binary Black femme, with over seven years of experience working with youth in behavioral health and programmatic series. Born and raised in Detroit, MI, Bishop attended Michigan State University in Lansing, MI where they received their bachelor''s in psychology with a minor in LGBT studies, and the Erikson Institute in Chicago, IL where they received their Master of Social Work with a concentration in child and family therapy. Currently, Bishop is an associate clinical social worker and therapist in the state of California while also serving as the director of programs at LYRIC, a non profit serving queer and trans youth in the San Francisco/Bay Area.'
+            text: "Bishop Howard (they/them) is a non binary Black femme, with over seven years of experience working with youth in behavioral health and programmatic series. Born and raised in Detroit, MI, Bishop attended Michigan State University in Lansing, MI where they received their bachelor's in psychology with a minor in LGBT studies, and the Erikson Institute in Chicago, IL where they received their Master of Social Work with a concentration in child and family therapy. Currently, Bishop is an associate clinical social worker and therapist in the state of California while also serving as the director of programs at LYRIC, a non profit serving queer and trans youth in the San Francisco/Bay Area."
       -
         type: heading
         attrs:
@@ -241,6 +246,7 @@ sections:
     type: content
     enabled: true
   -
+    id: ZZoNdHeG
     bard:
       -
         type: heading
@@ -255,7 +261,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''d love to have you join us! '
+            text: "We'd love to have you join us! "
           -
             type: text
             marks:
@@ -267,12 +273,12 @@ sections:
         content:
           -
             type: text
-            text: 'We''re offering low-cost, tiered registration costs starting at $5+, with additional special group rates. '
+            text: "We're offering low-cost, tiered registration costs starting at $5+, with additional special group rates. "
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -284,12 +290,12 @@ sections:
                         type: bold
                     text: 'QTIBIPOC: $5'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: '(Gender)Queer, Trans, Intersex, Black, Indigenous, People of Color'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -301,7 +307,7 @@ sections:
                         type: bold
                     text: 'Trans & Non-Conforming Folks: $15'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -313,12 +319,12 @@ sections:
                         type: bold
                     text: 'Aspiring Accomplice: $25'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: 'The intent of this space is to center the the liberation of trans, nonbinary & intersex people. As such, we ask those outside the community who choose to participate to pay the true cost of putting on this program.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -330,10 +336,10 @@ sections:
                         type: bold
                     text: 'Group rates'
               -
-                type: bullet_list
+                type: bulletList
                 content:
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -342,7 +348,7 @@ sections:
                             type: text
                             text: 'Up to 10 people: $100'
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -351,7 +357,7 @@ sections:
                             type: text
                             text: '11 to 15 people: $150'
                   -
-                    type: list_item
+                    type: listItem
                     content:
                       -
                         type: paragraph
@@ -362,10 +368,12 @@ sections:
       -
         type: set
         attrs:
+          id: uVkZu9G9
           values:
             type: buttons
             buttons:
               -
+                id: fYTVkwRd
                 text: 'Registration closed'
                 color: btn-green
                 size: btn-lg
@@ -378,6 +386,7 @@ sections:
     type: content
     enabled: false
   -
+    id: CIr6B3sD
     bard:
       -
         type: heading
@@ -396,6 +405,7 @@ sections:
     type: content
     enabled: true
   -
+    id: D8GxZFMU
     bard:
       -
         type: heading
@@ -469,12 +479,14 @@ sections:
       -
         type: set
         attrs:
+          id: VWlWaCka
           values:
             type: buttons
             buttons:
               -
+                id: SJPJn8iI
                 link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
-                text: 'Watch last year''s event'
+                text: "Watch last year's event"
                 color: btn-white
                 size: btn-base
                 block: false
@@ -484,14 +496,13 @@ sections:
       -
         type: paragraph
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: false
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668886985
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678370230
 template: default
-description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+description: 'The Transgender Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation. The 2021 panel discussion featured four TGQ organizers, educators and change-makers who will shared what they’re witnessing in their own communities, discussed how their experiences inform the direction of their projects, and provided ideas on how to be aligned with the needs of trans, nonbinary and intersex youth.'
 image:
   - headers/tj-f21_site-banner.jpg
 ---
