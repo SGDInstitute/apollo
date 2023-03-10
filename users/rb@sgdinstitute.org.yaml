@@ -6,5 +6,51 @@ pronouns: they/them
 slug: roze-brooks
 groups:
   - staff
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "R.B. (they/them) is an unabashedly queer Taurus Sun-Aries Moon-Leo Rising with an affinity for flipping tables. They serve as the Institute's director of programs and oversees strategic direction and implementation of the organization's major programs and serves as the host of Take the Last Bite, a show where we take Midwest Nice, fold it into a paper airplane and torpedo it into oblivion."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'R.B. majored in creative writing and journalism at the University of Missouri Kansas City (2014) where they had the opportunity to plan MBLGTACC 2014. They received their masters of higher education administration from the University of Kansas (2016).'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'R.B. is originally from Saint Louis, Missouri and is now based in (very) northern Minnesota cohabitating with their partner, two cats and a dog.'
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 2
+    content:
+      -
+        type: text
+        text: 'Contact Me About'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'MBLGTACC, Take the Last Bite, higher education, training/consulting and media/content creation services'
 id: 19a591a2-66c3-420a-9e1e-d76651f2bf19
 password_hash: $2y$10$.Pw8SzEcKqgbkht1B8yrEO7D.jpEga8DuZgI7NO.EGsfKuFnxYwwu
