@@ -11,7 +11,7 @@ bard:
     type: paragraph
     attrs:
       textAlign: left
-      class: null
+      class: lead
     content:
       -
         type: text
@@ -42,7 +42,7 @@ bard:
     content:
       -
         type: text
-        text: 'Contact Me About'
+        text: 'Contact me about'
   -
     type: paragraph
     attrs:
