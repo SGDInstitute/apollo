@@ -4,4 +4,32 @@ avatar: team/michelle.jpg
 position: 'Director of Operations'
 pronouns: she/they
 slug: michelle-walters
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: lead
+    content:
+      -
+        type: text
+        text: 'Michelle Walters is the director of operations for the Midwest Institute for Sexuality and Gender Diversity.'
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 2
+    content:
+      -
+        type: text
+        text: 'Contact me about'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Organization and event operations, third-party vendor relationships, training and technical assistance'
 id: 64bfc780-ec30-4700-965f-318f71d3f2b3
