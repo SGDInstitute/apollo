@@ -11,11 +11,16 @@ bard:
     type: paragraph
     attrs:
       textAlign: left
-      class: null
+      class: lead
     content:
       -
         type: text
         text: 'Danielle is the director of community engagement for the Midwest Institute for Sexuality and Gender Diversity.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: lead
   -
     type: heading
     attrs:
