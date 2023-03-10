@@ -6,4 +6,32 @@ pronouns: they/them
 slug: danielle-kropveld
 groups:
   - staff
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Danielle is the director of community engagement for the Midwest Institute for Sexuality and Gender Diversity.'
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 2
+    content:
+      -
+        type: text
+        text: 'Contact me about'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Program and event sponsorship, OPE Giving Program, MBLGTACC Maker Market, partnerships'
 id: ce0032cc-cdd1-4805-bbf4-8e95e3272619
