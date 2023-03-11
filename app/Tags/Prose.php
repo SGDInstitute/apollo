@@ -11,7 +11,7 @@ class Prose extends Tags
         $backgroundColor = (string) $this->context->get('bg_color');
 
         if ($backgroundColor !== '') {
-            $searchString = $backgroundColor.' {  --bg-opacity: 1;  background-color: ';
+            $searchString = $backgroundColor.'{--tw-bg-opacity: 1;background-color:';
             $file = $this->getCssFile();
             $position = strpos($file, $searchString);
 
