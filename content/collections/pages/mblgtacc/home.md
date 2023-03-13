@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678738932
+updated_at: 1678739010
 sections:
   -
     id: j7D4Zmil
@@ -102,56 +102,6 @@ sections:
           values:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'View photos from the 2022 Columbus conference on '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.facebook.com/media/set/?set=a.1999629303580808&type=3'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: bold
-            text: Facebook
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' and '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.flickr.com/photos/sgdinstitute/albums/72177720303224981'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: bold
-            text: Flickr
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: .
     type: content
     enabled: true
   -
@@ -188,6 +138,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -221,6 +172,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: false
   -
