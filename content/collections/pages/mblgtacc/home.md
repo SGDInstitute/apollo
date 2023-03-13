@@ -4,13 +4,13 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678739010
+updated_at: 1678739163
 sections:
   -
     id: j7D4Zmil
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
     title: 'Queer Joy as Our Lasting Legacy'
-    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Registration and workshop RFP open April 10, 2023.'
+    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
     tag: 'Nov. 3-5, 2023  |  Lexington'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
@@ -36,13 +36,15 @@ sections:
         content:
           -
             type: text
-            text: 'Register on-site'
+            text: 'Register starting April 10'
       -
         type: paragraph
+        attrs:
+          class: null
         content:
           -
             type: text
-            text: 'You can still join us! Register on-site at the Greater Columbus Convention Center for $100.'
+            text: 'Join us in Lexington! '
       -
         type: set
         attrs:
@@ -62,14 +64,15 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          class: null
     price: $100
-    below_price: 'per person (in-person experience)'
+    below_price: 'per person'
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
     center_columns: false
-    above_price: 'On-site registration'
   -
     id: xC5gzPwZ
     title: 'Keynotes and entertainment'
