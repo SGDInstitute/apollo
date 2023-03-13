@@ -97,7 +97,7 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -106,36 +106,12 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
         content:
           -
             type: text
-            text: 'Our work is supported by input and advice from outstanding accomplices.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: center
-          class: null
-        content:
-          -
-            type: text
-            text: 'TK Morton'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Mai Jakubowski'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Robert Alberts'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Noah Barth'
+            text: 'Our work is supported by input and advice from outstanding accomplices, including TK Morton, Mai Jakubowski, Robert Alberts, and Noah Barth.'
     type: content
     enabled: true
   -
@@ -144,7 +120,7 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -153,7 +129,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
         content:
           -
@@ -193,7 +169,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
     type: content
     enabled: false
@@ -203,7 +179,7 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -212,7 +188,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
         content:
           -
@@ -238,7 +214,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
     type: content
     enabled: true
@@ -253,7 +229,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678714951
+updated_at: 1678715016
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
