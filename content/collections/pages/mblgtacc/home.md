@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678739163
+updated_at: 1678739195
 sections:
   -
     id: j7D4Zmil
@@ -23,6 +23,27 @@ sections:
     type: header_large
     enabled: true
     has_button: false
+  -
+    id: xLYATvQT
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: center
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Save the date for MBLGTACC 2023'
+      -
+        type: set
+        attrs:
+          id: b2fpjp1m
+          values:
+            type: video
+            video: 'https://youtu.be/o8JVbyTvnU0'
+    type: content
+    enabled: true
   -
     id: pricing
     column_widths: two_fifths_left
@@ -86,27 +107,6 @@ sections:
     target_blank: false
     type: speakers
     enabled: false
-  -
-    id: xLYATvQT
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: center
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Save the date for MBLGTACC 2023'
-      -
-        type: set
-        attrs:
-          id: b2fpjp1m
-          values:
-            type: video
-            video: 'https://youtu.be/o8JVbyTvnU0'
-    type: content
-    enabled: true
   -
     id: yyaLhKYm
     bard:
