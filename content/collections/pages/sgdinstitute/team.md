@@ -121,30 +121,18 @@ sections:
           -
             type: text
             text: 'TK Morton'
-      -
-        type: paragraph
-        attrs:
-          textAlign: center
-          class: null
-        content:
+          -
+            type: hardBreak
           -
             type: text
             text: 'Mai Jakubowski'
-      -
-        type: paragraph
-        attrs:
-          textAlign: center
-          class: null
-        content:
+          -
+            type: hardBreak
           -
             type: text
             text: 'Robert Alberts'
-      -
-        type: paragraph
-        attrs:
-          textAlign: center
-          class: null
-        content:
+          -
+            type: hardBreak
           -
             type: text
             text: 'Noah Barth'
@@ -265,7 +253,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678714927
+updated_at: 1678714951
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
