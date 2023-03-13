@@ -97,6 +97,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
@@ -104,49 +105,49 @@ sections:
             text: Collaborators
       -
         type: paragraph
+        attrs:
+          textAlign: center
+          class: null
         content:
           -
             type: text
             text: 'Our work is supported by input and advice from outstanding accomplices.'
       -
-        type: bulletList
+        type: paragraph
+        attrs:
+          textAlign: center
+          class: null
         content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'TK Morton'
+            type: text
+            text: 'TK Morton'
+      -
+        type: paragraph
+        attrs:
+          textAlign: center
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Mai Jakubowski'
+            type: text
+            text: 'Mai Jakubowski'
+      -
+        type: paragraph
+        attrs:
+          textAlign: center
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Robert Alberts'
+            type: text
+            text: 'Robert Alberts'
+      -
+        type: paragraph
+        attrs:
+          textAlign: center
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Noah Barth'
+            type: text
+            text: 'Noah Barth'
     type: content
     enabled: true
   -
@@ -155,7 +156,7 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: left
+          textAlign: center
           level: 2
         content:
           -
@@ -164,7 +165,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: left
+          textAlign: center
           class: null
         content:
           -
@@ -204,7 +205,7 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: left
+          textAlign: center
           class: null
     type: content
     enabled: false
@@ -214,6 +215,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
@@ -221,6 +223,9 @@ sections:
             text: 'Not sure who to contact?'
       -
         type: paragraph
+        attrs:
+          textAlign: center
+          class: null
         content:
           -
             type: text
@@ -244,6 +249,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: center
+          class: null
     type: content
     enabled: true
   -
@@ -257,7 +265,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678714857
+updated_at: 1678714927
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
