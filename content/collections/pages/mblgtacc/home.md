@@ -4,13 +4,13 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677538132
+updated_at: 1678738932
 sections:
   -
     id: j7D4Zmil
     header_image: headers/mblgtacc2022-attendees-smiling-clapping-hero-1875x600.jpg
-    title: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
-    subtitle: 'MBLGTACC 2023 registration and workshop RFP open April 10, 2023.'
+    title: 'Queer Joy as Our Lasting Legacy'
+    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference. Registration and workshop RFP open April 10, 2023.'
     has_tag: true
     tag: 'Nov. 3-5, 2023  |  Lexington'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
