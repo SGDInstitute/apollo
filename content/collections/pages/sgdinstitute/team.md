@@ -193,7 +193,7 @@ sections:
         content:
           -
             type: text
-            text: 'No problem. We can help make sure your message gets to the right human.'
+            text: 'No problem! We can help make sure your message gets to the right human.'
       -
         type: set
         attrs:
@@ -229,7 +229,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678715016
+updated_at: 1678715041
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
