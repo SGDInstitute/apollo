@@ -59,9 +59,13 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: center
+          class: null
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
@@ -69,6 +73,9 @@ sections:
             text: 'Board of Directors'
       -
         type: paragraph
+        attrs:
+          textAlign: center
+          class: null
         content:
           -
             type: text
@@ -148,6 +155,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -155,6 +163,9 @@ sections:
             text: 'Interested in joining the board?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -166,8 +177,9 @@ sections:
                 type: link
                 attrs:
                   href: 'https://sgdinstitute.org/assets/documents/Institute_Board_Roles_and_Responsibilities.pdf'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'check out the position summary'
           -
             type: text
@@ -191,6 +203,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: false
   -
@@ -242,7 +257,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678714849
+updated_at: 1678714857
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
