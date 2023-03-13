@@ -23,12 +23,12 @@ sections:
     type: content
     enabled: true
   -
-    id: 0iHIDMtT
+    id: lf79vfuc
     bard:
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -37,12 +37,22 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
         content:
           -
             type: text
             text: 'Our volunteer staff manage our programs, resources, and operations.'
+    type: content
+    enabled: true
+  -
+    id: 0iHIDMtT
+    bard:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     users:
       - dcd190a9-db32-4705-ad6a-2795ef6f415b
       - 19a591a2-66c3-420a-9e1e-d76651f2bf19
@@ -55,17 +65,17 @@ sections:
     bg_type: color
     bg_color: bg-transparent
   -
-    id: RhNp8UOd
+    id: lf79wa0t
     bard:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -74,12 +84,22 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: center
+          textAlign: left
           class: null
         content:
           -
             type: text
             text: 'The Institute is governed by a volunteer board of directors.'
+    type: content
+    enabled: true
+  -
+    id: RhNp8UOd
+    bard:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     users:
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
@@ -228,8 +248,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678715041
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1678739112
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
