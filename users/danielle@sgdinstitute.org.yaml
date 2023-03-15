@@ -20,7 +20,20 @@ bard:
     type: paragraph
     attrs:
       textAlign: left
-      class: lead
+      class: null
+    content:
+      -
+        type: text
+        text: 'Danielle has been involved with the Institute since 2020, after serving on the student planning committee for MBLGTACC in Kalamazoo. They graduated from Western Michigan University in 2019 with a Bachelor of Arts in theatre studies with a concentration in directing and a minor in gender and women’s studies. Their theatre work focuses on socially conscious performance and telling stories about and with marginalized communities, with an emphasis on texts that explore gender and sexuality.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Danielle lives in Ypsilanti, Michigan with their partner, 2 ferrets, a cat, and a corn snake. Outside of caring for their animal menagerie, they enjoy reading, writing short fiction and plays, and baking banana bread.'
   -
     type: heading
     attrs:
@@ -38,5 +51,10 @@ bard:
     content:
       -
         type: text
-        text: 'Program and event sponsorship, OPE Giving Program, MBLGTACC Maker Market, partnerships'
+        text: 'Program and event sponsorship, OPE Giving Program, MBLGTACC Maker Market and vendor fair, partnerships'
+socials:
+  -
+    id: lfa0wf84
+    network: linkedin
+    link: 'https://www.linkedin.com/in/danielle-kropveld-847167153/'
 id: ce0032cc-cdd1-4805-bbf4-8e95e3272619
