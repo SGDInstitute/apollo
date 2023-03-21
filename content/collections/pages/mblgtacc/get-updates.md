@@ -4,8 +4,9 @@ blueprint: pages
 title: 'Get updates'
 sections:
   -
+    id: UY7hBaUU
     header_image: headers/header-chicago_pier.jpg
-    title: 'America''s largest and longest-running conference for LBGTQ+ college students'
+    title: "America's largest and longest-running conference for LBGTQ+ college students"
     subtitle: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
     tag: 'Sign-up for updates'
@@ -16,6 +17,7 @@ sections:
     type: header_large
     enabled: true
   -
+    id: sJumNsBz
     bard:
       -
         type: heading
@@ -24,16 +26,17 @@ sections:
         content:
           -
             type: text
-            text: 'Don''t miss a thing! Get key MBLGTACC news, right to your inbox '
+            text: "Don't miss a thing! Get key MBLGTACC news, right to your inbox "
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We respect and value your privacy, and won''t share your contact information with anyone without your consent.'
+            text: "We respect and value your privacy, and won't share your contact information with anyone without your consent."
       -
         type: set
         attrs:
+          id: 9dvoeLvo
           values:
             type: form
             formset: newsletter
@@ -42,6 +45,7 @@ sections:
     type: content
     enabled: true
   -
+    id: z0tKwBZ3
     bard:
       -
         type: heading
@@ -68,10 +72,12 @@ sections:
       -
         type: set
         attrs:
+          id: w6Pqdiq1
           values:
             type: buttons
             buttons:
               -
+                id: geAD83l3
                 link: 'https://instagram.com/mblgtacc'
                 text: Instagram
                 color: btn-green
@@ -80,6 +86,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: fnmVoFee
                 link: 'https://twitter.com/mblgtacc'
                 text: Twitter
                 color: btn-green
@@ -88,6 +95,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: ZLkc1jgX
                 link: 'https://facebook.com/mblgtacc'
                 text: Facebook
                 color: btn-green
@@ -109,10 +117,12 @@ sections:
       -
         type: set
         attrs:
+          id: NXWOtAZ9
           values:
             type: buttons
             buttons:
               -
+                id: E1zldlZF
                 link: 'entry::37aa19e4-67e4-4140-91b8-52f06bc5d0e0'
                 text: 'MBLGTACC homepage'
                 color: btn-green
@@ -126,16 +136,17 @@ sections:
     type: content
     enabled: true
   -
+    id: Zhzkdhkw
     type: content
     enabled: true
   -
-    date: '2022-10-21 19:00'
-    hashtag: '#mblgtacc30'
+    id: Nx4ngBA9
+    date: '2023-11-03 19:00'
+    hashtag: '#mblgtacc'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668562511
+updated_at: 1679439695
 ---
