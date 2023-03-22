@@ -211,6 +211,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -219,6 +220,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -227,6 +229,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -234,6 +237,9 @@ sections:
             text: '$10,000 - 6 available'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -241,6 +247,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -249,6 +256,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -256,6 +264,9 @@ sections:
             text: '$5,000 - 1 available'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -263,6 +274,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -271,6 +283,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -278,6 +291,9 @@ sections:
             text: '$10,000 - 2 available'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -285,6 +301,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -293,6 +310,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -300,6 +318,9 @@ sections:
             text: '$15,000 - 2 available'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -312,6 +333,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -320,6 +342,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
@@ -327,6 +350,9 @@ sections:
             text: '$15,000 - 2 available'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -462,6 +488,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679508871
+updated_at: 1679508901
 description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
