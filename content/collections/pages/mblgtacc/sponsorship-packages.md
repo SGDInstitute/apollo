@@ -195,6 +195,15 @@ sections:
                   - ✓
                   - ✓
             full_width: false
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'We appreciate all contributions. Donations under $1,000 will be recognized as a Friend of MBLGTACC in the print program.'
     type: content
     enabled: true
   -
@@ -480,6 +489,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679509033
+updated_at: 1679509111
 description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
