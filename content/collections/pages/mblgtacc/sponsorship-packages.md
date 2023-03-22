@@ -226,6 +226,114 @@ sections:
         content:
           -
             type: text
+            text: 'Sponsor a keynote'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 4
+        content:
+          -
+            type: text
+            text: '$15,000 - 2 available'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "Description in print program and online will say\_“Presented by [sponsor name]” with a full\_color logo."
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sponsor entertainment'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 4
+        content:
+          -
+            type: text
+            text: '$15,000 - 2 available'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Sponsor Revoluncheon (lunch and learn)'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 4
+        content:
+          -
+            type: text
+            text: '$15,000 - 2 available'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Welcome reception sponsor'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 4
+        content:
+          -
+            type: text
+            text: '$10,000 - 2 available'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Sponsor catering for the attendee welcome reception to kick off the conference. Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
             text: 'Sponsor a workshop track'
       -
         type: heading
@@ -244,7 +352,82 @@ sections:
         content:
           -
             type: text
-            text: "Sponsor a series of breakout sessions under a common theme. Description of workshop track in print\_program and online will say “Presented by\_[sponsor name]” with full color logo."
+            text: "Description of workshop track(s) in print\_program and online will say “Presented by\_[sponsor name]” with full color logo."
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Small Town Queerness'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Self and Community Care'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Art, Media, and Design'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Justice: Activism and Protest'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Change on College Campuses'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Advisor Track'
       -
         type: heading
         attrs:
@@ -272,92 +455,6 @@ sections:
           -
             type: text
             text: 'Sponsor catering for the advisor social. A description of session in print program and online will say “Presented by [sponsor name]” with a full color logo.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Welcome reception sponsor'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$10,000 - 2 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Sponsor catering for the attendee welcome reception to kick off the conference. A description of session in print program and online will say “Presented by [sponsor name]” with a full color logo.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor a keynote'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$15,000 - 2 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Sponsor this major conference programming. A description of session'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: "in print program and online will say\_“Presented by [sponsor name]” with a full\_color logo."
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor entertainment'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$15,000 - 2 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Sponsor this major conference programming. A description of sessionin print program and online will say “Presented by [sponsor name]” with a full color logo.'
       -
         type: set
         attrs:
@@ -489,6 +586,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679509111
+updated_at: 1679509535
 description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
