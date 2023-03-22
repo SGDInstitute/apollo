@@ -98,6 +98,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -114,19 +115,26 @@ sections:
             table:
               -
                 cells:
+                  - null
+                  - ''
+                  - ''
+                  - null
+                  - null
+                  - null
+                  - null
+              -
+                cells:
                   - Benefits
-                  - '$25,000'
-                  - '$15,000'
-                  - '$10,000'
-                  - '$5,000'
-                  - '$2,500'
-                  - '$1,000'
-                  - $500
+                  - 'Diamond<br/>$25,000'
+                  - 'Platinum<br/>$15,000'
+                  - 'Gold<br/>$10,000'
+                  - 'Silver<br/>$5,000'
+                  - 'Bronze<br/>$2,500'
+                  - 'Copper<br/>$1,000'
               -
                 cells:
                   - 'On-stage speaking<br/>opportunity'
                   - ✓
-                  - ''
                   - ''
                   - ''
                   - ''
@@ -141,13 +149,11 @@ sections:
                   - ''
                   - ''
                   - ''
-                  - ''
               -
                 cells:
                   - 'Logo displayed on main<br/>stage, one keynote'
                   - ✓
                   - ✓
-                  - ''
                   - ''
                   - ''
                   - ''
@@ -161,17 +167,6 @@ sections:
                   - ''
                   - ''
                   - ''
-                  - ''
-              -
-                cells:
-                  - 'Registration tickets'
-                  - '15'
-                  - '10'
-                  - '8'
-                  - '4'
-                  - '2'
-                  - ''
-                  - ''
               -
                 cells:
                   - 'Exhibit table'
@@ -179,23 +174,20 @@ sections:
                   - ✓
                   - ✓
                   - ✓
-                  - ✓
-                  - ✓
+                  - ''
                   - ''
               -
                 cells:
                   - 'Program book ad size'
                   - Spread
                   - 'Full page'
+                  - 'Full page'
                   - ½
                   - ½
-                  - ½
-                  - ¼
                   - ¼
               -
                 cells:
                   - 'Recognition in<br/>print program'
-                  - ✓
                   - ✓
                   - ✓
                   - ✓
@@ -488,6 +480,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679508901
+updated_at: 1679509033
 description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
