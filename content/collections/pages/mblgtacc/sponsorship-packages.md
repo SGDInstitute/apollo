@@ -5,13 +5,14 @@ blueprint: pages
 title: 'Sponsorship Packages'
 sections:
   -
+    id: 5T4UAShQ
     bg_type: image
     bg_image: headers/open-mic-mblgtacc2020-hero-1250x400.jpg
-    num_colors: 2
     title: 'Sponsorship Packages'
     type: header
     enabled: true
   -
+    id: v1zumq12
     bard:
       -
         type: paragraph
@@ -21,21 +22,39 @@ sections:
         content:
           -
             type: text
-            text: 'In October 2022, the Midwest Institute for Sexuality and Gender Diversity alongside a coalition of students from Midwest universities will host the 30th annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) in Columbus, Ohio.'
+            text: 'For over three decades, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together queer and trans+ college students, staff, and community.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, over 2,000 queer and trans+ college students, faculty, staff, and community members come together to learn and grow through the knowledge and experiences of others. To date, MBLGTACC is America’s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run. This year’s theme is “Limitless: Queer Activism of the Future.”'
+            text: 'We’re thrilled to host our 31st annual gathering in Lexington, Kentucky, a partnership between the University of Kentucky, VisitLEX, and a dedicated host committee of students and advisors.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, over 2,000 attendees come together at MBLGTACC to learn and grow through the knowledge and experiences of others. To date, it is America’s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run. This year’s theme is “Queer Joy as Our Lasting Legacy."'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'MBLGTACC is an invaluable opportunity to network with the Midwest’s future leaders, and to contribute resources to connect with and provide educational programming for queer and trans college students, advisors, and higher education colleagues in the Midwest and beyond.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -43,11 +62,13 @@ sections:
       -
         type: set
         attrs:
+          id: CfsNwxm7
           values:
             type: buttons
             buttons:
               -
-                link: 'https://sgdinstitute.org/assets/documents/mblgtacc-2022-sponsorship-prospectus.pdf'
+                id: AUJQQomQ
+                link: 'https://sgdinstitute.org/assets/documents/mblgtacc-2023-sponsorship-prospectus.pdf'
                 text: 'Download prospectus'
                 color: btn-green
                 size: btn-lg
@@ -55,6 +76,7 @@ sections:
                 outline: false
                 target_blank: false
               -
+                id: 2fmJU95y
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Get in touch'
                 color: btn-green
@@ -65,9 +87,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
+    id: PqxTTJiT
     bard:
       -
         type: heading
@@ -80,6 +106,7 @@ sections:
       -
         type: set
         attrs:
+          id: TZnNHNkQ
           values:
             type: table
             first_row_header: true
@@ -179,6 +206,7 @@ sections:
     type: content
     enabled: true
   -
+    id: nQ4ykTex
     bard:
       -
         type: heading
@@ -277,7 +305,7 @@ sections:
             type: text
             text: 'Sponsor this major conference programming. A description of session'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "in print program and online will say\_“Presented by [sponsor name]” with a full\_color logo."
@@ -306,10 +334,12 @@ sections:
       -
         type: set
         attrs:
+          id: HJHenWYj
           values:
             type: buttons
             buttons:
               -
+                id: NZkpgTyu
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Contact us to sponsor MBLGTACC'
                 color: btn-green
@@ -321,6 +351,7 @@ sections:
     type: content
     enabled: true
   -
+    id: wHQJw2A6
     bard:
       -
         type: heading
@@ -333,10 +364,12 @@ sections:
       -
         type: set
         attrs:
+          id: EYljQ268
           values:
             type: buttons
             buttons:
               -
+                id: zxGelnJ9
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
@@ -345,6 +378,7 @@ sections:
                 outline: false
                 target_blank: true
               -
+                id: pWkVTscr
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: 'Program ads'
                 color: btn-green
@@ -358,6 +392,7 @@ sections:
     type: content
     enabled: true
   -
+    id: du9KH9Tf
     bard:
       -
         type: heading
@@ -376,6 +411,7 @@ sections:
       -
         type: set
         attrs:
+          id: QYfgdwfD
           values:
             type: image
             image: 2022-sponsor-logo-wall-090222-01.png
@@ -385,6 +421,7 @@ sections:
     type: content
     enabled: true
   -
+    id: WYQBfjvZ
     bard:
       -
         type: heading
@@ -399,14 +436,16 @@ sections:
         content:
           -
             type: text
-            text: 'We''d love to hear from you to discuss a unique sponsorship opportunity.'
+            text: "We'd love to hear from you to discuss a unique sponsorship opportunity."
       -
         type: set
         attrs:
+          id: 9J7xHtSu
           values:
             type: buttons
             buttons:
               -
+                id: K11x78XL
                 link: 'mailto:development@sgdinstitute.org'
                 text: 'Email us'
                 color: btn-green
@@ -423,6 +462,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1666105048
+updated_at: 1679508871
 description: 'Sponsor the 2022 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
