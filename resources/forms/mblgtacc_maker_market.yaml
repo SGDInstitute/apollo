@@ -1,6 +1,7 @@
-title: 'Apply to participate in the Maker Market'
+title: 'Apply to participate in the Maker Market or Vendor Fair'
 honeypot: last_name
 email:
   -
+    id: M1jknXdI
     to: development@sgdinstitute.org
-    subject: 'Maker Market Inquiry'
+    subject: 'Vendor Inquiry'
