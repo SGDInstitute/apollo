@@ -89,3 +89,16 @@ sections:
           listable: hidden
           instructions_position: above
           visibility: visible
+      -
+        handle: proposed_fee
+        field:
+          input_type: text
+          antlers: false
+          display: 'Proposed Fee'
+          type: text
+          icon: text
+          instructions: 'We offer "pay what you can" for the Maker Market and Vendor Fair. Please review the recommended rates and let us know your proposed contribution.'
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
