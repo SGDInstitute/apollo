@@ -3,28 +3,34 @@ id: 6b6906fa-60ad-436d-ae31-1972a8651df0
 blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668563252
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1679611096
 sections:
   -
+    id: o8rIUpZR
     bg_type: image
     bg_image: headers/20180216-JJM_0749-fav-hero-1250x400.jpg
-    num_colors: 2
     title: 'Sponsor & Exhibit'
     type: header
     enabled: true
   -
+    id: imoqpc5f
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
+          id: t31aLzTt
           enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: ZcpsCEJa
                 link: 'entry::db847b46-c043-41ef-b602-d963a8624cbf'
                 text: Packages
                 color: btn-green
@@ -33,6 +39,7 @@ sections:
                 outline: false
                 target_blank: true
               -
+                id: 1n5k8MXj
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Exhibit tables'
                 color: btn-green
@@ -41,6 +48,7 @@ sections:
                 outline: false
                 target_blank: true
               -
+                id: DtH2Tom9
                 link: 'entry::8fe5c804-da7c-474e-bf42-75f8dbf3a914'
                 text: Advertise
                 color: btn-green
@@ -51,6 +59,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -62,6 +73,9 @@ sections:
             text: 'For three decades, the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) has brought together students from around the United States for a few days each year to learn and grow through the knowledge and experiences of others.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -69,6 +83,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -77,11 +92,13 @@ sections:
       -
         type: set
         attrs:
+          id: mdYE4Qxi
           values:
             type: buttons
             buttons:
               -
-                link: 'mailto:justin@sgdinstitute.org'
+                id: Ji7qYBPt
+                link: 'mailto:development@sgdinstitute.org'
                 text: 'Get started'
                 color: btn-green
                 size: btn-lg
@@ -91,6 +108,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -118,6 +138,7 @@ sections:
     type: content
     enabled: true
   -
+    id: bSptWuOI
     bard:
       -
         type: heading
@@ -136,6 +157,7 @@ sections:
       -
         type: set
         attrs:
+          id: B3EAK5jV
           values:
             type: image
             image: 2022-sponsor-logo-wall-102122.png
