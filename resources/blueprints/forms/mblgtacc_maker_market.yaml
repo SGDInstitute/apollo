@@ -48,19 +48,20 @@ sections:
             Independent: 'Independent creator'
             Small: 'Small established business'
             Large: 'Large established business'
-            'No sales': 'No sales, activity only'
+            Corporate: Corporate
           multiple: false
           clearable: false
           searchable: true
           taggable: false
           push_tags: false
           cast_booleans: false
-          display: 'Type of Creator'
+          display: 'Type of Vendor/Creator'
           type: select
           icon: select
           listable: hidden
           instructions_position: above
           localizable: false
+          visibility: visible
       -
         handle: description
         field:
@@ -70,8 +71,9 @@ sections:
           icon: textarea
           listable: hidden
           instructions_position: above
-          instructions: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
+          instructions: 'Please describe your organization. If you are applying for the Maker Market, use this space to describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market.'
           localizable: false
+          visibility: visible
       -
         handle: media
         field:
@@ -82,22 +84,4 @@ sections:
           icon: text
           listable: hidden
           instructions_position: below
-          localizable: false
-      -
-        handle: two_day
-        field:
-          options:
-            'No': 'No, I will participate on Friday only'
-            'Yes': 'Yes, I want to participate on Friday and Saturday'
-          multiple: false
-          clearable: false
-          searchable: true
-          taggable: false
-          push_tags: false
-          cast_booleans: false
-          display: 'Are you interested in a two day pass?'
-          type: select
-          icon: select
-          listable: hidden
-          instructions_position: above
           localizable: false
