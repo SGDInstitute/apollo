@@ -15,6 +15,7 @@ sections:
           instructions_position: above
           validate:
             - required
+          localizable: false
       -
         handle: pronouns
         field:
@@ -26,6 +27,7 @@ sections:
           width: 33
           listable: hidden
           instructions_position: above
+          localizable: false
       -
         handle: email
         field:
@@ -38,6 +40,7 @@ sections:
           instructions_position: above
           validate:
             - required
+          localizable: false
       -
         handle: type_of_creator
         field:
@@ -57,6 +60,7 @@ sections:
           icon: select
           listable: hidden
           instructions_position: above
+          localizable: false
       -
         handle: description
         field:
@@ -67,6 +71,7 @@ sections:
           listable: hidden
           instructions_position: above
           instructions: 'Please describe your merchandise, demonstration, or activity and how it aligns with the intentions of the market'
+          localizable: false
       -
         handle: media
         field:
@@ -77,6 +82,7 @@ sections:
           icon: text
           listable: hidden
           instructions_position: below
+          localizable: false
       -
         handle: two_day
         field:
@@ -94,34 +100,4 @@ sections:
           icon: select
           listable: hidden
           instructions_position: above
-      -
-        handle: seller_permit
-        field:
-          options:
-            'Yes': 'Yes'
-            'No sales': 'No, I will not be selling any merchandise'
-            Help: 'No, I need assistance with obtaining a permit'
-          multiple: false
-          clearable: false
-          searchable: true
-          taggable: false
-          push_tags: false
-          cast_booleans: false
-          display: 'Do you have an Ohio seller''s permit?'
-          type: select
-          icon: select
-          listable: hidden
-          instructions_position: above
-      -
-        handle: permit_number
-        field:
-          input_type: text
-          antlers: false
-          display: 'Permit Number'
-          type: text
-          icon: text
-          instructions: 'Please provide your Ohio seller''s permit number'
-          listable: hidden
-          instructions_position: above
-          if:
-            seller_permit: 'equals Yes'
+          localizable: false
