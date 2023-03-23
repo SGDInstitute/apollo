@@ -221,7 +221,7 @@ sections:
           id: lflpdr4l
           values:
             type: table
-            first_row_header: false
+            first_row_header: true
             last_row_footer: false
             table:
               -
@@ -244,7 +244,7 @@ sections:
                   - 'Large business<br><i>(annual sales of $100k+)</i>'
                   - $400
                   - $775
-            full_width: false
+            full_width: true
       -
         type: heading
         attrs:
@@ -255,14 +255,12 @@ sections:
             type: text
             text: 'Apply to participate'
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "We'll start enrolling makers this spring. In the meantime, we welcome your questions and suggestions. Email us at development@mblgtacc.org."
+          id: lflph80m
+          values:
+            type: form
+            formset: mblgtacc_maker_market
     type: content
     enabled: true
   -
@@ -1043,7 +1041,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679611716
+updated_at: 1679611773
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
