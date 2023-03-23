@@ -75,13 +75,17 @@ sections:
           localizable: false
           visibility: visible
       -
-        handle: media
+        handle: which_days_do_you_want_to_participate
         field:
-          input_type: text
-          antlers: false
-          display: 'Please share a link to photos or videos of your merchandise or activity (OPTIONAL)'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: below
+          inline: false
+          options:
+            Friday: 'Friday (Makers Only)'
+            Saturday: Saturday
+          display: 'Which days do you want to participate?'
+          type: checkboxes
+          icon: checkboxes
+          instructions: 'If you are interested in a 2-day pass, please select both days below. Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
           localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
