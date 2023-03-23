@@ -23,278 +23,6 @@ sections:
             type: text
             text: 'Join us at the MBLGTACC Maker Market and/or the Vendor Fair and reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: set
-        attrs:
-          id: lflplcj9
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Vendor Fair'
-              -
-                type: bulletList
-                content:
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Hours of operation:'
-                          -
-                            type: text
-                            text: "\_Saturday, 10 a.m.-6 p.m."
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Set-up time:'
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: italic
-                            text: ' '
-                          -
-                            type: text
-                            text: 'Saturday, 8 a.m.-10 a.m. (Friday set up hours available upon request)'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Location:'
-                          -
-                            type: text
-                            text: "\_"
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'https://www.centralbankcenter.com/'
-                                  rel: null
-                                  target: null
-                                  title: null
-                            text: 'Central Bank Center'
-                          -
-                            type: text
-                            text: ' ('
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'nter+lexington+ky&rlz=1C5CHFA_enUS739US739&tbm=lcl&sxsrf=AJOqlzUWW0duEsuiFbC_f_Ljie7-ZFT86g%3A1676734610690&ei=kvDwY7LRKbiE0PEPvZ2doA0&oq=central+bank+center&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYATINCAAQDRCABBCxAxCDATIMCAAQDRCABBAUEIcCMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgkIABAHEB4Q8QQyBwgAEA0QgAQyCQgAEAcQHhDxBDIJCAAQBxAeEPEEOgQIIxAnOgkIABAWEB4Q8QQ6CAgAEBYQHhAPOgYIABAWEB46BQgAEIYDOgYIABAHEB46BQgAEIAEOgsIABAHEB4Q8QQQClDJEViiHGCcKGgAcAB4AIABX4gBoAeSAQIxM5gBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:1020169291465194037,l,CiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreUj914gjWjwQABABEAIYABgBGAIYAxgEIiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreSoICAIQABABEAKSARFjb252ZW50aW9uX2NlbnRlcuABAA,y,nzdD6yqJOIs;mv:[[38.050306377319025,-84.50315774919648],[38.04994642268096,-84.50361485080354]]'
-                                  rel: null
-                                  target: null
-                                  title: null
-                            text: map
-                          -
-                            type: text
-                            text: )
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: "Organizations at the fair typically seek to promote opportunities, recruit future employees, sell merchandise, or reach out to an amazing group of college students and their advisors.\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: italic
-                    text: 'What will your organization do?'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Maker Market'
-              -
-                type: bulletList
-                content:
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Hours of operation'
-                          -
-                            type: text
-                            text: ': Friday, 5-10 p.m.'
-              -
-                type: bulletList
-                content:
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Set-up time:'
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: italic
-                            text: ' '
-                          -
-                            type: text
-                            text: 'Friday, 3 p.m.-5 p.m.'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Location:'
-                          -
-                            type: text
-                            text: ' '
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'https://www.centralbankcenter.com/'
-                                  rel: null
-                                  target: null
-                                  title: null
-                            text: 'Central Bank Center'
-                          -
-                            type: text
-                            text: ' ('
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'nter+lexington+ky&rlz=1C5CHFA_enUS739US739&tbm=lcl&sxsrf=AJOqlzUWW0duEsuiFbC_f_Ljie7-ZFT86g%3A1676734610690&ei=kvDwY7LRKbiE0PEPvZ2doA0&oq=central+bank+center&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYATINCAAQDRCABBCxAxCDATIMCAAQDRCABBAUEIcCMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgkIABAHEB4Q8QQyBwgAEA0QgAQyCQgAEAcQHhDxBDIJCAAQBxAeEPEEOgQIIxAnOgkIABAWEB4Q8QQ6CAgAEBYQHhAPOgYIABAWEB46BQgAEIYDOgYIABAHEB46BQgAEIAEOgsIABAHEB4Q8QQQClDJEViiHGCcKGgAcAB4AIABX4gBoAeSAQIxM5gBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:1020169291465194037,l,CiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreUj914gjWjwQABABEAIYABgBGAIYAxgEIiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreSoICAIQABABEAKSARFjb252ZW50aW9uX2NlbnRlcuABAA,y,nzdD6yqJOIs;mv:[[38.050306377319025,-84.50315774919648],[38.04994642268096,-84.50361485080354]]'
-                                  rel: null
-                                  target: null
-                                  title: null
-                            text: map
-                          -
-                            type: text
-                            text: )
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'The Maker Market invites conference attendees and vendors to buy, sell, and trade their creations and participate in makers-stations that may include design-your-own-swag tables, prize giveaways, arts and crafts, skill-share demos, and much more!'
-              -
-                type: heading
-                attrs:
-                  level: 4
-                content:
-                  -
-                    type: text
-                    text: Eligibility
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc.'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Unsure if you qualify? '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'mailto:development@sgdinstitute.org'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Contact us'
-                  -
-                    type: text
-                    text: ' and we’ll chat about your options.'
-      -
         type: heading
         attrs:
           textAlign: left
@@ -393,7 +121,7 @@ sections:
             type: form
             formset: mblgtacc_maker_market
     type: content
-    enabled: true
+    enabled: false
   -
     id: YJiNgafS
     bard:
@@ -457,18 +185,6 @@ sections:
                           -
                             type: text
                             text: 'Friday, 5:00 p.m. - 10:00 p.m.'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          textAlign: left
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: Saturday
           -
             type: listItem
             content:
@@ -698,7 +414,7 @@ sections:
         content:
           -
             type: text
-            text: 'Unsure if you qualify? Contact us and we’ll chat about your options.'
+            text: 'Unsure if you qualify? Fill out the form below and we’ll chat about your options.'
       -
         type: heading
         attrs:
@@ -721,7 +437,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: false
+    enabled: true
   -
     id: lea4r7tg
     bard:
@@ -1172,7 +888,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679612319
+updated_at: 1679612413
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
