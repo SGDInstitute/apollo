@@ -11,20 +11,6 @@ sections:
     type: header
     enabled: true
   -
-    id: lea51vy5
-    bard:
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: "Information on this page is provided provisionally for your general planning purposes, and may be subject to (likely slight) changes. We'll have final updates and information later this spring."
-    type: content
-    enabled: true
-  -
     id: lea3tmro
     bard:
       -
@@ -45,15 +31,6 @@ sections:
           -
             type: text
             text: 'The Maker Market invites conference attendees and vendors to buy, sell, and trade their creations and participate in makers-stations that may include design-your-own-swag tables, prize giveaways, arts and crafts, skill-share demos, and much more!'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
       -
         type: bulletList
         content:
@@ -170,29 +147,6 @@ sections:
                     type: text
                     text: )
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: Pricing
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "We're still determining the pricing for makers this year and will share out updates when the structure is finalized and folks are able to apply."
-      -
         type: heading
         attrs:
           textAlign: left
@@ -219,6 +173,78 @@ sections:
           -
             type: text
             text: 'Unsure if you qualify? Contact us and we’ll chat about your options.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: '2-day Pass'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Eligible makers can opt for a two-day pass to participate in both the Maker Market on Friday and Vendor Fair on Saturday. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: Pricing
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Pay what you can—recommended contributions:'
+      -
+        type: set
+        attrs:
+          id: lflpdr4l
+          values:
+            type: table
+            first_row_header: false
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - null
+                  - 'Friday Only'
+                  - '2-Day Pass'
+              -
+                cells:
+                  - 'Independent Creator'
+                  - $100
+                  - $175
+              -
+                cells:
+                  - 'Small business<br><i>(annual sales under $100k)</i>'
+                  - $200
+                  - $375
+              -
+                cells:
+                  - 'Large business<br><i>(annual sales of $100k+)</i>'
+                  - $400
+                  - $775
+            full_width: false
       -
         type: heading
         attrs:
@@ -1016,8 +1042,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676736689
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1679611716
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
