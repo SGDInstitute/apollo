@@ -40,7 +40,7 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: lead
+          class: null
         content:
           -
             type: text
@@ -201,7 +201,7 @@ sections:
             table:
               -
                 cells:
-                  - ''
+                  - Type
                   - 'Friday only'
                   - '2-day pass'
               -
@@ -270,142 +270,6 @@ sections:
           class: null
     type: content
     enabled: true
-  -
-    id: lea4r7tg
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Vendor Fair'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "Organizations at the fair typically seek to promote opportunities, recruit future employees, sell merchandise, or reach out to an amazing group of college students and their advisors.\_"
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'What will your organization do?'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Hours of operation:'
-                  -
-                    type: text
-                    text: "\_Saturday, 10:00 a.m. - 6:00 p.m."
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Set-up time:'
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: ' '
-                  -
-                    type: text
-                    text: 'Saturday, 8:00 a.m. - 10:00 a.m. (Friday set up hours available upon request)'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Location:'
-                  -
-                    type: text
-                    text: "\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Central Bank Center'
-                  -
-                    type: text
-                    text: ' ('
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: map
-                  -
-                    type: text
-                    text: )
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: Pricing
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    type: content
-    enabled: false
   -
     id: KdZrzTa4
     bard:
@@ -569,7 +433,7 @@ sections:
             table:
               -
                 cells:
-                  - ''
+                  - Type
                   - Price
               -
                 cells:
@@ -663,7 +527,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679612933
+updated_at: 1679613022
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
