@@ -22,106 +22,8 @@ sections:
           -
             type: text
             text: 'Join us at the MBLGTACC Maker Market and/or the Vendor Fair and reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: '2-day Pass'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Eligible makers can opt for a two-day pass to participate in both the Maker Market on Friday and Vendor Fair on Saturday. '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: Pricing
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Pay what you can—recommended contributions:'
-      -
-        type: set
-        attrs:
-          id: lflpdr4l
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - null
-                  - 'Friday Only'
-                  - '2-Day Pass'
-              -
-                cells:
-                  - 'Independent Creator'
-                  - $100
-                  - $175
-              -
-                cells:
-                  - 'Small business<br><i>(annual sales under $100k)</i>'
-                  - $200
-                  - $375
-              -
-                cells:
-                  - 'Large business<br><i>(annual sales of $100k+)</i>'
-                  - $400
-                  - $775
-            full_width: true
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Apply to participate'
-      -
-        type: set
-        attrs:
-          id: lflph80m
-          values:
-            type: form
-            formset: mblgtacc_maker_market
     type: content
-    enabled: false
+    enabled: true
   -
     id: YJiNgafS
     bard:
@@ -256,11 +158,6 @@ sections:
                     type: text
                     text: )
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
         type: heading
         attrs:
           textAlign: left
@@ -277,70 +174,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Friday only'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'For queer and trans creators participating in the Friday maker market only:'
-      -
-        type: set
-        attrs:
-          id: 6Sy8ICPu
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Creator type'
-                  - Value
-              -
-                cells:
-                  - 'Independent creator'
-                  - $50
-              -
-                cells:
-                  - 'Small established business<br><i>(annual sales under $100k)</i>'
-                  - $150
-              -
-                cells:
-                  - 'Large established business<br><i>(annual sales of $100k+)</i>'
-                  - $350
-              -
-                cells:
-                  - 'Vendors not selling goods/providing an activity or demonstration only'
-                  - $0
-            full_width: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '2-day pass'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: 'Participate in the Maker Market and the Vendor Fair. '
+            text: 'Queer and trans creators can opt to participate in the maker market on Friday only, or get a 2-day pass to stay for the Vendor Fair on Saturday. '
           -
             type: text
             marks:
@@ -355,12 +189,11 @@ sections:
         content:
           -
             type: text
-            text: 'Pay what you can—recommended contributions:'
+            text: 'Pay what you can - recommended contributions:'
       -
         type: set
         attrs:
-          id: BMtU2DuL
-          enabled: false
+          id: 6Sy8ICPu
           values:
             type: table
             first_row_header: true
@@ -368,26 +201,25 @@ sections:
             table:
               -
                 cells:
-                  - Type
-                  - Value
+                  - ''
+                  - 'Friday only'
+                  - '2-day pass'
               -
                 cells:
-                  - 'Small non-profits'
+                  - 'Independent creator'
+                  - $100
+                  - $175
+              -
+                cells:
+                  - 'Small business<br><i>(annual sales under $100k)</i>'
                   - $200
+                  - $375
               -
                 cells:
-                  - 'Businesses selling goods '
-                  - $450
-              -
-                cells:
-                  - Corporations
-                  - $600
+                  - 'Large business<br><i>(annual sales of $100k+)</i>'
+                  - $400
+                  - $775
             full_width: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: heading
         attrs:
@@ -450,15 +282,6 @@ sections:
           -
             type: text
             text: 'Vendor Fair'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
       -
         type: paragraph
         attrs:
@@ -581,12 +404,8 @@ sections:
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: "We're still determining the pricing for vendors this year and will share out updates when the structure is finalized and folks are able to apply. We'll start accepting vendor fair signups this spring. In the meantime, we welcome your questions and suggestions! Email us at development@mblgtacc.org."
     type: content
-    enabled: true
+    enabled: false
   -
     id: KdZrzTa4
     bard:
@@ -599,24 +418,6 @@ sections:
           -
             type: text
             text: 'Vendor Fair'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'A la carte vendor fair tables are sold out at this time and available only to sponsors.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
       -
         type: paragraph
         attrs:
@@ -654,7 +455,7 @@ sections:
                     text: 'Hours of operation:'
                   -
                     type: text
-                    text: "\_Saturday, 10:00 a.m. - 6:00 p.m."
+                    text: "\_Saturday, 10 a.m.-6 p.m."
           -
             type: listItem
             content:
@@ -678,7 +479,7 @@ sections:
                     text: ' '
                   -
                     type: text
-                    text: 'Saturday, 8:00 a.m. - 10:00 a.m. (Friday set up hours available upon request)'
+                    text: 'Saturday, 8 a.m.-10 a.m. (Friday set up hours available upon request)'
           -
             type: listItem
             content:
@@ -758,14 +559,36 @@ sections:
             type: text
             text: Pricing
       -
+        type: set
+        attrs:
+          id: lflq48h8
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - ''
+                  - Price
+              -
+                cells:
+                  - 'Small business/non-profit<br><i>(annual sales under $100k)</i>'
+                  - $200
+              -
+                cells:
+                  - 'Large business<br><i>(annual sales of $100k+)</i>'
+                  - $400
+              -
+                cells:
+                  - Corporate
+                  - $600
+            full_width: true
+      -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: 'For all vendors, pay what you can: $150, $250, $350, $500.'
       -
         type: paragraph
         attrs:
@@ -774,55 +597,7 @@ sections:
         content:
           -
             type: text
-            text: 'Recommended contributions:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Small non-profits at $150'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Businesses selling goods at $350'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Corporations at $500'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "All exhibit spaces come with one 8' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit hall is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property."
+            text: "All exhibit spaces come with one 8' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit space is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property."
       -
         type: set
         attrs:
@@ -847,7 +622,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: false
+    enabled: true
   -
     id: B0gc5qhx
     bard:
@@ -888,7 +663,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679612413
+updated_at: 1679612933
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
