@@ -221,6 +221,11 @@ sections:
                   - $775
             full_width: true
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: left
@@ -246,28 +251,7 @@ sections:
         content:
           -
             type: text
-            text: 'Unsure if you qualify? Fill out the form below and we’ll chat about your options.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Apply to participate'
-      -
-        type: set
-        attrs:
-          id: B3nBOouT
-          values:
-            type: form
-            formset: mblgtacc_maker_market
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+            text: 'Unsure if you qualify? Fill out the form at the bottom of this page and we’ll chat about your options.'
     type: content
     enabled: true
   -
@@ -423,6 +407,15 @@ sections:
             type: text
             text: Pricing
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Pay what you can - recommended contributions:'
+      -
         type: set
         attrs:
           id: lflq48h8
@@ -463,22 +456,40 @@ sections:
             type: text
             text: "All exhibit spaces come with one 8' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit space is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property."
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
+  -
+    id: lflqudgx
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Apply to Participate'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Fill out this form to inquire about participating in the Maker Market or Vendor Fair. A member of our team will get back to you quickly.'
+      -
         type: set
         attrs:
-          id: 50HCYqdh
+          id: lflqunmt
           values:
-            type: buttons
-            buttons:
-              -
-                id: 0iKrsgnx
-                link: 'mailto:development@sgdinstitute.org'
-                text: 'Contact us to reserve your table'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
+            type: form
+            formset: mblgtacc_maker_market
       -
         type: paragraph
         attrs:
@@ -492,6 +503,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -499,6 +511,9 @@ sections:
             text: 'Questions?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -512,7 +527,7 @@ sections:
             buttons:
               -
                 id: 5wG6K5rQ
-                link: 'mailto:development@sgdinstitute.org'
+                link: 'entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
                 text: 'Contact us'
                 color: btn-green
                 size: btn-lg
@@ -522,11 +537,14 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679613127
+updated_at: 1679614142
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
