@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679617330
+updated_at: 1679617357
 sections:
   -
     id: o8rIUpZR
