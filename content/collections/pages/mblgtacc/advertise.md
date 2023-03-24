@@ -101,7 +101,7 @@ sections:
             text: 'Reserve by:'
           -
             type: text
-            text: ' September 22'
+            text: ' Sept. 30, 2023'
           -
             type: hardBreak
           -
@@ -112,7 +112,7 @@ sections:
             text: 'Ad due by:'
           -
             type: text
-            text: ' October 3'
+            text: ' Oct. 7, 2023'
       -
         type: set
         attrs:
@@ -260,5 +260,5 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679617283
+updated_at: 1679618392
 ---
