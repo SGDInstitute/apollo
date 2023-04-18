@@ -137,7 +137,7 @@ sections:
             type: text
             text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
     type: content
-    enabled: false
+    enabled: true
   -
     id: uz0Da7a2
     bard:
@@ -367,35 +367,57 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: 8f9cEMGp
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Our venue: The Greater Columbus Convention Center'
+            text: 'Our venue: Central Bank Center'
       -
         type: set
         attrs:
           id: CcIIL20t
+          enabled: false
           values:
             type: image
-            image: columbus-gccc-exterior1-featured-1090x681.jpg
+            image: central-bank-center-lexington-1099x681.jpg
             caption: 'Photo by Feinknopf Photography'
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "The state-of-the-art, award-winning Greater Columbus Convention Center is one of the busiest convention centers in North America. The facility offers the South Café & Marketplace for quick-service dining, with additional dining located across the street from the Arena District and Short North Arts District. Amenities also include a free-standing nursing parent's room, an enclosed skybridge to the official conference hotel partner—Hilton Columbus Downtown—and robust WiFi service throughout."
+            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.centralbankcenter.com/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Central Bank Center'
+          -
+            type: text
+            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
     type: content
     enabled: false
   -
@@ -656,5 +678,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849262
+updated_at: 1681849723
 ---
