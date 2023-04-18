@@ -5,7 +5,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679618248
+updated_at: 1681828118
 sections:
   -
     id: PZJpiZuz
@@ -125,17 +125,17 @@ sections:
                   - Location
               -
                 cells:
-                  - '8 a.m.-10 p.m.'
+                  - '8:00 a.m.-10 p.m.'
                   - Check-In/Information
                   - TBD
               -
                 cells:
-                  - '9-10:15 a.m.'
+                  - '9:00-10:15 a.m.'
                   - 'Workshop Session 1'
                   - Various
               -
                 cells:
-                  - '10 a.m.-6 p.m.'
+                  - '10:00 a.m.-6 p.m.'
                   - 'Vendor Fair & Maker Market'
                   - TBD
               -
@@ -145,17 +145,17 @@ sections:
                   - Various
               -
                 cells:
-                  - '12-2 p.m.'
+                  - '12:00-2:00 p.m.'
                   - 'The Revoluncheon'
                   - TBD
               -
                 cells:
-                  - '2-3:15 p.m.'
+                  - '2:00-3:15 p.m.'
                   - 'Identity Forums'
                   - Various
               -
                 cells:
-                  - '3:45-5 p.m.'
+                  - '3:45-5:00 p.m.'
                   - 'Workshop Session 3'
                   - Various
               -
@@ -165,7 +165,7 @@ sections:
                   - TBD
               -
                 cells:
-                  - '8:30-11 p.m.'
+                  - '8:30-11:00 p.m.'
                   - Entertainment
                   - TBD
             full_width: true
@@ -206,17 +206,17 @@ sections:
                   - Location
               -
                 cells:
-                  - '9-10:15 a.m.'
+                  - '9:00-10:15 a.m.'
                   - 'Identity Forum'
                   - Various
               -
                 cells:
-                  - '10:45 a.m.-12 p.m.'
+                  - '10:45 a.m.-12:00 p.m.'
                   - 'Workshop Session 4'
                   - Various
               -
                 cells:
-                  - '12:30-1 p.m.'
+                  - '12:30-1:00 p.m.'
                   - 'Closing Remarks'
                   - TBD
             full_width: true
