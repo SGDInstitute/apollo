@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681848558
+updated_at: 1681851994
 sections:
   -
     id: j7D4Zmil
@@ -62,7 +62,7 @@ sections:
         content:
           -
             type: text
-            text: 'Let us bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
+            text: 'What is the MBLGTACC experience like? Let us bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
       -
         type: set
         attrs:
@@ -73,7 +73,7 @@ sections:
               -
                 id: lgmdmh8n
                 link: 'https://us06web.zoom.us/meeting/register/tZcvdu2spjIsHtFCRz7L_rAfarnljaf6Ep75'
-                text: Register
+                text: 'Register for info session'
                 color: btn-white
                 size: btn-lg
                 block: false
