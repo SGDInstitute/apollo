@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681847911
+updated_at: 1681848262
 sections:
   -
     id: zR1BNzlK
@@ -137,7 +137,7 @@ sections:
         content:
           -
             type: text
-            text: 'We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
+            text: 'Submissions are open to all students, staff, faculty, community organizers, and others with knowledge and experiences relevant to sexuality and gender, identity, college students and young adults, aligned social justice work, and more.'
       -
         type: heading
         attrs:
