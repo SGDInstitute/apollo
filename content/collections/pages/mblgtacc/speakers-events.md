@@ -54,67 +54,7 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: lead
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
           class: null
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: Keynotes
-      -
-        type: set
-        attrs:
-          id: CP6E9usO
-          enabled: false
-          values:
-            type: image
-            image: bailar-barbarin-1090x681_email-image.jpg
-            inline: false
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Schuyler Bailar'
-          -
-            type: text
-            text: ', the first trans NCAA D1 men’s athlete, will deliver the Friday keynote. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Imani Barbarin'
-          -
-            type: text
-            text: ', masterfully witty and incisive disability rights activist, will address conference attendees on Saturday. '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::f8b4f0fd-4804-4827-aa55-ac6271ea9d2a'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: italic
-            text: 'Learn more about Bailar and Barbarin.'
       -
         type: paragraph
         attrs:
@@ -123,43 +63,12 @@ sections:
     type: content
     enabled: true
   -
-    id: BjPH1yTl
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Entertainment
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Hayden Kristal—as seen on TikTok and America's Got Talent™—will host and emcee Open Mic Night on Friday night, and on Saturday we'll feature a drag show for high-energy entertainment, with a games and crafts room running concurrently. "
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::d016c432-1882-44d8-b8ca-dd0b53a9461a'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: italic
-            text: 'Learn more about entertainment.'
-    type: content
-    enabled: false
-  -
     id: 3dD8hXbF
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -206,38 +115,6 @@ sections:
                           target: null
                           title: null
                     text: 'Workshop Tracks →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::96f92224-6822-42f4-a06a-14260ce278f9'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Workshops →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::45a7eef9-88a0-48eb-b1f4-9145dc67c56a'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Identity Forums →'
               -
                 type: heading
                 attrs:
@@ -303,26 +180,13 @@ sections:
                           target: null
                           title: null
                     text: 'Vendor Fair →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Virtual Track →'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
-    enabled: true
+    enabled: false
   -
     id: mpEmu91Z
     limit: 3
@@ -340,6 +204,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370562
+updated_at: 1681829608
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
