@@ -4,10 +4,12 @@ blueprint: pages
 title: News
 sections:
   -
+    id: uv0q9A8y
     title: News
     type: header_small
     enabled: true
   -
+    id: vkuuzKbz
     bard:
       -
         type: paragraph
@@ -21,10 +23,12 @@ sections:
       -
         type: set
         attrs:
+          id: dR0APuVw
           values:
             type: buttons
             buttons:
               -
+                id: uiB9PpgR
                 link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
                 text: 'Get email updates'
                 color: btn-green
@@ -40,6 +44,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 22sgbJiR
     bard:
       -
         type: heading
@@ -52,18 +57,19 @@ sections:
     type: content
     enabled: true
   -
+    id: 15js90eX
     articles:
       - 3e5f036b-a493-4823-8f42-f763d32b7f0b
       - 31da7e8e-cc8e-462e-9bb5-0570de9fe70c
       - 79b20e53-7e95-476e-adcd-6748ba545021
-      - f35d91d0-8672-48fd-993d-7ce17df1f308
-      - 17d73968-1f5f-42b6-9625-65d7d89ea12d
+      - 849ae31c-c2d0-4277-af60-af1ec555150b
+      - e2c52738-efd4-489f-933b-a544e5e1c137
     bg_type: color
-    num_colors: 2
     bg_color: bg-transparent
     type: news_feature
     enabled: true
   -
+    id: xKEaM2pG
     bard:
       -
         type: heading
@@ -76,11 +82,13 @@ sections:
       -
         type: set
         attrs:
+          id: 7dlvszd7
           enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: gfyEPalG
                 link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
                 text: 'Get email updates'
                 color: btn-green
@@ -99,13 +107,14 @@ sections:
                 type: bold
             text: Title
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: Date
     type: content
     enabled: false
   -
+    id: J3PHJmcn
     bard:
       -
         type: heading
@@ -127,16 +136,17 @@ sections:
     type: content
     enabled: true
   -
+    id: KA0cXU6D
     limit: 100
     num_per_row: 3
     pagination: true
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
   -
+    id: iy1DSI9Q
     bard:
       -
         type: heading
@@ -176,5 +186,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1674080185
+updated_at: 1681846196
 ---
