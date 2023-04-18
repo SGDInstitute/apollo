@@ -59,11 +59,11 @@ sections:
   -
     id: 15js90eX
     articles:
+      - e2c52738-efd4-489f-933b-a544e5e1c137
+      - 849ae31c-c2d0-4277-af60-af1ec555150b
       - 3e5f036b-a493-4823-8f42-f763d32b7f0b
       - 31da7e8e-cc8e-462e-9bb5-0570de9fe70c
       - 79b20e53-7e95-476e-adcd-6748ba545021
-      - 849ae31c-c2d0-4277-af60-af1ec555150b
-      - e2c52738-efd4-489f-933b-a544e5e1c137
     bg_type: color
     bg_color: bg-transparent
     type: news_feature
@@ -151,6 +151,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -181,10 +182,16 @@ sections:
             text: ' Someone on our team will return your message as soon as possible :)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681846196
+updated_at: 1681846229
 ---
