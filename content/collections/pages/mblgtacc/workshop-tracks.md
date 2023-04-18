@@ -50,6 +50,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -63,6 +64,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -70,16 +74,19 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::d230d54f-cf41-4dfe-828a-b5dd34babf08'
+                          href: null
                           rel: null
                           target: null
                           title: null
-                    text: 'Activism & Protest as Tools for Justice'
+                    text: 'Art, Media, and Design'
           -
             type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -91,12 +98,15 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Creating Change on College Campuses'
+                    text: 'Change on College Campuses'
           -
             type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -104,16 +114,39 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::09a9c0fc-d5f8-4575-9008-23c97aac3ee2'
+                          href: null
                           rel: null
                           target: null
                           title: null
-                    text: 'Designing a Queer Future Through Media'
+                    text: 'Historical and Contemporary Identities'
           -
             type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Justice: Activism and Protest'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -125,29 +158,15 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Doing the Work in Rural and Small Communities'
+                    text: 'Small Town Queerness'
           -
             type: listItem
             content:
               -
                 type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::57e8a415-6c1e-44e9-9ae5-659fd5106e06'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Historical and Contemporary Identities'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -159,46 +178,15 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Taking Care of Ourselves to Take Care of Others'
+                    text: 'Self and Community Care'
           -
             type: listItem
             content:
               -
                 type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::041bfaf7-db36-4e2d-a682-5c047f66c162'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'The Dolls are Thriving'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Virtual Track'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -365,6 +353,33 @@ sections:
         content:
           -
             type: text
+            text: 'Historical and Contemporary Identities'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Brought to you exclusively by FEMME, the Federation of Experienced Multiple MBLGTACC Educators, the Historical and Contemporary Identities track explores sexuality, gender, history and community.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
             text: 'Justice: Activism and Protest'
       -
         type: paragraph
@@ -497,7 +512,7 @@ sections:
         content:
           -
             type: text
-            text: 'Small-Town Queerness'
+            text: 'Small Town Queerness'
       -
         type: paragraph
         attrs:
@@ -807,8 +822,8 @@ sections:
     type: two_column
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681830791
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681846538
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
