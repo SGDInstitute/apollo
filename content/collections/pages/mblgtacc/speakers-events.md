@@ -74,6 +74,18 @@ sections:
             type: text
             text: Activities
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Speakers and entertainment will be announced in summer 2023.'
+      -
         type: set
         attrs:
           id: 0rY89l7j
@@ -203,6 +215,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681846873
+updated_at: 1681846943
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
