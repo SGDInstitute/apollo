@@ -1,6 +1,5 @@
 ---
 id: 81e3cfa9-4200-4162-b899-966f8d86a954
-published: false
 blueprint: pages
 title: 'Lunch and Learn'
 sections:
@@ -119,6 +118,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -135,9 +135,13 @@ sections:
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -145,6 +149,9 @@ sections:
             text: 'Merrique Jenson'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -157,12 +164,18 @@ sections:
             text: ' is a transgender, queer, second-generation multiracial woman of color of White, Indigenous and Mexican heritage. She is the Founder and currently serves as the Executive Director for Transformations, a trans and gender-expansive youth organization based in Kansas City. Merrique has been working in the fields of harm reduction and anti-violence advocacy for over 20 years and has helped create multiple startup LGBTQ programs in the Midwest for young people and trans people of color experiencing trauma and living on the streets. She is a respected community advisor and racial equity consultant. She recently was honored and named in the first Trans Day of Visibility Proclamation on March 30, 2022, for Kansas City, Missouri, for her activism and acknowledged by a group of activists in the LGBTQ Commission of Special Action Recognition by Kansas City for June 2021 Pride Month.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Merrique is also the Owner/Principal of SocialScope Productions, which focuses on multimedia artistic programs, equity development, and intersectional professional development coaching. Her multimedia projects have been nationally recognized, including the popular #GetWoke event series. She has performed as a DJ, is a published author, and contributing blogger for The Advocate, Out Magazine & HuffPost, and is an award-winning documentary filmmaker. She is a respected content expert, artistic advisor, and racial equity consultant. Merrique also serves a two-year term on the Board of Directors for Theatre Communications Group and has been recognized by the Association for Queer Anthropology for her artistic work.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -183,6 +196,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -190,6 +204,9 @@ sections:
             text: 'Jade Careaga'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -213,7 +230,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681846702
+updated_at: 1681846721
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
