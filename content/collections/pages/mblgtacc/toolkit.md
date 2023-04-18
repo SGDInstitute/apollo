@@ -1,11 +1,11 @@
 ---
 id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
 blueprint: pages
-title: 'Student Group Toolkit'
+title: 'Attendee Toolkit'
 sections:
   -
     id: 0DpIwVpQ
-    title: 'Student Group Toolkit'
+    title: 'Attendee Toolkit'
     type: header_small
     enabled: true
   -
@@ -1068,7 +1068,7 @@ sections:
     type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677537932
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681831372
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
