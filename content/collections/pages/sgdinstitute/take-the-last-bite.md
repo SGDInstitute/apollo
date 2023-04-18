@@ -15,8 +15,8 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    subtitle: 'Season 4 coming March 2023—New episodes bi-weekly'
-    link: 'entry::1c3d6975-2553-4efc-9058-4d8306027012'
+    subtitle: 'New episodes released bi-weekly.'
+    link: 'entry::0bea0fda-9575-403f-8265-f9e147f4668a'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -80,6 +80,40 @@ sections:
           -
             type: text
             text: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place. "
+    type: content
+    enabled: true
+  -
+    id: lgm8rtnw
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Season 4'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::0bea0fda-9575-403f-8265-f9e147f4668a'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 1: Putting Queer Folks on the Map'
+          -
+            type: text
+            text: ' →'
     type: content
     enabled: true
   -
@@ -975,7 +1009,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677347958
+updated_at: 1681821068
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
