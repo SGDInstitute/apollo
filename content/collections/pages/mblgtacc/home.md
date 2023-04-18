@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681829350
+updated_at: 1681829373
 sections:
   -
     id: j7D4Zmil
@@ -58,7 +58,7 @@ sections:
         content:
           -
             type: text
-            text: 'Upcoming info sessions for aspiring attendees'
+            text: 'Upcoming info session for aspiring attendees'
       -
         type: paragraph
         attrs:
