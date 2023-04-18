@@ -1,14 +1,15 @@
 ---
 id: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
-published: false
 blueprint: pages
 title: 'Advisor Programming'
 sections:
   -
+    id: 8whS1yg7
     title: 'Advisor Programming'
     type: header_small
     enabled: true
   -
+    id: CpVlyS6U
     bard:
       -
         type: paragraph
@@ -21,6 +22,9 @@ sections:
             text: 'We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -28,6 +32,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -35,189 +40,56 @@ sections:
             text: 'Advisor Track'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Content in the Advisor Track will focus on:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: "Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: "Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions\_"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated\_"
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Advisor Track Schedule'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Supporting & Advocating Alongside LGBTQ+ Center Staff: Reflections from Practitioners & Scholars '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Kalyani Kannan'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022 8:30 - 9:45 am'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A111'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Individuals can appreciate the tremendous work of LGBTQ+ center staff without knowing what it means to support them and their work. This session is for those who want to partner with LGBTQ+ center staff and/or advocate for LGBTQ+ centers to have greater resources. Other topics include: alignment with and advocacy alongside LGBTQ+ center staff, how to inquire and then advocate for their needs, and collaboration opportunities for larger justice efforts on campus.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'The Art of Calm '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Will Van Roosenbeek'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022 10:00 - 11:15 am'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A111'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Work demands, pandemic uncertainty, families, friends, and boredom could be taking their toll on our ability to find quiet, peace, and/or calm. Join University of Wisconsin La Crosse Pride Center Director Will Van Roosenbeek and explore techniques that restore, calm, and get you back to center.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Meeting in the Center '
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Presented by: Cornelius Baker'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Time: Sat., Oct. 22, 2022 4:00 - 5:15 pm'
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Location: A111'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Queer and trans (QT) educational trainings can often occur at the detriment of QT individuals in the space that may feel tokenized or experience harm for the benefit of non-QT folks’ learning. In this workshop I plan to exam the ways in which we can center QT peoples’ learning in educational trainings. We plan on re-focusing our assessment efforts to better understand the gaps in educational support and personal development for QT individuals.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Content Warnings: Biphobia or homophobia, Transphobia, Racism'
+                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated'
     type: content
     enabled: true
   -
+    id: WY18E0UU
     bard:
       -
         type: heading
@@ -230,6 +102,7 @@ sections:
       -
         type: set
         attrs:
+          id: cmhWfzKH
           values:
             type: 2_columns
             left_column: content
@@ -248,7 +121,7 @@ sections:
                         type: bold
                     text: 'Date & time'
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bol
@@ -256,7 +129,7 @@ sections:
                     type: text
                     text: 'Friday, October 21'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: '8:00 - 10:00 p.m. EDT'
@@ -274,7 +147,7 @@ sections:
                         type: bold
                     text: Location
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bold
@@ -282,7 +155,7 @@ sections:
                     type: text
                     text: 'Hilton Columbus Downtown'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: 'Robert King Room'
@@ -291,10 +164,11 @@ sections:
         content:
           -
             type: text
-            text: 'The Advisor Social is open to all advisors, higher ed pros, graduate students, and others who work with, in, and on behalf of students and institutions. Drink tickets and hors d''oeuvres will be available.'
+            text: "The Advisor Social is open to all advisors, higher ed pros, graduate students, and others who work with, in, and on behalf of students and institutions. Drink tickets and hors d'oeuvres will be available."
     type: content
-    enabled: true
+    enabled: false
   -
+    id: 8HLSsGdu
     bard:
       -
         type: heading
@@ -309,7 +183,7 @@ sections:
         content:
           -
             type: text
-            text: 'This year''s advisor programming is made possible by the integral relationship between MBLGTACC and the '
+            text: "This year's advisor programming is made possible by the integral relationship between MBLGTACC and the "
           -
             type: text
             marks:
@@ -336,17 +210,16 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
+    id: gPqrWOaG
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1666277826
+updated_at: 1681831261
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
