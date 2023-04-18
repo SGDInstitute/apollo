@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681828124
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681851560
 sections:
   -
     id: PZJpiZuz
@@ -24,12 +24,9 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Please note: This schedule of events for MBLGTACC 2023 may be adjusted slightly as program details are confirmed.'
+            text: 'This schedule may be adjusted slightly as program details are confirmed.'
     type: content
-    enabled: false
+    enabled: true
   -
     id: QKV1jN4T
     bard:
@@ -42,6 +39,18 @@ sections:
           -
             type: text
             text: 'Friday, November 3'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Times listed in Eastern Daylight Time.'
       -
         type: set
         attrs:
@@ -92,13 +101,6 @@ sections:
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Times listed in Eastern Daylight Time.'
       -
         type: heading
         attrs:
@@ -108,6 +110,18 @@ sections:
           -
             type: text
             text: 'Saturday, November 4'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Times listed in Eastern Daylight Time.'
       -
         type: set
         attrs:
@@ -173,13 +187,6 @@ sections:
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Times listed in Eastern Daylight Time.'
       -
         type: heading
         attrs:
@@ -189,36 +196,6 @@ sections:
           -
             type: text
             text: 'Sunday, November 5'
-      -
-        type: set
-        attrs:
-          id: q53rOQVg
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - Time
-                  - Activity
-                  - Location
-              -
-                cells:
-                  - '9:00-10:15 a.m.'
-                  - 'Identity Forum'
-                  - Various
-              -
-                cells:
-                  - '10:45 a.m.-12:00 p.m.'
-                  - 'Workshop Session 4'
-                  - Various
-              -
-                cells:
-                  - '12:30-1:00 p.m.'
-                  - 'Closing Remarks'
-                  - TBD
-            full_width: true
       -
         type: paragraph
         attrs:
@@ -259,6 +236,36 @@ sections:
               -
                 type: italic
             text: ' when clocks fall back an hour at 2 a.m. on Sunday, November 5'
+      -
+        type: set
+        attrs:
+          id: q53rOQVg
+          values:
+            type: table
+            first_row_header: true
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - Time
+                  - Activity
+                  - Location
+              -
+                cells:
+                  - '9:00-10:15 a.m.'
+                  - 'Identity Forum'
+                  - Various
+              -
+                cells:
+                  - '10:45 a.m.-12:00 p.m.'
+                  - 'Workshop Session 4'
+                  - Various
+              -
+                cells:
+                  - '12:30-1:00 p.m.'
+                  - 'Closing Remarks'
+                  - TBD
+            full_width: true
     type: content
     enabled: true
   -
