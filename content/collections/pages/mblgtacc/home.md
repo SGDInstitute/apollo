@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681845705
+updated_at: 1681848493
 sections:
   -
     id: j7D4Zmil
@@ -42,7 +42,7 @@ sections:
     enabled: true
   -
     id: info-session
-    column_widths: quarter_right
+    column_widths: one_fifth_right
     left_column: content
     right_column: image
     center_columns: false
@@ -54,7 +54,7 @@ sections:
         content:
           -
             type: text
-            text: 'Upcoming info session for attendees'
+            text: 'April 26 info session for attendees'
       -
         type: paragraph
         attrs:
@@ -62,13 +62,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'APRIL 26'
-          -
-            type: text
-            text: '—Let a couple members of our planning team bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
+            text: 'Let us bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
       -
         type: set
         attrs:
