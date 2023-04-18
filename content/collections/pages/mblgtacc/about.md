@@ -389,7 +389,6 @@ sections:
         type: set
         attrs:
           id: CcIIL20t
-          enabled: false
           values:
             type: image
             image: central-bank-center-lexington-1099x681.jpg
@@ -419,7 +418,7 @@ sections:
             type: text
             text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
     type: content
-    enabled: false
+    enabled: true
   -
     id: tbUnWPRV
     bard:
@@ -527,9 +526,13 @@ sections:
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -545,6 +548,9 @@ sections:
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -565,6 +571,9 @@ sections:
             text: ' represents a new chapter in the broader, prouder history of a movement of students dedicated to building queer success in the Midwest. Over the past 30 years, MBLGTACC has become a destination and refuge for LGBTQIA+ and ally students to engage with their peers from around the region and the nation.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -585,8 +594,14 @@ sections:
             text: ' with a mandate to provide robust strategic and operational support for conference operations and campus planning teams; to continue improving the MBLGTACC experience for all attendees and partners; to relentlessly pursue diversity, equity, and inclusion in value and practice; and to grow the capacity of the organization beyond the annual conference.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -678,5 +693,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849723
+updated_at: 1681849747
 ---
