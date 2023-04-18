@@ -1,14 +1,15 @@
 ---
 id: d6f53c64-4440-4a68-9b6c-d18fff3d6834
-published: false
 blueprint: pages
 title: 'Workshop Tracks'
 sections:
   -
+    id: AFfFixWB
     title: 'Workshop Tracks'
     type: header_small
     enabled: true
   -
+    id: vek3uc2o
     bard:
       -
         type: paragraph
@@ -22,11 +23,13 @@ sections:
       -
         type: set
         attrs:
+          id: 7kQJrWiz
           enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: yTK6JuZ7
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: 'Present at MBLGTACC'
                 color: btn-green
@@ -48,6 +51,7 @@ sections:
     type: content
     enabled: true
   -
+    id: mytURM8H
     bard:
       -
         type: heading
@@ -58,10 +62,10 @@ sections:
             type: text
             text: 'List of tracks'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -78,7 +82,7 @@ sections:
                           title: null
                     text: 'Activism & Protest as Tools for Justice'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -95,7 +99,7 @@ sections:
                           title: null
                     text: 'Creating Change on College Campuses'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -112,7 +116,7 @@ sections:
                           title: null
                     text: 'Designing a Queer Future Through Media'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -129,7 +133,7 @@ sections:
                           title: null
                     text: 'Doing the Work in Rural and Small Communities'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -146,7 +150,7 @@ sections:
                           title: null
                     text: 'Historical and Contemporary Identities'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -163,7 +167,7 @@ sections:
                           title: null
                     text: 'Taking Care of Ourselves to Take Care of Others'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -180,7 +184,7 @@ sections:
                           title: null
                     text: 'The Dolls are Thriving'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -197,7 +201,7 @@ sections:
                           title: null
                     text: 'Virtual Track'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -214,12 +218,14 @@ sections:
                           title: null
                     text: 'Advisor Track'
     type: content
-    enabled: true
+    enabled: false
   -
+    id: vV9Umfw1
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -228,181 +234,329 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: "Activism & Protest as Tools for Justice\_"
+            text: 'Art, Media and Design'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects.\_Content in this track should focus on:"
+            text: 'Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers, media and content creation is a strong tool for gender justice and sexual liberation. '
       -
-        type: bullet_list
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Current movement work, mutual aid projects, direct action and other activism within the region impacting queer and trans communities\_"
+            type: text
+            text: 'Content in this track should focus on:'
+      -
+        type: bulletList
+        content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Analyzing movements and activism throughout history to extract lessons for us in today’s context\_"
+                    text: 'Supporting artistic and creative content creation by queer and trans communities '
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Policies and political actions that pose barriers to activism efforts\_"
+                    text: 'Representation, gaps in visibility, and analyzing the quality of queer and trans content in film, television, music  journalism and other mass media '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Using social media and creative platforms to build community, raise awareness and mobilize movements '
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: "Creating Change on College Campuses\_"
+            text: 'Change on College Campuses'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people.\_Content in this track should focus on:"
+            text: 'College campuses are key areas of influence for our conference attendees. The history of higher education is rife with instances in which queer and trans people are underrepresented in programming, initiatives, and opportunities. College students, educators, and practitioners play an integral role in expanding possibilities for our communities on campuses and improving campus climate for marginalized people. '
       -
-        type: bullet_list
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Experiences with student organizations and on-campus programming, events and advocacy\_"
+            type: text
+            text: 'Content in this track should focus on:'
+      -
+        type: bulletList
+        content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Ways to access support services and resources as a queer/trans college student\_"
+                    text: 'Experiences with student organizations and on-campus programming, events and advocacy '
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Advocating for improved campus policies and creating an affirming campus climate\_"
+                    text: 'Ways to access support services and resources as a queer/trans college student '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Advocating for improved campus policies and creating an affirming campus climate '
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: "Designing a Queer Future Through Media\_"
+            text: 'Justice: Activism and Protest'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "Queer and trans folks know a thing or two about entertainment, content creation, media, and design! Whether the goal is advocacy for a cause, mobilizing people around an injustice, tightening a community through art and music, or bringing laughter and joy to your followers– media and content creation is a strong tool for gender justice and sexual liberation.\_Content in this track should focus on:"
+            text: 'Justice and rights will never be handed over by oppressive systems. They must be demanded. College campuses, urban centers, and rural communities have all been sites for direct action, protests, and other forms of activism in recent years specifically around issues of racial justice, police brutality, student loan debt, and climate catastrophes. Queer and trans folks are highly represented among those on the front lines, in medic tents, and leading mutual aid projects. '
       -
-        type: bullet_list
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Supporting artistic and creative content creation by queer and trans communities\_"
+            type: text
+            text: 'Content in this track should focus on:'
+      -
+        type: bulletList
+        content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Representation, gaps in visibility, and analyzing the quality of queer and trans content in film, television, music\_ journalism and other mass media\_"
+                    text: 'Current movement work, mutual aid projects, direct action and other activism tactics'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Using social media and creative platforms to build community, raise awareness and mobilize movements\_"
+                    text: 'Analyzing movements and activism throughout history to extract lessons for us in today’s context '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Policies and political actions that pose barriers to activism efforts '
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: "Doing the Work in Rural & Small Communities\_"
+            text: 'Self and Community Care'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "Rural and/or small communities are a major focus of this year’s conference to honor the LGBTQ+ communities who exist in these complex campus and community spaces.\_ Communities outside of urban spaces are often disregarded by political campaigning and resource allocation, leaving marginalized communities to manifest their own models of advocacy, organizing, and activism.\_ By focusing on the work being done in rural communities to bridge resource gaps, build extensive communities, and combat small town conservative ideologies, we expand our toolkit of possible tactics and strategies for social change.\_"
+            text: 'Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "Content in this track should focus on:\_"
+            text: 'Content in this track should focus on: '
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: "Queer-and trans- focused work within rural and/or small communities in the Midwest\_"
+                    text: 'Personal and community care practices that support communities impacted by burnout, systemic violence, trauma and medical gatekeeping '
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Sexual health and safer sex practices including consent and  boundaries, body image, kink/BDSM culture, relationship structures, and pleasure/desire mapping  '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Improving and understanding mental health outcomes for queer and trans communities, especially in the Midwest, Southern and Appalachian regions  '
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Small-Town Queerness'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Communities outside of urban spaces are often disregarded by political campaigning and resource allocation, leaving marginalized communities to manifest their own models of advocacy, organizing, and activism. By focusing on the work being done in rural communities to bridge resource gaps, build extensive communities, and combat small town conservative ideologies, we expand our toolkit of possible tactics and strategies for social change. '
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Content in this track should focus on: '
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Queer- and trans-focused work within rural and/or small communities in the Midwest, South and/or Appalachia '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Organizing, mutual aid projects and power building in rural communities'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -410,210 +564,83 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
             type: text
-            text: 'Historical and Contemporary Identities'
+            text: 'Advisor Track'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Brought to you by FEMME, the Federation of Experienced Multiple MBLGTACC Educators, the Historical and Contemporary Identities Track explores sexuality, gender, history and community.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Stephanie Skora is an Anti-zionist Jew, writer, speaker, educator, non-profit executive, and political pundit (muckraker). She is an expert in lesbian history/identity and Pinkwashing. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Stefani Vargas is a Peruvian American student affairs educator, speaker, consultant, trainer, community organizer, & social scientist. She is an expert in butch/femme history and identity, rural student development, and fat liberation.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "With a combined 23 years of experience in their fields, Bisexual Stefani and Dyke Stephanie bring you an engaging, and informational track filled with laughs, learning, and lesbians.\_"
-      -
-        type: heading
         attrs:
-          level: 3
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "Taking Care of Ourselves to Take Care of Others\_"
+            text: 'We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. We want to recognize this work and hold space for these roles who often attend the conference with their student groups and deserve a meaningful professional and personal development experience at MBLGTACC.  '
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: "There’s no doubt that the last three years since the onset of the global COVID-19 pandemic have amplified what marginalized groups already know to be harsh conditions, hard fights, and continued struggle.\_ Experiences of burnout, disruptions to existing organization and education efforts, and constantly reacting to waves of injustice have weighed heavily on queer and trans communities. It is essential we dedicate time and attention to pleasure, joy, wellness, and healing in order to sustain ourselves, our communities and our movement.\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Content in this track should focus on:\_"
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Personal and community care practices that support communities impacted by burnout, systemic violence, trauma and medical gatekeeping\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Sexual health and safer sex practices including consent and\_ boundaries, body image, kink/BDSM culture, relationship structures, and pleasure/desire mapping\_\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Improving and understanding mental health outcomes for queer and trans communities, especially in the Midwest region\_\_\_"
-      -
-        type: heading
         attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'The Dolls are Thriving'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The Dolls Are Thriving is organized by Transformations and is an annual national virtual summit on women of color of trans experience in leadership, advocacy and mentorship. At MBLGTACC, they are bringing aspects of the national conference, led by trans women of color activists and organizers. Across two extended sessions and an identity forum, you’ll combine facilitated conversations, small group breakout activities, case scenarios, and media clips.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In this track, attendees can choose to attend either or both of the Saturday extended sessions. The morning block combines workshop sessions 1-2, and the afternoon block combines sessions 3-4.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Virtual Track'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "One of the major lessons learned through this pandemic is the need for hybrid options at large-scale events. As we continue to contend with the impacts of the health crisis and ensure Midwest queer and trans folks can engage with the conference, we are committed to providing a virtual experience tailored specifically for a digital-first audience– meaning we will ensure all content available to virtual ticket-holders is curated to prioritize their experience and that presenters/facilitators will be selected based on skills and experience working with virtual audiences.\_"
-      -
-        type: paragraph
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Content in this track should focus on:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Delivering an interactive and educational experience to a digitally based audience'
+                    text: 'Tools to support advisors, higher education practitioners and other roles that support college students'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Prioritizing communities that are more likely to attend the conference virtually (Ex: access, distance/geographical location, affordability, etc)'
+                    text: 'Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions '
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Demonstrating strong workshop delivery skills in a virtual setting (aka not replicating an in-person workshop for this setting)'
+                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated '
       -
-        type: heading
+        type: paragraph
         attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: "Advisor Track\_"
+          textAlign: left
+          class: null
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: "We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. We want to recognize this work and hold space for these roles who often attend the conference with their student groups.\_\_Content in this track should focus on:"
-      -
-        type: bullet_list
-        content:
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: "Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions\_"
-          -
-            type: list_item
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated'
-      -
-        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
+    id: fTuANlJi
     bard:
       -
         type: heading
@@ -628,10 +655,11 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll be sharing descriptions of each track descriptions later in March—and ahead of the workshop submissions opening—to 1) help presenter hopefuls with determining which, if any, tracks, most closely align with their content, and 2) assist attendees in understanding and selecting content in these focus areas.'
+            text: "We'll be sharing descriptions of each track descriptions later in March—and ahead of the workshop submissions opening—to 1) help presenter hopefuls with determining which, if any, tracks, most closely align with their content, and 2) assist attendees in understanding and selecting content in these focus areas."
     type: content
     enabled: false
   -
+    id: WVHvavnJ
     bard:
       -
         type: heading
@@ -682,7 +710,7 @@ sections:
         content:
           -
             type: text
-            text: 'We''ll accept proposals from April 4 through May 13, 2022. '
+            text: "We'll accept proposals from April 4 through May 13, 2022. "
       -
         type: heading
         attrs:
@@ -728,6 +756,7 @@ sections:
     type: content
     enabled: true
   -
+    id: I8CVI8Qt
     bard:
       -
         type: heading
@@ -746,6 +775,7 @@ sections:
     type: content
     enabled: true
   -
+    id: M71cHwZ2
     type: content
     enabled: true
   -
@@ -774,10 +804,12 @@ sections:
       -
         type: set
         attrs:
+          id: CoJc9R8C
           values:
             type: buttons
             buttons:
               -
+                id: Gz7zITs9
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: 'Learn more & submit a proposal'
                 color: btn-green
@@ -788,14 +820,13 @@ sections:
             contain: true
     image: news/tracks-feedback-2022_web-redux-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: two_column
     enabled: false
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666371656
-description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Doing the Work in Rural & Small Communities, Taking Care of Ourselves to Take Care of Others, Designing a Queer Future Through Media, Activism & Protest as Tools for Justice, Creating Change on College Campuses, Advisor Track, and Virtual Track.'
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681830319
+description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
 ---
