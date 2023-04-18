@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681847500
+updated_at: 1681847850
 sections:
   -
     id: zR1BNzlK
@@ -155,7 +155,99 @@ sections:
         content:
           -
             type: text
-            text: "Complete your submission by May 22, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
+            text: "Complete your submission by May 22, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified by the end of June of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'April 10: Submissions opened'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'May 22: Submissions close at 11:59 p.m. ET'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'June 23: Notice to presenter of decision'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'If selected to present at MBLGTACC, presenters are also advised of these additional dates:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'July 21: Presenter confirmation deadline'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Sept. 1: Presenter orientation'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Oct. 20: Presentation materials submitted to conference committee'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
