@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681828997
+updated_at: 1681829244
 sections:
   -
     id: j7D4Zmil
@@ -43,6 +43,55 @@ sections:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
     type: content
+    enabled: true
+  -
+    id: info-session
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Upcoming info sessions for aspiring attendees'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'APRIL 26—Let a couple members of our planning team bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
+      -
+        type: set
+        attrs:
+          id: lgmdmgpe
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lgmdmh8n
+                link: 'https://us06web.zoom.us/meeting/register/tZcvdu2spjIsHtFCRz7L_rAfarnljaf6Ep75'
+                text: 'ATTENDEE INFO SESSION'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          class: null
+    image: news/romeo-jackson-2020-presenter-1090x681.jpg
+    bg_type: color
+    bg_color: bg-transparent
+    type: two_column
     enabled: true
   -
     id: pricing
@@ -228,6 +277,7 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
+    num_colors: 2
   -
     id: MeJVZ4VN
     bard:
