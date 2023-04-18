@@ -71,15 +71,18 @@ tree:
     title: About
     children:
       -
-        id: 5e73461f-5a39-4769-82bc-65092e68cd4f
-        entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
-      -
         id: f4a878f4-82e0-405e-80b4-80432cdf3e49
         entry: 59865639-7c77-43d1-a56c-333bc38efccc
         title: About
       -
+        id: 5e73461f-5a39-4769-82bc-65092e68cd4f
+        entry: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
+      -
         id: a66b308f-eada-4d78-840e-3e04dc534f77
         entry: f014f793-2dc9-4709-8f2f-57a25fc94f8e
+      -
+        id: 5727e788-307e-4dd1-821b-110e3f44436b
+        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
       -
         id: 24840b84-15ba-40c4-879b-516122df4de5
         entry: 77581097-4408-48b2-a124-97fc61e209e3
@@ -96,9 +99,6 @@ tree:
       -
         id: 670330e5-7360-47af-8899-8fdd91716afb
         entry: e117e019-bc65-41b2-9cde-fad0b8a5c20c
-      -
-        id: 5727e788-307e-4dd1-821b-110e3f44436b
-        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
   -
     id: 6f2fa3bb-916f-4fa8-a2d5-fee72d8aa616
     entry: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
