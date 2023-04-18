@@ -1,6 +1,5 @@
 ---
 id: 2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb
-published: false
 blueprint: pages
 title: 'How to Register'
 sections:
@@ -60,7 +59,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2022 in person are '
+            text: 'Tickets to attend MBLGTACC 2023 in person are '
           -
             type: text
             marks:
@@ -69,82 +68,70 @@ sections:
             text: '$100 each'
           -
             type: text
-            text: ". You'll have access to all programming taking place at the Central Bank Center "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: and
-          -
-            type: text
-            text: " digital-only programming. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses. In person tickets are available until 11:59 p.m. ET October XX, 2023. When purchasing tickets to attend in person, you'll have an option to "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'add a meal ticket for $XX'
-          -
-            type: text
-            text: ' to attend the lunch and learn program on Saturday, October XX. This helps offset the cost of catering for this event.'
+            text: ". You'll have access to all programming taking place at the Central Bank Center. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
+        type: bulletList
         content:
           -
-            type: text
-            text: 'Virtual track'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Virtual track tickets are available for '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: '$XX per person'
-          -
-            type: text
-            text: '. Virtual track tickets provide access to live-streamed keynote sessions and virtual-only workshops. More details about '
-          -
-            type: text
-            marks:
-              -
-                type: link
+                type: paragraph
                 attrs:
-                  href: 'statamic://entry::a38e19d8-b356-4a9f-af80-dfdc71f8d76d'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'virtual track'
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '$45 goes toward space rental, audio visual equipment, etc.'
           -
-            type: text
-            text: ' programming will be available on the '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: link
+                type: paragraph
                 attrs:
-                  href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                  rel: null
-                  target: null
-                  title: null
-            text: schedule
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '$20 goes toward programming (speakers, entertainment, etc.)'
           -
-            type: text
-            text: ' page. Virtual tickets are available until 11:59 p.m. ET October XX, 2023.'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '$17 goes toward program guide printing, swag, and other marketing'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: "$15 goes toward catering (Saturday's Revoluncheon)"
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '$3 goes toward accessibility services'
       -
         type: heading
         attrs:
@@ -162,13 +149,13 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2022 in person can be purchased on-site during the conference for '
+            text: 'Tickets to attend MBLGTACC 2023 in person can be purchased on-site during the conference for '
           -
             type: text
             marks:
               -
                 type: bold
-            text: '$XX per person'
+            text: '$100 per person'
           -
             type: text
             text: .
@@ -295,7 +282,7 @@ sections:
             buttons:
               -
                 id: u8cWUfa2
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2023'
                 text: 'Reserve Tickets Now'
                 color: btn-green
                 size: btn-lg
@@ -399,6 +386,6 @@ sections:
     type: news
     enabled: false
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676741108
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681828520
 ---
