@@ -93,6 +93,14 @@ sections:
             type: text
             text: 'Queer Joy as Our Lasting Legacy'
       -
+        type: set
+        attrs:
+          id: lgmplwcl
+          values:
+            type: image
+            image: news/announce-04032023-web-featured-1090x681.jpg
+            inline: false
+      -
         type: heading
         attrs:
           textAlign: left
@@ -573,6 +581,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -615,6 +624,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -644,5 +656,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849204
+updated_at: 1681849262
 ---
