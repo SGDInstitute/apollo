@@ -1,28 +1,28 @@
 ---
 id: 277a370e-1f77-4660-b9e0-17e7873a7443
-published: false
 blueprint: pages
 title: 'Maker Market'
 sections:
   -
+    id: mhpQ1ceY
     title: 'Maker Market'
     type: header_small
     enabled: true
   -
+    id: Nsyd4oLq
     bard:
       -
         type: set
         attrs:
+          id: svFi40dL
           values:
             type: image
             image: maker-market-jun2022-inline-nonstandardsize-1574x798.png
             inline: false
-            direction: float-right
-            width: w-1/4
-            margin_direction: all
       -
         type: set
         attrs:
+          id: zXLJYjlr
           values:
             type: 2_columns
             left_column: content
@@ -30,6 +30,8 @@ sections:
             left_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -38,21 +40,23 @@ sections:
                         type: bold
                     text: Hours
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bold
                   -
                     type: text
-                    text: 'Friday, October 21, 2022'
+                    text: 'Friday, November 3, 2023'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: '5:00 - 10:00 p.m. EDT'
             right_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -61,21 +65,17 @@ sections:
                         type: bold
                     text: Location
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bold
                   -
                     type: text
-                    text: GCCC
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Union Station Ballroom A'
+                    text: 'To be determined'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -94,24 +94,30 @@ sections:
             type: text
             text: 'The space invites conference attendees and vendors to'
       -
-        type: ordered_list
+        type: orderedList
         attrs:
-          order: 1
+          start: 1
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'buy, sell and trade their creations and '
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -119,6 +125,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -126,6 +133,9 @@ sections:
             text: 'Visit the Maker Market'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -140,10 +150,11 @@ sections:
             text: 'Register to attend MBLGTACC'
           -
             type: text
-            text: ' and then come to the Maker Market on Friday, October 21 from 5:00 - 10:00 p.m. in Union Station Ballroom A.'
+            text: ' and then come to the Maker Market on Friday, November 3 from 5:00 - 10:00 p.m.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -151,63 +162,84 @@ sections:
             text: 'Who will be at the Maker Market?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Here''s who is coming so far:'
+            text: "The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Makers for 2023 will be announced later this fall. Here's who we welcomed in 2022:"
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Equitas Health'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Janatee Craftily'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Music City Creative'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Nifty Giftys Shop'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Stewie''s Got Pride'
+                    text: "Stewie's Got Pride"
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -243,10 +275,12 @@ sections:
       -
         type: set
         attrs:
+          id: tf7LtKN6
           values:
             type: buttons
             buttons:
               -
+                id: xbt9x2J2
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
                 text: 'Learn more & Apply'
                 color: btn-white
@@ -259,13 +293,12 @@ sections:
         type: paragraph
     image: vendor-fair-2017-from-stairs-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666712732
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681831001
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
