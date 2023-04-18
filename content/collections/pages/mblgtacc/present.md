@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681848301
+updated_at: 1681850585
 sections:
   -
     id: zR1BNzlK
@@ -78,7 +78,6 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: left
           class: lead
         content:
           -
@@ -100,9 +99,20 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+              -
+                id: lgmqelg9
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps?usp=share_link'
+                text: 'Past workshops'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: paragraph
+        attrs:
+          class: null
     image: news/mblgtacc2022-presenter-podium-audience-gradient-featured-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
