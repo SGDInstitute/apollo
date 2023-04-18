@@ -144,6 +144,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -169,7 +170,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -186,7 +186,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -199,11 +198,10 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Student Group Toolkit →'
+                    text: 'Attendee Toolkit →'
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -220,7 +218,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -236,6 +233,8 @@ sections:
                     text: 'Get Updates →'
               -
                 type: paragraph
+                attrs:
+                  class: null
             right_content:
               -
                 type: heading
@@ -248,7 +247,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -265,7 +263,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -282,24 +279,6 @@ sections:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::b51294a7-f6ab-48f6-a5e3-4c60e942b85c'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Hospitality →'
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
                   class: lead
                 content:
                   -
@@ -312,11 +291,14 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Hotels, Transportation, and Parking →'
+                    text: 'Hotels and Parking →'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
-    enabled: false
+    enabled: true
   -
     column_widths: two_fifths_right
     left_column: content
@@ -371,11 +353,6 @@ sections:
   -
     id: 8f9cEMGp
     bard:
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: heading
         attrs:
@@ -693,5 +670,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849747
+updated_at: 1681849796
 ---
