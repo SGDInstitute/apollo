@@ -11,9 +11,6 @@ tree:
         id: cc71aefe-5f6a-4913-bf19-1d9d8be7b1f8
         entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
       -
-        id: 49c1f25b-dacd-4b50-a0fa-465cfd9358eb
-        entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
-      -
         id: 593aceae-db84-43a0-8c9b-53131a7e2616
         entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
         title: 'News & Updates'
@@ -35,6 +32,9 @@ tree:
     title: Column
     url: '#'
     children:
+      -
+        id: 49c1f25b-dacd-4b50-a0fa-465cfd9358eb
+        entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
       -
         id: eb78c1f8-bf4b-42eb-80c0-acbc5c131505
         entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
