@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681829244
+updated_at: 1681829322
 sections:
   -
     id: j7D4Zmil
@@ -90,7 +90,7 @@ sections:
           class: null
     image: news/romeo-jackson-2020-presenter-1090x681.jpg
     bg_type: color
-    bg_color: bg-transparent
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -139,7 +139,7 @@ sections:
     price: $100
     below_price: 'per person'
     bg_type: color
-    bg_color: bg-green-600
+    bg_color: bg-green-900
     type: two_column
     enabled: true
     center_columns: false
@@ -277,7 +277,6 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
-    num_colors: 2
   -
     id: MeJVZ4VN
     bard:
