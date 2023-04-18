@@ -68,7 +68,7 @@ sections:
             text: '$100 each'
           -
             type: text
-            text: ". You'll have access to all programming taking place at the Central Bank Center. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
+            text: ". You'll have access to all programming taking place at the Central Bank Center. Register by October 3 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
       -
         type: bulletList
         content:
@@ -387,5 +387,5 @@ sections:
     enabled: false
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681828520
+updated_at: 1681828632
 ---
