@@ -5,23 +5,31 @@ blueprint: pages
 title: 'Lunch and Learn'
 sections:
   -
+    id: cNuNBSUv
     title: 'Join us at the Revoluncheon'
     type: header_small
     enabled: true
   -
+    id: U5c6RtHu
     bard:
       -
         type: set
         attrs:
+          id: izbKWEOz
+          enabled: false
           values:
             type: image
             image: jenson-careaga-1090x681_program-page.jpg
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
+          id: 1cs27yjm
           values:
             type: 2_columns
             left_column: content
@@ -29,6 +37,8 @@ sections:
             left_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -37,21 +47,23 @@ sections:
                         type: bold
                     text: Hours
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bold
                   -
                     type: text
-                    text: 'Saturday, October 22, 2022'
+                    text: 'Saturday, November 4, 2023'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
-                    text: '11:30 a.m. - 1:00 p.m. EDT'
+                    text: '12:00 - 2:00 p.m. EDT'
             right_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -60,36 +72,18 @@ sections:
                         type: bold
                     text: Location
                   -
-                    type: hard_break
+                    type: hardBreak
                     marks:
                       -
                         type: bold
                   -
                     type: text
-                    text: GCCC
-                  -
-                    type: hard_break
-                  -
-                    type: text
-                    text: 'Union Station Ballroom B-C'
-      -
-        type: set
-        attrs:
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: 'Add lunch & learn to ticket'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
+                    text: TBD
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -98,22 +92,29 @@ sections:
         content:
           -
             type: text
-            text: 'The Revoluncheon is a lunch and learn space at MBLGTACC led by Merrique Jenson and Jade Careaga.'
+            text: 'The Revoluncheon is a lunch and learn space at MBLGTACC.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'This lunch and learn session focuses on the greatest issues facing Midwest queer and trans communities. Featured educators will aid us in grappling with major questions around community building, movement work, and creating a liberated future. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'All attendees welcome to join this space. Only those who purchased lunch tickets will be provided lunch, and external food is not allowed in the space.'
+            text: 'All attendees welcome to join this space. Only those who purchased registration by October 3 are guaranteed a meal.'
     type: content
     enabled: true
   -
+    id: izeRpqxh
     bard:
       -
         type: heading
@@ -126,6 +127,7 @@ sections:
       -
         type: set
         attrs:
+          id: z6QRZhYh
           enabled: false
           values:
             type: image
@@ -208,10 +210,10 @@ sections:
             type: text
             text: ' is a multi-racial (white, Indigenous, Filipino, Puerto Rican, and Mexican) woman of trans experience who is an accomplished makeup artist and stylist based in Seattle, Washington. Prior to Covid, she was often working with amazing clients who celebrated Jade for her positive attitude, friendliness, and guidance in all things cosmetic related. On December 16, 2020, Jade became a victim of gun violence from a client and almost died. During her intensive rehabilitation where she underwent four different major reconstructive surgeries within three months to save her life, Jade became very familiar with the medical system and realized she wanted to go into healthcare so she too may be able to help others that have gone through similar experiences as herself. She is proud to share that recently, she enrolled in college and is pursuing a Bachelors of Nursing. Jade is excited to be part of this summit, to lend her voice and experience to help raise awareness to the violence that many trans women of color experience.'
     type: content
-    enabled: true
+    enabled: false
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1665598115
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681846702
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
