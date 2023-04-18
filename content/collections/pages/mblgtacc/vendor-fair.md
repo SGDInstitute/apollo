@@ -90,7 +90,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                  href: 'https://apps.sgdinstitute.org/events/mblgtacc-2023'
                   rel: null
                   target: _blank
                   title: null
@@ -388,8 +388,8 @@ sections:
     type: two_column
     enabled: false
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681831157
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681851436
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
