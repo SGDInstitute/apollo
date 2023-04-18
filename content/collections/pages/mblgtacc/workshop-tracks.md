@@ -49,7 +49,7 @@ sections:
             contain: true
     image: news/tracks-feedback-2022_web-redux-1090x681.jpg
     bg_type: color
-    bg_color: bg-gray-100
+    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -808,7 +808,7 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681830710
+updated_at: 1681830751
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
