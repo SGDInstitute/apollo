@@ -3,8 +3,8 @@ id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676664800
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681828843
 sections:
   -
     id: zR1BNzlK
@@ -36,7 +36,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Workshop proposals will be accepted starting April 10, 2023.'
+            text: 'Workshop proposals will be accepted from April 10 - May 22, 2023.'
       -
         type: set
         attrs:
@@ -46,13 +46,13 @@ sections:
             buttons:
               -
                 id: 7kHrnjQq
-                text: 'Get updates about presenting'
+                text: 'Submit a Proposal'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
-                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2023-workshop-proposal'
             contain: true
       -
         type: heading
@@ -155,7 +155,7 @@ sections:
         content:
           -
             type: text
-            text: "Complete your submission by May XX, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
+            text: "Complete your submission by May 22, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified in mid-July of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
       -
         type: heading
         attrs:
