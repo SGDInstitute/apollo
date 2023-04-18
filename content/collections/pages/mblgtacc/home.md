@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681829403
+updated_at: 1681829446
 sections:
   -
     id: j7D4Zmil
@@ -78,7 +78,7 @@ sections:
                 id: lgmdmh8n
                 link: 'https://us06web.zoom.us/meeting/register/tZcvdu2spjIsHtFCRz7L_rAfarnljaf6Ep75'
                 text: 'ATTENDEE INFO SESSION'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: false
