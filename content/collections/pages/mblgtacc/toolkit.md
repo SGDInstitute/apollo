@@ -12,22 +12,6 @@ sections:
     id: XR5LXPc1
     bard:
       -
-        type: set
-        attrs:
-          id: lene9u73
-          values:
-            type: iframe
-            html: |-
-              <p><font color=#E34234 size=5><b>⚠️&nbsp; Content on this page remains available for reference but may be out of date at this time. We'll published updated information and links for MBLGTACC 2023 later this spring.</b></font></p>
-
-              <br>
-              <hr>
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -43,15 +27,6 @@ sections:
           values:
             type: buttons
             buttons:
-              -
-                id: VDUFEZrZ
-                text: 'Download as PDF'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-                link: 'https://mblgtacc.org/assets/documents/mblgtacc-student-group-toolkit.pdf'
               -
                 id: IcdUsgC8
                 link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
@@ -75,6 +50,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -91,24 +67,40 @@ sections:
             left_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '▢ Propose a workshop'
+              -
+                type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Estimate your cost of attendance and secure funding'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Book your hotel'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Arrange your travel'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -116,36 +108,41 @@ sections:
             right_content:
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Register your group'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Distribute trip info to your group or make sure they receive our emails'
               -
                 type: paragraph
-                content:
-                  -
-                    type: text
-                    text: '▢ Propose a workshop'
-              -
-                type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Make your schedule for the weekend'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
                     text: '▢ Arrive and check in'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -260,7 +257,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/general-info/how-to-register'
+                  href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                   rel: null
                   target: null
                   title: null
@@ -292,7 +289,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/hotels-transportation-parking'
+                  href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
                   rel: null
                   target: null
                   title: null
@@ -301,7 +298,7 @@ sections:
             text: 'hotel accommodations'
           -
             type: text
-            text: '. The Hilton Columbus Downtown is offering a group rate of $169/night for MBLGTACC 2022 attendees. We encourage attendees to reserve rooms at this hotel, as it is connected via skywalk to the Greater Columbus Convention Center.'
+            text: '. The Hyatt Regency Lexington and Hilton Lexington/Downtown are offering a discounted group rate of $169/night for MBLGTACC 2023 attendees. We encourage attendees to reserve rooms at these hotels, as they are connected via skywalk to the Central Bank Center.'
       -
         type: paragraph
         attrs:
@@ -310,7 +307,7 @@ sections:
         content:
           -
             type: text
-            text: 'The hotel block is available for reservations until September 28, 2022 so we encourage you to reserve rooms early. Note that in most cases, you won’t be required to pay until check-in and you can cancel your reservation up to 48 hours before your scheduled arrival.'
+            text: 'Discounted rates end October 3, 2023, so we encourage you to reserve rooms early. Note that in most cases, you won’t be required to pay until check-in and you can cancel your reservation up to 48 hours before your scheduled arrival.'
       -
         type: paragraph
         attrs:
@@ -335,7 +332,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://www.hilton.com/en/hotels/cmhdwhh-hilton-columbus-downtown/?WT.mc_id=zlada0ww1hi2psh3ggl4advbpp5dkt6multibr7_153669424_1003528&gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6QyKtzY4ZqQzt28vx6e86BmsoLzT0zTjAujsrGIucpQLJVcBlG0KsaAhSOEALw_wcB&gclsrc=aw.ds'
+                  href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
                   rel: null
                   target: null
                   title: null
@@ -354,14 +351,32 @@ sections:
             buttons:
               -
                 id: rDbFWUxE
-                link: 'https://book.passkey.com/gt/218341852?gtid=c74eab136b8bb71edd0e671b1e2385ac'
-                text: 'Book with Hilton Columbus Downtown '
+                link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
+                text: 'Book with Hyatt Regency Lexington'
                 color: btn-green
-                size: btn-lg
+                size: btn-xs
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lgmq8xn6
+                link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
+                text: 'Book with Hilton Lexington/Downtown'
+                color: btn-green
+                size: btn-xs
                 block: false
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Book with Hilton Columbus Downtown '
       -
         type: paragraph
         attrs:
@@ -394,56 +409,6 @@ sections:
           -
             type: text
             text: 'If students from neighboring institutions are also attending MBLGTACC, consider reaching out to coordinate transportation. In the past, multiple groups have partnered to reserve one charter bus to get to MBLGTACC.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'If you are flying to Columbus, the John Glenn International Airport '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://flycolumbus.com/getting-to-from'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'maintains a list of travel options for getting to and from the airport'
-          -
-            type: text
-            text: .
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Check out the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/hotels-transportation-parking'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'hotels, transportation, and parking page'
-          -
-            type: text
-            text: ' on our website for directions to the Greater Columbus Convention Center and nearby parking options.'
       -
         type: paragraph
         attrs:
@@ -706,7 +671,7 @@ sections:
                         content:
                           -
                             type: text
-                            text: 'In order to guarantee accommodations, accessibility requests should be submitted by September 28, 2022'
+                            text: 'In order to guarantee accommodations, accessibility requests should be submitted by October 3, 2023'
           -
             type: listItem
             content:
@@ -829,7 +794,7 @@ sections:
         content:
           -
             type: text
-            text: "Workshops proposals will be accepted from April 4 until May 13. To prepare a submission:\_"
+            text: "Workshops proposals will be accepted from April 10 until May 22. To prepare a submission:\_"
       -
         type: bulletList
         content:
@@ -970,7 +935,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Checking out the online version of the conference program, which will be made available by October 10.'
+                    text: 'Checking out the online version of the conference program, which will be made available by mid-October.'
           -
             type: listItem
             content:
@@ -1033,7 +998,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://mblgtacc.org/schedule'
+                  href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                   rel: null
                   target: null
                   title: null
@@ -1068,7 +1033,7 @@ sections:
     type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681831372
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681850449
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
