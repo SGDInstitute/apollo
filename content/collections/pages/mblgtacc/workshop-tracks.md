@@ -9,50 +9,6 @@ sections:
     type: header_small
     enabled: true
   -
-    column_widths: two_fifths_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Workshop submissions open through May 22'
-      -
-        type: paragraph
-        attrs:
-          class: lead
-        content:
-          -
-            type: text
-            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
-      -
-        type: set
-        attrs:
-          id: CoJc9R8C
-          values:
-            type: buttons
-            buttons:
-              -
-                id: Gz7zITs9
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: 'Learn more & submit a proposal'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-    image: news/tracks-feedback-2022_web-redux-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
-    type: two_column
-    enabled: true
-  -
     id: vek3uc2o
     bard:
       -
@@ -806,9 +762,53 @@ sections:
             text: ' to connect about suggestions or questions.'
     type: content
     enabled: true
+  -
+    column_widths: two_fifths_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Workshop submissions open through May 22'
+      -
+        type: paragraph
+        attrs:
+          class: lead
+        content:
+          -
+            type: text
+            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
+      -
+        type: set
+        attrs:
+          id: CoJc9R8C
+          values:
+            type: buttons
+            buttons:
+              -
+                id: Gz7zITs9
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: 'Learn more & submit a proposal'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+    image: news/tracks-feedback-2022_web-redux-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681830751
+updated_at: 1681830791
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
