@@ -196,13 +196,13 @@ sections:
     enabled: false
   -
     id: jQ9WOaBN
-    date: '2022-10-21 18:00'
-    hashtag: '#mblgtacc30'
+    date: '2023-11-03 18:00'
+    hashtag: 'MBLGTACC 2023'
     bg_type: color
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681830367
+updated_at: 1681830407
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
