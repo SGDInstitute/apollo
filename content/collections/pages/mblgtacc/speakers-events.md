@@ -211,22 +211,27 @@ sections:
             type: text
             text: 'Questions?'
       -
+        type: set
+        attrs:
+          id: lgmoat16
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lgmoatnd
+                link: 'https://mblgtacc.org/contact'
+                text: 'Message us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/contact'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'Send us a message.'
       -
         type: paragraph
         attrs:
@@ -251,6 +256,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681846996
+updated_at: 1681847057
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
