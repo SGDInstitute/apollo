@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681848493
+updated_at: 1681848558
 sections:
   -
     id: j7D4Zmil
@@ -156,13 +156,16 @@ sections:
     id: yyaLhKYm
     bard:
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: center
           level: 2
         content:
-          -
-            type: hardBreak
           -
             type: text
             text: 'MBLGTACC updates and featured news'
