@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681847850
+updated_at: 1681847911
 sections:
   -
     id: zR1BNzlK
@@ -244,11 +244,6 @@ sections:
                     type: text
                     text: 'Oct. 20: Presentation materials submitted to conference committee'
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
         type: heading
         attrs:
           textAlign: left
@@ -335,10 +330,10 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
-                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2022-workshop-proposal'
+                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2023-workshop-proposal'
             contain: true
     type: content
-    enabled: false
+    enabled: true
   -
     id: 3tpPaz0K
     bard:
