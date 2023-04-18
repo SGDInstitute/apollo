@@ -221,7 +221,7 @@ sections:
         content:
           -
             type: text
-            text: 'Art, Media and Design'
+            text: 'Art, Media, and Design'
       -
         type: paragraph
         attrs:
@@ -644,6 +644,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -651,6 +652,9 @@ sections:
             text: 'Descriptive track summaries coming soon'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -823,7 +827,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681846538
+updated_at: 1681846590
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
