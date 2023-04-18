@@ -6,7 +6,7 @@ template: default
 sections:
   -
     id: Vt5QTgAQ
-    header_image: headers/rb-3-mblgtacc-2022-hero-2500x800.jpg
+    header_image: headers/mblgtacc2023-audience-vignette1-hero-1250x400.jpg
     title: 'Connect. Educate. Empower.'
     subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
@@ -62,22 +62,6 @@ sections:
     to_color: to-white
     type: news_feature
     enabled: true
-  -
-    id: PljIs2Mx
-    limit: 3
-    type: news
-    enabled: false
-    exclude: true
-    bg_type: color
-    bg_color: bg-gray-200
-  -
-    id: Q5ehnj31
-    date: '2021-10-08 12:00'
-    hashtag: 'until MBLGTACC 2021'
-    bg_type: color
-    bg_color: bg-white
-    type: countdown
-    enabled: false
   -
     column_widths: third_right
     left_column: content
@@ -144,7 +128,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681821231
+updated_at: 1681843409
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
