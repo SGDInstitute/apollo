@@ -4,10 +4,12 @@ blueprint: pages
 title: About
 sections:
   -
+    id: MU4dc9f3
     title: About
     type: header_small
     enabled: true
   -
+    id: BxOy0zRZ
     bard:
       -
         type: paragraph
@@ -19,32 +21,15 @@ sections:
             type: text
             text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky. '
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We''ll share announcements and details about MBLGTACC starting in the spring. In April 2023, we''ll open registration and start accepting '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'workshop proposals'
-          -
-            type: text
-            text: .
-      -
         type: set
         attrs:
+          id: yqFTCgtY
+          enabled: false
           values:
             type: buttons
             buttons:
               -
+                id: g1r0P2uG
                 link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
                 text: 'Get updates'
                 color: btn-green
@@ -55,15 +40,19 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
-          enabled: false
+          id: yr9OW9lT
           values:
             type: buttons
             buttons:
               -
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2022'
+                id: lgmpduyl
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: Register
                 color: btn-green
                 size: btn-lg
@@ -71,6 +60,16 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: v1Rwa5YY
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: Present
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: 5EsgIGjL
                 link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
                 text: 'Sponsor / Exhibit'
                 color: btn-green
@@ -82,6 +81,7 @@ sections:
     type: content
     enabled: true
   -
+    id: XkaCjRLc
     bard:
       -
         type: heading
@@ -108,6 +108,7 @@ sections:
     type: content
     enabled: false
   -
+    id: uz0Da7a2
     bard:
       -
         type: heading
@@ -120,6 +121,7 @@ sections:
       -
         type: set
         attrs:
+          id: kB2Wzn4r
           values:
             type: 2_columns
             left_column: content
@@ -314,11 +316,11 @@ sections:
             text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
     image: news/announce-03172022_web-redux-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: false
   -
+    id: 8f9cEMGp
     bard:
       -
         type: paragraph
@@ -333,6 +335,7 @@ sections:
       -
         type: set
         attrs:
+          id: CcIIL20t
           values:
             type: image
             image: columbus-gccc-exterior1-featured-1090x681.jpg
@@ -343,10 +346,11 @@ sections:
         content:
           -
             type: text
-            text: 'The state-of-the-art, award-winning Greater Columbus Convention Center is one of the busiest convention centers in North America. The facility offers the South Café & Marketplace for quick-service dining, with additional dining located across the street from the Arena District and Short North Arts District. Amenities also include a free-standing nursing parent''s room, an enclosed skybridge to the official conference hotel partner—Hilton Columbus Downtown—and robust WiFi service throughout.'
+            text: "The state-of-the-art, award-winning Greater Columbus Convention Center is one of the busiest convention centers in North America. The facility offers the South Café & Marketplace for quick-service dining, with additional dining located across the street from the Arena District and Short North Arts District. Amenities also include a free-standing nursing parent's room, an enclosed skybridge to the official conference hotel partner—Hilton Columbus Downtown—and robust WiFi service throughout."
     type: content
     enabled: false
   -
+    id: tbUnWPRV
     bard:
       -
         type: heading
@@ -359,6 +363,7 @@ sections:
       -
         type: set
         attrs:
+          id: BAUlXGfA
           values:
             type: image
             image: mblgtacc-2020-feat-voice-session-1090x681.jpg
@@ -397,7 +402,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'To date, MBLGTACC is America''s largest and oldest continuously-held conference for queer and trans+ college students.'
+            text: "To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
       -
         type: paragraph
     type: content
@@ -425,10 +430,12 @@ sections:
       -
         type: set
         attrs:
+          id: 0C9q2OMN
           values:
             type: buttons
             buttons:
               -
+                id: mUWB14p8
                 link: 'https://sgdinstitute.org/programs/mblgtacc-alumnx'
                 text: 'Share your memories'
                 color: btn-white
@@ -441,11 +448,11 @@ sections:
         type: paragraph
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
+    id: HEiJFBMP
     bard:
       -
         type: paragraph
@@ -460,6 +467,7 @@ sections:
       -
         type: set
         attrs:
+          id: XsnKF1Bf
           values:
             type: image
             image: news/2020-rb-justin-welcome-teaser-1090x681.jpg
@@ -511,15 +519,15 @@ sections:
     type: content
     enabled: true
   -
+    id: wflAmDNZ
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
   -
+    id: mdlHMDvR
     bard:
       -
         type: heading
@@ -532,10 +540,12 @@ sections:
       -
         type: set
         attrs:
+          id: uCi4sYDc
           values:
             type: buttons
             buttons:
               -
+                id: 59QBG9aB
                 link: 'https://instagram.com/mblgtacc'
                 text: Instagram
                 color: btn-green
@@ -544,6 +554,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: ZWqal86h
                 link: 'https://twitter.com/mblgtacc'
                 text: Twitter
                 color: btn-green
@@ -552,6 +563,7 @@ sections:
                 outline: true
                 target_blank: true
               -
+                id: jnjc9tlt
                 link: 'https://facebook.com/mblgtacc'
                 text: Facebook
                 color: btn-green
@@ -583,13 +595,13 @@ sections:
     type: content
     enabled: true
   -
+    id: k2kFsdED
     date: '2023-11-03 19:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668562821
+updated_at: 1681848932
 ---
