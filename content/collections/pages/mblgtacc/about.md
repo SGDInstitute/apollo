@@ -312,15 +312,7 @@ sections:
         content:
           -
             type: text
-            text: 'Queer Joy as Our Lasting Legacy'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'About our theme'
+            text: 'Our venue: Central Bank Center'
       -
         type: paragraph
         attrs:
@@ -328,28 +320,26 @@ sections:
         content:
           -
             type: text
-            text: 'Publicly using a chosen name for the first time. Ripping down a poster promoting an anti-trans speaker. Snuggling up to housepets, propagating yet another plant, cooking a hearty meal for friends, binging a show with reasonable representation. These are all practices and rituals that prioritize queer and trans joy–and it is these practices that are the lifeforce of our communities.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
           -
             type: text
-            text: 'We’re all acutely aware of the devastating battles we are facing and there is plenty of need to continue planning, strategizing, and educating each other to elevate us as a collective force. Centering queer and trans joy is not a distraction from the tumultuous and alarming status of our world, but an intentional grounding in the pleasure, desire, laughter, intimacy and majesty that always ushers us through our hardest moments.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            marks:
+              -
+                type: link
+                attrs:
+                  href: null
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Central Bank Center'
           -
             type: text
-            text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
-    image: news/announce-04032023-web-featured-1090x681.jpg
+            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
+    image: central-bank-center-lexington-1099x681.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
   -
     id: 8f9cEMGp
     bard:
@@ -366,6 +356,7 @@ sections:
         type: set
         attrs:
           id: CcIIL20t
+          enabled: false
           values:
             type: image
             image: central-bank-center-lexington-1099x681.jpg
@@ -395,7 +386,7 @@ sections:
             type: text
             text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
     type: content
-    enabled: true
+    enabled: false
   -
     id: tbUnWPRV
     bard:
@@ -670,5 +661,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849796
+updated_at: 1681849896
 ---
