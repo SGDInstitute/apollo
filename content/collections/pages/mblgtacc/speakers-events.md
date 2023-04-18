@@ -54,11 +54,6 @@ sections:
         attrs:
           textAlign: left
           class: null
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
   -
@@ -256,6 +251,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681847057
+updated_at: 1681847152
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
