@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681845561
+updated_at: 1681845672
 sections:
   -
     id: j7D4Zmil
@@ -31,10 +31,6 @@ sections:
         attrs:
           textAlign: center
           level: 2
-        content:
-          -
-            type: text
-            text: 'Save the date for MBLGTACC 2023'
       -
         type: set
         attrs:
@@ -58,7 +54,7 @@ sections:
         content:
           -
             type: text
-            text: 'Upcoming info session for aspiring attendees'
+            text: 'Upcoming info session for attendees'
       -
         type: paragraph
         attrs:
@@ -66,7 +62,13 @@ sections:
         content:
           -
             type: text
-            text: 'APRIL 26—Let a couple members of our planning team bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
+            marks:
+              -
+                type: bold
+            text: 'APRIL 26'
+          -
+            type: text
+            text: '—Let a couple members of our planning team bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
       -
         type: set
         attrs:
@@ -77,12 +79,12 @@ sections:
               -
                 id: lgmdmh8n
                 link: 'https://us06web.zoom.us/meeting/register/tZcvdu2spjIsHtFCRz7L_rAfarnljaf6Ep75'
-                text: 'ATTENDEE INFO SESSION'
+                text: Register
                 color: btn-white
                 size: btn-lg
                 block: false
-                outline: false
-                target_blank: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: paragraph
