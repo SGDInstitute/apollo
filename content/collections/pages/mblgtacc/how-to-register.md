@@ -208,7 +208,7 @@ sections:
         content:
           -
             type: text
-            text: "Reservations are valid for 45 days (or until October 14). If your tickets are still unpaid after 45 days, you'll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted."
+            text: "Reservations are valid for 45 days (or until November 4). If your tickets are still unpaid after 45 days, you'll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted."
       -
         type: heading
         attrs:
@@ -386,6 +386,6 @@ sections:
     type: news
     enabled: false
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681828705
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681850027
 ---
