@@ -86,14 +86,16 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Limitless: Queer Activism of the Future'
+            text: 'Queer Joy as Our Lasting Legacy'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -101,10 +103,31 @@ sections:
             text: 'About our theme'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
+            text: 'Publicly using a chosen name for the first time. Ripping down a poster promoting an anti-trans speaker. Snuggling up to housepets, propagating yet another plant, cooking a hearty meal for friends, binging a show with reasonable representation. These are all practices and rituals that prioritize queer and trans joy–and it is these practices that are the lifeforce of our communities.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'We’re all acutely aware of the devastating battles we are facing and there is plenty of need to continue planning, strategizing, and educating each other to elevate us as a collective force. Centering queer and trans joy is not a distraction from the tumultuous and alarming status of our world, but an intentional grounding in the pleasure, desire, laughter, intimacy and majesty that always ushers us through our hardest moments.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
     type: content
     enabled: false
   -
@@ -299,7 +322,7 @@ sections:
         content:
           -
             type: text
-            text: 'Limitless: Queer Activism of the Future'
+            text: 'Queer Joy as Our Lasting Legacy'
       -
         type: heading
         attrs:
@@ -310,15 +333,33 @@ sections:
             text: 'About our theme'
       -
         type: paragraph
+        attrs:
+          class: null
         content:
           -
             type: text
-            text: 'We plant our feet firmly in the present and dream of futures where joy, liberation, love, safety, possibility, and abundance are our collective reality. The work of cultivating these futures is both shared and individual, and it grows upon the fights and efforts of those before us. At a time of unprecedented and renewed political, legal, cultural, and personal attacks at our very humanity, we cannot stop this work. We are secure in the belief that queer activisms of the future must center the needs of the most marginalized to achieve these dreams for all. We remain committed to cultivating MBLGTACC as a space where this work can land, take root, and bear fruit. And most of all, we believe that when we work together to advocate and act for justice, our potential for positive change is limitless.'
-    image: news/announce-03172022_web-redux-1090x681.jpg
+            text: 'Publicly using a chosen name for the first time. Ripping down a poster promoting an anti-trans speaker. Snuggling up to housepets, propagating yet another plant, cooking a hearty meal for friends, binging a show with reasonable representation. These are all practices and rituals that prioritize queer and trans joy–and it is these practices that are the lifeforce of our communities.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We’re all acutely aware of the devastating battles we are facing and there is plenty of need to continue planning, strategizing, and educating each other to elevate us as a collective force. Centering queer and trans joy is not a distraction from the tumultuous and alarming status of our world, but an intentional grounding in the pleasure, desire, laughter, intimacy and majesty that always ushers us through our hardest moments.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
+    image: news/announce-04032023-web-featured-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
   -
     id: 8f9cEMGp
     bard:
@@ -603,5 +644,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681848932
+updated_at: 1681849204
 ---
