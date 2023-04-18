@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681828702
+updated_at: 1681828968
 sections:
   -
     id: j7D4Zmil
@@ -22,7 +22,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
+    has_button: false
   -
     id: xLYATvQT
     bard:
@@ -43,7 +43,7 @@ sections:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
     type: content
-    enabled: true
+    enabled: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -57,7 +57,7 @@ sections:
         content:
           -
             type: text
-            text: 'Register now!'
+            text: 'Registration is now open!'
       -
         type: paragraph
         attrs:
