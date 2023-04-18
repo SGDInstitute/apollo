@@ -391,8 +391,14 @@ sections:
     id: tbUnWPRV
     bard:
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -408,32 +414,50 @@ sections:
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and honors this diversity.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'With over 70 workshops on LGBTQIA+ and intersectional topics and interests, plus keynotes from leading advocates and performances from popular entertainers, the conference and its many programs and opportunities catalyze conversation and action around issues that affect us as individuals, as a community, and as citizens of the world. Over its 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -443,6 +467,9 @@ sections:
             text: "To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -661,5 +688,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849967
+updated_at: 1681849988
 ---
