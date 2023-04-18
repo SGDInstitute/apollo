@@ -8,6 +8,16 @@ tree:
         id: cc71aefe-5f6a-4913-bf19-1d9d8be7b1f8
         entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
       -
+        id: 49c1f25b-dacd-4b50-a0fa-465cfd9358eb
+        entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
+      -
+        id: 56d68572-1701-4ee7-82dc-3f5206c116c1
+        entry: e67ad125-380a-4992-9e32-9af4bb9e3853
+      -
+        id: 593aceae-db84-43a0-8c9b-53131a7e2616
+        entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
+        title: 'News & Updates'
+      -
         id: d908e8a5-1771-4b10-8c91-b7d83d7ebd1f
         entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
         children:
@@ -20,9 +30,11 @@ tree:
           -
             id: 5f07aca9-877a-4a29-bf44-0ce939dec063
             entry: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
-      -
-        id: 49c1f25b-dacd-4b50-a0fa-465cfd9358eb
-        entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
+  -
+    id: e6d410e5-af3f-4f05-b4e1-ca0d521e2dda
+    title: Column
+    url: '#'
+    children:
       -
         id: eb78c1f8-bf4b-42eb-80c0-acbc5c131505
         entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
@@ -55,18 +67,6 @@ tree:
           -
             id: 19f98dee-ae6c-41cb-916b-3dd5edbd2614
             entry: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
-  -
-    id: e6d410e5-af3f-4f05-b4e1-ca0d521e2dda
-    title: Column
-    url: '#'
-    children:
-      -
-        id: 593aceae-db84-43a0-8c9b-53131a7e2616
-        entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
-        title: 'News & Updates'
-      -
-        id: 56d68572-1701-4ee7-82dc-3f5206c116c1
-        entry: e67ad125-380a-4992-9e32-9af4bb9e3853
       -
         id: b91489be-bf7c-4dce-91cc-49125fb71e1d
         entry: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
