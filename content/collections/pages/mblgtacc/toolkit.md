@@ -261,6 +261,8 @@ sections:
                   rel: null
                   target: null
                   title: null
+              -
+                type: underline
             text: 'review registration costs'
           -
             type: text
@@ -293,8 +295,6 @@ sections:
                   rel: null
                   target: null
                   title: null
-              -
-                type: underline
             text: 'hotel accommodations'
           -
             type: text
@@ -368,15 +368,6 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Book with Hilton Columbus Downtown '
       -
         type: paragraph
         attrs:
@@ -733,6 +724,8 @@ sections:
                   rel: null
                   target: _blank
                   title: null
+              -
+                type: underline
             text: 'Register your group'
           -
             type: text
@@ -840,9 +833,9 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://issuu.com/sgdinstitute/stacks/1f5f064450ff407d9f131bc52f1cdcd1'
+                          href: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps?usp=share_link450ff407d9f131bc52f1cdcd1'
                           rel: null
-                          target: null
+                          target: _blank
                           title: null
                       -
                         type: underline
@@ -1034,6 +1027,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681850449
+updated_at: 1681850549
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
