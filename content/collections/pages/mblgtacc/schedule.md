@@ -4,7 +4,7 @@ blueprint: pages
 title: Schedule
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681851689
+updated_at: 1681851851
 sections:
   -
     id: PZJpiZuz
@@ -149,7 +149,7 @@ sections:
               -
                 cells:
                   - '10:00 a.m.-6 p.m.'
-                  - 'Vendor Fair & Maker Market'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/vendor-fair">Vendor Fair</a></b></font> & <font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/maker-market">Maker Market</a></b></font>'
                   - TBD
               -
                 cells:
@@ -159,12 +159,12 @@ sections:
               -
                 cells:
                   - '12:00-2:00 p.m.'
-                  - 'The Revoluncheon'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/lunch-learn">The Revoluncheon</a></b></font>'
                   - TBD
               -
                 cells:
                   - '2:00-3:15 p.m.'
-                  - 'Identity Forums'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/identity-forums">Identity Forums</a></b></font>'
                   - Various
               -
                 cells:
@@ -253,7 +253,7 @@ sections:
               -
                 cells:
                   - '9:00-10:15 a.m.'
-                  - 'Identity Forum'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/identity-forums">Identity Forums</a></b></font>'
                   - Various
               -
                 cells:
