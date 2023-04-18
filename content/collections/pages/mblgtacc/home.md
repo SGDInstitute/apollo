@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1678739413
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1681828582
 sections:
   -
     id: j7D4Zmil
@@ -22,7 +22,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: false
+    has_button: true
   -
     id: xLYATvQT
     bard:
@@ -57,7 +57,7 @@ sections:
         content:
           -
             type: text
-            text: 'Register starting April 10'
+            text: 'Register now!'
       -
         type: paragraph
         attrs:
@@ -65,12 +65,11 @@ sections:
         content:
           -
             type: text
-            text: 'Join us in Lexington! Registration will open April 10 and remain open through conference weekend. Register by October 3 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
+            text: 'Join us in Lexington! Registration will remain open through conference weekend. Register by October 3 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
       -
         type: set
         attrs:
           id: 2ywrq54o
-          enabled: false
           values:
             type: buttons
             buttons:
