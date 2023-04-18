@@ -23,6 +23,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -30,6 +31,9 @@ sections:
             text: Impact
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -50,9 +54,35 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'FY 2022 annual report and financials'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://issuu.com/sgdinstitute/docs/annual-report-2022'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'View on Issuu →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
                     text: 'FY 2021 annual report and financials'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -75,6 +105,8 @@ sections:
                     text: 'FY 2019-20 annual report and financials'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -383,8 +415,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370143
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1681835487
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
