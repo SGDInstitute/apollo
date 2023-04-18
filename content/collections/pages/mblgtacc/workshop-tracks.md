@@ -9,6 +9,50 @@ sections:
     type: header_small
     enabled: true
   -
+    column_widths: two_fifths_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Workshop submissions open through May 22'
+      -
+        type: paragraph
+        attrs:
+          class: lead
+        content:
+          -
+            type: text
+            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
+      -
+        type: set
+        attrs:
+          id: CoJc9R8C
+          values:
+            type: buttons
+            buttons:
+              -
+                id: Gz7zITs9
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: 'Learn more & submit a proposal'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+    image: news/tracks-feedback-2022_web-redux-1090x681.jpg
+    bg_type: color
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
+  -
     id: vek3uc2o
     bard:
       -
@@ -24,7 +68,6 @@ sections:
         type: set
         attrs:
           id: 7kQJrWiz
-          enabled: false
           values:
             type: buttons
             buttons:
@@ -40,14 +83,9 @@ sections:
             contain: true
       -
         type: paragraph
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Below, find a list of tracks, track descriptions, and FAQs.'
-      -
-        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -626,17 +664,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+                    text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated'
     type: content
     enabled: true
   -
@@ -664,6 +692,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -672,6 +701,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -679,6 +709,9 @@ sections:
             text: 'What’s a workshop track? '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -686,6 +719,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -693,6 +727,9 @@ sections:
             text: 'How does this impact the workshop submission process? '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -700,6 +737,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -707,13 +745,17 @@ sections:
             text: 'When will workshop submissions open and close?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "We'll accept proposals from April 4 through May 13, 2022. "
+            text: "We'll accept proposals from April 10 through May 22, 2023."
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -721,38 +763,13 @@ sections:
             text: 'Will my workshop idea have to align with one of the tracks? '
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Nope! But it’s encouraged. The tracks will be pretty broad and expansive, so there’s likely at least one track your workshop could fall under. But it’s not required that you shape your workshop to match a track. '
-      -
-        type: heading
         attrs:
-          level: 3
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Can I reach out about an idea for the tracks or my workshop? '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Please do! The workshop RFP is open from April 4 through May 13, 2022. If you have ideas or recommendations for content or presentations that should be included in a proposed or announced track, we’d love to hear about them! Contact R.B. Brooks (they/them), director of programs, at '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:roze@sgdinstitute.org'
-                  rel: null
-                  target: null
-                  title: null
-            text: roze@sgdinstitute.org
-          -
-            type: text
-            text: ' to connect about suggestions or questions.'
+            text: 'Nope! But it’s encouraged. The tracks will be pretty broad and expansive, so there’s likely at least one track your workshop could fall under. But it’s not required that you shape your workshop to match a track.'
     type: content
     enabled: true
   -
@@ -761,6 +778,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -768,64 +786,29 @@ sections:
             text: 'Other questions?'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Contact R.B. Brooks (they/them), director of programs, at roze@sgdinstitute.org to connect about suggestions or questions.'
-    type: content
-    enabled: true
-  -
-    id: M71cHwZ2
-    type: content
-    enabled: true
-  -
-    column_widths: two_fifths_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Workshop submissions open through May 13'
-      -
-        type: paragraph
         attrs:
           textAlign: left
-          class: lead
+          class: null
         content:
           -
             type: text
-            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience. Do you have a workshop or workshop idea that aligns with the conference goals, theme, and/or the tracks listed above? We encourage anyone—students, staff, faculty, community organizers, and others—to consider what knowledge and experiences they can thoughtfully and confidently bring to a workshop of attendees, and to submit a proposal.'
-      -
-        type: set
-        attrs:
-          id: CoJc9R8C
-          values:
-            type: buttons
-            buttons:
+            marks:
               -
-                id: Gz7zITs9
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: 'Learn more & submit a proposal'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-    image: news/tracks-feedback-2022_web-redux-1090x681.jpg
-    bg_type: color
-    bg_color: bg-gray-100
-    type: two_column
-    enabled: false
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Contact us'
+          -
+            type: text
+            text: ' to connect about suggestions or questions.'
+    type: content
+    enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1681830319
+updated_at: 1681830710
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
