@@ -1,5 +1,6 @@
 ---
 id: 37fc3b87-a724-47f9-8608-4b49c6a0b984
+published: false
 blueprint: pages
 title: 'Speakers & Events'
 sections:
@@ -251,6 +252,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681847152
+updated_at: 1682101693
 description: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, advisors and staff, artists, and more. Learn more about featured speakers and events.'
 ---
