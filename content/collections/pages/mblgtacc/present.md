@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682084534
+updated_at: 1682084610
 sections:
   -
     id: zR1BNzlK
@@ -36,7 +36,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Workshop proposals will be accepted from April 10 - May 22, 2023.'
+            text: 'Workshop proposals will be accepted through May 22, 2023.'
       -
         type: set
         attrs:
