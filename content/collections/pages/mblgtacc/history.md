@@ -116,6 +116,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -123,6 +124,9 @@ sections:
             text: 'Conference milestones'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -135,6 +139,9 @@ sections:
             text: ' The 1st annual Midwest, Bisexual, Gay, and Lesbian College Conference took place at Iowa State University in Ames, Iowa. A year later at the 2nd annual, identities listed in the conference name were re-ordered, and the conference became known as the Midwest Bisexual, Lesbian, and Gay College Conference.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -147,6 +154,9 @@ sections:
             text: ' The theme for the 1995 and 1996 conferences was “Building Queer Success in the Midwest.” While it is unconfirmed, later attempts to assemble a conference history suggest the belief that this was intended to be the conference’s official slogan. Later conferences selected other themes, but the commitment to building queer success in the Midwest remained constant.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -159,6 +169,9 @@ sections:
             text: ' The conference was renamed the Midwest Bisexual Lesbian Gay Transgender College Conference.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -171,6 +184,9 @@ sections:
             text: ' The conference was renamed the Midwest Bisexual Lesbian Gay Transgender Ally College Conference.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -183,6 +199,9 @@ sections:
             text: ' Student organizers created the Oversight Committee.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -195,6 +214,9 @@ sections:
             text: ' Hosted in Lansing, Michigan by students from Michigan State University, MBLGTACC drew 2000+ attendees for the first time.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -207,6 +229,9 @@ sections:
             text: ' Hosted in Normal, Illinois by students from Illinois State University, MBLGTACC reached 2500 attendees for the first time. Later that year, the MBLGTACC Oversight Committee authorized creation of a non-profit with professional staff.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -233,6 +258,9 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -245,6 +273,9 @@ sections:
             text: ' The 25th annual MBLGTACC was held in Chicago, Illinois, attracting 2300 attendees.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -271,6 +302,9 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -283,6 +317,9 @@ sections:
             text: ' The conference was hosted in Kansas for the first time.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -295,6 +332,9 @@ sections:
             text: 'Amid the COVID-19 pandemic, the conference is planned to be held in the fall for the first time ever.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -380,6 +420,7 @@ sections:
         type: set
         attrs:
           id: DBIwiMXt
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -589,6 +630,7 @@ sections:
         type: set
         attrs:
           id: 4F2k2r58
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -1461,5 +1503,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1682090894
+updated_at: 1682090940
 ---
