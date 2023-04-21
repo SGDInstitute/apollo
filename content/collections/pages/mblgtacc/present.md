@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682084610
+updated_at: 1682093294
 sections:
   -
     id: zR1BNzlK
@@ -190,6 +190,21 @@ sections:
                   -
                     type: text
                     text: 'April 10: Submissions opened'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'April 17: "MBLGTACC 101: Presenting at the Conference" webinar and live chat'
           -
             type: listItem
             content:
