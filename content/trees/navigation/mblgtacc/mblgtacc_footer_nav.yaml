@@ -35,9 +35,6 @@ tree:
       -
         id: 49c1f25b-dacd-4b50-a0fa-465cfd9358eb
         entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
-      -
-        id: eb78c1f8-bf4b-42eb-80c0-acbc5c131505
-        entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
         children:
           -
             id: b2a6c0db-9b1c-4004-931e-c62fa4139d09
