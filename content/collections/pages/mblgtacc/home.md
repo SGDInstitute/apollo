@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083598
+updated_at: 1682083701
 sections:
   -
     id: j7D4Zmil
@@ -186,6 +186,38 @@ sections:
     type: news_feature
     enabled: true
   -
+    id: lgql6mqj
+    bard:
+      -
+        type: set
+        attrs:
+          id: lgql6p8k
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lgql6pxv
+                link: 'entry::c36f7410-114f-46ae-bdde-8ac59f66d1da'
+                text: 'View all news'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
+  -
     id: 490wgudL
     bard:
       -
@@ -278,6 +310,7 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
+    num_colors: 2
   -
     id: MeJVZ4VN
     bard:
