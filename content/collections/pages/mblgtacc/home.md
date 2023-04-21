@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083920
+updated_at: 1682083947
 sections:
   -
     id: j7D4Zmil
@@ -277,18 +277,18 @@ sections:
                 outline: true
                 target_blank: false
               -
-                id: HiJrBkKt
-                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: 'How to Register'
+                id: pYpFXTHD
+                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
+                text: 'Sponsor & Exhibit'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: false
               -
-                id: pYpFXTHD
-                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
-                text: 'Sponsor & Exhibit'
+                id: HiJrBkKt
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to Register'
                 color: btn-green
                 size: btn-lg
                 block: false
