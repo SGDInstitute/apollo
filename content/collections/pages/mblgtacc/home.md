@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083760
+updated_at: 1682083801
 sections:
   -
     id: j7D4Zmil
@@ -169,28 +169,6 @@ sections:
           -
             type: text
             text: 'MBLGTACC updates and featured news'
-      -
-        type: set
-        attrs:
-          id: lgql87ex
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lgql885t
-                link: 'entry::c36f7410-114f-46ae-bdde-8ac59f66d1da'
-                text: 'View all news'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: center
-          class: null
     type: content
     enabled: true
   -
