@@ -385,7 +385,7 @@ sections:
             buttons:
               -
                 id: YN7SlNjm
-                link: 'https://issuu.com/sgdinstitute/docs/mblgcc_1994_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -594,7 +594,7 @@ sections:
             buttons:
               -
                 id: sC7lyQ43
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2002_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -725,7 +725,7 @@ sections:
             buttons:
               -
                 id: uqEgu607
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2007_program_guide_192c0d66c3e7b1'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -769,7 +769,7 @@ sections:
             buttons:
               -
                 id: axNrKwKI
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2008_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -810,7 +810,7 @@ sections:
             buttons:
               -
                 id: qtHASbaw
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2009_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -851,7 +851,7 @@ sections:
             buttons:
               -
                 id: WZ5iB4ly
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2010_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -892,7 +892,7 @@ sections:
             buttons:
               -
                 id: qJLjEuc0
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2011_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -933,7 +933,7 @@ sections:
             buttons:
               -
                 id: 2eNB3sTf
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2012_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -974,7 +974,7 @@ sections:
             buttons:
               -
                 id: KKVSZbYd
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2013_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1015,7 +1015,7 @@ sections:
             buttons:
               -
                 id: S9XUANai
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2014_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1056,7 +1056,7 @@ sections:
             buttons:
               -
                 id: ERFDHU1q
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2015_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1100,7 +1100,7 @@ sections:
             buttons:
               -
                 id: 0qHEsQY4
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2016_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1141,7 +1141,7 @@ sections:
             buttons:
               -
                 id: o4o5ZqMF
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2017_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1182,7 +1182,7 @@ sections:
             buttons:
               -
                 id: yhcFfGFk
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2018_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1223,7 +1223,7 @@ sections:
             buttons:
               -
                 id: WSBTO0lU
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2019_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1264,7 +1264,7 @@ sections:
             buttons:
               -
                 id: BUUlATPa
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc_2020_program_guide'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1305,7 +1305,7 @@ sections:
             buttons:
               -
                 id: LZ2spICl
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc2021-program'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1351,7 +1351,7 @@ sections:
             buttons:
               -
                 id: O8R7syzE
-                link: 'https://issuu.com/sgdinstitute/docs/mblgtacc30-program'
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
                 text: 'View program'
                 color: btn-green
                 size: btn-xs
@@ -1460,6 +1460,6 @@ sections:
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676742147
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1682090894
 ---
