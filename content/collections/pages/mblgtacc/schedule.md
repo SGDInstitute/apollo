@@ -4,12 +4,12 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682101721
+updated_at: 1682101779
 sections:
   -
     id: PZJpiZuz
     bg_type: image
-    bg_image: headers/header-chicago_pier.jpg
+    bg_image: headers/open-mic-mblgtacc2020-hero-1250x400.jpg
     title: Schedule
     type: header
     enabled: true
