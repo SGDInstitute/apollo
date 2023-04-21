@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083801
+updated_at: 1682083920
 sections:
   -
     id: j7D4Zmil
@@ -186,51 +186,6 @@ sections:
     type: news_feature
     enabled: true
   -
-    id: 490wgudL
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Schedule information & digital program'
-      -
-        type: set
-        attrs:
-          id: RF9jfBmS
-          values:
-            type: buttons
-            buttons:
-              -
-                id: dlIQ2mhD
-                link: 'entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                text: 'Schedule overview'
-                color: btn-green
-                size: btn-xl
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: 8n6C1C9z
-                link: 'https://drive.google.com/file/d/1OtnAa57rq1RYAqXHaisQ7yNwxB223qmx/view?usp=sharing'
-                text: 'View program PDF'
-                color: btn-green
-                size: btn-xl
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    type: content
-    enabled: false
-  -
     column_widths: third_right
     left_column: content
     right_column: image
@@ -278,14 +233,19 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: false
+    num_colors: 2
   -
     id: MeJVZ4VN
     bard:
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -308,6 +268,15 @@ sections:
             type: buttons
             buttons:
               -
+                id: lgqlbav7
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: Present
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
                 id: HiJrBkKt
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                 text: 'How to Register'
@@ -327,7 +296,7 @@ sections:
                 target_blank: false
             contain: true
     type: content
-    enabled: false
+    enabled: true
   -
     id: yhrbwVd2
     type: content
