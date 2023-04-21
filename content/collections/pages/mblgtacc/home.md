@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083520
+updated_at: 1682083598
 sections:
   -
     id: j7D4Zmil
@@ -84,7 +84,7 @@ sections:
         type: paragraph
         attrs:
           class: null
-    image: news/romeo-jackson-2020-presenter-1090x681.jpg
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
