@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682084497
+updated_at: 1682084534
 sections:
   -
     id: zR1BNzlK
@@ -104,7 +104,7 @@ sections:
                 link: 'entry::79b20e53-7e95-476e-adcd-6748ba545021'
                 text: 'Brainstorming guide'
                 color: btn-white
-                size: btn-lg
+                size: btn-base
                 block: false
                 outline: true
                 target_blank: false
@@ -113,7 +113,7 @@ sections:
                 link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps?usp=share_link'
                 text: 'Past workshops'
                 color: btn-white
-                size: btn-lg
+                size: btn-base
                 block: false
                 outline: true
                 target_blank: true
