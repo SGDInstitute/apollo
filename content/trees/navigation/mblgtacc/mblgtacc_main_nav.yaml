@@ -2,20 +2,17 @@ tree:
   -
     id: 834e6875-7099-4148-9f2f-a2df7b8f3d2c
     entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
-  -
-    id: 95b3230d-6795-430c-8739-95518897da4b
-    entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
     children:
       -
-        id: a13c55c2-2258-45b5-b00f-b21874cfacc2
-        entry: 37fc3b87-a724-47f9-8608-4b49c6a0b984
-        title: 'All programming'
-      -
-        id: 791e4416-a081-4661-9a40-9c48110b1f5d
-        entry: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
+        id: 1201c0c9-1800-4e1d-9504-6cb1ec6dba49
+        entry: 87680b15-89d3-4128-b22c-532f8f4ea4b0
+        title: Schedule
       -
         id: 109a0947-6ea6-469b-939f-9c709bc458ac
         entry: d016c432-1882-44d8-b8ca-dd0b53a9461a
+      -
+        id: 791e4416-a081-4661-9a40-9c48110b1f5d
+        entry: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
       -
         id: dda41b33-3590-49b8-b1a0-90ecbe1d3c38
         entry: 96f92224-6822-42f4-a06a-14260ce278f9
@@ -35,9 +32,6 @@ tree:
       -
         id: 71d08ee6-47fb-448e-a0fa-e49b79c7caf8
         entry: 0684fecc-18a0-425b-a0f7-286b638eed64
-      -
-        id: 77a0c8b8-14a5-4225-8c67-b52e61c50233
-        entry: a38e19d8-b356-4a9f-af80-dfdc71f8d76d
       -
         id: c0b9d46e-2c55-444c-b533-dd3e80f4eb60
         entry: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
