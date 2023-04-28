@@ -294,8 +294,8 @@ sections:
     type: two_column
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681851398
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1682693329
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
