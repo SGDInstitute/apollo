@@ -352,19 +352,23 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC 101: Attending the Conference'
+            text: 'Resources for attendees'
       -
-        type: paragraph
+        type: heading
         attrs:
-          class: lead
+          level: 3
         content:
           -
             type: text
-            text: '(Re)watch our attendee live chat and Q&A covering the MBLGTACC experience and conference basics, such as program offerings, coordinating a group, and how to register.'
+            text: 'Attendee toolkit & checklist'
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            text: "Our toolkit and checklist bring you key information you'll need to plan your visit to Lexington."
       -
         type: set
         attrs:
@@ -381,6 +385,43 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'WATCH: "MBLGTACC 101: Attending the Conference" webinar'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '(Re)watch our attendee live chat and Q&A covering the MBLGTACC experience and conference basics, such as program offerings, coordinating a group, and how to register.'
+      -
+        type: set
+        attrs:
+          id: lh3ncufn
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh3ncv91
+                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
+                text: Watch
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: true
             contain: true
       -
         type: paragraph
@@ -439,5 +480,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682873083
+updated_at: 1682873404
 ---
