@@ -198,7 +198,7 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Advisor Track'
+                    text: Advisors
     type: content
     enabled: false
   -
@@ -578,7 +578,7 @@ sections:
         content:
           -
             type: text
-            text: 'Advisor Track'
+            text: Advisors
       -
         type: paragraph
         attrs:
@@ -814,7 +814,7 @@ sections:
                 id: Gz7zITs9
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: 'Learn more & submit a proposal'
-                color: btn-green
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
@@ -827,7 +827,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682877417
+updated_at: 1682877663
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
