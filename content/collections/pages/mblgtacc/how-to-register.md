@@ -293,6 +293,50 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '[WATCH] MBLGTACC 101: Attending the Conference'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '(Re)watch our live chat and Q&A, covering the MBLGTACC experience and conference basics, such as program offerings, coordinating a group, and how to register.'
+      -
+        type: set
+        attrs:
+          id: GdoBpImH
+          values:
+            type: buttons
+            buttons:
+              -
+                id: z6VIHlTk
+                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
+                text: Watch
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+    image: mblgtacc-2020-feat-voice-session-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
     column_widths: third_right
     left_column: content
     right_column: image
@@ -337,99 +381,6 @@ sections:
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
     bg_color: bg-green-700
-    type: two_column
-    enabled: true
-  -
-    column_widths: third_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Resources for attendees'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Attendee toolkit & checklist'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "Our toolkit and checklist bring you key information you'll need to plan your visit to Lexington."
-      -
-        type: set
-        attrs:
-          id: GdoBpImH
-          values:
-            type: buttons
-            buttons:
-              -
-                id: z6VIHlTk
-                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
-                text: Watch
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'WATCH: "MBLGTACC 101: Attending the Conference" webinar'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '(Re)watch our attendee live chat and Q&A covering the MBLGTACC experience and conference basics, such as program offerings, coordinating a group, and how to register.'
-      -
-        type: set
-        attrs:
-          id: lh3ncufn
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lh3ncv91
-                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
-                text: Watch
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          class: null
-    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
     type: two_column
     enabled: true
   -
@@ -480,5 +431,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682873404
+updated_at: 1682873654
 ---
