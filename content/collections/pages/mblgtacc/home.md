@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682083947
+updated_at: 1682872418
 sections:
   -
     id: j7D4Zmil
@@ -39,55 +39,6 @@ sections:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
     type: content
-    enabled: true
-  -
-    id: info-session
-    column_widths: one_fifth_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'April 26 info session for attendees'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'What is the MBLGTACC experience like? Let us bring you up to speed on MBLGTACC basics, such as program offerings, coordinating a group, how to register, and more.'
-      -
-        type: set
-        attrs:
-          id: lgmdmgpe
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lgmdmh8n
-                link: 'https://us06web.zoom.us/meeting/register/tZcvdu2spjIsHtFCRz7L_rAfarnljaf6Ep75'
-                text: 'Register for info session'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          class: null
-    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
-    type: two_column
     enabled: true
   -
     id: pricing
@@ -135,7 +86,7 @@ sections:
     price: $100
     below_price: 'per person'
     bg_type: color
-    bg_color: bg-green-700
+    bg_color: bg-green-600
     type: two_column
     enabled: true
     center_columns: false
@@ -232,8 +183,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
-    num_colors: 2
+    enabled: true
   -
     id: MeJVZ4VN
     bard:
