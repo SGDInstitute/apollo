@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682872418
+updated_at: 1682872492
 sections:
   -
     id: j7D4Zmil
@@ -156,12 +156,11 @@ sections:
       -
         type: paragraph
         attrs:
-          textAlign: left
           class: lead
         content:
           -
             type: text
-            text: "We want to make organizing a group as easy as possible so that you can make the most out of your—and your group's—MBLGTACC experience. Our student group toolkit and checklist bring you all the key logistical information you need to get from your community to Columbus this October."
+            text: "We want to make organizing a group as easy as possible so that you can make the most out of your—and your group's—MBLGTACC experience. Our attendee toolkit and checklist bring you all the key logistical information you need to get from your community to Lexington this November."
       -
         type: set
         attrs:
