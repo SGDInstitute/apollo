@@ -43,7 +43,21 @@ sections:
         content:
           -
             type: text
-            text: "We respect and value your privacy, and won't share your contact information with anyone without your consent."
+            text: 'We respect and value your '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/legal'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: privacy
+          -
+            type: text
+            text: ", and won't share your contact information with anyone without your consent."
     type: content
     enabled: true
   -
@@ -167,5 +181,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682876605
+updated_at: 1682876650
 ---
