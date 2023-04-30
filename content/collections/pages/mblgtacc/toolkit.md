@@ -72,7 +72,18 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Propose a workshop'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Propose a workshop'
               -
                 type: paragraph
                 attrs:
@@ -88,7 +99,18 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Book your hotel'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Book your hotel'
               -
                 type: paragraph
                 attrs:
@@ -113,7 +135,18 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Register your group'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Register your group'
               -
                 type: paragraph
                 attrs:
@@ -121,7 +154,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Distribute trip info to your group or make sure they receive our emails'
+                    text: '▢ Distribute trip info to your group and/or make sure they receive our emails'
               -
                 type: paragraph
                 attrs:
@@ -1014,7 +1047,7 @@ sections:
     type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1682524048
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1682876335
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
