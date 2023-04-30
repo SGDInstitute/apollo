@@ -59,10 +59,10 @@ sections:
   -
     id: 15js90eX
     articles:
+      - 32c5499f-c2b5-4768-80ff-1e675c3357f6
       - f80230fc-9263-498e-87bc-7f58a6589179
       - e2c52738-efd4-489f-933b-a544e5e1c137
       - 3e5f036b-a493-4823-8f42-f763d32b7f0b
-      - 31da7e8e-cc8e-462e-9bb5-0570de9fe70c
       - 79b20e53-7e95-476e-adcd-6748ba545021
     bg_type: color
     bg_color: bg-transparent
@@ -193,5 +193,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682084118
+updated_at: 1682873778
 ---
