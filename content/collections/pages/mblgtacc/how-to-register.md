@@ -336,6 +336,58 @@ sections:
         type: paragraph
     image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
     bg_type: color
+    bg_color: bg-green-700
+    type: two_column
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC 101: Attending the Conference'
+      -
+        type: paragraph
+        attrs:
+          class: lead
+        content:
+          -
+            type: text
+            text: '(Re)watch our attendee live chat and Q&A covering the MBLGTACC experience and conference basics, such as program offerings, coordinating a group, and how to register.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: GdoBpImH
+          values:
+            type: buttons
+            buttons:
+              -
+                id: z6VIHlTk
+                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
+                text: Watch
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          class: null
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
+    bg_type: color
     bg_color: bg-green-600
     type: two_column
     enabled: true
@@ -387,5 +439,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681850027
+updated_at: 1682873083
 ---
