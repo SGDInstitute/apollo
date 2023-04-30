@@ -22,17 +22,12 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
             text: "Don't miss a thing! Get key MBLGTACC news, right to your inbox "
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "We respect and value your privacy, and won't share your contact information with anyone without your consent."
       -
         type: set
         attrs:
@@ -42,6 +37,13 @@ sections:
             formset: newsletter
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "We respect and value your privacy, and won't share your contact information with anyone without your consent."
     type: content
     enabled: true
   -
@@ -165,5 +167,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682876534
+updated_at: 1682876605
 ---
