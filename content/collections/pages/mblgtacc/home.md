@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682876166
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1682902269
 sections:
   -
     id: j7D4Zmil
@@ -126,9 +126,9 @@ sections:
     id: 02SNfQeN
     articles:
       - f80230fc-9263-498e-87bc-7f58a6589179
+      - 32c5499f-c2b5-4768-80ff-1e675c3357f6
       - 79b20e53-7e95-476e-adcd-6748ba545021
       - e2c52738-efd4-489f-933b-a544e5e1c137
-      - 3e5f036b-a493-4823-8f42-f763d32b7f0b
       - f35d91d0-8672-48fd-993d-7ce17df1f308
     bg_type: gradient
     num_colors: 2
