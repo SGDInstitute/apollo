@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683036333
+updated_at: 1683039650
 sections:
   -
     id: PZJpiZuz
@@ -297,6 +297,18 @@ sections:
                   - 'Closing Remarks'
                   - TBD
             full_width: true
+      -
+        type: set
+        attrs:
+          id: lh6ecod2
+          values:
+            type: iframe
+            html: '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDetroit&title=MBLGTACC&src=NmFkYjVmZTQ0ZjVmMGI4NDBhZTBlNjI0OTY4YzcwYmNjY2ExMDUwN2IxMjRiYjE2OGRmZDVjMWE5OTJjMDQzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zczUxaGpqNjI5amltZDM1dnVxZW84aXBzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bmlja0BwZm9zdGRlc2lnbi5jb20&src=bnBmb3N0QGVxdWFsaXR5bWFpbmUub3Jn&color=%237986CB&color=%23D81B60&color=%23795548&color=%23F4511E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
