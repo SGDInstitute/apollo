@@ -4,21 +4,40 @@ blueprint: pages
 title: 'Hotels & Parking'
 sections:
   -
+    id: ccDWLZ5g
     title: 'Hotels and Parking'
     type: header_small
     enabled: true
   -
+    id: v3f52JDh
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
             text: 'Hotel accommodations'
       -
+        type: set
+        attrs:
+          id: lh6nl2nd
+          values:
+            type: image
+            image: news/hotels-2023-1090x681.jpg
+            inline: false
+      -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -34,6 +53,9 @@ sections:
             text: 'for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -50,6 +72,7 @@ sections:
       -
         type: set
         attrs:
+          id: NWlKvPqc
           values:
             type: 2_columns
             left_column: content
@@ -70,17 +93,19 @@ sections:
                     type: text
                     text: '401 West High Street'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: 'Lexington, KY  40507'
               -
                 type: set
                 attrs:
+                  id: jvmTomol
                   values:
                     type: buttons
                     buttons:
                       -
+                        id: BlgXFwFE
                         link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
                         text: 'Book Online with Hyatt Regency Lexington'
                         color: btn-green
@@ -107,17 +132,19 @@ sections:
                     type: text
                     text: '369 West Vine Street'
                   -
-                    type: hard_break
+                    type: hardBreak
                   -
                     type: text
                     text: 'Lexington, KY  40507'
               -
                 type: set
                 attrs:
+                  id: 9WPlhW40
                   values:
                     type: buttons
                     buttons:
                       -
+                        id: 9lJziUPn
                         link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
                         text: 'Book Online with Hilton Lexington/Downtown'
                         color: btn-green
@@ -129,6 +156,7 @@ sections:
     type: content
     enabled: true
   -
+    id: CYwwhQyu
     bard:
       -
         type: heading
@@ -165,7 +193,7 @@ sections:
         content:
           -
             type: text
-            text: 'Designated accessible parking is available in the Central Bank Center''s High Street lot. A valid state-issued handicap accessible placard or license plate is required.'
+            text: "Designated accessible parking is available in the Central Bank Center's High Street lot. A valid state-issued handicap accessible placard or license plate is required."
       -
         type: heading
         attrs:
@@ -197,6 +225,7 @@ sections:
     type: content
     enabled: true
   -
+    id: 7sLbHoEX
     bard:
       -
         type: heading
@@ -229,16 +258,15 @@ sections:
     type: content
     enabled: true
   -
+    id: r7iUPoyj
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1669927130
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1683055160
 template: default
 ---
