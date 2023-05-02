@@ -31,7 +31,7 @@ sections:
   -
     id: HIFYnfHp
     articles:
-      - 0bea0fda-9575-403f-8265-f9e147f4668a
+      - f43fce2c-8284-466f-9412-ccc2d6db9947
       - 65810f81-5325-4b0f-8bdd-51d5eb7e9095
       - afcfd563-338b-4920-9212-076e05477796
       - 481cc737-dc5d-4b89-b65f-6d85b302eb8a
@@ -148,7 +148,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681844554
+updated_at: 1683033719
 image:
   - headers/homepage-hero1.jpg
 description: 'Find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
