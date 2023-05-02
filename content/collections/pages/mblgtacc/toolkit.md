@@ -350,9 +350,9 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://calendar.google.com/calendar/embed?src=6adb5fe44f5f0b840ae0e624968c70bccca10507b124bb168dfd5c1a992c043d%40group.calendar.google.com&ctz=America%2FDetroit'
+                  href: 'https://calendar.google.com/calendar/embed?src=c_0336e6c6d92f0a497135cf4b7702b0d2b15efe63ad215ec47960d67bb4427abd%40group.calendar.google.com&ctz=America%2FDetroit'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
             text: 'Google Calendar'
           -
@@ -364,7 +364,7 @@ sections:
           id: lh6eou40
           values:
             type: iframe
-            html: '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDetroit&src=NmFkYjVmZTQ0ZjVmMGI4NDBhZTBlNjI0OTY4YzcwYmNjY2ExMDUwN2IxMjRiYjE2OGRmZDVjMWE5OTJjMDQzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+            html: '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDetroit&src=Y18wMzM2ZTZjNmQ5MmYwYTQ5NzEzNWNmNGI3NzAyYjBkMmIxNWVmZTYzYWQyMTVlYzQ3OTYwZDY3YmI0NDI3YWJkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23AD1457" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
     type: content
     enabled: true
   -
@@ -1470,6 +1470,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683052116
+updated_at: 1683056276
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
