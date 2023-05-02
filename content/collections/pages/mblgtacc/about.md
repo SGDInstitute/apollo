@@ -189,7 +189,7 @@ sections:
         content:
           -
             type: text
-            text: 'For over 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
+            text: 'For over 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. '
       -
         type: set
         attrs:
@@ -433,5 +433,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683044926
+updated_at: 1683044961
 ---
