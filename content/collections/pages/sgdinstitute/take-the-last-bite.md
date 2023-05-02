@@ -16,7 +16,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'New episodes released bi-weekly.'
-    link: 'entry::0bea0fda-9575-403f-8265-f9e147f4668a'
+    link: 'entry::f43fce2c-8284-466f-9412-ccc2d6db9947'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -87,7 +87,7 @@ sections:
           id: lgm8vv6e
           values:
             type: iframe
-            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/e8b5a8cc"></iframe>'
+            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/af8de0b3"></iframe>'
       -
         type: paragraph
         attrs:
@@ -107,6 +107,26 @@ sections:
           -
             type: text
             text: 'Season 4'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::f43fce2c-8284-466f-9412-ccc2d6db9947'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 2: Behind the Scenes of “Diving for Rays: A Queer Conservationist’s Story”'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -1022,7 +1042,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681821151
+updated_at: 1683033549
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality— highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
