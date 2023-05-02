@@ -9,6 +9,12 @@ sections:
     type: header_small
     enabled: true
   -
+    id: lh6km40s
+    bg_type: image
+    bg_image: headers/blurry-background.jpg
+    type: header
+    enabled: true
+  -
     id: XR5LXPc1
     bard:
       -
@@ -1420,6 +1426,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683050134
+updated_at: 1683050213
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
