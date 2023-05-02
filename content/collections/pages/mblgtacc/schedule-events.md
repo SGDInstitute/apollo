@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683039949
+updated_at: 1683039984
 sections:
   -
     id: PZJpiZuz
@@ -297,18 +297,6 @@ sections:
                   - 'Closing Remarks'
                   - TBD
             full_width: true
-      -
-        type: set
-        attrs:
-          id: lh6ecod2
-          values:
-            type: iframe
-            html: '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDetroit&src=NmFkYjVmZTQ0ZjVmMGI4NDBhZTBlNjI0OTY4YzcwYmNjY2ExMDUwN2IxMjRiYjE2OGRmZDVjMWE5OTJjMDQzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
   -
