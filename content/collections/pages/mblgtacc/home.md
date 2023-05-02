@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683051600
+updated_at: 1683053156
 sections:
   -
     id: j7D4Zmil
@@ -200,6 +200,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -211,6 +212,7 @@ sections:
       -
         type: paragraph
         attrs:
+          textAlign: left
           class: lead
         content:
           -
@@ -227,15 +229,6 @@ sections:
                 id: FIaz8yQV
                 link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
                 text: 'View toolkit & checklist'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-              -
-                id: lh3ozy36
-                link: 'entry::32c5499f-c2b5-4768-80ff-1e675c3357f6'
-                text: '(Re)watch info session'
                 color: btn-white
                 size: btn-lg
                 block: false
