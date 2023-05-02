@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683048293
+updated_at: 1683048329
 sections:
   -
     id: o8rIUpZR
@@ -169,7 +169,7 @@ sections:
               -
                 type: heading
                 attrs:
-                  level: 3
+                  level: 4
                 content:
                   -
                     type: text
@@ -181,13 +181,11 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'Schedule →'
               -
                 type: heading
                 attrs:
-                  level: 3
+                  level: 4
                 content:
                   -
                     type: text
@@ -199,13 +197,11 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'Accessibility →'
               -
                 type: heading
                 attrs:
-                  level: 3
+                  level: 4
                 content:
                   -
                     type: text
@@ -217,8 +213,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'COVID-19 FAQs →'
             right_content:
               -
@@ -236,8 +230,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'Glossary of LGBTQIA+ terms →'
               -
                 type: heading
@@ -254,8 +246,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'Hotels and parking →'
               -
                 type: heading
@@ -272,8 +262,6 @@ sections:
                           rel: null
                           target: null
                           title: null
-                      -
-                        type: bold
                     text: 'Policies →'
       -
         type: paragraph
