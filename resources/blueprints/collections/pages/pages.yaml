@@ -10,6 +10,7 @@ sections:
           required: true
           validate:
             - required
+          localizable: false
       -
         handle: sections
         field:
@@ -27,6 +28,7 @@ sections:
                     type: text
                     listable: hidden
                     display: Title
+                    localizable: false
                 -
                   handle: subtitle
                   field:
@@ -34,6 +36,7 @@ sections:
                     type: text
                     listable: hidden
                     display: Subtitle
+                    localizable: false
                 -
                   handle: has_tag
                   field:
@@ -41,6 +44,7 @@ sections:
                     width: 25
                     listable: hidden
                     display: 'Has Tag'
+                    localizable: false
                 -
                   handle: tag
                   field:
@@ -51,6 +55,7 @@ sections:
                     if:
                       has_tag: 'equals true'
                     width: 75
+                    localizable: false
                 -
                   handle: has_button
                   field:
@@ -58,6 +63,7 @@ sections:
                     type: toggle
                     icon: toggle
                     listable: hidden
+                    localizable: false
                 -
                   import: button
             header:
@@ -72,6 +78,7 @@ sections:
                     display: Title
                     type: text
                     listable: hidden
+                    localizable: false
             header_small:
               display: 'Header Small'
               fields:
@@ -82,6 +89,7 @@ sections:
                     display: Title
                     type: text
                     listable: hidden
+                    localizable: false
             two_column:
               display: 'Two Column'
               fields:
@@ -94,6 +102,7 @@ sections:
                     instructions: 'Used as an ID in the html, useful for internal linking.'
                     width: 50
                     listable: hidden
+                    localizable: false
                 -
                   handle: column_widths
                   field:
@@ -118,6 +127,7 @@ sections:
                     width: 50
                     listable: hidden
                     instructions: 'Pick the size of the left and right columns.'
+                    localizable: false
                 -
                   handle: left_column
                   field:
@@ -136,6 +146,7 @@ sections:
                     type: select
                     width: 33
                     listable: hidden
+                    localizable: false
                 -
                   handle: right_column
                   field:
@@ -154,6 +165,7 @@ sections:
                     type: select
                     width: 33
                     listable: hidden
+                    localizable: false
                 -
                   handle: center_columns
                   field:
@@ -162,6 +174,7 @@ sections:
                     icon: toggle
                     width: 33
                     listable: hidden
+                    localizable: false
                 -
                   handle: bard
                   field:
@@ -181,6 +194,7 @@ sections:
                               display: Table
                               type: table
                               listable: hidden
+                              localizable: false
                       video:
                         display: Video
                         fields:
@@ -196,15 +210,24 @@ sections:
                       - h3
                       - h4
                       - h5
+                      - lead
                       - bold
                       - italic
                       - underline
                       - strikethrough
+                      - small
                       - unorderedlist
                       - orderedlist
                       - removeformat
                       - quote
+                      - superscript
+                      - subscript
                       - anchor
+                      - horizontalrule
+                      - alignleft
+                      - aligncenter
+                      - alignright
+                      - alignjustify
                     save_html: false
                     toolbar_mode: floating
                     link_noopener: false
@@ -220,6 +243,17 @@ sections:
                     if_any:
                       left_column: 'equals content'
                       right_column: 'equals content'
+                    localizable: false
+                    instructions_position: above
+                    visibility: visible
+                    collapse: false
+                    previews: true
+                    smart_typography: false
+                    inline: false
+                    enable_input_rules: true
+                    enable_paste_rules: true
+                    antlers: false
+                    remove_empty_nodes: false
                 -
                   handle: above_price
                   field:
@@ -231,6 +265,7 @@ sections:
                     if_any:
                       left_column: 'equals pricing'
                       right_column: 'equals pricing'
+                    localizable: false
                 -
                   handle: price
                   field:
@@ -242,6 +277,7 @@ sections:
                     if_any:
                       left_column: 'equals pricing'
                       right_column: 'equals pricing'
+                    localizable: false
                 -
                   handle: below_price
                   field:
@@ -253,6 +289,7 @@ sections:
                     if_any:
                       left_column: 'equals pricing'
                       right_column: 'equals pricing'
+                    localizable: false
                 -
                   handle: image
                   field:
@@ -269,6 +306,7 @@ sections:
                     if_any:
                       left_column: 'equals image'
                       right_column: 'equals image'
+                    localizable: false
                 -
                   handle: caption
                   field: image_block.caption
@@ -286,6 +324,7 @@ sections:
                     if_any:
                       left_column: 'equals video'
                       right_column: 'equals video'
+                    localizable: false
                 -
                   import: background
             content_image_callout:
@@ -301,6 +340,7 @@ sections:
                     display: 'Section Title'
                     type: text
                     listable: hidden
+                    localizable: false
                 -
                   handle: event
                   field:
@@ -310,6 +350,7 @@ sections:
                     listable: hidden
                     width: 33
                     instructions: 'Slug of event in enterprise database'
+                    localizable: false
                 -
                   handle: date_format
                   field:
@@ -328,7 +369,8 @@ sections:
                     type: select
                     width: 66
                     listable: hidden
-                    instructions: 'Format of dates shown above speaker''s name'
+                    instructions: "Format of dates shown above speaker's name"
+                    localizable: false
                 -
                   handle: background_height
                   field:
@@ -340,6 +382,7 @@ sections:
                     type: radio
                     width: 50
                     listable: hidden
+                    localizable: false
                 -
                   handle: background_color
                   field: background.bg_color
@@ -397,6 +440,7 @@ sections:
                     type: date
                     width: 50
                     listable: hidden
+                    localizable: false
                 -
                   handle: hashtag
                   field:
@@ -405,6 +449,7 @@ sections:
                     type: text
                     width: 50
                     listable: hidden
+                    localizable: false
                 -
                   import: background
             content:
@@ -425,6 +470,7 @@ sections:
                     type: users
                     icon: users
                     listable: hidden
+                    localizable: false
                 -
                   import: background
             news:
@@ -438,6 +484,7 @@ sections:
                     instructions: 'The number of posts that will show up'
                     listable: hidden
                     width: 50
+                    localizable: false
                 -
                   handle: num_per_row
                   field:
@@ -449,6 +496,7 @@ sections:
                     if:
                       limit: '> 5'
                     width: 50
+                    localizable: false
                 -
                   handle: pagination
                   field:
@@ -459,6 +507,7 @@ sections:
                     if:
                       limit: '> 5'
                     width: 50
+                    localizable: false
                 -
                   handle: exclude
                   field:
@@ -467,6 +516,7 @@ sections:
                     icon: toggle
                     width: 50
                     listable: hidden
+                    localizable: false
                 -
                   import: background
             news_feature:
@@ -483,6 +533,7 @@ sections:
                     type: entries
                     icon: entries
                     listable: hidden
+                    localizable: false
                 -
                   import: background
             search_results:
@@ -493,6 +544,9 @@ sections:
           display: Sections
           collapse: false
           instructions_position: above
+          localizable: false
+          visibility: visible
+          previews: true
       -
         handle: template
         field:
@@ -527,6 +581,7 @@ sections:
           icon: textarea
           listable: true
           antlers: false
+          localizable: false
       -
         handle: image
         field:
@@ -540,6 +595,7 @@ sections:
           type: assets
           icon: assets
           listable: hidden
+          localizable: false
   SEO:
     display: SEO
     fields:
@@ -549,6 +605,7 @@ sections:
           type: seo_pro
           listable: false
           display: SEO
+          localizable: false
   brand_standards:
     display: 'Brand & Editorial Standards'
     fields:
@@ -559,6 +616,7 @@ sections:
           display: 'Brand standards'
           type: html
           icon: html
-          instructions: 'Please consult the Institute''s brand standards for editorial questions, rules on capitalization, boilerplate, and more.'
+          instructions: "Please consult the Institute's brand standards for editorial questions, rules on capitalization, boilerplate, and more."
           listable: hidden
           instructions_position: above
+          localizable: false
