@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682093294
+updated_at: 1683046326
 sections:
   -
     id: zR1BNzlK
@@ -24,7 +24,21 @@ sections:
         content:
           -
             type: text
-            text: 'Presenting at MBLGTACC can be an enjoyable, exciting, and rewarding experience—and those leading workshops will receive free admission to the entire weekend. Workshop sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+            text: 'Presenting at '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::59865639-7c77-43d1-a56c-333bc38efccc'
+                  rel: null
+                  target: null
+                  title: null
+            text: MBLGTACC
+          -
+            type: text
+            text: ' can be an enjoyable, exciting, and rewarding experience—and those leading workshops will receive free admission to the entire weekend. Workshop sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
       -
         type: paragraph
         attrs:
