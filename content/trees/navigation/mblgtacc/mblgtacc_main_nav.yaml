@@ -36,6 +36,10 @@ tree:
         id: c0b9d46e-2c55-444c-b533-dd3e80f4eb60
         entry: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
   -
+    id: 5727e788-307e-4dd1-821b-110e3f44436b
+    entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+    title: Attendee
+  -
     id: 2871abdf-6533-44ae-b6dd-4136e2b6aabd
     entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
   -
@@ -74,9 +78,6 @@ tree:
       -
         id: a66b308f-eada-4d78-840e-3e04dc534f77
         entry: f014f793-2dc9-4709-8f2f-57a25fc94f8e
-      -
-        id: 5727e788-307e-4dd1-821b-110e3f44436b
-        entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
       -
         id: 3c60fdcb-9465-4e3f-b46e-ccee3326a202
         entry: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
