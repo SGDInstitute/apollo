@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683054472
+updated_at: 1683054502
 sections:
   -
     id: o8rIUpZR
@@ -167,7 +167,7 @@ sections:
     enabled: true
   -
     id: venue
-    column_widths: third_right
+    column_widths: quarter_right
     left_column: content
     right_column: image
     center_columns: false
