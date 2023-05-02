@@ -9,8 +9,100 @@ sections:
     type: header_small
     enabled: true
   -
-    id: BxOy0zRZ
+    id: tbUnWPRV
     bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'A conference for all of us, centering the most marginalized'
+      -
+        type: set
+        attrs:
+          id: BAUlXGfA
+          values:
+            type: image
+            image: mblgtacc-2020-feat-voice-session-1090x681.jpg
+            inline: false
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and honors this diversity.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'With over 70 workshops on LGBTQIA+ and intersectional topics and interests, plus keynotes from leading advocates and performances from popular entertainers, the conference and its many programs and opportunities catalyze conversation and action around issues that affect us as individuals, as a community, and as citizens of the world. Over its 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: "To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
+  -
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'MBLGTACC 2023: November 3-5'
       -
         type: paragraph
         attrs:
@@ -19,66 +111,60 @@ sections:
         content:
           -
             type: text
-            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky. '
+            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky.'
       -
         type: set
         attrs:
-          id: yqFTCgtY
-          enabled: false
+          id: lh6h63cq
           values:
             type: buttons
             buttons:
               -
-                id: g1r0P2uG
-                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
-                text: 'Get updates'
-                color: btn-green
+                id: lh6h644j
+                link: 'entry::12d04696-6c0f-4433-aa6c-499fe7572ed9'
+                text: Attend
+                color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
-                target_blank: false
+                target_blank: true
+              -
+                id: lh6h7hh4
+                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
+                text: Present
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lh6h7vap
+                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
+                text: 'Sponsor & Exhibit'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lh6h9ghi
+                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                text: 'Get updates'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-      -
-        type: set
-        attrs:
-          id: yr9OW9lT
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lgmpduyl
-                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: Register
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: v1Rwa5YY
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: Present
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: 5EsgIGjL
-                link: 'entry::6b6906fa-60ad-436d-ae31-1972a8651df0'
-                text: 'Sponsor / Exhibit'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-    type: content
+    image: news/announce-04032023-web-featured-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     id: XkaCjRLc
@@ -137,7 +223,7 @@ sections:
             type: text
             text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
     type: content
-    enabled: true
+    enabled: false
   -
     id: uz0Da7a2
     bard:
@@ -292,179 +378,6 @@ sections:
                           target: null
                           title: null
                     text: 'Hotels and Parking →'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    type: content
-    enabled: true
-  -
-    column_widths: quarter_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Our venue: Central Bank Center'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-            text: 'Central Bank Center'
-          -
-            type: text
-            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
-    image: central-bank-center-lexington-1099x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
-    type: two_column
-    enabled: true
-  -
-    id: 8f9cEMGp
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Our venue: Central Bank Center'
-      -
-        type: set
-        attrs:
-          id: CcIIL20t
-          enabled: false
-          values:
-            type: image
-            image: central-bank-center-lexington-1099x681.jpg
-            caption: 'Photo by Feinknopf Photography'
-            inline: false
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.centralbankcenter.com/'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Central Bank Center'
-          -
-            type: text
-            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
-    type: content
-    enabled: false
-  -
-    id: tbUnWPRV
-    bard:
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'A conference for all of us, centering the most marginalized'
-      -
-        type: set
-        attrs:
-          id: BAUlXGfA
-          values:
-            type: image
-            image: mblgtacc-2020-feat-voice-session-1090x681.jpg
-            inline: false
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students, faculty, and staff around the Midwest and beyond.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Each year, MBLGTACC makes one Midwest community a destination for a diverse gathering of 2000+ college students. Programming at the conference reflects and honors this diversity.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'With over 70 workshops on LGBTQIA+ and intersectional topics and interests, plus keynotes from leading advocates and performances from popular entertainers, the conference and its many programs and opportunities catalyze conversation and action around issues that affect us as individuals, as a community, and as citizens of the world. Over its 30-year history, MBLGTACC has attracted advocates and thought leaders including Angela Davis, Robyn Ochs, Janet Mock, Laverne Cox, Kate Bornstein, Faisal Alam, and LZ Granderson; and entertainers and artists including Jujubee, Margaret Cho, J Mase III, Chely Wright, and Loren Cameron.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'And from programming to accommodations to hospitality, the conference is designed to meet the needs of all students. We welcome attendees to join us as accomplices in holding ourselves accountable.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: "To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
       -
         type: paragraph
         attrs:
@@ -688,5 +601,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681849988
+updated_at: 1683044632
 ---
