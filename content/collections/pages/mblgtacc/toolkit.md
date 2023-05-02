@@ -64,15 +64,6 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
-              -
-                id: IcdUsgC8
-                link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
-                text: 'Poster/Flier templates'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
             contain: true
       -
         type: paragraph
@@ -257,6 +248,15 @@ sections:
                 id: lh6g7ppv
                 link: 'entry::eb2322c8-5741-4ce6-a2d1-04b735c6620e'
                 text: 'Get the guide'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lh6ih8sm
+                link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
+                text: 'Poster/Flier Templates'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -1438,6 +1438,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683046513
+updated_at: 1683046622
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
