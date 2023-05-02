@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683047658
+updated_at: 1683048014
 sections:
   -
     id: zR1BNzlK
@@ -153,6 +153,21 @@ sections:
           -
             type: text
             text: 'Eligibility and process'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Presenters of accepted workshops receive complimentary conference registrations.'
+          -
+            type: text
+            text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
       -
         type: heading
         attrs:
@@ -380,35 +395,6 @@ sections:
                 target_blank: true
                 link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2023-workshop-proposal'
             contain: true
-    type: content
-    enabled: true
-  -
-    id: 3tpPaz0K
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Presenters attend MBLGTACC for free'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Presenters of accepted workshops receive complimentary conference registrations.'
-          -
-            type: text
-            text: ' By submitting a workshop proposal for this volunteer, peer-to-peer conference experience, you understand that you will not be compensated and that all conference participants are responsible for their own food, lodging, and travel, except where otherwise negotiated by contract.'
     type: content
     enabled: true
   -
