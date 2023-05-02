@@ -175,6 +175,57 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Conference history'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'For over 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
+      -
+        type: set
+        attrs:
+          id: 0C9q2OMN
+          values:
+            type: buttons
+            buttons:
+              -
+                id: mUWB14p8
+                link: 'entry::5071f79b-1d59-4cd6-92b0-f04b1953ad66'
+                text: Explore
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: news/mblgtacc-2017-sunday-audience1-teaser-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-700
+    type: two_column
+    enabled: true
+  -
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
           level: 2
         content:
           -
@@ -209,7 +260,7 @@ sections:
     bg_type: color
     bg_color: bg-green-700
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: HEiJFBMP
     bard:
@@ -382,5 +433,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683044780
+updated_at: 1683044876
 ---
