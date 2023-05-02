@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683051507
+updated_at: 1683051555
 sections:
   -
     id: j7D4Zmil
@@ -91,6 +91,7 @@ sections:
     enabled: true
     center_columns: false
   -
+    id: hotel
     left_column: content
     right_column: image
     center_columns: false
@@ -140,6 +141,7 @@ sections:
     bg_color: bg-green-700
     type: two_column
     enabled: true
+    column_widths: third_right
   -
     id: xC5gzPwZ
     title: 'Keynotes and entertainment'
