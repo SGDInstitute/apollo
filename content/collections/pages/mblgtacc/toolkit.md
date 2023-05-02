@@ -186,6 +186,50 @@ sections:
     type: content
     enabled: true
   -
+    id: lh6eos9s
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Key dates and deadlines'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Our '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://calendar.google.com/calendar/embed?src=6adb5fe44f5f0b840ae0e624968c70bccca10507b124bb168dfd5c1a992c043d%40group.calendar.google.com&ctz=America%2FDetroit'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Google Calendar'
+          -
+            type: text
+            text: ' highlights key dates for registration, workshop submissions, guarantees, and more. '
+      -
+        type: set
+        attrs:
+          id: lh6eou40
+          values:
+            type: iframe
+            html: '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDetroit&src=NmFkYjVmZTQ0ZjVmMGI4NDBhZTBlNjI0OTY4YzcwYmNjY2ExMDUwN2IxMjRiYjE2OGRmZDVjMWE5OTJjMDQzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+    type: content
+    enabled: true
+  -
     id: wwd7sLQ9
     bard:
       -
@@ -1048,6 +1092,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682876335
+updated_at: 1683040358
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
