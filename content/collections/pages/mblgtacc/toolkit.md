@@ -385,7 +385,7 @@ sections:
         content:
           -
             type: text
-            text: 'Step by step guide'
+            text: 'Step by step planning guide'
       -
         type: paragraph
         attrs:
@@ -394,7 +394,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our helpful guide takes you chronologically through the process of getting from your community to Lexington this November. '
+            text: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, let our step by step guide take you chronologically through the process of getting from your community to Lexington this November. "
       -
         type: set
         attrs:
@@ -1277,6 +1277,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683042838
+updated_at: 1683043067
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
