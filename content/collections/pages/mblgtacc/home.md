@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1682902269
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1683051507
 sections:
   -
     id: j7D4Zmil
@@ -90,6 +90,56 @@ sections:
     type: two_column
     enabled: true
     center_columns: false
+  -
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Book your room by October 3'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'Two hotels are offering a discounted group rate of $169 per night for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
+      -
+        type: set
+        attrs:
+          id: lh6le1g4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh6le28k
+                link: 'entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                text: 'Hotels & Parking'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+    image: news/hilton-downtown-columbus-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-700
+    type: two_column
+    enabled: true
   -
     id: xC5gzPwZ
     title: 'Keynotes and entertainment'
