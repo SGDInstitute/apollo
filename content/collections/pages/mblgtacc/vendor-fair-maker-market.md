@@ -486,6 +486,69 @@ sections:
     type: content
     enabled: true
   -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: start
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Our venue: Central Bank Center'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Central Bank Center'
+          -
+            type: text
+            text: ' stands ready to meet the demands of attendees, organizers, and partners. '
+      -
+        type: set
+        attrs:
+          id: lh6mzv8z
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh6mzw1f
+                link: 'https://www.centralbankcenter.com/'
+                text: 'Central Bank Center website'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+    image: central-bank-center-lexington-1099x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
     id: lh6jm3fc
     bard:
       -
@@ -682,7 +745,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683048635
+updated_at: 1683054207
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
