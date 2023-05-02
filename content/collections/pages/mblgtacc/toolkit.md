@@ -19,7 +19,12 @@ sections:
         content:
           -
             type: text
-            text: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information below!"
+            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
@@ -27,6 +32,15 @@ sections:
           values:
             type: buttons
             buttons:
+              -
+                id: lh6gpouf
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to register'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
               -
                 id: IcdUsgC8
                 link: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
@@ -302,64 +316,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Key resources'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'How to Register →'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Latest News →'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Get Updates →'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: Details
+                    text: 'Key information'
               -
                 type: paragraph
                 attrs:
@@ -391,7 +348,7 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Speakers & Events →'
+                    text: 'Accessibility →'
               -
                 type: paragraph
                 attrs:
@@ -407,13 +364,143 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Hotels & Parking →'
+                    text: 'COVID-19 FAQs →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Hotels and parking →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Policies →'
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Stay connected'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Register →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::c36f7410-114f-46ae-bdde-8ac59f66d1da'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Latest news →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Get email updates →'
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
     type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: start
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Our venue: Central Bank Center'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Central Bank Center'
+          -
+            type: text
+            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
+    image: central-bank-center-lexington-1099x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     id: wwd7sLQ9
@@ -1270,6 +1357,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683043204
+updated_at: 1683044197
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
