@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683054776
+updated_at: 1683054950
 sections:
   -
     id: zR1BNzlK
@@ -526,7 +526,6 @@ sections:
                           target: null
                           title: null
                     text: 'COVID-19 FAQs →'
-            right_content:
               -
                 type: heading
                 attrs:
@@ -538,11 +537,12 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
+                          href: null
                           rel: null
                           target: null
                           title: null
                     text: 'Glossary of LGBTQIA+ terms →'
+            right_content:
               -
                 type: heading
                 attrs:
@@ -566,6 +566,25 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Key dates on '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Google Calendar →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
                     marks:
                       -
                         type: link
@@ -575,6 +594,22 @@ sections:
                           target: null
                           title: null
                     text: 'Policies →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.centralbankcenter.com/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Venue (external) →'
       -
         type: paragraph
         attrs:
