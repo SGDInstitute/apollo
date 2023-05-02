@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682102203
+updated_at: 1683036333
 sections:
   -
     id: PZJpiZuz
@@ -34,6 +34,28 @@ sections:
           -
             type: text
             text: 'This schedule may be adjusted slightly as program details are confirmed.'
+      -
+        type: set
+        attrs:
+          id: lh6ccgo0
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh6cchd1
+                link: 'https://calendar.google.com/calendar/embed?src=6adb5fe44f5f0b840ae0e624968c70bccca10507b124bb168dfd5c1a992c043d%40group.calendar.google.com&ctz=America%2FDetroit'
+                text: 'Add to Google Calendar'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
