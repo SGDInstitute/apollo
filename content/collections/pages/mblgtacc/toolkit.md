@@ -49,7 +49,7 @@ sections:
         content:
           -
             type: text
-            text: "Below, we've gathered key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you plan your conference experience."
+            text: "Below, we've gathered key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience."
       -
         type: paragraph
         attrs:
@@ -1427,6 +1427,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683050225
+updated_at: 1683050356
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
