@@ -486,6 +486,156 @@ sections:
     type: content
     enabled: true
   -
+    id: lh6jm3fc
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Explore MBLGTACC 2023'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Key information for vendors and makers'
+      -
+        type: set
+        attrs:
+          id: lh6jmisu
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Schedule →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::f014f793-2dc9-4709-8f2f-57a25fc94f8e'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Accessibility →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.centralbankcenter.com/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Venue (external) →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::77581097-4408-48b2-a124-97fc61e209e3'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'COVID-19 FAQs →'
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Glossary of LGBTQIA+ terms →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Hotels and parking →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::e117e019-bc65-41b2-9cde-fad0b8a5c20c'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Policies →'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
+  -
     id: B0gc5qhx
     bard:
       -
@@ -531,8 +681,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679614215
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1683048635
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
