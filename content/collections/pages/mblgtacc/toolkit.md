@@ -230,11 +230,7 @@ sections:
     type: content
     enabled: true
   -
-    id: theme
-    column_widths: third_right
-    left_column: content
-    right_column: image
-    center_columns: false
+    id: lh6flpao
     bard:
       -
         type: heading
@@ -244,42 +240,135 @@ sections:
         content:
           -
             type: text
-            text: 'Centering queer joy'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'Positioning queer joy as our lasting legacy is a direct counter to the current status of our struggles, a proclamation that we choose to celebrate ourselves as a response to threats rather than surrender. Invoking this theme for MBLGTACC 2023 drives us to curate a space that feels like a collective sigh of relief, allowing us to set down our battle-gear for a few moments and be nurtured by the healing powers of queer joy and contribute to our lasting legacy.'
+            text: Explore
       -
         type: set
         attrs:
-          id: lh6ff8e9
+          id: lh6fmzcx
           values:
-            type: buttons
-            buttons:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
               -
-                id: lh6ff9e6
-                link: 'entry::e2c52738-efd4-489f-933b-a544e5e1c137'
-                text: 'Our theme'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Key resources'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'How to Register →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Latest News →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Get Updates →'
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: Details
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Schedule →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Speakers & Events →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Hotels & Parking →'
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-    image: news/announce-04032023-web-featured-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
-    type: two_column
+    type: content
     enabled: true
   -
     id: wwd7sLQ9
@@ -1144,6 +1233,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683041559
+updated_at: 1683041915
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
