@@ -341,28 +341,6 @@ sections:
       -
         type: set
         attrs:
-          id: lh6ipzkq
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lh6iq08t
-                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: 'How to register'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: false
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: set
-        attrs:
           id: lh6fmzcx
           values:
             type: 2_columns
@@ -1421,6 +1399,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683047025
+updated_at: 1683047095
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
