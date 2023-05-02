@@ -487,7 +487,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1683064887
+updated_at: 1683064934
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
