@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683054950
+updated_at: 1683055009
 sections:
   -
     id: zR1BNzlK
@@ -566,18 +566,15 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Key dates on '
-                  -
-                    type: text
                     marks:
                       -
                         type: link
                         attrs:
-                          href: null
+                          href: 'https://calendar.google.com/calendar/embed?src=6adb5fe44f5f0b840ae0e624968c70bccca10507b124bb168dfd5c1a992c043d%40group.calendar.google.com&ctz=America%2FDetroit'
                           rel: null
-                          target: null
+                          target: _blank
                           title: null
-                    text: 'Google Calendar →'
+                    text: 'Key dates on Google Calendar →'
               -
                 type: heading
                 attrs:
