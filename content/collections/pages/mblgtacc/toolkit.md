@@ -130,7 +130,21 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Estimate your cost of attendance and secure funding'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Budget
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Estimate your cost of attendance and secure funding'
               -
                 type: paragraph
                 attrs:
@@ -161,7 +175,13 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Arrange your travel'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Arrange your travel'
               -
                 type: paragraph
                 attrs:
@@ -169,7 +189,21 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Coordinate a group sign-up with students from your school, college, or university'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Organize your group'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Coordinate a group sign-up with students from your school, college, or university'
             right_content:
               -
                 type: paragraph
@@ -201,7 +235,21 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Distribute trip info to your group and/or make sure they receive our emails'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Distribute trip info to your group '
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'and/or make sure they receive our emails'
               -
                 type: paragraph
                 attrs:
@@ -209,7 +257,20 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Make your schedule for the weekend'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'Make your schedule'
               -
                 type: paragraph
                 attrs:
@@ -217,7 +278,13 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Arrive and check in'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Arrive and check in'
       -
         type: paragraph
         attrs:
@@ -1433,6 +1500,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683051214
+updated_at: 1683052093
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
