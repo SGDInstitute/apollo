@@ -167,7 +167,7 @@ sections:
     type: two_column
     enabled: true
   -
-    column_widths: third_left
+    column_widths: quarter_left
     left_column: image
     right_column: content
     center_columns: false
@@ -185,7 +185,7 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: null
+          class: lead
         content:
           -
             type: text
@@ -433,5 +433,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683044876
+updated_at: 1683044926
 ---
