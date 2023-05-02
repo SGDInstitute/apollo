@@ -330,6 +330,37 @@ sections:
             type: text
             text: 'Explore MBLGTACC 2023'
       -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Key information for attendees'
+      -
+        type: set
+        attrs:
+          id: lh6ipzkq
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh6iq08t
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to register'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: set
         attrs:
           id: lh6fmzcx
@@ -338,14 +369,6 @@ sections:
             left_column: content
             right_column: content
             left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Key information'
               -
                 type: paragraph
                 attrs:
@@ -394,6 +417,7 @@ sections:
                           target: null
                           title: null
                     text: 'COVID-19 FAQs →'
+            right_content:
               -
                 type: paragraph
                 attrs:
@@ -405,11 +429,11 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
+                          href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
                           rel: null
                           target: null
                           title: null
-                    text: 'Hotels and parking →'
+                    text: 'Glossary of LGBTQIA+ terms →'
               -
                 type: paragraph
                 attrs:
@@ -425,64 +449,23 @@ sections:
                           rel: null
                           target: null
                           title: null
+                    text: 'Hotels and parking →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::e117e019-bc65-41b2-9cde-fad0b8a5c20c'
+                          rel: null
+                          target: null
+                          title: null
                     text: 'Policies →'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Stay connected'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Register →'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::c36f7410-114f-46ae-bdde-8ac59f66d1da'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Latest news →'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Get email updates →'
       -
         type: paragraph
         attrs:
@@ -1438,6 +1421,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683046667
+updated_at: 1683047025
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
