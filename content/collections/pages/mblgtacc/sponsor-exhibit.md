@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683048403
+updated_at: 1683054440
 sections:
   -
     id: o8rIUpZR
@@ -164,6 +164,66 @@ sections:
       -
         type: paragraph
     type: content
+    enabled: true
+  -
+    id: venue
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Our venue: Central Bank Center'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Central Bank Center'
+          -
+            type: text
+            text: ' stands ready to meet the demands of attendees, organizers, and partners.'
+      -
+        type: set
+        attrs:
+          id: lh6n5dwa
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lh6n5elm
+                link: 'https://www.centralbankcenter.com/'
+                text: 'Central Bank Center website'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     id: lh6jf8d6
