@@ -172,6 +172,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -179,6 +180,9 @@ sections:
             text: 'Tax forms'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -200,6 +204,46 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2022-990.pdf'
+                                  rel: null
+                                  target: null
+                                  title: null
+                            text: '2022 990-EZ'
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2021-990.pdf'
+                                  rel: null
+                                  target: null
+                                  title: null
+                            text: '2021 990-EZ'
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -208,14 +252,17 @@ sections:
                                 type: link
                                 attrs:
                                   href: 'https://sgdinstitute.org/assets/transparency/990/2020-990.pdf'
-                                  target: _blank
                                   rel: null
+                                  target: _blank
+                                  title: null
                             text: '2020 990-EZ'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -224,25 +271,10 @@ sections:
                                 type: link
                                 attrs:
                                   href: 'https://sgdinstitute.org/assets/transparency/990/2019-990.pdf'
-                                  target: _blank
                                   rel: null
+                                  target: _blank
+                                  title: null
                             text: '2019 990-EZ'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'https://sgdinstitute.org/assets/transparency/990/2018-990.pdf'
-                                  target: _blank
-                                  rel: null
-                            text: '2018 990-EZ'
             right_content:
               -
                 type: bulletList
@@ -252,6 +284,27 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://sgdinstitute.org/assets/transparency/990/2018-990.pdf'
+                                  rel: null
+                                  target: null
+                                  title: null
+                            text: '2018 990-EZ'
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -260,14 +313,17 @@ sections:
                                 type: link
                                 attrs:
                                   href: 'https://sgdinstitute.org/assets/transparency/990/2017-990.pdf'
-                                  target: _blank
                                   rel: null
+                                  target: _blank
+                                  title: null
                             text: '2017 990-EZ'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -276,14 +332,19 @@ sections:
                                 type: link
                                 attrs:
                                   href: 'https://sgdinstitute.org/assets/transparency/990/2016-990.pdf'
-                                  target: _blank
                                   rel: null
+                                  target: _blank
+                                  title: null
                             text: '2016 990-EZ'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -297,6 +358,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -311,9 +375,13 @@ sections:
                     text: '2020 audit report'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -327,6 +395,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -415,8 +486,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1681835487
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1683064887
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
