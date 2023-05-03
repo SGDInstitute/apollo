@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683124060
+updated_at: 1683124350
 sections:
   -
     id: zR1BNzlK
@@ -319,6 +319,37 @@ sections:
                     type: text
                     text: 'Oct. 20: Presentation materials submitted to conference committee'
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Subscribe to the '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://calendar.google.com/calendar/embed?src=c_0336e6c6d92f0a497135cf4b7702b0d2b15efe63ad215ec47960d67bb4427abd%40group.calendar.google.com&ctz=America%2FDetroit'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+            text: 'MBLGTACC key dates Google Calendar'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' to add these dates to your calendar.'
+      -
         type: heading
         attrs:
           textAlign: left
@@ -351,40 +382,9 @@ sections:
             type: text
             text: ". When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks. "
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: italic
-            text: 'Learn more about workshop tracks '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                  rel: null
-                  target: null
-                  title: null
-            text: →
-      -
         type: set
         attrs:
           id: 0726apwO
-          enabled: false
           values:
             type: buttons
             buttons:
