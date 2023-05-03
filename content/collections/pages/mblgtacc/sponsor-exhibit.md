@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683054502
+updated_at: 1683132356
 sections:
   -
     id: o8rIUpZR
@@ -237,7 +237,7 @@ sections:
         content:
           -
             type: text
-            text: 'Explore MBLGTACC 2023'
+            text: 'Explore more'
       -
         type: heading
         attrs:
@@ -299,28 +299,12 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::77581097-4408-48b2-a124-97fc61e209e3'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'COVID-19 FAQs →'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
                           href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
                           rel: null
                           target: null
                           title: null
                     text: 'Glossary of LGBTQIA+ terms →'
+            right_content:
               -
                 type: heading
                 attrs:
