@@ -621,28 +621,12 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://www.centralbankcenter.com/'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Venue (external) →'
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
                           href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
                           rel: null
                           target: null
                           title: null
                     text: 'Glossary of LGBTQIA+ terms →'
+            right_content:
               -
                 type: heading
                 attrs:
@@ -729,7 +713,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683132570
+updated_at: 1683133043
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
