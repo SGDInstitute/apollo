@@ -11,7 +11,7 @@ sections:
   -
     id: lh6km40s
     bg_type: image
-    bg_image: headers/blurry-background.jpg
+    bg_image: headers/mblgtacc2022-reading-program-hero-1250x400.jpg
     type: header
     enabled: true
     title: 'Attendee Toolkit'
@@ -1466,6 +1466,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683125406
+updated_at: 1683126162
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
