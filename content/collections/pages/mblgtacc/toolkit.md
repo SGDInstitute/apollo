@@ -348,7 +348,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our '
+            text: 'Subscribe to the '
           -
             type: text
             marks:
@@ -359,10 +359,10 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Google Calendar'
+            text: 'MBLGTACC GCal'
           -
             type: text
-            text: ' highlights key dates for registration, workshop submissions, guarantees, and more. '
+            text: ' to add key dates to your calendar for registration, workshop submissions, guarantees, and more.'
       -
         type: set
         attrs:
@@ -425,7 +425,7 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: null
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                           rel: null
                           target: null
                           title: null
@@ -441,7 +441,7 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: null
+                          href: 'statamic://entry::f014f793-2dc9-4709-8f2f-57a25fc94f8e'
                           rel: null
                           target: null
                           title: null
@@ -457,7 +457,7 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: null
+                          href: 'statamic://entry::77581097-4408-48b2-a124-97fc61e209e3'
                           rel: null
                           target: null
                           title: null
@@ -490,7 +490,7 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: null
+                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
                           rel: null
                           target: null
                           title: null
@@ -1466,6 +1466,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683057972
+updated_at: 1683125241
 description: "From start to finish, coordinating a delegation or small group at MBLGTACC can involve a number of considerations, steps, and people. Whether you're just not sure where to start, or want to make the best of your experience, check out our attendee checklist and information."
 ---
