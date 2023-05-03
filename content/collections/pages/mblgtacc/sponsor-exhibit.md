@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683132867
+updated_at: 1683132890
 sections:
   -
     id: o8rIUpZR
@@ -229,11 +229,6 @@ sections:
   -
     id: lh6jf8d6
     bard:
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: heading
         attrs:
