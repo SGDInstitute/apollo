@@ -19,6 +19,18 @@ sections:
     id: XR5LXPc1
     bard:
       -
+        type: set
+        attrs:
+          id: lh7u54aq
+          values:
+            type: video
+            video: 'https://youtu.be/o8JVbyTvnU0'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+      -
         type: paragraph
         attrs:
           textAlign: left
@@ -256,13 +268,6 @@ sections:
                     type: text
                     text: '▢ Arrive and check in'
       -
-        type: set
-        attrs:
-          id: lh7u05zu
-          values:
-            type: video
-            video: 'https://youtu.be/QXqfqeoKWjw'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -333,6 +338,13 @@ sections:
   -
     id: lh6eos9s
     bard:
+      -
+        type: set
+        attrs:
+          id: lh7u5vgk
+          values:
+            type: video
+            video: 'https://youtu.be/QXqfqeoKWjw'
       -
         type: paragraph
         attrs:
@@ -1461,6 +1473,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683126524
+updated_at: 1683126677
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
