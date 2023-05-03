@@ -4,7 +4,7 @@ blueprint: pages
 title: 'COVID-19 FAQs'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683129562
+updated_at: 1683129617
 sections:
   -
     id: x1GdrJts
@@ -68,7 +68,7 @@ sections:
         content:
           -
             type: text
-            text: 'We continue to look to findings and recommendations of the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines for the conference based in science that best protect the most vulnerable in our community. '
+            text: 'We continue to look to findings and recommendations of the National Institutes of Health (NIH) and the Centers for Disease Control (CDC), and will follow guidelines for the conference based in science that help protect our community. '
       -
         type: paragraph
         attrs:
