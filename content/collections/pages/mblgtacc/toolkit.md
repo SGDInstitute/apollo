@@ -473,22 +473,6 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'statamic://entry::77581097-4408-48b2-a124-97fc61e209e3'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'COVID-19 FAQs →'
-              -
-                type: paragraph
-                attrs:
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
                           href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
                           rel: null
                           target: null
@@ -1507,6 +1491,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683127459
+updated_at: 1683131831
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
