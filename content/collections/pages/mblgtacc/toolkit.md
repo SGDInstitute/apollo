@@ -494,6 +494,10 @@ sections:
                           target: null
                           title: null
                     text: 'Glossary of LGBTQIA+ terms →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
             right_content:
               -
                 type: paragraph
@@ -543,6 +547,11 @@ sections:
                           target: _blank
                           title: null
                     text: 'Poster/flyer templates →'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -1498,6 +1507,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683127382
+updated_at: 1683127459
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
