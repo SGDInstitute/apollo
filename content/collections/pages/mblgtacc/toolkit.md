@@ -185,15 +185,20 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Organize your group'
-                  -
-                    type: hardBreak
+                    text: '▢ '
                   -
                     type: text
                     marks:
                       -
-                        type: italic
-                    text: 'Coordinate a group sign-up with students from your school, college, or university'
+                        type: link
+                        attrs:
+                          href: 'https://drive.google.com/drive/folders/1cP1VFFCvUJd_-eU-DhRENy_y_F7KzSB6'
+                          rel: null
+                          target: _blank
+                          title: null
+                      -
+                        type: bold
+                    text: 'Organize your group'
             right_content:
               -
                 type: paragraph
@@ -1478,6 +1483,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683126819
+updated_at: 1683127020
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
