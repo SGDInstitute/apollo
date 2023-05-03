@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683132356
+updated_at: 1683132797
 sections:
   -
     id: o8rIUpZR
@@ -337,6 +337,22 @@ sections:
                           target: null
                           title: null
                     text: 'Policies →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.centralbankcenter.com/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Venue (external) →'
       -
         type: paragraph
         attrs:
