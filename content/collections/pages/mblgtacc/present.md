@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683124350
+updated_at: 1683124808
 sections:
   -
     id: zR1BNzlK
@@ -366,7 +366,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop tracks, a series of sessions around a particular topic or experience, will continue this year after being reintroduced robustly for the '
+            text: 'Many MBLGTACC workshops will organized into '
           -
             type: text
             marks:
@@ -377,36 +377,10 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: '30th annual conference'
+            text: 'workshop tracks'
           -
             type: text
-            text: ". When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks. "
-      -
-        type: set
-        attrs:
-          id: 0726apwO
-          values:
-            type: buttons
-            buttons:
-              -
-                id: yN9HRrpC
-                link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                text: 'Workshop tracks'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-              -
-                id: ngQEanep
-                text: 'Submit workshop proposal'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2023-workshop-proposal'
-            contain: true
+            text: ", curated series' of workshops centered around a common theme, topic, or experience. Tracks create opportunities for deeper engagement and help attendees align their schedules and interests. When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks, but alignment with a track isn't required."
     type: content
     enabled: true
   -
