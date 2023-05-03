@@ -66,6 +66,7 @@ sections:
         type: set
         attrs:
           id: YriGMD0z
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -305,6 +306,15 @@ sections:
                 id: lh6g7ppv
                 link: 'entry::eb2322c8-5741-4ce6-a2d1-04b735c6620e'
                 text: 'Get the guide'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                id: lh7u7t1l
+                link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
+                text: 'How to register'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -1468,6 +1478,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683126708
+updated_at: 1683126819
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
