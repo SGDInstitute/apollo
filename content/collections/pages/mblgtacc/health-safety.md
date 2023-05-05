@@ -1,14 +1,14 @@
 ---
 id: 77581097-4408-48b2-a124-97fc61e209e3
 blueprint: pages
-title: 'Health and safety'
+title: 'Health & Safety'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683304161
+updated_at: 1683304202
 sections:
   -
     id: x1GdrJts
-    title: 'Health and safety'
+    title: 'Health and Safety'
     type: header_small
     enabled: true
   -
