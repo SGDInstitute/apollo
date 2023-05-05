@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Health & Safety'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683304202
+updated_at: 1683313239
 sections:
   -
     id: x1GdrJts
@@ -248,21 +248,7 @@ sections:
         content:
           -
             type: text
-            text: 'For the safety of all attendees, students, and staff, please do not come to MBLGTACC if you have received a positive COVID-19 test result or have potential COVID-19 symptoms. If you have paid for your registration and are no longer able to attend due to COVID-19, please reach out to us at '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:support@mblgtacc.org'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: support@mblgtacc.org
-          -
-            type: text
-            text: '. '
+            text: 'For the safety of all attendees, students, and staff, please do not come to MBLGTACC if you have received a positive COVID-19 test result or have potential COVID-19 symptoms. If you have paid for your registration and are no longer able to attend due to COVID-19, please reach out to us.'
       -
         type: heading
         attrs:
@@ -273,14 +259,27 @@ sections:
             type: text
             text: 'Have other questions?'
       -
+        type: set
+        attrs:
+          id: lhax7z74
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lhax7zuj
+                link: 'entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: 'Email us at hello@sgdinstitute.org.'
     type: content
     enabled: true
   -
