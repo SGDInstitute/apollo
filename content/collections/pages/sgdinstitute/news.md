@@ -33,9 +33,9 @@ sections:
     articles:
       - f43fce2c-8284-466f-9412-ccc2d6db9947
       - 65810f81-5325-4b0f-8bdd-51d5eb7e9095
-      - afcfd563-338b-4920-9212-076e05477796
       - 3bbd409c-cdfd-4e0d-8909-b4a7216eccc6
       - 481cc737-dc5d-4b89-b65f-6d85b302eb8a
+      - 9d38d6fd-4f0c-4e3b-857d-48ac36e9cec2
     bg_type: color
     bg_color: bg-white
     type: news_feature
@@ -148,7 +148,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683066097
+updated_at: 1683322383
 image:
   - headers/homepage-hero1.jpg
 description: 'Find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
