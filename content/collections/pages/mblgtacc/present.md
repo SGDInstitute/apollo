@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683137381
+updated_at: 1683300624
 sections:
   -
     id: zR1BNzlK
@@ -38,16 +38,7 @@ sections:
             text: MBLGTACC
           -
             type: text
-            text: ' can be an enjoyable, exciting, and rewarding experience—and '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'those leading workshops will receive free general admission'
-          -
-            type: text
-            text: ' to the entire weekend. Workshop sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+            text: ' can be an enjoyable, exciting, and rewarding experience. Workshop sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
       -
         type: paragraph
         attrs:
@@ -350,10 +341,24 @@ sections:
                 type: italic
             text: ' to add these dates to your calendar.'
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
+  -
+    id: workshop-tracks
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
         type: heading
         attrs:
           textAlign: left
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -362,26 +367,43 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: null
+          class: lead
         content:
           -
             type: text
-            text: 'Many MBLGTACC workshops will be organized into '
+            text: "Many MBLGTACC workshops will be organized into workshop tracks, curated series' of workshops centered around a common theme, topic, or experience. Tracks create opportunities for deeper engagement and help attendees align their schedules and interests. "
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'workshop tracks'
-          -
-            type: text
-            text: ", curated series' of workshops centered around a common theme, topic, or experience. Tracks create opportunities for deeper engagement and help attendees align their schedules and interests. When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks, but alignment with a track isn't required."
-    type: content
+                type: bold
+            text: "When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks, but alignment with a track isn't required."
+      -
+        type: set
+        attrs:
+          id: lhapnnpg
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lhapnpfb
+                link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
+                text: 'Learn more'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: news/mblgtacc2022-workshops-1-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     id: venue
@@ -422,7 +444,7 @@ sections:
             text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
     image: central-bank-center-lexington-1099x681.jpg
     bg_type: color
-    bg_color: bg-green-600
+    bg_color: bg-green-700
     type: two_column
     enabled: true
   -
