@@ -14,19 +14,26 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Greetings from the 90s...'
+            text: 'Greetings from the 90s: Our origins'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'Planned and organized entirely by students—a tradition that proudly continues today—what would later become the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference emerged in the early 1990s as an answer to the question of how to connect, educate, and empower queer students throughout the region. This came at a time when the continued growth of the mainstream lesbian, gay, and bisexual rights movement—largely underrepresenting transgender and gender non-conforming folx—was most present and powerful on the east and west coasts, isolating students in the Midwest from national LGBT work by geography, political realities, and access to resources.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -42,6 +49,9 @@ sections:
             text: )
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -1547,5 +1557,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683493835
+updated_at: 1683494026
 ---
