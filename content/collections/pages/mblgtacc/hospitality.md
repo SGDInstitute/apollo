@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: "We're committed to the attendee experience. Learn more below, and visit us at the information desk"
+            text: "We're committed to the attendee experience. Learn more below, and visit us at the information desk."
       -
         type: heading
         attrs:
@@ -195,6 +195,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683491958
+updated_at: 1683492007
 template: default
+description: 'Advisor social, counseling, food and meals, info desk, HIV / STI testing, quiet space, restrooms, wifi, and more.'
 ---
