@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683492262
+updated_at: 1683492408
 sections:
   -
     id: zR1BNzlK
@@ -441,7 +441,29 @@ sections:
             text: 'Central Bank Center'
           -
             type: text
-            text: ' stands ready to meet the demands of attendees, organizers, and partners. Its location at the intersection of Interstates 64 and 75—sited within a day’s drive of 75% of the US population—puts the Central Bank Center at the heart of one of America’s most traveled crossroads. And one that affords attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
+            text: ' stands ready to meet the demands of attendees, organizers, and partners, affording attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
+      -
+        type: set
+        attrs:
+          id: lhdvuxp5
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lhdvv22y
+                link: 'https://www.centralbankcenter.com/'
+                text: 'Central Bank Center website'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
     image: central-bank-center-lexington-1099x681.jpg
     bg_type: color
     bg_color: bg-green-700
@@ -477,22 +499,6 @@ sections:
             left_column: content
             right_column: content
             left_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Schedule →'
               -
                 type: heading
                 attrs:
@@ -601,11 +607,11 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://www.centralbankcenter.com/'
+                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                           rel: null
-                          target: _blank
+                          target: null
                           title: null
-                    text: 'Venue (external) →'
+                    text: 'Schedule →'
               -
                 type: heading
                 attrs:
