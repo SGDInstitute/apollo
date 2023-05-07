@@ -252,6 +252,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -259,16 +260,13 @@ sections:
             text: 'Apply to table at the Maker Market'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
         content:
           -
             type: text
             text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft, or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Think you might have something to bring into the Maker Market? Have questions?'
       -
         type: set
         attrs:
@@ -288,6 +286,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     image: news/mblgtacc2022-vendor-fair-flags-patches-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
@@ -295,7 +296,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683490097
+updated_at: 1683491660
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
