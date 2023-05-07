@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683300872
+updated_at: 1683492262
 sections:
   -
     id: zR1BNzlK
@@ -525,6 +525,22 @@ sections:
                           target: null
                           title: null
                     text: 'Glossary of LGBTQIA+ terms →'
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'statamic://entry::b51294a7-f6ab-48f6-a5e3-4c60e942b85c'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Hospitality →'
               -
                 type: heading
                 attrs:
