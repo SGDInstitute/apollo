@@ -54,6 +54,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -61,12 +62,18 @@ sections:
             text: 'The nation’s largest and oldest-continuously running conference for queer and trans+ college students'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: 'For 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -345,6 +352,21 @@ sections:
           -
             type: text
             text: ' The 30th annual conference was held in Columbus, Ohio.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2023:'
+          -
+            type: text
+            text: ' The conference will be hosted in Kentucky for the first time.'
     type: content
     enabled: true
   -
@@ -1525,5 +1547,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683493731
+updated_at: 1683493835
 ---
