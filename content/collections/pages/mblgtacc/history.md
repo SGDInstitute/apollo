@@ -358,7 +358,7 @@ sections:
         content:
           -
             type: text
-            text: 'Past hosts and themes'
+            text: 'Hosts and themes, by year'
       -
         type: heading
         attrs:
@@ -1415,7 +1415,7 @@ sections:
         content:
           -
             type: text
-            text: '2023 - 31st annual MBLGTACC'
+            text: '2023 - Queer Joy as Our Lasting Legacy'
       -
         type: paragraph
         attrs:
@@ -1431,6 +1431,27 @@ sections:
               -
                 type: italic
             text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the University of Kentucky and Visit Lexington.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: '2024 - 32nd annual MBLGTACC'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Host to be announced November 2023.'
     type: content
     enabled: true
   -
@@ -1503,6 +1524,6 @@ sections:
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1682090981
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1683493731
 ---
