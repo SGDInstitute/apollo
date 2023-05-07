@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683492408
+updated_at: 1683492476
 sections:
   -
     id: zR1BNzlK
@@ -612,22 +612,6 @@ sections:
                           target: null
                           title: null
                     text: 'Schedule →'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Workshop tracks →'
       -
         type: paragraph
         attrs:
