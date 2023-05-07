@@ -6,7 +6,7 @@ sections:
   -
     id: CCHbqsLY
     bg_type: image
-    bg_image: headers/vendor-fair-hero1-1250x400.jpg
+    bg_image: headers/mblgtacc2022-vendor-fair-queer-comics-peddler-hero-1250x400.jpg
     title: 'Exhibiting at the Vendor Fair and Maker Market'
     type: header
     enabled: true
@@ -713,7 +713,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683133043
+updated_at: 1683491420
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
