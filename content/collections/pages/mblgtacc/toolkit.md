@@ -327,7 +327,7 @@ sections:
               -
                 id: lh7u7t1l
                 link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
-                text: Register
+                text: 'How to register'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -1516,6 +1516,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683493019
+updated_at: 1683493048
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
