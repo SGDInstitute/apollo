@@ -71,6 +71,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -118,17 +119,20 @@ sections:
                 size: btn-lg
                 block: false
                 outline: true
-                target_blank: true
+                target_blank: false
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     image: news/mblgtacc2022-workshops-1-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683033835
+updated_at: 1683581955
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
