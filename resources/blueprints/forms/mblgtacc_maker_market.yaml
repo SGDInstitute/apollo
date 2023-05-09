@@ -81,10 +81,11 @@ sections:
           options:
             Friday: 'Friday (Makers Only)'
             Saturday: Saturday
+            '2-Day Pass': 'Participate on both Friday and Saturday (Makers Only)'
           display: 'Which days do you want to participate?'
           type: checkboxes
           icon: checkboxes
-          instructions: 'If you are interested in a 2-day pass, please select both days below. Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
+          instructions: "Please indicate which day(s) you'd like to participate. Only those who qualify to participate the Maker Market will be considered for the 2-Day pass."
           localizable: false
           listable: hidden
           instructions_position: above
