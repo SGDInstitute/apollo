@@ -81,7 +81,7 @@ sections:
           options:
             Friday: 'Friday (Makers Only)'
             Saturday: Saturday
-            '2-Day Pass': 'Participate on both Friday and Saturday (Makers Only)'
+            '2-Day Pass': '2-Day Pass (Makers Only)'
           display: 'Which days do you want to participate?'
           type: checkboxes
           icon: checkboxes
