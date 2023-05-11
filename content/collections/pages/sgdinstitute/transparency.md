@@ -373,6 +373,26 @@ sections:
                           target: _blank
                           title: null
                     text: '2020 audit report'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://sgdinstitute.org/assets/transparency/audit/fy2020b-2022-audit-report-2023-05-10.pdf'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: '2020b-2022 audit report'
       -
         type: paragraph
         attrs:
@@ -487,7 +507,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1683064934
+updated_at: 1683767311
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
