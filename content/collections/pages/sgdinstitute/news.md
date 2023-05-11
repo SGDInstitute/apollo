@@ -21,6 +21,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: center
           level: 2
         content:
           -
@@ -148,7 +149,7 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683322383
+updated_at: 1683768970
 image:
   - headers/homepage-hero1.jpg
 description: 'Find all news, announcements and updates, podcast episodes, media mentions, and other written updates from the Midwest Institute for Sexuality and Gender Diversity.'
