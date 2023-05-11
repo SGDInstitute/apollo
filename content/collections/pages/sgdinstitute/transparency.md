@@ -28,7 +28,7 @@ sections:
         content:
           -
             type: text
-            text: Impact
+            text: 'Annual reports'
       -
         type: paragraph
         attrs:
@@ -37,7 +37,16 @@ sections:
         content:
           -
             type: text
-            text: "Our annual report, Impact, highlights the Institute's financial position, programming, challenges, and future."
+            text: 'Our annual report, '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: Impact
+          -
+            type: text
+            text: ", highlights the Institute's financial position, programming, challenges, and future."
       -
         type: set
         attrs:
@@ -341,6 +350,11 @@ sections:
         attrs:
           textAlign: left
           class: null
+    type: content
+    enabled: true
+  -
+    id: lhigbk2o
+    bard:
       -
         type: heading
         attrs:
@@ -393,11 +407,11 @@ sections:
                           target: _blank
                           title: null
                     text: '2020b-2022 audit report'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+    type: content
+    enabled: true
+  -
+    id: lhigbgkt
+    bard:
       -
         type: heading
         attrs:
@@ -427,7 +441,7 @@ sections:
                         attrs:
                           href: 'https://sgdinstitute.org/assets/documents/SGD_Institute-Charitable_Solicitation_Registration-58908.pdf'
                           rel: null
-                          target: null
+                          target: _blank
                           title: null
                     text: '2022-23 certificate of registration'
     type: content
@@ -506,8 +520,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1683767311
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1683768634
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Institute is a 501(c)(3) nonprofit organization, incorporated in the state of Michigan. Here, we share our annual reports and provide financial transparency.'
