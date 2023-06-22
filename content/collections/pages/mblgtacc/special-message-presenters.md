@@ -1,7 +1,7 @@
 ---
 id: 8ec47770-47e6-48ed-8b5a-a113fac5ba5c
 blueprint: pages
-title: 'Special message to selected MBLGTACC presenters'
+title: 'Special message'
 sections:
   -
     id: lj7p3nrj
@@ -100,5 +100,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687473358
+updated_at: 1687473426
 ---
