@@ -42,7 +42,7 @@ sections:
         content:
           -
             type: text
-            text: '[briefly describe or bullet next steps]'
+            text: "Now that you're accepted, we need you to confirm that you're planning to join us at the conference this November. To lock in your session, confirm your workshop by July 21st."
       -
         type: set
         attrs:
@@ -76,5 +76,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687472174
+updated_at: 1687473203
 ---
