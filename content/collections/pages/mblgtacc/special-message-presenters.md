@@ -42,7 +42,22 @@ sections:
         content:
           -
             type: text
-            text: "Now that you're accepted, we need you to confirm that you're planning to join us at the conference this November. To lock in your session, confirm your workshop by July 21st."
+            text: "Now that you're accepted, we need you to confirm that you're planning to join us at the conference this November. "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'To lock in your session, confirm your workshop by July 21st. '
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Workshops that are not confirmed by that date will not be allocated space or included in the conference program.'
       -
         type: set
         attrs:
@@ -76,5 +91,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687473203
+updated_at: 1687473289
 ---
