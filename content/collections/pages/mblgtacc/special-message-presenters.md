@@ -27,11 +27,6 @@ sections:
           values:
             type: video
             video: 'https://youtu.be/PTn2RwPpIAs'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
   -
@@ -103,5 +98,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687621367
+updated_at: 1687621385
 ---
