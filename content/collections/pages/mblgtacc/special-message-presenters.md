@@ -21,14 +21,17 @@ sections:
             type: text
             text: 'Congratulations, MBLGTACC presenters!'
       -
+        type: set
+        attrs:
+          id: lja65ugd
+          values:
+            type: iframe
+            html: '<iframe width="560" height="315" src="https://www.youtube.com/embed/PTn2RwPpIAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+      -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: '[embed video]'
     type: content
     enabled: true
   -
@@ -100,5 +103,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687473426
+updated_at: 1687621327
 ---
