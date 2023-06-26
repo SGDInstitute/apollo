@@ -44,7 +44,7 @@ sections:
         content:
           -
             type: text
-            text: "Now that you're accepted, we need you to confirm that you're planning to join us at the conference this November. "
+            text: "Now that your workshop has been accepted, we need you to confirm that you're planning to join us at the conference this November. "
           -
             type: text
             marks:
@@ -94,5 +94,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687817076
+updated_at: 1687817104
 ---
