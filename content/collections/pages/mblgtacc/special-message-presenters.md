@@ -9,7 +9,7 @@ sections:
     type: header_small
     enabled: true
   -
-    id: lj7p4is4
+    id: lj7p5557
     bard:
       -
         type: heading
@@ -23,15 +23,10 @@ sections:
       -
         type: set
         attrs:
-          id: lja66dxa
+          id: ljdep7uk
           values:
             type: video
             video: 'https://youtu.be/PTn2RwPpIAs'
-    type: content
-    enabled: true
-  -
-    id: lj7p5557
-    bard:
       -
         type: heading
         attrs:
@@ -99,5 +94,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687816556
+updated_at: 1687817076
 ---
