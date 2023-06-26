@@ -270,11 +270,11 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://mblgtacc.org/covid-19'
+                          href: 'statamic://entry::77581097-4408-48b2-a124-97fc61e209e3'
                           rel: null
-                          target: _blank
+                          target: null
                           title: null
-                    text: 'COVID-19 FAQs'
+                    text: 'health and safety'
                   -
                     type: text
                     text: ' page for details.'
@@ -327,7 +327,10 @@ sections:
                           rel: null
                           target: null
                           title: null
-                    text: 'Lodging and Accommodations page.'
+                    text: 'hotels and parking'
+                  -
+                    type: text
+                    text: ' page.'
           -
             type: listItem
             content:
@@ -372,5 +375,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1676740209
+updated_at: 1687818321
 ---
