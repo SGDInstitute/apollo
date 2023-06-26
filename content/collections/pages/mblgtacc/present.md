@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687817856
+updated_at: 1687817938
 sections:
   -
     id: zR1BNzlK
@@ -332,7 +332,25 @@ sections:
             text: 'MBLGTACC key dates Google Calendar'
           -
             type: text
-            text: ' to add these dates to your calendar. All official communications will be sent via email. Please be sure to add '
+            text: ' to add these dates to your calendar. '
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: Communications
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'All official communications will be sent via email to the address you provided at the time of submission. Please be sure to add '
           -
             type: text
             marks:
@@ -364,7 +382,7 @@ sections:
             text: hello@sgdinstitute.org
           -
             type: text
-            text: ' to your email client’s contact or safe contacts list. '
+            text: ' to your email client’s contact or safe contacts list. Please also be attentive to your email and be mindful of any communicated due dates.'
       -
         type: paragraph
         attrs:
