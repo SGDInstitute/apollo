@@ -73,14 +73,6 @@ sections:
             type: buttons
             buttons:
               -
-                id: lj7p9pkd
-                text: 'Confirm and lock in your workshop'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
                 id: lj7pbm0z
                 link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
                 text: 'Presenter hub'
@@ -98,5 +90,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687621385
+updated_at: 1687816343
 ---
