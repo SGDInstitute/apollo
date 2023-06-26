@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687816212
+updated_at: 1687817856
 sections:
   -
     id: zR1BNzlK
@@ -396,7 +396,7 @@ sections:
         content:
           -
             type: text
-            text: "Many MBLGTACC workshops will be organized into workshop tracks, curated series' of workshops centered around a common theme, topic, or experience. Tracks create opportunities for deeper engagement and help attendees align their schedules and interests. "
+            text: "Many MBLGTACC workshops will be organized into workshop tracks, curated series' of workshops centered around a common theme, topic, or experience. "
           -
             type: text
             marks:
