@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1686412443
+updated_at: 1687816063
 sections:
   -
     id: zR1BNzlK
@@ -50,7 +50,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The workshop submission period has closed. Aspiring presenters will be notified of a decision on their proposal(s) in late June. See below for more.'
+            text: 'The workshop submission period has closed, and decisions were sent to aspiring presenters on June 26. '
       -
         type: set
         attrs:
@@ -261,7 +261,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'June 23: Notice to presenter of decision'
+                    text: 'June 26: Notice to presenter of decision'
       -
         type: paragraph
         attrs:
@@ -285,7 +285,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'July 21: Presenter confirmation deadline'
+                    text: 'July 24: Presenter confirmation deadline'
           -
             type: listItem
             content:
