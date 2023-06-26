@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687816063
+updated_at: 1687816212
 sections:
   -
     id: zR1BNzlK
@@ -50,7 +50,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The workshop submission period has closed, and decisions were sent to aspiring presenters on June 26. '
+            text: 'The workshop submission period has closed, and decisions notifications with next steps were sent to aspiring presenters on June 26. '
       -
         type: set
         attrs:
@@ -318,9 +318,6 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
             text: 'Subscribe to the '
           -
             type: text
@@ -332,15 +329,42 @@ sections:
                   rel: null
                   target: _blank
                   title: null
-              -
-                type: italic
             text: 'MBLGTACC key dates Google Calendar'
+          -
+            type: text
+            text: ' to add these dates to your calendar. All official communications will be sent via email. Please be sure to add '
           -
             type: text
             marks:
               -
-                type: italic
-            text: ' to add these dates to your calendar.'
+                type: link
+                attrs:
+                  href: null
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: hello@mblgtacc.org
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: null
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: underline
+            text: hello@sgdinstitute.org
+          -
+            type: text
+            text: ' to your email client’s contact or safe contacts list. '
       -
         type: paragraph
         attrs:
