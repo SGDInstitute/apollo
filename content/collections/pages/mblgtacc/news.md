@@ -193,5 +193,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1688494632
+updated_at: 1688494670
+description: "The latest news about America's largest and oldest conference for LGBTQIA2S+ college students and young adults."
 ---
