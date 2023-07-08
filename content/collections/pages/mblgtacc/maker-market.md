@@ -165,7 +165,7 @@ sections:
         content:
           -
             type: text
-            text: "The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Makers for 2023 will be announced later this fall. Here's who we welcomed in 2022:"
+            text: "The Maker Market will be a temporary home for a growing number of queer and trans makers during conference weekend. Makers will continue to come on board through the fall—here's who is joining us so far:"
       -
         type: bulletList
         content:
@@ -180,7 +180,19 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Equitas Health'
+                    text: 'Deviant Kreations'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Hot Girl Farmer'
           -
             type: listItem
             content:
@@ -205,30 +217,6 @@ sections:
                   -
                     type: text
                     text: 'Music City Creative'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Nifty Giftys Shop'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: "Stewie's Got Pride"
           -
             type: listItem
             content:
@@ -296,7 +284,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683491703
+updated_at: 1688841239
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
