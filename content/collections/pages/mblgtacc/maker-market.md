@@ -180,6 +180,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://deviantkreations.com/pages/about'
+                          rel: null
+                          target: _blank
+                          title: null
                     text: 'Deviant Kreations'
           -
             type: listItem
@@ -204,6 +212,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://janateecraftily.com/'
+                          rel: null
+                          target: _blank
+                          title: null
                     text: 'Janatee Craftily'
           -
             type: listItem
@@ -216,6 +232,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://musiccitycreative.co/'
+                          rel: null
+                          target: _blank
+                          title: null
                     text: 'Music City Creative'
           -
             type: listItem
@@ -228,6 +252,14 @@ sections:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.queercomicspeddler.com/'
+                          rel: null
+                          target: _blank
+                          title: null
                     text: 'Queer Comics Peddler'
     type: content
     enabled: true
@@ -284,7 +316,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1688841239
+updated_at: 1688841403
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
