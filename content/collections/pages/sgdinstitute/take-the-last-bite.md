@@ -119,9 +119,29 @@ sections:
               -
                 type: link
                 attrs:
+                  href: 'statamic://entry::4e67e0f7-5d0a-4872-8222-728f1c08f8e7'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 7: The Anatomy of a Liberatory Think Tank'
+          -
+            type: text
+            text: ' →'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
                   href: 'statamic://entry::e2c0be61-e2bc-4413-b0b9-850a7f1e8265'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
             text: 'Ep. 6: Trans Fat: Lessons from Large Trans & Nonbinary Folks [redux]'
           -
@@ -1152,7 +1172,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687904050
+updated_at: 1689118752
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
