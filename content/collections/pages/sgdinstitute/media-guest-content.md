@@ -74,7 +74,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Professional & web writing '
+                    text: 'Professional and web writing '
           -
             type: listItem
             content:
@@ -86,7 +86,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Press Releases '
+                    text: 'Press releases '
           -
             type: listItem
             content:
@@ -110,7 +110,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Voter Guides '
+                    text: 'Voter guides '
       -
         type: paragraph
         attrs:
@@ -133,7 +133,7 @@ sections:
             text: 'News & Blog'
           -
             type: text
-            text: ' page'
+            text: ' page.'
       -
         type: heading
         attrs:
@@ -286,5 +286,5 @@ sections:
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689708548
+updated_at: 1689708668
 ---
