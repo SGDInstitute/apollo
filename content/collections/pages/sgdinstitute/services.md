@@ -4,7 +4,7 @@ blueprint: pages
 title: Services
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689704502
+updated_at: 1689704539
 sections:
   -
     id: yABbm9p0
@@ -39,6 +39,14 @@ sections:
                 block: true
                 outline: true
                 target_blank: false
+            contain: true
+      -
+        type: set
+        attrs:
+          id: lk8mfu2u
+          values:
+            type: buttons
+            buttons:
               -
                 id: lk8mdy2a
                 link: 'entry::abb4cb6b-d96f-4580-bf83-af417b03c430'
@@ -48,6 +56,14 @@ sections:
                 block: true
                 outline: true
                 target_blank: false
+            contain: true
+      -
+        type: set
+        attrs:
+          id: lk8mfsut
+          values:
+            type: buttons
+            buttons:
               -
                 id: lk8meecx
                 link: 'entry::3589441f-7ce4-41d2-94d9-526e44ff3c6f'
