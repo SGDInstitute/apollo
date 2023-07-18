@@ -38,7 +38,7 @@ sections:
         content:
           -
             type: text
-            text: 'Invite us to be Guest Contributors'
+            text: 'Invite us to be guest contributors'
       -
         type: paragraph
         attrs:
@@ -145,7 +145,7 @@ sections:
             marks:
               -
                 type: bold
-            text: "Podcast Appearances\_"
+            text: "Podcast appearances\_"
       -
         type: paragraph
         attrs:
@@ -285,6 +285,6 @@ sections:
     type: content
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689704292
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1689708548
 ---
