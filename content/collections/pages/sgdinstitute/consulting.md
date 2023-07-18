@@ -2,7 +2,7 @@
 id: abb4cb6b-d96f-4580-bf83-af417b03c430
 published: false
 blueprint: pages
-title: 'Roadmapping & Consulting'
+title: Consulting
 sections:
   -
     id: lk8lu0kc
@@ -144,7 +144,7 @@ sections:
         content:
           -
             type: text
-            text: 'Roadmapping means we guide your group through thinking about key questions, stakeholders and other essential considerations for your project or program. From there, your group moves forward in actualizing your project or program and can connect with us for feedback or suggestions. '
+            text: 'Roadmapping means we guide your group through thinking about key questions, stakeholders, and other essential considerations for your project or program. From there, your group moves forward in actualizing your project or program and can connect with us for feedback or suggestions. '
       -
         type: paragraph
         attrs:
@@ -180,7 +180,7 @@ sections:
         content:
           -
             type: text
-            text: 'We work with your group to think about key questions, stakeholders and other essential considerations for your project or program. Then, we help you determine how to implement your plan. Through consulting, we connect with you/your group over the course of a project or program timeline to support you in executing your vision and meeting your unique needs. '
+            text: 'We work with your group to think about key questions, stakeholders and other essential considerations for your project or program. Then, we help you determine how to implement your plan. Through consulting, we connect with you and/or your group over the course of a project or program timeline to support you in executing your vision and meeting your unique needs. '
       -
         type: paragraph
         attrs:
@@ -198,7 +198,7 @@ sections:
         content:
           -
             type: text
-            text: 'Let’s Work Together! '
+            text: 'Let’s work together! '
       -
         type: paragraph
         attrs:
@@ -225,6 +225,6 @@ sections:
 template: default
 parent: 7c7b3ab8-409d-44c4-a26e-56c014b10d83
 description: 'The Midwest Institute for Sexuality and Gender Diversity is eager to provide support to organizations, higher education practitioners, conference planners, and other interested groups in actualizing a variety of tools, initiatives, and media content.'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689703724
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1689706754
 ---
