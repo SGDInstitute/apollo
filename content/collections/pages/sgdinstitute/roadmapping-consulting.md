@@ -122,7 +122,7 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -194,7 +194,7 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -226,5 +226,5 @@ template: default
 parent: 7c7b3ab8-409d-44c4-a26e-56c014b10d83
 description: 'The Midwest Institute for Sexuality and Gender Diversity is eager to provide support to organizations, higher education practitioners, conference planners, and other interested groups in actualizing a variety of tools, initiatives, and media content.'
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689703648
+updated_at: 1689703724
 ---
