@@ -286,5 +286,5 @@ sections:
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689704244
+updated_at: 1689704292
 ---
