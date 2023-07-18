@@ -4,7 +4,7 @@ blueprint: pages
 title: Services
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689704539
+updated_at: 1689704573
 sections:
   -
     id: yABbm9p0
@@ -50,7 +50,7 @@ sections:
               -
                 id: lk8mdy2a
                 link: 'entry::abb4cb6b-d96f-4580-bf83-af417b03c430'
-                text: 'Learn more about Consulting and Roadmapping services'
+                text: 'Learn more about Consulting & Roadmapping services'
                 color: btn-green
                 size: btn-lg
                 block: true
@@ -61,6 +61,7 @@ sections:
         type: set
         attrs:
           id: lk8mfsut
+          enabled: false
           values:
             type: buttons
             buttons:
