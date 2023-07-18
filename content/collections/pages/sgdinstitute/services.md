@@ -4,7 +4,7 @@ blueprint: pages
 title: Services
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689704480
+updated_at: 1689704502
 sections:
   -
     id: yABbm9p0
@@ -36,7 +36,7 @@ sections:
                 text: 'Learn more about Technical Assistance'
                 color: btn-green
                 size: btn-lg
-                block: false
+                block: true
                 outline: true
                 target_blank: false
               -
@@ -45,7 +45,7 @@ sections:
                 text: 'Learn more about Consulting and Roadmapping services'
                 color: btn-green
                 size: btn-lg
-                block: false
+                block: true
                 outline: true
                 target_blank: false
               -
@@ -54,7 +54,7 @@ sections:
                 text: 'Learn more about Media & Guest Content services'
                 color: btn-green
                 size: btn-lg
-                block: false
+                block: true
                 outline: true
                 target_blank: false
             contain: true
