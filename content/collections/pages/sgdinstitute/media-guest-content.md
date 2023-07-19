@@ -255,7 +255,7 @@ sections:
         content:
           -
             type: text
-            text: 'Use the form below to contact us about guest content and media creation opportunities. For press inquiries, please contact '
+            text: 'Use the form below to contact us about guest content and media creation opportunities. For media inquiries about programs or current events, please contact '
           -
             type: text
             marks:
@@ -285,6 +285,6 @@ sections:
     type: content
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689708668
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1689777079
 ---
