@@ -12,6 +12,19 @@ sections:
     id: lk8ltpq9
     bard:
       -
+        type: set
+        attrs:
+          id: lkcye3pi
+          values:
+            type: image
+            image: team/justin-mblgtacc-2018-board-room-teaser-1090x681.jpg
+            inline: false
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+      -
         type: paragraph
         attrs:
           textAlign: left
@@ -288,5 +301,5 @@ template: default
 parent: 7c7b3ab8-409d-44c4-a26e-56c014b10d83
 description: 'The Midwest Institute for Sexuality and Gender Diversity is eager to provide support to organizations, higher education practitioners, conference planners, and other interested groups in actualizing a variety of tools, initiatives, and media content.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689965107
+updated_at: 1689966465
 ---
