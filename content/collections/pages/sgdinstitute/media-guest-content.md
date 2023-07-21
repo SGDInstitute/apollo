@@ -266,18 +266,32 @@ sections:
     type: content
     enabled: true
   -
+    id: lkcyfscd
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: center
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Examples of our work'
+    type: content
+    enabled: true
+  -
     id: lkcxpfjp
     articles:
       - a32b7b3f-fd1a-493b-bbea-e29549881d4b
       - d75a5301-1218-4c81-9d9d-e5f14b016e44
       - db23fd82-17a3-4e7f-8bdc-8af8e191f10d
-      - 935e3ff5-7404-4a8f-b3c2-3453edd0d348
       - 7b1ded88-27c6-471a-82f6-2497f6832bb8
+      - 935e3ff5-7404-4a8f-b3c2-3453edd0d348
     bg_type: color
     bg_color: bg-transparent
     type: news_feature
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689965648
+updated_at: 1689966555
 ---
