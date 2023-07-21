@@ -1,12 +1,11 @@
 ---
 id: abb4cb6b-d96f-4580-bf83-af417b03c430
-published: false
 blueprint: pages
 title: Consulting
 sections:
   -
     id: lk8lu0kc
-    title: 'Roadmapping & Consulting Services'
+    title: Consulting
     type: header_small
     enabled: true
   -
@@ -20,7 +19,39 @@ sections:
         content:
           -
             type: text
-            text: "The Midwest Institute for Sexuality and Gender Diversity is eager to provide support to organizations, higher education practitioners, conference planners, and other interested groups in actualizing a variety of tools, initiatives, and media content.\_"
+            text: 'The Midwest Institute for Sexuality and Gender Diversity is eager to provide support—to organizations, higher education practitioners, conference planners, and other interested groups—moving from idea to action across a variety of tools, initiatives, and media content. We offer two primary consulting services: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: roadmapping
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'guided implementation'
+          -
+            type: text
+            text: .
+    type: content
+    enabled: true
+  -
+    id: lkcxgmt0
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Our expertise'
       -
         type: paragraph
         attrs:
@@ -108,21 +139,47 @@ sections:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'statamic://entry::507d15b8-8774-444e-af6f-fa28bc4bd26e'
                   rel: null
                   target: null
                   title: null
-              -
-                type: underline
             text: 'technical assistance'
           -
             type: text
-            text: ' and we are available for media and guest content projects.'
+            text: ' and we are available for '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::3589441f-7ce4-41d2-94d9-526e44ff3c6f'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'media and guest content projects'
+          -
+            type: text
+            text: .
+    type: content
+    enabled: true
+  -
+    id: lkcxf3s1
+    bard:
       -
         type: heading
         attrs:
           textAlign: left
           level: 2
+        content:
+          -
+            type: text
+            text: 'Layers of service'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
         content:
           -
             type: text
@@ -158,11 +215,11 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 2
+          level: 3
         content:
           -
             type: text
-            text: Consulting
+            text: 'Guided implementation'
       -
         type: paragraph
         attrs:
@@ -190,6 +247,11 @@ sections:
           -
             type: text
             text: 'This is a longer term commitment and may require 3+ sessions. '
+    type: content
+    enabled: true
+  -
+    id: lkcxicnl
+    bard:
       -
         type: heading
         attrs:
@@ -211,7 +273,7 @@ sections:
       -
         type: set
         attrs:
-          id: lk8lx012
+          id: lkcxiu4d
           values:
             type: form
             formset: contact
@@ -226,5 +288,5 @@ template: default
 parent: 7c7b3ab8-409d-44c4-a26e-56c014b10d83
 description: 'The Midwest Institute for Sexuality and Gender Diversity is eager to provide support to organizations, higher education practitioners, conference planners, and other interested groups in actualizing a variety of tools, initiatives, and media content.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689706754
+updated_at: 1689965107
 ---
