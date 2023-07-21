@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'We are huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” '
+            text: "We're huge fans of the folks on college campuses who dedicate themselves to supporting queer and trans college students as advisors, student support service staff or by way of “other duties as assigned.” The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. "
       -
         type: paragraph
         attrs:
@@ -28,7 +28,69 @@ sections:
         content:
           -
             type: text
-            text: "The work performed by these individuals is often thankless or beyond their job description but plays a huge part in creating affirming spaces and experiences for queer and trans college students. We want to recognize this work and hold space for these roles who often attend the conference with their student groups.\_\_"
+            text: "We recognize this work and hold space for these roles who often attend the conference with their student groups.\_ Advisor programming at MBLGTACC consists of an "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'evening social'
+          -
+            type: text
+            text: ', dedicated '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'workshop track'
+          -
+            type: text
+            text: ', and special '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: roundtables
+          -
+            type: text
+            text: ".\_ "
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Refer to the full '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://mblgtacc.org/schedule-events'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: italic
+              -
+                type: underline
+            text: 'MBLGTACC conference schedule'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' for all available details about dates/times.'
+          -
+            type: text
+            text: "\_\_"
+    type: content
+    enabled: true
+  -
+    id: lkclp7x7
+    bard:
       -
         type: heading
         attrs:
@@ -37,7 +99,16 @@ sections:
         content:
           -
             type: text
-            text: 'Advisor Track'
+            text: 'Offerings for advisors'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Advisor social'
       -
         type: paragraph
         attrs:
@@ -46,7 +117,43 @@ sections:
         content:
           -
             type: text
-            text: 'Content in the Advisor Track will focus on:'
+            text: "The advisor social is the collective sigh of relief on Friday evening after a long day of travel, and for many, getting their large group of students to the conference location. Advisors are invited to join for a social hour with appetizers and treats and meet other advisor attendees before the day wraps up.\_"
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Advisor roundtables'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Advisor Roundtables are a spin on the identity forums hosted during the conference. Advisors are invited to spend time discussing shared experiences, collective needs, and decide how to make the most of the session together. These will be scheduled at various times during the conference and details about each roundtable will be available in the program guide closer to the conference date. '
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Advisor workshop track'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Content will focus on:'
       -
         type: bulletList
         content:
@@ -61,7 +168,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work\_"
+                    text: 'Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work '
           -
             type: listItem
             content:
@@ -73,7 +180,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions\_"
+                    text: 'Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions '
           -
             type: listItem
             content:
@@ -89,84 +196,246 @@ sections:
     type: content
     enabled: true
   -
-    id: WY18E0UU
+    id: lkclrhfb
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Advisor Social'
-      -
-        type: set
-        attrs:
-          id: cmhWfzKH
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Date & time'
-                  -
-                    type: hardBreak
-                    marks:
-                      -
-                        type: bol
-                  -
-                    type: text
-                    text: 'Friday, October 21'
-                  -
-                    type: hardBreak
-                  -
-                    type: text
-                    text: '8:00 - 10:00 p.m. EDT'
-            right_content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: lead
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: Location
-                  -
-                    type: hardBreak
-                    marks:
-                      -
-                        type: bold
-                  -
-                    type: text
-                    text: 'Hilton Columbus Downtown'
-                  -
-                    type: hardBreak
-                  -
-                    type: text
-                    text: 'Robert King Room'
+            text: 'Eligibility—Who counts as an advisor?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: "The Advisor Social is open to all advisors, higher ed pros, graduate students, and others who work with, in, and on behalf of students and institutions. Drink tickets and hors d'oeuvres will be available."
+            text: 'We use “advisor” loosely and understand that there are many roles that support LGBTQ+ college students and queer and trans communities around college campuses. You might be:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'an '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'LGBTQ+ resource center professional'
+                  -
+                    type: text
+                    text: ','
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'a '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'gender-affirming therapist'
+                  -
+                    type: text
+                    text: ' who works with college-aged clients,'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: faculty
+                  -
+                    type: text
+                    text: ' or an '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: instructor
+                  -
+                    type: text
+                    text: ','
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'that really rad queer '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: librarian
+                  -
+                    type: text
+                    text: ' who keeps dental dams and indie zines on their desk for students to take, or'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'serving in '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'another student support role'
+                  -
+                    type: text
+                    text: '!'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'MBLGTACC is also a lower cost, high value professional development experience for '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'graduate students'
+          -
+            type: text
+            text: .
     type: content
-    enabled: false
+    enabled: true
+  -
+    id: lkcltud6
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Learning outcomes'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "Share these outcomes with your supervisor or professional development coordinator when you request funding. Attendees of the advisor programming at MBLGTACC can look forward to:\_"
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: "Deeply examining policies, practices and trends in the field of LGBTQ+ student support services and related functional areas\_"
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Presentations on promising new practices for supporting LGBTQ+ college students'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: "Connections with other professionals in social, discussion and workshop spaces\_"
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: "Insight into what topics and activities are important to LGBTQ+ college students\_"
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Exposure to keynotes and workshop presenters that could be future considerations for bringing to your respective campus'
+    type: content
+    enabled: true
   -
     id: 8HLSsGdu
     bard:
@@ -220,6 +489,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682877550
+updated_at: 1689945432
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
