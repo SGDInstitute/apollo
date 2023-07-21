@@ -4,7 +4,7 @@ blueprint: pages
 title: Services
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689966231
+updated_at: 1689966314
 sections:
   -
     id: yABbm9p0
@@ -48,16 +48,8 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
-            contain: true
-      -
-        type: set
-        attrs:
-          id: lk8mfu2u
-          values:
-            type: buttons
-            buttons:
               -
-                id: lk8mdy2a
+                id: lkcy9jy3
                 link: 'entry::abb4cb6b-d96f-4580-bf83-af417b03c430'
                 text: Consulting
                 color: btn-green
@@ -65,18 +57,10 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
-            contain: true
-      -
-        type: set
-        attrs:
-          id: lk8mfsut
-          values:
-            type: buttons
-            buttons:
               -
-                id: lk8meecx
+                id: lkcyafhe
                 link: 'entry::3589441f-7ce4-41d2-94d9-526e44ff3c6f'
-                text: 'Media & Guest Content'
+                text: 'Media & guest content'
                 color: btn-green
                 size: btn-lg
                 block: false
