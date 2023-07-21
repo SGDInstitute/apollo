@@ -30,6 +30,11 @@ sections:
           -
             type: text
             text: 'We prioritize compensated projects or projects that mutually benefit all parties involved.'
+    type: content
+    enabled: true
+  -
+    id: lkcxm9i0
+    bard:
       -
         type: heading
         attrs:
@@ -134,6 +139,11 @@ sections:
           -
             type: text
             text: ' page.'
+    type: content
+    enabled: true
+  -
+    id: lkcxm5k4
+    bard:
       -
         type: heading
         attrs:
@@ -218,26 +228,24 @@ sections:
             text: 'Take the Last Bite'
           -
             type: text
-            text: '? Contact our host at '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: lastbite@sgdinstitute.org
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: .
+            text: '? Contact our host at lastbite@sgdinstitute.org.'
+    type: content
+    enabled: true
+  -
+    id: lkcxpfjp
+    articles:
+      - a32b7b3f-fd1a-493b-bbea-e29549881d4b
+      - d75a5301-1218-4c81-9d9d-e5f14b016e44
+      - db23fd82-17a3-4e7f-8bdc-8af8e191f10d
+      - 935e3ff5-7404-4a8f-b3c2-3453edd0d348
+      - 7b1ded88-27c6-471a-82f6-2497f6832bb8
+    bg_type: color
+    bg_color: bg-transparent
+    type: news_feature
+    enabled: true
+  -
+    id: lkcxm3tz
+    bard:
       -
         type: heading
         attrs:
@@ -255,25 +263,11 @@ sections:
         content:
           -
             type: text
-            text: 'Use the form below to contact us about guest content and media creation opportunities. For media inquiries about programs or current events, please contact '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:nick@sgdinstitute.org'
-                  rel: null
-                  target: null
-                  title: null
-            text: nick@sgdinstitute.org
-          -
-            type: text
-            text: .
+            text: 'Use the form below to contact us about guest content and media creation opportunities. For press inquiries about programs or current events, please contact nick@sgdinstitute.org.'
       -
         type: set
         attrs:
-          id: lk8m9wk2
+          id: lkcxmgcw
           values:
             type: form
             formset: contact
@@ -285,6 +279,6 @@ sections:
     type: content
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1689777079
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1689965525
 ---
