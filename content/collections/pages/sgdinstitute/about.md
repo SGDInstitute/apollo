@@ -4,7 +4,7 @@ blueprint: pages
 title: About
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690046887
+updated_at: 1690046906
 sections:
   -
     id: VOvzNpus
@@ -245,10 +245,6 @@ sections:
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: Learn
     type: content
     enabled: true
   -
