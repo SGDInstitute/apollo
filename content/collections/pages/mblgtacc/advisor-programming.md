@@ -7,6 +7,13 @@ sections:
     id: 8whS1yg7
     title: 'Advisor Programming'
     type: header_small
+    enabled: false
+  -
+    id: lke94e7k
+    bg_type: image
+    bg_image: headers/2020-advisor-vignette-2500x800.jpg
+    title: 'Advisor Programming'
+    type: header
     enabled: true
   -
     id: CpVlyS6U
@@ -489,6 +496,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689945432
+updated_at: 1690045106
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
