@@ -466,6 +466,22 @@ sections:
                       -
                         type: link
                         attrs:
+                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
+                          rel: null
+                          target: null
+                          title: null
+                    text: 'Advisors →'
+              -
+                type: paragraph
+                attrs:
+                  class: lead
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
                           href: 'statamic://entry::c56e4efa-635d-4de6-9d43-c2c33a97aa0e'
                           rel: null
                           target: null
@@ -487,6 +503,7 @@ sections:
                           target: null
                           title: null
                     text: 'Hospitality →'
+            right_content:
               -
                 type: paragraph
                 attrs:
@@ -503,7 +520,6 @@ sections:
                           target: null
                           title: null
                     text: 'Hotels and parking →'
-            right_content:
               -
                 type: paragraph
                 attrs:
@@ -1516,6 +1532,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683493048
+updated_at: 1690042068
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
