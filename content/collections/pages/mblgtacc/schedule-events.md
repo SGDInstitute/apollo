@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687818444
+updated_at: 1690042221
 sections:
   -
     id: PZJpiZuz
@@ -105,7 +105,7 @@ sections:
               -
                 cells:
                   - '5:00 -  10:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/maker-market">Maker Market</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/maker-market">Maker Market</a></b></font>'
                   - TBD
               -
                 cells:
@@ -125,7 +125,7 @@ sections:
               -
                 cells:
                   - '8:30 - 10:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/advisor-programming">Advisor Social</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/advisor-programming">Advisor Social</a></b></font>'
                   - TBD
             full_width: true
       -
