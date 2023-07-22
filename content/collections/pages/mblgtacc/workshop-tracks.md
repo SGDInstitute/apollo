@@ -4,14 +4,9 @@ blueprint: pages
 title: 'Workshop Tracks'
 sections:
   -
-    id: AFfFixWB
-    title: 'Workshop Tracks'
-    type: header_small
-    enabled: false
-  -
     id: lke9ko6c
     bg_type: image
-    bg_image: headers/2022-presenter-hayden-2500x800.jpg
+    bg_image: headers/2022-workshop-participant1-2500x800.jpg
     title: 'Workshop Tracks'
     type: header
     enabled: true
@@ -837,7 +832,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690045718
+updated_at: 1690045977
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
