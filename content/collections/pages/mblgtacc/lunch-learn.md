@@ -4,9 +4,11 @@ blueprint: pages
 title: 'Lunch and Learn'
 sections:
   -
-    id: cNuNBSUv
+    id: lke8rsmv
+    bg_type: image
+    bg_image: headers/2022-lunch-learn-student-vignette1-2500x800.jpg
     title: 'Join us at the Revoluncheon'
-    type: header_small
+    type: header
     enabled: true
   -
     id: U5c6RtHu
@@ -230,7 +232,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682877486
+updated_at: 1690044389
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
