@@ -6,7 +6,7 @@ sections:
   -
     id: lke864mo
     bg_type: image
-    bg_image: headers/2022-maker-market-mcc-1250x400.jpg
+    bg_image: headers/2022-vendor-fair-vignette-2500x800.jpg
     title: 'Vendor Fair'
     type: header
     enabled: true
@@ -391,7 +391,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690043374
+updated_at: 1690043795
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
