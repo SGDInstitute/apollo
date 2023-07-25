@@ -35,13 +35,6 @@ sections:
       -
         type: set
         attrs:
-          id: lgm8vv6e
-          values:
-            type: iframe
-            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/42d5047d"></iframe>'
-      -
-        type: set
-        attrs:
           id: lkibtpi8
           values:
             type: buttons
@@ -74,6 +67,13 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: set
+        attrs:
+          id: lgm8vv6e
+          values:
+            type: iframe
+            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/42d5047d"></iframe>'
       -
         type: paragraph
         attrs:
@@ -1236,7 +1236,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690291418
+updated_at: 1690291439
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
