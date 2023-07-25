@@ -40,6 +40,39 @@ sections:
             type: iframe
             html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/42d5047d"></iframe>'
       -
+        type: set
+        attrs:
+          id: lkibtpi8
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lkibttem
+                link: 'https://podcasts.apple.com/us/podcast/take-the-last-bite/id1582890778'
+                text: Apple
+                block: false
+                outline: false
+                target_blank: false
+              -
+                id: lkibu01j
+                link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
+                text: Google
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                id: lkibu18i
+                link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
+                text: Spotify
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
         type: paragraph
         attrs:
           textAlign: left
@@ -94,7 +127,7 @@ sections:
                 target_blank: true
             contain: true
     type: content
-    enabled: true
+    enabled: false
   -
     id: lgm8rtnw
     bard:
@@ -275,6 +308,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -283,6 +317,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -302,6 +337,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -321,6 +357,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -340,6 +377,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -359,6 +397,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -378,6 +417,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -397,6 +437,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -416,6 +457,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -1192,7 +1234,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690291296
+updated_at: 1690291398
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
