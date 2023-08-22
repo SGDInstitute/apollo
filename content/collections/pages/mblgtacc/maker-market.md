@@ -263,6 +263,26 @@ sections:
                           target: _blank
                           title: null
                     text: 'Queer Comics Peddler'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://transfigureprintco.com/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Transfigure Print Co.'
     type: content
     enabled: true
   -
@@ -318,7 +338,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690043549
+updated_at: 1692743471
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
