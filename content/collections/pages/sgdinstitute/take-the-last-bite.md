@@ -16,7 +16,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'New episodes released bi-weekly.'
-    link: 'entry::b2523d54-b286-4002-8a03-4eae36558b81'
+    link: 'entry::57a370ba-6a6e-47a3-ab7a-97f6b75a92de'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -73,7 +73,7 @@ sections:
           id: lgm8vv6e
           values:
             type: iframe
-            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/ac432cab"></iframe>'
+            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/a23ebebd"></iframe>'
       -
         type: paragraph
         attrs:
@@ -142,6 +142,26 @@ sections:
           -
             type: text
             text: 'Season 4'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::57a370ba-6a6e-47a3-ab7a-97f6b75a92de'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 10: Animate Me Like One of Your Canonically Queer Characters'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -1256,7 +1276,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1691766116
+updated_at: 1692745611
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
