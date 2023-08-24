@@ -40,9 +40,6 @@ tree:
     entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
     title: 'Attendee Toolkit'
   -
-    id: 2871abdf-6533-44ae-b6dd-4136e2b6aabd
-    entry: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
-  -
     id: 36d6ebec-dbf3-4afc-abba-0bb8b3ff5ea7
     entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
     title: 'Sponsor & Exhibit'
@@ -60,6 +57,9 @@ tree:
       -
         id: 1869a380-de6d-4ed0-8afc-4b2eb6d25371
         entry: 8fe5c804-da7c-474e-bf42-75f8dbf3a914
+  -
+    id: 933c94a5-75e3-46d0-963f-d37cd5a26a5b
+    entry: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
   -
     id: 0b07256e-7db7-451f-9621-f8c2f2813c5f
     entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
