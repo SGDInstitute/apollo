@@ -110,15 +110,6 @@ sections:
             type: text
             text: 'Who will be at the Vendor Fair?'
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "Vendors for 2023 will be announced later this fall. Here's who we welcomed in 2022:"
-      -
         type: bulletList
         content:
           -
@@ -132,7 +123,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'ACLU of Ohio'
+                    text: 'Coloring with Blue'
           -
             type: listItem
             content:
@@ -144,7 +135,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Antioch College'
+                    text: 'Deviant Kreations'
           -
             type: listItem
             content:
@@ -156,7 +147,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Black, Out, & Proud'
+                    text: GrimeStylesArt
           -
             type: listItem
             content:
@@ -168,31 +159,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'College of the Holy Cross'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Columbia University School of Social Work'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Equitas Health'
+                    text: 'Hot Girl Farmer'
           -
             type: listItem
             content:
@@ -216,67 +183,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: Kroger
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Music City Creative'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Nifty Giftys Shop'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Partners in Pride'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Peace Corps'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'The Pride Center of Terre Haute, Inc.'
+                    text: 'Q+ Equality Foundation'
           -
             type: listItem
             content:
@@ -300,7 +207,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Rainbow Clinic'
+                    text: 'Rae Senarighi'
           -
             type: listItem
             content:
@@ -312,7 +219,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "Stewie's Got Pride"
+                    text: 'Smith College School for Social work'
           -
             type: listItem
             content:
@@ -324,19 +231,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Smith College School for Social Work '
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'University of Wisconsin-Madison School of Education Office of Equity, Diversity, and Inclusion'
+                    text: 'Transfigure Print Co.'
     type: content
     enabled: true
   -
@@ -391,7 +286,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690043795
+updated_at: 1693955340
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
