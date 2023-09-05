@@ -182,6 +182,18 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Coloring with Blue'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
                     marks:
                       -
                         type: link
@@ -274,6 +286,18 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Rae Senarighi'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
                     marks:
                       -
                         type: link
@@ -338,7 +362,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1692743471
+updated_at: 1693955158
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
