@@ -4,7 +4,7 @@ blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1694657526
+updated_at: 1694657564
 sections:
   -
     id: ambRhsVv
@@ -31,11 +31,29 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: null
+          class: lead
         content:
           -
             type: text
-            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Hayden Kristal and Katie Barnes as keynotes for our thirty-first annual conference.'
+            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Hayden Kristal'
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Katie Barnes'
+          -
+            type: text
+            text: ' as keynotes for our thirty-first annual conference.'
       -
         type: heading
         attrs:
