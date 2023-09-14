@@ -1,43 +1,55 @@
 ---
 id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
-published: false
 blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668560242
+updated_at: 1694657526
 sections:
   -
+    id: ambRhsVv
     title: Keynotes
     type: header_small
     enabled: true
   -
+    id: am0twKdp
     bard:
       -
         type: set
         attrs:
+          id: W8c4iixs
           values:
             type: image
-            image: bailar-barbarin-1090x681_email-image.jpg
+            image: speaker2023_featured-1090x681.jpg
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Schuyler Bailar and Imani Barbarin as keynotes for our thirtieth annual conference.'
+            text: 'The MBLGTACC student planning team and Midwest Institute for Sexuality and Gender Diversity are thrilled to welcome Hayden Kristal and Katie Barnes as keynotes for our thirty-first annual conference.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Schuyler Bailar'
+            text: 'Hayden Kristal'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -47,12 +59,9 @@ sections:
             text: 'Date/time: '
           -
             type: text
-            text: 'Friday, October 21, 7:00 - 8:00 p.m. EDT'
+            text: 'Friday, November 3, 7:00 - 8:00 p.m. EDT'
           -
-            type: hard_break
-            marks:
-              -
-                type: bold
+            type: hardBreak
           -
             type: text
             marks:
@@ -61,41 +70,30 @@ sections:
             text: 'Location: '
           -
             type: text
-            text: 'Union Station Ballroom B-C'
+            text: 'Central Bank Center'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Schuyler Bailar (he/him) is the first transgender athlete to compete in any sport on an NCAA Division 1 men’s team. By 15, he was one of the nation’s top-20 15-year-old breast-strokers. By 17, he set a national age-group record. In college, he swam for Harvard University, on Harvard’s winningest team in 50 years. Schuyler’s difficult choice—to transition while potentially giving up the prospect of being an NCAA Champion—was historic. His story has appeared everywhere from 60 Minutes to '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'The Washington Post'
-          -
-            type: text
-            text: '. Schuyler’s tireless advocacy has earned him numerous honors including LGBTQ Nation’s Instagram Advocate for 2020. In 2021, Schuyler also released his first middle-grade novel, '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Obie Is Man Enough'
-          -
-            type: text
-            text: '. And in 2022, Schuyler created LaneChanger.com making gender literacy education accessible to every team, school and company. '
+            text: 'Hayden Kristal (preferred pronouns they/them/theirs, but accepts anything said with good intent) is a Colorado-based Deaf queer activist and stand-up comedian. Life at the intersection of multiple marginalized identities has led Hayden to a career as a professional speaker, exploring the intersections of ability, gender, sexuality, and access, particularly within the spheres of activism and social justice. They have brought their funny, engaging, and interactive workshops and speeches to dozens of conferences, businesses, and schools all across North America including Harvard, Yale, Columbia, TEDx, Coldwell Banker, the Minnesota Department of Human Services, the Planned Parenthood Federation of America, and the Connecticut Supreme Court.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Imani Barbarin'
+            text: 'Katie Barnes'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -105,9 +103,9 @@ sections:
             text: 'Date/time: '
           -
             type: text
-            text: 'Saturday, October 22, 5:30 - 6:30 p.m. EDT'
+            text: 'Saturday, November 4, 5:30 - 6:30 p.m. EDT'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -116,57 +114,23 @@ sections:
             text: 'Location: '
           -
             type: text
-            text: 'Union Station Ballroom B-C'
+            text: 'Central Bank Center'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Imani Barbarin (she/her) is a disability rights and inclusion activist and speaker who uses her voice and social media platforms to create conversations engaging the disability community. Born with cerebral palsy, Imani often writes and uses her platform to speak from the perspective of a disabled black woman. In the last few years she has created over a dozen trending hashtags that allow disabled folk the opportunity to have their perspectives heard while forcing the world to take notice. #PatientsAreNotFaking, #ThingsDisabledPeopleKnow, #AbledsAreWeird and others each provide a window into disabled life while forming community. Imani is from the Philadelphia area and holds a master’s in global communications from the American University of Paris, her published works include those in '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: Forbes
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: Rewire
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: Healthline
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'BitchMedia,'
-          -
-            type: text
-            text: ' and more. She runs the blog CrutchesAndSpice.com and a podcast of the same name. She currently serves as the communications director for a nonproﬁt in Pennsylvania.'
+            text: 'Katie Barnes (they/them/their) is an award winning journalist covering the intersection of sports and gender. As a feature writer at ESPN, Katie has profiled women’s sports superstars like Maya Moore, A’ja Wilson, and Amanda Nunes. They are a leading journalist in the coverage of legislation and policy affecting transgender and intersex athletes, which they also cover in their book, Fair Play: How Sports Shape the Gender Debates (St. Martin’s Press, 2023). Katie is a 3-time GLAAD award nominee and a 2022 finalist for the Dan Jenkins Medal, a prestigious award honoring outstanding sports journalism. They were named the 2017 Journalist of the Year by NLGJA — The Association of LGBTQ Journalists.'
     type: content
     enabled: true
   -
+    id: zVgtXsxQ
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
