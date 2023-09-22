@@ -4,10 +4,12 @@ blueprint: pages
 title: Policies
 sections:
   -
+    id: Nd8PVXg5
     title: 'Policies & Guidelines'
     type: header_small
     enabled: true
   -
+    id: hgnlTJza
     bard:
       -
         type: heading
@@ -22,7 +24,7 @@ sections:
         content:
           -
             type: text
-            text: 'Every conference location is different and, often, policies governing aspects public life can also differ. We work tirelessly to ensure each location is welcoming and know that some policies can impact attendees in unforeseen ways. Please be sure to review this year''s policies in advance of traveling to the conference. '
+            text: "Every conference location is different and, often, policies governing aspects public life can also differ. We work tirelessly to ensure each location is welcoming and know that some policies can impact attendees in unforeseen ways. Please be sure to review this year's policies in advance of traveling to the conference. "
       -
         type: heading
         attrs:
@@ -116,7 +118,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://odh.ohio.gov/know-our-programs/oh-against-od/good-samaritan-law/call-no-matter-what#:~:text=Ohio''s%20Good%20Samaritan%20Law%20provides,for%20treatment%20within%2030%20days.'
+                  href: "https://odh.ohio.gov/know-our-programs/oh-against-od/good-samaritan-law/call-no-matter-what#:~:text=Ohio's%20Good%20Samaritan%20Law%20provides,for%20treatment%20within%2030%20days."
                   rel: null
                   target: _blank
                   title: null
@@ -126,6 +128,7 @@ sections:
     type: content
     enabled: false
   -
+    id: c79k1uTY
     bard:
       -
         type: heading
@@ -148,10 +151,10 @@ sections:
             type: text
             text: 'This policy has been created for the greater safety and access of all guests and attendees.'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -160,7 +163,7 @@ sections:
                     type: text
                     text: 'We have zero-tolerance for harassment of any kind, including but not limited to: stalking, offensive verbal comments, non-consensual photography or recording, bathroom policing, unwelcome physical attention, intimidation, physical or sexual assault, and/or inappropriate physical contact.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -169,7 +172,7 @@ sections:
                     type: text
                     text: 'We encourage anyone engaging in sexual activity to do so safely and consensually. We encourage the use of condoms, dental dams, lubricant, or other forms of protection. While this is a sex-positive space, be courteous to those who do not wish to engage in sexual activity, or those who may be sex-repulsed. Inversely, do not shame or judge those who engage in sexual activity, especially those who participate in kink communities. Your body, your choice.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -178,7 +181,7 @@ sections:
                     type: text
                     text: 'Consent should be received for any sexual and/or physical contact. Consent is ongoing and enthusiastic and can be given or taken away at any time.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -187,16 +190,16 @@ sections:
                     type: text
                     text: 'Provide content and/or trigger warnings whenever possible. Allow others to name their triggers when they arise and determine how to move forward without causing additional harm or dismissing the incident.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Be mindful of your language. While we are all learning and you may not be aware of certain phrases that others may find offensive, be receptive to being informed by attendees, reflect when addressed, and adjust accordingly. This includes honoring people''s pronouns and names and avoiding ableist language.'
+                    text: "Be mindful of your language. While we are all learning and you may not be aware of certain phrases that others may find offensive, be receptive to being informed by attendees, reflect when addressed, and adjust accordingly. This includes honoring people's pronouns and names and avoiding ableist language."
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -205,7 +208,7 @@ sections:
                     type: text
                     text: 'If you encounter someone with a service, assistance, or guide animal, you should NOT touch, offer food to, or interact with the animal in any way unless otherwise explicitly stated by the owner. Service animals can sometimes be identified by a vest or other article of clothing indicating they are assisting.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -214,16 +217,16 @@ sections:
                     type: text
                     text: 'Please honor any accommodation or accessibility needs provided to attendees. Do not inhibit the assistance provided to and/or used by attendees such as ASL interpreters, reserved seating, service animals, or other types of services/equipment.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
                 content:
                   -
                     type: text
-                    text: 'Consider how your identities impact the space you''re in. There are numerous intersections of identities present and it is vital to give room to those who are often denied the ability to take up space.'
+                    text: "Consider how your identities impact the space you're in. There are numerous intersections of identities present and it is vital to give room to those who are often denied the ability to take up space."
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -232,7 +235,7 @@ sections:
                     type: text
                     text: 'Be sure to obtain permission before posting and/or tagging pictures of other attendees on social media. Avoid using bright or flashing lights whenever possible.'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -245,7 +248,7 @@ sections:
         content:
           -
             type: text
-            text: 'Everyone is responsible for their own behavior in this space. While we wish for everyone to be able to express themselves, explore, and learn in their own way, this code for inclusion sets an expectation that all attendees be considerate and careful of those around them. Failure to adhere to these necessary guidelines could result in removal from the event at the Institute''s discretion. If you have questions or concerns about this policy, please contact R.B. Brooks, the Institute''s director of operations, at '
+            text: "Everyone is responsible for their own behavior in this space. While we wish for everyone to be able to express themselves, explore, and learn in their own way, this code for inclusion sets an expectation that all attendees be considerate and careful of those around them. Failure to adhere to these necessary guidelines could result in removal from the event at the Institute's discretion. If you have questions or concerns about this policy, please contact R.B. Brooks, the Institute's director of operations, at "
           -
             type: text
             marks:
@@ -263,6 +266,7 @@ sections:
     type: content
     enabled: true
   -
+    id: uZafWolb
     bard:
       -
         type: heading
@@ -285,10 +289,10 @@ sections:
             type: text
             text: 'The Institute respects, protects, and centers the rights of students who do not consent to be photographed. To that end, MBLGTACC and the Institute:'
       -
-        type: bullet_list
+        type: bulletList
         content:
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -297,7 +301,7 @@ sections:
                     type: text
                     text: 'Will offer intentional spaces where photography by attendees is welcome and encouraged;'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -306,7 +310,7 @@ sections:
                     type: text
                     text: 'Will offer wearable markers for attendees to flag for others that they do not consent to be photographed;'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -315,7 +319,7 @@ sections:
                     type: text
                     text: 'Will not share on its website or social media any photographs featuring attendees with "do not photograph" markers;'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -324,7 +328,7 @@ sections:
                     type: text
                     text: 'Will not tolerate non-consensual photography by attendees and guests;'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -333,7 +337,7 @@ sections:
                     type: text
                     text: 'Requires that all attendees and guests obtain permission before posting photos of others taken at the conference to social media; and'
           -
-            type: list_item
+            type: listItem
             content:
               -
                 type: paragraph
@@ -352,7 +356,7 @@ sections:
         content:
           -
             type: text
-            text: 'This policy has been created for the greater safety and access of all guests and attendees. You may discuss this policy further with the Institute''s director of marketing and communications, '
+            text: "This policy has been created for the greater safety and access of all guests and attendees. You may discuss this policy further with the Institute's director of marketing and communications, "
           -
             type: text
             marks:
@@ -369,10 +373,12 @@ sections:
     type: content
     enabled: true
   -
+    id: RHMAnugh
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -380,12 +386,18 @@ sections:
             text: 'Refund policy'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Full refunds are available for canceled orders until September 28, 2022. Cancellations received after this date will not be eligible for a refund. Refunds are not available for attendees who choose not to attend the event if the cancellation is not received before the stated cancellation deadline. Orders may be transferred to another attendee at no charge, at any time. Cancellations or transfers must be requested by the user who created the order and should include the name of the attendee. To request a cancellation and refund, or to transfer your ticket to another attendee, please email support@sgdinstitute.org.'
+            text: 'Full refunds are available for canceled orders until October 3, 2023. Cancellations received after this date will not be eligible for a refund. Refunds are not available for attendees who choose not to attend the event if the cancellation is not received before the stated cancellation deadline. Orders may be transferred to another attendee at no charge, at any time. Cancellations or transfers must be requested by the user who created the order and should include the name of the attendee. To request a cancellation and refund, or to transfer your ticket to another attendee, please email support@sgdinstitute.org.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -442,10 +454,12 @@ sections:
       -
         type: set
         attrs:
+          id: pXDfWdPi
           values:
             type: buttons
             buttons:
               -
+                id: bplqmjAm
                 link: 'https://sgdinstitute.org/legal-privacy'
                 text: 'Learn more'
                 color: btn-white
@@ -458,22 +472,20 @@ sections:
         type: paragraph
     image: news/board-recruit-apr2022-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
   -
+    id: xLna77a1
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1668561887
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1695403104
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
