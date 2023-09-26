@@ -85,7 +85,7 @@ sections:
         content:
           -
             type: text
-            text: "In conversation with Emma Jabour (MPP/MBA '24), this discussion will focus on the intersections of identity and allyship, particularly in social and professional contexts."
+            text: "In conversation with Emma Jabour (MPP/MBA '24), this discussion will focus on the intersections of identity and allyship, particularly in social and professional contexts. Welcome remarks will be delivered by Ford School dean Celeste Watkins-Hayes, OFB club presidents Camren Kaminsky and Joseph Kind, and MBA Council's DEI chair Sean-Michael Steele."
     type: content
     enabled: true
   -
@@ -271,7 +271,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695766332
+updated_at: 1695766946
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
