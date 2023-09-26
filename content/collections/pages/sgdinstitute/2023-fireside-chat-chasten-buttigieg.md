@@ -8,7 +8,7 @@ sections:
     title: 'Fireside chat with Chasten Buttigieg'
     has_tag: true
     tag: 'Queer Policy Series 2023'
-    has_button: false
+    has_button: true
     text: 'Register (free)'
     color: btn-green
     size: btn-lg
@@ -49,7 +49,7 @@ sections:
         content:
           -
             type: text
-            text: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week and hosted by Out For Business and Out in Public: a fireside chat with "
+            text: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with "
           -
             type: text
             marks:
@@ -76,16 +76,7 @@ sections:
         content:
           -
             type: text
-            text: 'After leaving the 2020 campaign trail, Chasten Buttigieg published his first book, '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'I Have Something to Tell You'
-          -
-            type: text
-            text: '. In this moving, uplifting memoir, he recounts his journey to finding acceptance as a young gay man in rural Northern Michigan.'
+            text: 'After leaving the 2020 campaign trail, Chasten Buttigieg published his first book, I Have Something to Tell You. In this moving, uplifting memoir, he recounts his journey to finding acceptance as a young gay man in rural Northern Michigan.'
       -
         type: paragraph
         attrs:
@@ -117,14 +108,38 @@ sections:
         content:
           -
             type: text
-            text: 'The virtual stream is free and open to the public. The in-person event in Ann Arbor is free and open to the U-M community—Mcards will be required for entry.'
+            text: 'The virtual stream is free and open to students, colleagues, and friends.'
       -
         type: set
         attrs:
-          id: ln0wy4bw
+          id: ln0wdq0i
           values:
-            type: iframe
-            html: '<iframe width="100%" height="400px" src="https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d" frameborder="0" allowfullscreen></iframe>'
+            type: buttons
+            buttons:
+              -
+                id: ln0wdqph
+                link: 'https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d'
+                text: Watch
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'The in-person event in Ann Arbor is free and open to the U-M community. Mcards will be required for entry.'
     type: content
     enabled: true
   -
@@ -147,7 +162,7 @@ sections:
         content:
           -
             type: text
-            text: 'The Ford School and their production partner, Michigan Media, are providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the email linked below, please let us know as early as possible about any accommodations we can help facilitate.'
+            text: 'The Ross School of Business is providing the streaming for this event. We are committed to accessibility and want our event to accommodate your full participation. Using the email linked below, please let us know as early as possible about any accommodations we can help facilitate.'
       -
         type: set
         attrs:
@@ -171,7 +186,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
+    enabled: false
   -
     id: ln09y8tb
     bard:
@@ -252,7 +267,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695770547
+updated_at: 1695772187
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
