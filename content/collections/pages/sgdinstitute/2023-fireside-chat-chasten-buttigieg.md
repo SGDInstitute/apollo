@@ -76,7 +76,16 @@ sections:
         content:
           -
             type: text
-            text: 'After leaving the 2020 campaign trail, Chasten Buttigieg published his first book, I Have Something to Tell You. In this moving, uplifting memoir, he recounts his journey to finding acceptance as a young gay man in rural Northern Michigan.'
+            text: 'After leaving the 2020 campaign trail, Chasten Buttigieg published his first book, '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'I Have Something to Tell You'
+          -
+            type: text
+            text: '. In this moving, uplifting memoir, he recounts his journey to finding acceptance as a young gay man in rural Northern Michigan.'
       -
         type: paragraph
         attrs:
@@ -271,7 +280,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695769731
+updated_at: 1695769769
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
