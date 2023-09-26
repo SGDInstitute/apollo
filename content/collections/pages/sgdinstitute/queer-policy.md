@@ -62,7 +62,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'October 29, 2023 | 11:00 a.m. EDT (10:00 a.m. CDT) | Free'
+            text: 'September 29, 2023 | 11:00 a.m. EDT (10:00 a.m. CDT) | Free'
           -
             type: hardBreak
             marks:
@@ -337,7 +337,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695730958
+updated_at: 1695731459
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
