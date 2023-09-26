@@ -214,9 +214,9 @@ sections:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'https://sgdinstitute.org/giving'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
               -
                 type: underline
@@ -230,7 +230,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'https://sgdinstitute.org/news/post/announcing-ope-giving-program'
                   rel: null
                   target: null
                   title: null
@@ -244,7 +244,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695731006
+updated_at: 1695731073
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
