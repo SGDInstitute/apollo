@@ -30,7 +30,7 @@ sections:
         content:
           -
             type: text
-            text: 'Friday, October 29, 2023'
+            text: 'Friday, September 29, 2023'
           -
             type: hardBreak
           -
@@ -259,7 +259,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695731295
+updated_at: 1695731426
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
