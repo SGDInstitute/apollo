@@ -12,11 +12,13 @@ sections:
     color: btn-green
     size: btn-lg
     block: false
-    outline: false
-    target_blank: false
+    outline: true
+    target_blank: true
     type: header_large
     enabled: true
     tag: Program
+    link: 'entry::5e647e9c-0807-4838-afb2-caed81a5bb59'
+    text: 'Register (free)'
   -
     id: ToDdx7AO
     bard:
@@ -42,20 +44,24 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Racial Foundations of Public Policy: LGBT Rights'
+            text: 'Fireside chat with Chasten Buttigieg'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'October 27, 2022 | 4:00 p.m. EDT (3:00 p.m. CDT) | Free'
+            text: 'October 29, 2023 | 11:00 a.m. EDT (10:00 a.m. CDT) | Free'
           -
             type: hardBreak
             marks:
@@ -63,7 +69,7 @@ sections:
                 type: bold
           -
             type: text
-            text: 'Join us for a virtual conversation with Dr. Bianca D.M. Wilson and Dr. Celeste Watkins-Hayes, in partnership with the University of Michigan.'
+            text: 'Join us for a livestreamed fireside chat from Ann Arbor with Chasten Buttigieg, in partnership with the University of Michigan.'
       -
         type: set
         attrs:
@@ -73,7 +79,7 @@ sections:
             buttons:
               -
                 id: dvwYepDs
-                link: 'entry::f69f8733-4bed-44e3-a13c-d8fb091495de'
+                link: 'entry::5e647e9c-0807-4838-afb2-caed81a5bb59'
                 text: 'Learn more & register'
                 color: btn-white
                 size: btn-lg
@@ -83,7 +89,10 @@ sections:
             contain: true
       -
         type: paragraph
-    image: bianca-wilson-oct27-date-featured-1090x681.jpg
+        attrs:
+          textAlign: left
+          class: null
+    image: chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
@@ -94,6 +103,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -102,6 +112,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -109,6 +120,9 @@ sections:
             text: 'Racial Foundations of Public Policy: LGBT Rights (2022)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -140,9 +154,13 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -150,6 +168,9 @@ sections:
             text: 'Trans Policy Issues: Why Are We Talking About Sports (2021)'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -190,6 +211,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -311,8 +335,8 @@ sections:
     type: two_column
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370309
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1695730834
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
