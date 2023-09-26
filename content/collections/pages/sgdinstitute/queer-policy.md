@@ -70,7 +70,7 @@ sections:
                 type: bold
           -
             type: text
-            text: 'Join us for a livestreamed fireside chat from Ann Arbor with Chasten Buttigieg, in partnership with the University of Michigan.'
+            text: "Join us for a livestreamed fireside chat from Ann Arbor with Chasten Buttigieg, in partnership with the University of Michigan's Gerald R. Ford School of Public Policy, Out for Business, and Out in Public. In conversation with Emma Jabour (MPP/MBA '24), this discussion will focus on the intersections of identity and allyship, particularly in social and professional contexts."
       -
         type: set
         attrs:
@@ -337,7 +337,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695730872
+updated_at: 1695730958
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
