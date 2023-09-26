@@ -135,17 +135,10 @@ sections:
       -
         type: set
         attrs:
-          id: ln0vhl4i
-          values:
-            type: video
-            video: 'https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d'
-      -
-        type: set
-        attrs:
           id: ln0wy4bw
           values:
             type: iframe
-            html: '<iframe width="560" height="315" src="https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d" frameborder="0" allowfullscreen></iframe>'
+            html: '<iframe width="100%" height="" src="https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d" frameborder="0" allowfullscreen></iframe>'
       -
         type: paragraph
         attrs:
@@ -278,7 +271,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695768903
+updated_at: 1695768971
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
