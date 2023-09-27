@@ -8,7 +8,7 @@ sections:
     title: 'Fireside chat with Chasten Buttigieg'
     has_tag: true
     tag: 'Queer Policy Series 2023'
-    has_button: true
+    has_button: false
     text: 'Register (free)'
     color: btn-green
     size: btn-lg
@@ -18,7 +18,6 @@ sections:
     type: header_large
     enabled: true
     header_image: chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
-    link: 'https://ross.campusgroups.com/rossofb/rsvp_boot?id=2211898'
   -
     id: ln09r84w
     bard:
@@ -274,7 +273,7 @@ sections:
     enabled: true
 description: "The Midwest Institute for Sexuality and Gender Diversity and the University of Michigan's Gerald R. Ford School of Public Policy are proud to support a student-led initiative concluding this year’s Out Week, hosted by Out For Business and Out in Public: a fireside chat with Chasten Buttigieg."
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695772346
+updated_at: 1695775921
 image:
   - chasten-buttigieg-1-15a34da265964771a708fafcd215fa10.jpg
 ---
