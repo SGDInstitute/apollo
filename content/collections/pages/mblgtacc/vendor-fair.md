@@ -123,6 +123,18 @@ sections:
                 content:
                   -
                     type: text
+                    text: 'Campus Pride'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
                     text: 'Coloring with Blue'
           -
             type: listItem
@@ -148,6 +160,18 @@ sections:
                   -
                     type: text
                     text: GrimeStylesArt
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Harvard Kennedy School'
           -
             type: listItem
             content:
@@ -232,6 +256,59 @@ sections:
                   -
                     type: text
                     text: 'Transfigure Print Co.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'University of Kansas'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'University of Michigan Gerald R. Ford School of Public Policy'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'University of Wisconsin-Madison School of Education'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Wren Dickson'
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
     type: content
     enabled: true
   -
@@ -286,7 +363,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1693955340
+updated_at: 1695937456
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
