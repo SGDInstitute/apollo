@@ -10,7 +10,7 @@ sections:
     title: 'Connect. Educate. Empower.'
     subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
-    text: Listen
+    text: Watch
     target_blank: false
     color: btn-green
     size: btn-xl
@@ -20,7 +20,7 @@ sections:
     bg_type: image
     bg_image: headers/blurry-background.jpg
     num_colors: 2
-    link: 'entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+    link: 'entry::5e647e9c-0807-4838-afb2-caed81a5bb59'
     outline: true
     has_button: true
   -
@@ -107,7 +107,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695936712
+updated_at: 1695937920
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
