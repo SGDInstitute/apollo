@@ -132,11 +132,7 @@ sections:
           id: ln66yvxu
           values:
             type: iframe
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+            html: '<iframe width="100%" height="400" src="https://ross.mediasite.com/mediasite/Play/2012a6e30b654046be2bc71abf3a907b1d" frameborder="0" allowfullscreen></iframe>'
       -
         type: set
         attrs:
@@ -386,7 +382,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1696087944
+updated_at: 1696087997
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
