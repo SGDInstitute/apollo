@@ -116,6 +116,57 @@ sections:
         content:
           -
             type: text
+            text: 'A fireside chat with Chasten Buttigieg (2023)'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "Chasten Buttigieg and U-M graduate student Emma Jabour (MPP/MBA '24) discuss intersections of identity and allyship in social and professional contexts. Presented in partnership with the University of Michigan's Out for Business, Out in Public, and Gerald R. Ford School of Public Policy. "
+      -
+        type: set
+        attrs:
+          id: ln66yvxu
+          values:
+            type: iframe
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: set
+        attrs:
+          id: ln66xoic
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ln66xp89
+                link: 'entry::5e647e9c-0807-4838-afb2-caed81a5bb59'
+                text: 'Speaker bios'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
             text: 'Racial Foundations of Public Policy: LGBT Rights (2022)'
       -
         type: paragraph
@@ -335,7 +386,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1696086587
+updated_at: 1696087944
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
