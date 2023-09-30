@@ -55,7 +55,7 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 4
+          level: 2
         content:
           -
             type: text
@@ -335,7 +335,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1696086481
+updated_at: 1696086508
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
