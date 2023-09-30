@@ -46,31 +46,29 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 2
+          level: 4
         content:
           -
             type: text
-            text: 'Fireside chat with Chasten Buttigieg'
+            text: '3RD ANNUAL QUEER POLICY SERIES EVENT'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 4
+        content:
+          -
+            type: text
+            text: 'A fireside chat with Chasten Buttigieg'
       -
         type: paragraph
         attrs:
           textAlign: left
-          class: null
+          class: lead
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'September 29, 2023 | 11:00 a.m. EDT (10:00 a.m. CDT) | Free'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: bold
-          -
-            type: text
-            text: "Join us for a livestreamed fireside chat from Ann Arbor with Chasten Buttigieg, in partnership with the University of Michigan's Gerald R. Ford School of Public Policy, Out for Business, and Out in Public. In conversation with Emma Jabour (MPP/MBA '24), this discussion will focus on the intersections of identity and allyship, particularly in social and professional contexts."
+            text: "In partnership with the University of Michigan's Out for Business, Out in Public, and Gerald R. Ford School of Public Policy. Chasten Buttigieg and U-M graduate student Emma Jabour (MPP/MBA '24) discuss intersections of identity and allyship in social and professional contexts."
       -
         type: set
         attrs:
@@ -81,7 +79,7 @@ sections:
               -
                 id: dvwYepDs
                 link: 'entry::5e647e9c-0807-4838-afb2-caed81a5bb59'
-                text: 'Learn more & register'
+                text: Watch
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -337,7 +335,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695731459
+updated_at: 1696086481
 image:
   - headers/transpolicyevent-hero-jul2021-01.jpg
 description: 'The Queer Policy Series convenes policymakers, leaders, and students to examine policies at various levels that impact queer and trans students and youth, and provides tools for effecting policy changes that embrace and affirm diverse sexualities and genders.'
