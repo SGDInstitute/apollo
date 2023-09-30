@@ -335,8 +335,8 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370194
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1696088073
 image:
   - headers/header-chicago_pier.jpg
 description: 'The Midwest Institute for Sexuality and Gender Diversity develops and produces programs that advance knowledge of diverse sexualities and genders, empower queer and trans students to inspire sustainable change, and build community among queer and trans students in the Midwest.'
