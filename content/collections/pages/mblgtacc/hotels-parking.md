@@ -128,14 +128,6 @@ sections:
                 content:
                   -
                     type: text
-                    text: '(Sold Out)'
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
                     text: 'Hilton Lexington/Downtown'
               -
                 type: paragraph
@@ -154,7 +146,6 @@ sections:
                 type: set
                 attrs:
                   id: 9WPlhW40
-                  enabled: false
                   values:
                     type: buttons
                     buttons:
@@ -294,6 +285,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696277841
+updated_at: 1696277871
 template: default
 ---
