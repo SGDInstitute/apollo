@@ -127,6 +127,8 @@ sections:
                     text: 'Hilton Lexington/Downtown'
               -
                 type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
                     type: text
@@ -145,8 +147,7 @@ sections:
                     buttons:
                       -
                         id: 9lJziUPn
-                        link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
-                        text: 'Book Online with Hilton Lexington/Downtown'
+                        text: 'SOLD OUT'
                         color: btn-green
                         size: btn-base
                         block: false
@@ -266,7 +267,7 @@ sections:
     type: news
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683055160
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1696277767
 template: default
 ---
