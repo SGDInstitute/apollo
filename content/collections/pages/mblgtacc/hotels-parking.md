@@ -124,7 +124,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Hilton Lexington/Downtown'
+                    text: '(Sold Out) Hilton Lexington/Downtown'
               -
                 type: paragraph
                 attrs:
@@ -142,6 +142,7 @@ sections:
                 type: set
                 attrs:
                   id: 9WPlhW40
+                  enabled: false
                   values:
                     type: buttons
                     buttons:
@@ -162,6 +163,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -170,6 +172,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -177,6 +180,9 @@ sections:
             text: 'Park at the hotel'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -184,6 +190,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -191,6 +198,9 @@ sections:
             text: 'Accessible parking at the Central Bank Center'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -198,6 +208,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -205,6 +216,9 @@ sections:
             text: 'Additional parking'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -268,6 +282,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696277767
+updated_at: 1696277816
 template: default
 ---
