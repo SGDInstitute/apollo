@@ -6,7 +6,7 @@ sections:
   -
     id: F61claWy
     bg_type: image
-    bg_image: headers/header_group.jpg
+    bg_image: headers/homepage-hero1.jpg
     title: Volunteer
     type: header
     enabled: true
@@ -263,5 +263,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696376911
+updated_at: 1696376970
 ---
