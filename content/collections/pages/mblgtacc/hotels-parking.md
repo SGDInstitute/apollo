@@ -68,7 +68,19 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: strike
             text: 'Book early—discounted rates end October 3, 2023!'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'UPDATE—The discounted rate at Hyatt Regency Lexington has been extended until October 8, 2023!'
       -
         type: set
         attrs:
@@ -285,6 +297,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696340788
+updated_at: 1696377197
 template: default
 ---
