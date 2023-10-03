@@ -1,6 +1,5 @@
 ---
 id: 5c40983b-1b6a-43a5-a349-b2fd4c75e50d
-published: false
 blueprint: pages
 title: Volunteer
 sections:
@@ -264,5 +263,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696376769
+updated_at: 1696376782
 ---
