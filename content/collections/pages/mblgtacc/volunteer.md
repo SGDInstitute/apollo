@@ -27,7 +27,7 @@ sections:
         attrs:
           level: 2
     type: content
-    enabled: true
+    enabled: false
   -
     id: z4VjeroU
     bard:
@@ -144,6 +144,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2023/volunteer'
             contain: true
       -
         type: paragraph
@@ -158,6 +159,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -165,28 +167,13 @@ sections:
             text: 'Registration discounts'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Sometimes, MBLGTACC attendees would like a discount to the registration rate.  Volunteering is that option.  A '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: X
-          -
-            type: text
-            text: ' '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'hour shift'
-          -
-            type: text
-            text: ' will provide a $25 discount to the cost of registration. '
+            text: 'Sometimes, MBLGTACC attendees would like a discount to the registration rate. Volunteering is that option. By volunteering for '
           -
             type: text
             marks:
@@ -195,48 +182,38 @@ sections:
             text: '2 shifts'
           -
             type: text
-            text: ' provides a $50 discount to the cost of registration. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '3 shifts'
-          -
-            type: text
-            text: ' provides a full discount.'
+            text: ' (4 hours) you can receive a free ticket to attend MBLGTACC.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'To register for the conference, please click the button below!  We will reach out to find out how many shifts you would like to work.'
+            text: 'To volunteer, please click the button below and sign up for your preferred shifts. If you sign up for 2 shifts, we will automatically register you to attend MBLGTACC for free!'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
           id: aIJJj8Xp
+          enabled: false
           values:
             type: buttons
             buttons:
               -
-                id: jqyTG3z5
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2021'
-                text: 'Register for MBLGTACC'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
                 id: b8K4F6rc
-                text: 'Sign-up to volunteer'
+                text: 'Sign up to volunteer'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2023/volunteer'
             contain: true
     type: content
     enabled: true
@@ -246,6 +223,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -253,6 +231,9 @@ sections:
             text: 'Volunteer expectations'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -264,12 +245,13 @@ sections:
                 type: link
                 attrs:
                   href: 'https://mblgtacc.org/general-info/policies'
-                  target: _blank
                   rel: null
+                  target: _blank
+                  title: null
             text: 'MBLGTACC policies page'
           -
             type: text
-            text: '.  The Code for Inclusion, along with the Monona Terrace policies, are in place to protect volunteers and attendees.'
+            text: '.  The Code for Inclusion and other policies are in place to protect volunteers and attendees.'
     type: content
     enabled: true
   -
@@ -281,6 +263,6 @@ sections:
     type: news
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1677538670
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1696376769
 ---
