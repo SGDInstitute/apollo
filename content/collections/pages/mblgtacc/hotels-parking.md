@@ -153,7 +153,7 @@ sections:
                         id: 9lJziUPn
                         text: 'SOLD OUT'
                         color: btn-green
-                        size: btn-base
+                        size: btn-lg
                         block: false
                         outline: false
                         target_blank: false
@@ -285,6 +285,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696340773
+updated_at: 1696340788
 template: default
 ---
