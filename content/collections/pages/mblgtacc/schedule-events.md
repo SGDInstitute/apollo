@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1696598569
+updated_at: 1696598681
 sections:
   -
     id: PZJpiZuz
@@ -181,7 +181,7 @@ sections:
               -
                 cells:
                   - '10:00 a.m.-6 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/vendor-fair">Vendor Fair</a></b></font> & <font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/maker-market">Maker Market</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/vendor-fair">Vendor Fair</a></b></font> & <font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/maker-market">Maker Market</a></b></font>'
                   - 'Ballroom 1'
               -
                 cells:
@@ -191,12 +191,12 @@ sections:
               -
                 cells:
                   - '12:00-2:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/lunch-learn">The Revoluncheon</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/lunch-learn">The Revoluncheon</a></b></font>'
                   - 'Exhibit Hall A-2'
               -
                 cells:
                   - '2:00-3:15 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/identity-forums">Identity Forums</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/identity-forums">Identity Forums</a></b></font>'
                   - Various
               -
                 cells:
@@ -285,7 +285,7 @@ sections:
               -
                 cells:
                   - '9:00-10:15 a.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/identity-forums">Identity Forums</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/identity-forums">Identity Forums</a></b></font>'
                   - Various
               -
                 cells:
