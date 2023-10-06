@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1694657651
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1696598569
 sections:
   -
     id: PZJpiZuz
@@ -101,32 +101,32 @@ sections:
                 cells:
                   - '2:00 -  10:00 p.m.'
                   - Registration/Check-In
-                  - TBD
+                  - 'Ballroom 1'
               -
                 cells:
                   - '5:00 -  10:00 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/maker-market">Maker Market</a></b></font>'
-                  - TBD
+                  - 'Ballroom 1'
               -
                 cells:
                   - '6:30 - 7:00 p.m.'
                   - 'Welcome & Opening Remarks'
-                  - TBD
+                  - 'Ballroom 2-3'
               -
                 cells:
                   - '7:00 - 8:00 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/speakers">Keynote: Hayden Kristal</a></b></font>'
-                  - TBD
+                  - 'Ballroom 2-3'
               -
                 cells:
                   - '8:00 - 10:00 p.m.'
                   - 'Gaymes and Crafts'
-                  - TBD
+                  - 'Ballroom 1'
               -
                 cells:
                   - '8:30 - 10:00 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/advisor-programming">Advisor Social</a></b></font>'
-                  - TBD
+                  - 'Atrium by Meeting Room 14'
             full_width: true
       -
         type: paragraph
@@ -172,7 +172,7 @@ sections:
                 cells:
                   - '8:00 a.m.-10 p.m.'
                   - Check-In/Information
-                  - TBD
+                  - 'Ballroom 1'
               -
                 cells:
                   - '9:00-10:15 a.m.'
@@ -182,7 +182,7 @@ sections:
                 cells:
                   - '10:00 a.m.-6 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/vendor-fair">Vendor Fair</a></b></font> & <font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/maker-market">Maker Market</a></b></font>'
-                  - TBD
+                  - 'Ballroom 1'
               -
                 cells:
                   - '10:45 a.m.-12 p.m.'
@@ -192,7 +192,7 @@ sections:
                 cells:
                   - '12:00-2:00 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/speakers-events/lunch-learn">The Revoluncheon</a></b></font>'
-                  - TBD
+                  - 'Exhibit Hall A-2'
               -
                 cells:
                   - '2:00-3:15 p.m.'
@@ -207,12 +207,12 @@ sections:
                 cells:
                   - '5:30-6:30 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/speakers">Keynote: Katie Barnes</a></b></font>'
-                  - TBD
+                  - 'Ballroom 2-3'
               -
                 cells:
                   - '8:30-11:00 p.m.'
                   - Entertainment
-                  - TBD
+                  - 'Club Room C'
             full_width: true
       -
         type: paragraph
@@ -296,7 +296,7 @@ sections:
                 cells:
                   - '12:30-1:00 p.m.'
                   - 'Closing Remarks'
-                  - TBD
+                  - 'Ballroom 2-3'
             full_width: true
     type: content
     enabled: true
