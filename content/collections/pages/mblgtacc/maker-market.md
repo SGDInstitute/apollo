@@ -339,7 +339,17 @@ sections:
             type: hardBreak
           -
             type: text
-            text: 'Saturday, November 4 from 10:00 a.m. - 6:00 p.m.'
+            text: 'Saturday, November 4 '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '10:00 a.m. - 6:00 p.m.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Central Bank Center, Ballroom 1'
       -
         type: set
         attrs:
@@ -420,7 +430,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697221189
+updated_at: 1697221247
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
