@@ -178,9 +178,6 @@ sections:
                           -
                             type: text
                             text: Gay
-              -
-                type: bulletList
-                content:
                   -
                     type: listItem
                     content:
@@ -245,6 +242,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -252,6 +250,9 @@ sections:
             text: 'What should I know or understand before entering an identity forum?'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -264,6 +265,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -273,6 +277,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -282,6 +289,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -291,6 +301,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -300,6 +313,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -309,6 +325,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -318,18 +337,27 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Please refer to the Code for Inclusion for additional guidelines.'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697226881
+updated_at: 1697226904
 description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
