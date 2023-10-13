@@ -323,6 +323,64 @@ sections:
         content:
           -
             type: text
+            text: 'Explore more at the Saturday Vendor Fair'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Saturday, November 4 from 10:00 a.m. - 6:00 p.m.'
+      -
+        type: set
+        attrs:
+          id: tf7LtKN6
+          values:
+            type: buttons
+            buttons:
+              -
+                id: xbt9x2J2
+                link: 'entry::0684fecc-18a0-425b-a0f7-286b638eed64'
+                text: 'Find vendors'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: news/mblgtacc2022-vendor-fair-flags-patches-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
             text: 'Apply to table at the Maker Market'
       -
         type: paragraph
@@ -359,10 +417,10 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1693955158
+updated_at: 1697221189
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
