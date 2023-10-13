@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697225871
+updated_at: 1697225913
 sections:
   -
     id: j7D4Zmil
@@ -192,6 +192,20 @@ sections:
     type: news_feature
     enabled: true
   -
+    id: lnp0gjll
+    bard:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: ' '
+    type: content
+    enabled: true
+  -
     column_widths: third_right
     left_column: content
     right_column: image
@@ -239,20 +253,6 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
-  -
-    id: lnp0gjll
-    bard:
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: ' '
-    type: content
     enabled: true
   -
     id: MeJVZ4VN
