@@ -17,7 +17,6 @@ sections:
         type: set
         attrs:
           id: izbKWEOz
-          enabled: false
           values:
             type: image
             image: news/barnes-brooks-1090x681_email.jpg
@@ -136,6 +135,7 @@ sections:
         type: set
         attrs:
           id: z6QRZhYh
+          enabled: false
           values:
             type: image
             image: jenson-careaga-1090x681_program-page.jpg
@@ -234,7 +234,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697219310
+updated_at: 1697219347
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
