@@ -79,6 +79,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -101,15 +102,19 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Bi/pan/fluid sexualiites'
+                            text: 'Bi and pan'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -119,15 +124,19 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Nonbinary/genderqueer/gender non-conforming'
+                            text: 'Nonbinary, genderqueer, and gender non-conforming'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -137,19 +146,23 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: Asexual/aromantic
+                            text: 'Asexual and aromantic'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: Lesbian
+                            text: 'Lesbian and sapphic'
             right_content:
               -
                 type: bulletList
@@ -159,6 +172,8 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
@@ -171,70 +186,59 @@ sections:
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Disabled / Neurodivergent'
+                            text: 'Disabled and neurodivergent'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Advisor Roundtable (Saturday only)'
+                            text: 'Advisor Roundtable'
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Queer People of Faith'
+                            text: Polyamory
                   -
                     type: listItem
                     content:
                       -
                         type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
                             type: text
-                            text: 'Trans BIPOC*'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            text: DIY/Overflow
+                            text: 'Queer people of faith'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: '*This session is part of The Dolls are Thriving track and will center trans women of color, but all trans BIPOC attendees are welcome. '
-      -
-        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://drive.google.com/file/d/1nEw6p0GWzMp5NKmP9wvy9qmPTb5JBwTm/view?usp=sharing'
-                  rel: null
-                  target: null
-                  title: null
-              -
                 type: italic
             text: 'See conference print program for location details.'
     type: content
-    enabled: false
+    enabled: true
   -
     id: 6YVerwMW
     bard:
@@ -326,6 +330,6 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682877457
+updated_at: 1697226881
 description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
