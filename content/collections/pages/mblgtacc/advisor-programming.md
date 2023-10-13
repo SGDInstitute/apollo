@@ -124,6 +124,26 @@ sections:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
+            text: 'Friday, 8:30 - 10:00 p.m.'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Atrium (near Meeting Room 14)'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
             text: "The advisor social is the collective sigh of relief on Friday evening after a long day of travel, and for many, getting their large group of students to the conference location. Advisors are invited to join for a social hour with appetizers and treats and meet other advisor attendees before the day wraps up.\_"
       -
         type: heading
@@ -134,6 +154,40 @@ sections:
           -
             type: text
             text: 'Advisor roundtables'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Saturday, 2:00 - 3:15 p.m.'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Sunday, 9:00 - 10:15 a.m.  '
+          -
+            type: hardBreak
+            marks:
+              -
+                type: bold
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Meeting Room 7'
       -
         type: paragraph
         attrs:
@@ -496,6 +550,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690045106
+updated_at: 1697227125
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
