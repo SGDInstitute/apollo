@@ -20,8 +20,9 @@ sections:
           enabled: false
           values:
             type: image
-            image: jenson-careaga-1090x681_program-page.jpg
+            image: news/barnes-brooks-1090x681_email.jpg
             inline: false
+            caption: 'Katie Barnes and R.B. Brooks'
       -
         type: paragraph
         attrs:
@@ -135,7 +136,6 @@ sections:
         type: set
         attrs:
           id: z6QRZhYh
-          enabled: false
           values:
             type: image
             image: jenson-careaga-1090x681_program-page.jpg
@@ -234,7 +234,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697218643
+updated_at: 1697219310
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
