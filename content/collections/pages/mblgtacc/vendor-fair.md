@@ -101,6 +101,15 @@ sections:
             type: text
             text: ' and then come to the Vendor Fair on Saturday, November 4 from 10:00 a.m. - 6:00 p.m.'
       -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Who will be at the Vendor Fair?'
+      -
         type: set
         attrs:
           id: lnoxw0g2
@@ -551,7 +560,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697221782
+updated_at: 1697221811
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
