@@ -73,7 +73,12 @@ sections:
                         type: bold
                   -
                     type: text
-                    text: 'To be determined'
+                    text: 'Central Bank Center'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'Ballroom 1'
       -
         type: heading
         attrs:
@@ -171,6 +176,26 @@ sections:
       -
         type: bulletList
         content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://chaoticnotions.xyz/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Chaotic Notions'
           -
             type: listItem
             content:
@@ -430,7 +455,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697221247
+updated_at: 1697221335
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
