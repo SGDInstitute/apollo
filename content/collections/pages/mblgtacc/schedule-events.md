@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697226584
+updated_at: 1697226624
 sections:
   -
     id: PZJpiZuz
@@ -191,7 +191,7 @@ sections:
               -
                 cells:
                   - '12:00-2:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/lunch-learn">The Revoluncheon: Katie Barnes and R.B. Brooks in conversation</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/lunch-learn">The Revoluncheon: <br>Katie Barnes and R.B. Brooks</a></b></font>'
                   - 'Exhibit Hall A-2'
               -
                 cells:
