@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683132947
+updated_at: 1697224803
 sections:
   -
     id: o8rIUpZR
@@ -142,27 +142,34 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Thank you to our 2022 sponsors'
+            text: 'Thank you to our 2023 sponsors'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'The MBLGTACC 2022 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations.'
+            text: 'The MBLGTACC 2023 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations.'
       -
         type: set
         attrs:
           id: B3EAK5jV
           values:
             type: image
-            image: 2022-sponsor-logo-wall-102122.png
+            image: sponsor-logos-2023-10-13.jpg
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
