@@ -153,15 +153,6 @@ sections:
         content:
           -
             type: text
-            text: 'Merrique Jenson'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
             text: 'Katie Barnes'
       -
         type: paragraph
@@ -243,7 +234,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697218624
+updated_at: 1697218643
 description: 'The MBLGTACC Maker Market invites queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
 image:
   - headers/header_exhibit.jpg
