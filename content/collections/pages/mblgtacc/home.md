@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1695936918
+updated_at: 1697224898
 sections:
   -
     id: j7D4Zmil
@@ -313,41 +313,25 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: left
+          textAlign: center
           level: 2
         content:
           -
             type: text
             text: Sponsors
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'The MBLGTACC 2021 host committee and the Midwest Institute for Sexuality and Gender Diversity are grateful for the organizations and people that have supported the conference through direct and in-kind donations. The conference would not have been possible without the levels of support they’ve given the conference over the past two years.'
-      -
         type: set
         attrs:
           id: dfeCtgK7
           values:
             type: image
-            image: sponsors/2021-sponsor-logo-wall.png
+            image: sponsor-logos-2023-10-13.jpg
             inline: false
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'MBLGTACC 2021 is also funded in part by a grant from the New Harvest Foundation, Inc.'
       -
         type: paragraph
         attrs:
