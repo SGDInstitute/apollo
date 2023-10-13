@@ -1,57 +1,79 @@
 ---
 id: d016c432-1882-44d8-b8ca-dd0b53a9461a
-published: false
 blueprint: pages
 title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1666095518
+updated_at: 1697226504
 sections:
   -
+    id: VUqGbAf7
     title: Entertainment
     type: header_small
     enabled: true
   -
+    id: xpzLksAf
     bard:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Open Mic Night hosted with Hayden Kristal '
+            text: 'Games and Crafts'
       -
         type: paragraph
         attrs:
           textAlign: left
-          class: lead
+          class: null
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'as seen on TikTok and America''s Got Talent™'
-      -
-        type: paragraph
-        content:
+            text: 'Friday, November 3'
           -
-            type: text
-            text: 'Friday, October 21'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '8:00 - 10:00 p.m.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Union Station Ballroom B-C'
+            text: 'Central Bank Center, Ballroom 1'
       -
         type: heading
         attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Advisor Social'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Friday, November 3'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '8:30 - 10:00 p.m.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Central Bank Center, Atrium (by Meeting Room 14)'
+      -
+        type: heading
+        attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -59,57 +81,54 @@ sections:
             text: 'Drag Show'
       -
         type: paragraph
-        content:
-          -
-            type: text
-            text: 'Saturday, October 22'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '8:00 - 11:00 p.m.'
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Union Station Ballroom B-C'
-      -
-        type: heading
         attrs:
-          level: 2
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: 'Games and crafts'
-      -
-        type: paragraph
-        content:
+            text: 'Saturday, November 4'
           -
-            type: text
-            text: 'Saturday, October 22'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '8:30 - 11:00 p.m.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Union Station Ballroom A'
+            text: 'Central Bank Center, Club Room C'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '+ GWRM (get ready with me) Pre-Show: 7:30 p.m.'
     type: content
     enabled: true
   -
+    id: MWFShbqQ
     bard:
       -
         type: set
         attrs:
+          id: DYjO5ZKw
+          enabled: false
           values:
             type: image
             image: bailar-barbarin-1090x681_email-image.jpg
             inline: false
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -124,13 +143,14 @@ sections:
             marks:
               -
                 type: italic
-            text: 'America''s Got Talent'
+            text: "America's Got Talent"
           -
             type: text
             text: ' contestant and longtime MBLGTACC presenter—as the host and emcee of our open mic night.'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -139,6 +159,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -146,6 +167,9 @@ sections:
             text: 'Friday, October 21 | x:xx - x:xx p.m. EDT'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -153,6 +177,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -160,6 +185,9 @@ sections:
             text: 'About our emcee'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -209,10 +237,13 @@ sections:
     type: content
     enabled: false
   -
+    id: QAtKNl2l
     bard:
       -
         type: set
         attrs:
+          id: DBIEGOyJ
+          enabled: false
           values:
             type: image
             image: headshots/curly-velazquez-featured-1090x681.jpg
@@ -220,6 +251,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -228,6 +260,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 3
         content:
           -
@@ -235,6 +268,9 @@ sections:
             text: 'Saturday, October 22 | 8:00 - 11:00 p.m. EDT'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -254,11 +290,10 @@ sections:
     type: content
     enabled: false
   -
+    id: LryIc0OK
     limit: 3
-    pagination: false
     exclude: false
     bg_type: color
-    num_colors: 2
     bg_color: bg-gray-100
     type: news
     enabled: true
