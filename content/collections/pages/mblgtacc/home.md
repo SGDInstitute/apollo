@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697225257
+updated_at: 1697225742
 sections:
   -
     id: j7D4Zmil
@@ -241,6 +241,10 @@ sections:
     type: two_column
     enabled: true
   -
+    id: yhrbwVd2
+    type: content
+    enabled: true
+  -
     id: MeJVZ4VN
     bard:
       -
@@ -304,10 +308,6 @@ sections:
     type: content
     enabled: true
   -
-    id: yhrbwVd2
-    type: content
-    enabled: true
-  -
     id: EQ6luHrj
     bard:
       -
@@ -318,7 +318,7 @@ sections:
         content:
           -
             type: text
-            text: Sponsors
+            text: 'Thank you to our sponsors'
       -
         type: set
         attrs:
