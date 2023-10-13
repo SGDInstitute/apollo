@@ -65,7 +65,12 @@ sections:
                         type: bold
                   -
                     type: text
-                    text: 'To be determined'
+                    text: 'Central Bank Center'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'Ballroom 1'
       -
         type: paragraph
         attrs:
@@ -560,7 +565,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697221811
+updated_at: 1697221856
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
