@@ -26,6 +26,7 @@ sections:
         type: set
         attrs:
           id: 7kQJrWiz
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -355,7 +356,16 @@ sections:
         content:
           -
             type: text
-            text: 'Historical and Contemporary Identities'
+            text: 'Flamboyance and Fortitude - The Sapphic Track'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
       -
         type: paragraph
         attrs:
@@ -367,16 +377,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Brought to you exclusively by FEMME, the Federation of Experienced Multiple MBLGTACC Educators, the Historical and Contemporary Identities track explores sexuality, gender, history and community. This track is not eligible for external submissions.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
+            text: 'Brought to you exclusively by FEMME, the Federation of Experienced Multiple MBLGTACC Educators.'
       -
         type: heading
         attrs:
@@ -751,7 +752,7 @@ sections:
             type: text
             text: 'Nope! But it’s encouraged. The tracks will be pretty broad and expansive, so there’s likely at least one track your workshop could fall under. But it’s not required that you shape your workshop to match a track.'
     type: content
-    enabled: true
+    enabled: false
   -
     id: I8CVI8Qt
     bard:
@@ -829,10 +830,10 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690045977
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1697204875
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
