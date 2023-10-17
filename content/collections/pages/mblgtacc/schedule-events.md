@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697226624
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1697576043
 sections:
   -
     id: PZJpiZuz
@@ -208,6 +208,11 @@ sections:
                   - '5:30-6:30 p.m.'
                   - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/speakers">Keynote: Katie Barnes</a></b></font>'
                   - 'Ballroom 2-3'
+              -
+                cells:
+                  - '7:30-8:30 p.m.'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/entertainment">GRWM Pre-Show</a></b></font>'
+                  - 'Club Room C'
               -
                 cells:
                   - '8:30-11:00 p.m.'
