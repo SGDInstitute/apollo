@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Health & Safety'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697586810
+updated_at: 1697587077
 sections:
   -
     id: x1GdrJts
@@ -95,24 +95,18 @@ sections:
             marks:
               -
                 type: bold
-            text: 'We '
-          -
-            type: text
-            marks:
-              -
-                type: bold
               -
                 type: italic
-            text: may
+            text: 'We encourage attendees to take the precautions that are most appropriate and comfortable for them. This may include masking a'
           -
             type: text
             marks:
               -
                 type: bold
-            text: ' expect attendees to wear masks, regardless of COVID-19 vaccination status, and follow common social distancing measures in indoor conference spaces. '
+            text: 'nd social distancing measures in indoor conference spaces. '
           -
             type: text
-            text: "We'll communicate a final determination with attendees and partners based on public health conditions in early October."
+            text: 'Masks will be available at the Info Desk throughout conference weekend.'
       -
         type: paragraph
         attrs:
