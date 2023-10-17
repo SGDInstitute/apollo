@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Health & Safety'
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683313926
+updated_at: 1697586810
 sections:
   -
     id: x1GdrJts
@@ -140,47 +140,6 @@ sections:
           -
             type: text
             text: 'If you’re being sponsored by an institution, you may also be subject to their guidelines, including possible vaccine mandates for university-sponsored travel. Consult your local institution to learn about their requirements.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'How will I be notified in the event of a COVID-19 exposure at MBLGTACC?'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'We ask that any attendees who are diagnosed with COVID-19 during or after the conference notify us immediately at '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'mailto:support@sgdinstitute.org'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: support@sgdinstitute.org
-          -
-            type: text
-            text: ' so that we may begin the contact tracing process. Contact information for all attendees will be kept on file so that we may notify you in the event of an exposure.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'It is highly recommended that attendees receive a COVID-19 test before and five days after attending the conference to help keep yourselves and others safe. '
       -
         type: heading
         attrs:
