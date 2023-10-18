@@ -131,6 +131,8 @@ sections:
           level: 3
         content:
           -
+            type: hardBreak
+          -
             type: text
             text: 'Advisor social'
       -
@@ -520,6 +522,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -527,6 +530,9 @@ sections:
             text: 'Thanks to our partners'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -556,6 +562,9 @@ sections:
             text: .
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: false
   -
@@ -567,6 +576,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697669545
+updated_at: 1697669582
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
