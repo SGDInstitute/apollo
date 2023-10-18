@@ -559,14 +559,20 @@ sections:
             text: 'Consortium website'
           -
             type: text
-            text: .
+            text: '. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'We specifically thank Zack Parker, Chad Freeman, Jeff Maliskey,  Angie Freeman, and Hilary Murmers for coordinating the advisor programming and drag show.'
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
     type: content
-    enabled: false
+    enabled: true
   -
     id: gPqrWOaG
     limit: 3
@@ -576,6 +582,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697669582
+updated_at: 1697669722
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
