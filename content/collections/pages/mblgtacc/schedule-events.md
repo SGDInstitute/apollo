@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697836974
+updated_at: 1697837037
 sections:
   -
     id: PZJpiZuz
@@ -274,9 +274,9 @@ sections:
     type: content
     enabled: true
   -
-    column_widths: one_fifth_left
-    left_column: image
-    right_column: content
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
     center_columns: false
     bard:
       -
@@ -287,10 +287,7 @@ sections:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Download the conference program booklet'
+            text: 'Download the MBLGTACC program PDF'
       -
         type: paragraph
         attrs:
@@ -299,7 +296,7 @@ sections:
         content:
           -
             type: text
-            text: 'The commemorative edition of the program booklet is available for digital download in a pages view or spreads view.'
+            text: 'The commemorative edition of the program booklet is available for digital download in a pages view or spreads view. Large-print, high contrast programs are coming soon!'
       -
         type: set
         attrs:
