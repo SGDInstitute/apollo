@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697835739
+updated_at: 1697835780
 sections:
   -
     id: PZJpiZuz
@@ -25,41 +25,6 @@ sections:
           -
             type: text
             text: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, higher ed pros, artists, and more.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Download the conference program booklet'
-      -
-        type: set
-        attrs:
-          id: lh6ccgo0
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lnz36c0r
-                link: 'https://drive.google.com/file/d/1aszEaLJ3-dzKlqkRhTv6FtSoDb6SQSuZ/view?usp=share_link'
-                text: 'Pages view'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: lnz38dek
-                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=sharing'
-                text: 'Spreads view'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
       -
         type: paragraph
         attrs:
