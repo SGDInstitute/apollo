@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697835368
+updated_at: 1697835668
 sections:
   -
     id: PZJpiZuz
@@ -312,6 +312,69 @@ sections:
                   - 'Ballroom 2-3'
             full_width: true
     type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Download the conference program booklet'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'The commemorative edition of the program booklet is available for digital download in a pages view or spreads view.'
+      -
+        type: set
+        attrs:
+          id: lnz3fb11
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lnz3fbtq
+                link: 'https://drive.google.com/file/d/1aszEaLJ3-dzKlqkRhTv6FtSoDb6SQSuZ/view?usp=share_link'
+                text: 'Pages view'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lnz3fubi
+                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=share_link'
+                text: 'Spreads view'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: headers/mblgtacc2022-reading-program-hero-1250x400.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
     enabled: true
   -
     id: SD9HVsiv
