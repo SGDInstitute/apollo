@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697835330
+updated_at: 1697835368
 sections:
   -
     id: PZJpiZuz
@@ -25,17 +25,6 @@ sections:
           -
             type: text
             text: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, higher ed pros, artists, and more.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'This schedule may be adjusted slightly as program details are confirmed.'
-          -
-            type: hardBreak
       -
         type: heading
         attrs:
