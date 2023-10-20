@@ -3,8 +3,8 @@ id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
 blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1697576043
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1697835272
 sections:
   -
     id: PZJpiZuz
@@ -34,6 +34,17 @@ sections:
           -
             type: text
             text: 'This schedule may be adjusted slightly as program details are confirmed.'
+          -
+            type: hardBreak
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Download the conference program booklet'
       -
         type: set
         attrs:
@@ -43,9 +54,18 @@ sections:
             type: buttons
             buttons:
               -
-                id: lh6cchd1
-                link: 'https://calendar.google.com/calendar/embed?src=6adb5fe44f5f0b840ae0e624968c70bccca10507b124bb168dfd5c1a992c043d%40group.calendar.google.com&ctz=America%2FDetroit'
-                text: 'Add to Google Calendar'
+                id: lnz36c0r
+                link: 'https://drive.google.com/file/d/1aszEaLJ3-dzKlqkRhTv6FtSoDb6SQSuZ/view?usp=share_link'
+                text: 'Pages view'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lnz38dek
+                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=sharing'
+                text: 'Spreads view'
                 color: btn-green
                 size: btn-lg
                 block: false
