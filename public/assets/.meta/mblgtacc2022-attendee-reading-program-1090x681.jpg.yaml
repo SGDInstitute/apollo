@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Photo of attendee reading the conference program'
 size: 187709
 last_modified: 1697836687
 width: 1090
