@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697229587
+updated_at: 1697836711
 sections:
   -
     id: j7D4Zmil
@@ -107,7 +107,7 @@ sections:
         content:
           -
             type: text
-            text: 'Book your room by October 3'
+            text: 'Download the MBLGTACC 2023 program PDF'
       -
         type: paragraph
         attrs:
@@ -116,7 +116,7 @@ sections:
         content:
           -
             type: text
-            text: 'Two hotels are offering a discounted group rate of $169 per night for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
+            text: 'The commemorative edition of the program booklet is available for digital download in a pages view or spreads view. Large-print, high contrast programs are coming soon!'
       -
         type: set
         attrs:
@@ -126,20 +126,29 @@ sections:
             buttons:
               -
                 id: lh6le28k
-                link: 'entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
-                text: 'Hotels & Parking'
+                link: 'https://drive.google.com/file/d/1aszEaLJ3-dzKlqkRhTv6FtSoDb6SQSuZ/view?usp=share_link'
+                text: 'Pages view'
                 color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
-                target_blank: false
+                target_blank: true
+              -
+                id: lnz3ujfx
+                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=share_link'
+                text: 'Spreads view'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: paragraph
         attrs:
           textAlign: left
           class: lead
-    image: news/hotels-2023-1090x681.jpg
+    image: mblgtacc2022-attendee-reading-program-1090x681.jpg
     bg_type: color
     bg_color: bg-green-700
     type: two_column
