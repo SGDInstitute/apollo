@@ -37,6 +37,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                link: 'entry::148a18c5-15c5-4acf-ae9e-9c5855ac307d'
               -
                 id: lo069168
                 text: 'Session 2'
@@ -817,7 +818,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697901280
+updated_at: 1697902219
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
