@@ -689,9 +689,19 @@ sections:
         attrs:
           textAlign: left
           class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
 description: 'MBLGTACC 2023 - Workshop Session 1 descriptions'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697902364
+updated_at: 1697902390
 ---
