@@ -663,6 +663,15 @@ sections:
             type: buttons
             buttons:
               -
+                id: lo07pgv9
+                link: 'entry::148a18c5-15c5-4acf-ae9e-9c5855ac307d'
+                text: 'Prev. session'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
                 id: lo079wpf
                 text: 'Next session'
                 color: btn-green
@@ -689,5 +698,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Session 2 workshops'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697902937
+updated_at: 1697903240
 ---
