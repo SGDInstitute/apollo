@@ -594,7 +594,7 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 2
+          level: 3
         content:
           -
             type: text
@@ -651,10 +651,14 @@ sections:
     id: lo072cnf
     bard:
       -
-        type: paragraph
+        type: heading
         attrs:
           textAlign: left
-          class: null
+          level: 2
+        content:
+          -
+            type: text
+            text: 'More workshops'
       -
         type: set
         attrs:
@@ -662,6 +666,14 @@ sections:
           values:
             type: buttons
             buttons:
+              -
+                id: lo077l9l
+                text: 'Next session'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
               -
                 id: lo072mjx
                 link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
@@ -681,5 +693,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Workshop Session 1 descriptions'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697902155
+updated_at: 1697902356
 ---
