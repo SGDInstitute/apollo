@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697904796
+updated_at: 1697905525
 sections:
   -
     id: PZJpiZuz
@@ -144,7 +144,7 @@ sections:
               -
                 cells:
                   - '9:00-10:15 a.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshop-tracks/session-1">Workshop Session 1</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-1">Workshop Session 1</a></b></font>'
                   - Various
               -
                 cells:
@@ -154,7 +154,7 @@ sections:
               -
                 cells:
                   - '10:45 a.m.-12 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshop-tracks/session-2">Workshop Session 2</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-2">Workshop Session 2</a></b></font>'
                   - Various
               -
                 cells:
@@ -169,7 +169,7 @@ sections:
               -
                 cells:
                   - '3:45-5:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshop-tracks/session-3">Workshop Session 3</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-3">Workshop Session 3</a></b></font>'
                   - Various
               -
                 cells:
@@ -263,7 +263,7 @@ sections:
               -
                 cells:
                   - '10:45 a.m.-12:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshop-tracks/session-4">Workshop Session 4</a></b></font>'
+                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-4">Workshop Session 4</a></b></font>'
                   - Various
               -
                 cells:
