@@ -195,7 +195,7 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: lead
+          class: null
         content:
           -
             type: text
@@ -226,7 +226,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on:'
+            text: 'Content in this track focuses on:'
       -
         type: bulletList
         content:
@@ -292,7 +292,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on:'
+            text: 'Content in this track focuses on:'
       -
         type: bulletList
         content:
@@ -388,7 +388,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on:'
+            text: 'Content in this track focuses on:'
       -
         type: bulletList
         content:
@@ -454,7 +454,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on: '
+            text: 'Content in this track focuses on: '
       -
         type: bulletList
         content:
@@ -520,7 +520,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on: '
+            text: 'Content in this track focuses on: '
       -
         type: bulletList
         content:
@@ -586,7 +586,7 @@ sections:
         content:
           -
             type: text
-            text: 'Content in this track should focus on:'
+            text: 'Content in this track focuses on:'
       -
         type: bulletList
         content:
@@ -817,7 +817,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697901092
+updated_at: 1697901239
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
