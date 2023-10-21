@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'Session 3, 3:45 - 5:00 p.m.'
+            text: 'Session 3: Saturday, 3:45 - 5:00 p.m.'
       -
         type: heading
         attrs:
@@ -651,5 +651,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Workshop Session 3.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697904238
+updated_at: 1697904270
 ---
