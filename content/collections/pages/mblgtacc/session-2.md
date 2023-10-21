@@ -19,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'Session 2, 10:45 a.m. - 12:00 p.m.'
+            text: 'Session 2: Saturday, 10:45 a.m. - 12:00 p.m.'
       -
         type: heading
         attrs:
@@ -708,5 +708,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Session 2 workshops'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697903658
+updated_at: 1697904284
 ---
