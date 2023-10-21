@@ -1,13 +1,13 @@
 ---
 id: d6f53c64-4440-4a68-9b6c-d18fff3d6834
 blueprint: pages
-title: 'Workshop Tracks'
+title: 'Workshops & Tracks'
 sections:
   -
     id: lke9ko6c
     bg_type: image
     bg_image: headers/2022-workshop-participant1-2500x800.jpg
-    title: 'Workshop Tracks'
+    title: 'Workshops & Tracks'
     type: header
     enabled: true
   -
@@ -21,19 +21,41 @@ sections:
         content:
           -
             type: text
-            text: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests.'
+            text: 'The heart of MBLGTACC is a curated selection of workshops, most peer-led, across four sessions on Saturday and Sunday. Many workshops are also curated into themed tracks.'
       -
         type: set
         attrs:
           id: 7kQJrWiz
-          enabled: false
           values:
             type: buttons
             buttons:
               -
                 id: yTK6JuZ7
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: 'Present at MBLGTACC'
+                text: 'Session 1'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                id: lo069168
+                text: 'Session 2'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                id: lo069gfc
+                text: 'Session 3'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+              -
+                id: lo069p72
+                text: 'Session 4'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -60,6 +82,15 @@ sections:
             type: text
             text: 'List of tracks'
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests.'
+      -
         type: bulletList
         content:
           -
@@ -73,14 +104,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
                     text: 'Art, Media, and Design'
           -
             type: listItem
@@ -93,14 +116,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::a07ec015-b171-4f1c-9c32-f1e221447f33'
-                          rel: null
-                          target: null
-                          title: null
                     text: 'Change on College Campuses'
           -
             type: listItem
@@ -113,15 +128,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Historical and Contemporary Identities'
+                    text: 'Flamboyance and Fortitude: The Sapphic Track'
           -
             type: listItem
             content:
@@ -133,14 +140,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
                     text: 'Justice: Activism and Protest'
           -
             type: listItem
@@ -153,14 +152,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::8a77e9b0-558d-4751-89c0-66dd0d155e33'
-                          rel: null
-                          target: null
-                          title: null
                     text: 'Small Town Queerness'
           -
             type: listItem
@@ -173,14 +164,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::3e041856-cf57-4d9a-9a86-002c3c5b06d5'
-                          rel: null
-                          target: null
-                          title: null
                     text: 'Self and Community Care'
           -
             type: listItem
@@ -193,14 +176,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::825f5c13-ad74-44eb-9bfb-7e33a22c49e4'
-                          rel: null
-                          target: null
-                          title: null
                     text: Advisors
     type: content
     enabled: false
@@ -832,8 +807,8 @@ sections:
     type: two_column
     enabled: false
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1697204875
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1697901053
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
