@@ -58,6 +58,7 @@ sections:
                 block: false
                 outline: true
                 target_blank: false
+                link: 'entry::3851e091-5863-4a2f-9193-0583f9bdd40f'
               -
                 id: lo07smta
                 link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
@@ -77,5 +78,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Workshop Session 3.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697903383
+updated_at: 1697903571
 ---
