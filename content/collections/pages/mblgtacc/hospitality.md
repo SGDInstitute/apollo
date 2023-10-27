@@ -105,7 +105,7 @@ sections:
         content:
           -
             type: text
-            text: 'Questions? Need help checking in or registering on-site? Something else we can do? Stop by our information desk Friday from 2:00 - 10:00 p.m. (location TBA), Saturday from 8:00 a.m. - 10:00 p.m. (location TBA), and Sunday from 8:00 a.m. - 12:30 p.m.'
+            text: 'Questions? Need help checking in or registering on-site? Something else we can do? Stop by our information desk in Ballroom 1 on Friday from 2:00 - 10:00 p.m., Saturday from 8:00 a.m. - 10:00 p.m., and Sunday from 8:00 a.m. - 12:30 p.m.'
       -
         type: heading
         attrs:
@@ -114,7 +114,7 @@ sections:
         content:
           -
             type: text
-            text: 'HIV/STI testing'
+            text: 'HIV testing'
       -
         type: paragraph
         attrs:
@@ -123,7 +123,7 @@ sections:
         content:
           -
             type: text
-            text: 'Know your status—get tested at MBLGTACC! Hours TBA.'
+            text: 'Know your status—get tested at MBLGTACC on Saturday from 10:00 a.m. - 6:00 p.m. in Meeting Room 1.'
       -
         type: heading
         attrs:
@@ -141,7 +141,7 @@ sections:
         content:
           -
             type: text
-            text: 'Visit our quiet space. Ear plugs will be available in the quiet space during those hours, and at the conference info desk while supplies last. '
+            text: 'Visit our quiet space in Meeting Room 14B. Ear plugs will be available in the quiet space during those hours, and at the conference info desk while supplies last. '
       -
         type: heading
         attrs:
@@ -195,7 +195,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683492007
+updated_at: 1698366791
 template: default
 description: 'Advisor social, counseling, food and meals, info desk, HIV / STI testing, quiet space, restrooms, wifi, and more.'
 ---
