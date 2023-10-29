@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697905525
+updated_at: 1698601111
 sections:
   -
     id: PZJpiZuz
@@ -296,7 +296,7 @@ sections:
         content:
           -
             type: text
-            text: 'The commemorative edition of the program booklet is available for digital download in a pages view or spreads view. Large-print, high contrast programs are coming soon!'
+            text: 'Pick the version best for you: Our special commemorative edition in a pages view or spreads view, or our large-print, high contrast, accessible program.'
       -
         type: set
         attrs:
@@ -317,6 +317,15 @@ sections:
                 id: lnz3fubi
                 link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=share_link'
                 text: 'Spreads view'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+              -
+                id: lobr82s5
+                link: 'https://drive.google.com/file/d/1vse6iVbplwIdJkJMln1DA-umLKdUJd6i/view?usp=sharing'
+                text: 'Accessible '
                 color: btn-white
                 size: btn-lg
                 block: false
