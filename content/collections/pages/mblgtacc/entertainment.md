@@ -4,7 +4,7 @@ blueprint: pages
 title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1698882271
+updated_at: 1698882607
 sections:
   -
     id: VUqGbAf7
@@ -128,6 +128,19 @@ sections:
             text: '+ GWRM (get ready with me) Pre-Show with Kristin Mingle: 7:30 p.m.'
           -
             type: hardBreak
+      -
+        type: set
+        attrs:
+          id: logequhp
+          values:
+            type: image
+            image: 393438309_660167532888120_6185555975363985173_n.jpg
+            inline: false
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
