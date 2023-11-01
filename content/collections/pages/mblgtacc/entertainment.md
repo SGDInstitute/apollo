@@ -4,7 +4,7 @@ blueprint: pages
 title: Entertainment
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697226504
+updated_at: 1698882224
 sections:
   -
     id: VUqGbAf7
@@ -15,61 +15,77 @@ sections:
     id: xpzLksAf
     bard:
       -
-        type: heading
+        type: paragraph
         attrs:
           textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Games and Crafts'
+          class: null
+      -
+        type: set
+        attrs:
+          id: logeh9k9
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Games and Crafts'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Friday, November 3'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: '8:00 - 10:00 p.m.'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'Central Bank Center, Ballroom 1'
+            right_content:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Advisor Social'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Friday, November 3'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: '8:30 - 10:00 p.m.'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'Central Bank Center, Atrium (by Meeting Room 14)'
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: 'Friday, November 3'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '8:00 - 10:00 p.m.'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Central Bank Center, Ballroom 1'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Advisor Social'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Friday, November 3'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '8:30 - 10:00 p.m.'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Central Bank Center, Atrium (by Meeting Room 14)'
       -
         type: heading
         attrs:
@@ -110,6 +126,84 @@ sections:
               -
                 type: bold
             text: '+ GWRM (get ready with me) Pre-Show: 7:30 p.m.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Jayda Mack'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Jayda Mack has been on stage and in the spotlight for over a decade. Based out of Lexington, KY, she has earned the title of "Mack Attack" and "Headliner" because, when Jayda is the show, you know you''re about to be entertained by the illusion she has created. She is a former Miss Lexington and has been runner up in many other pageants. She has been on cast at Pulse Nightlife, Bar Complex in Lexington, KY  and The Cabaret in Cincinnati, OH. Recently, she has found a place performing, MC/ hosting in some other the most popular brunches and night clubs in the Tristate area. Socials: IG and FB: @JaydaMack, Twitter:@MackJayda, TikTok: @jayda.mack'
+          -
+            type: hardBreak
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Uma Jewels'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Uma Jewels has been entertaining audiences large and small, all over the country. She’s written articles for magazines, made front page news in the local paper, and was featured in the New York Times. Uma has done television, film, and radio. She’s hosted shows for thousands of people and shows for intimate audiences. Last summer, Uma starred in her first ever play: The Prom (The Musical) and plans to try a second play next summer. She serves on the Board of a local non-profit that seeks to lift the voices of marginalized companies: Voices Amplified and while working with other local non-profits has helped raise hundreds of thousands of dollars to serve our local community.'
+          -
+            type: hardBreak
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Jenna Jive'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "Jenna Jive is a native Kentuckian, originally hailing from Louisville, she has called Lexington, KY her home for last 25 years.  Jenna started her career in Drag at Club 141, in the late 90's.  She is a seasoned entertainer having worked at some of the most exclusive venues across the South and Midwest.  Her most notable stents on cast were at The Bar Complex in Lexington and what was known at the times as the Nation's #1 Drag Show, the Case of La Boy La Femme at the Connection Complex of Louisville.  Her charitable endevours have led to long relationships with the Imperial Court of KY, AVOL, and JustFundKY just to name a few.  During her entertaining years she concurrently acheived two degrees from the University of KY in addition to being employed by the University for 23 years."
+          -
+            type: hardBreak
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Kristin Mingle'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Kristin Mingle has been doing drag for 6 and quickly became one of Lexington’s favorite performers. Her energetic performance is one you don’t want to miss. She’s a wig master and has created hair for queens across the U.S.. Her favorite thing about Drag is getting the chance to preform and bring a smile to those who need it the most. Kristin is an advocate for the LGBTQ+ community and spends her day bringing awareness to the multitude of issues effecting her community.You can find Kristin Mingle on Instagram @minglekristin.'
     type: content
     enabled: true
   -
