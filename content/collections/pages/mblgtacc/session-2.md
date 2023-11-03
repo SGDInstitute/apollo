@@ -591,61 +591,6 @@ sections:
           -
             type: hardBreak
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Late Bloom: Meeting the QIA+ Generation Coming Out After 40 '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Location: '
-          -
-            type: text
-            text: 'Meeting Room 13'
-          -
-            type: hardBreak
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Presenter(s): '
-          -
-            type: text
-            text: 'Cody Daigle-Orians'
-          -
-            type: hardBreak
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Track: '
-          -
-            type: text
-            text: General
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'A growing number of folks over 40 are coming out queer, particularly into less-understood communities like the asexual and aromantic communities. They’re discovering their queerness online and attempting to find their place in IRL queer communities. In this presentation, we’ll learn who’s in this new generation of queer adults and we’ll look at ways to support their search for IRL community.'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -708,5 +653,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Session 2 workshops'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697905209
+updated_at: 1699045713
 ---
