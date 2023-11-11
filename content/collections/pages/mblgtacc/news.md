@@ -59,8 +59,8 @@ sections:
   -
     id: 15js90eX
     articles:
+      - 82e17640-72a2-442d-ad47-2f9d7e633b95
       - 396bc755-80d6-4583-ba1e-d62d365a22e5
-      - 39cdbdd3-2c31-443e-8340-15d4b1a1b69a
       - 8917e54a-f854-4f44-865a-1dee6ceac64a
       - c7f6ffdf-793a-421a-92fd-76389b11b8ce
       - 7f9d886a-0d05-4549-89da-d3b0548c9370
@@ -193,6 +193,6 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699743809
+updated_at: 1699746226
 description: "The latest news about America's largest and oldest conference for LGBTQIA2S+ college students and young adults."
 ---
