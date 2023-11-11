@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699744786
+updated_at: 1699744863
 sections:
   -
     id: j7D4Zmil
@@ -159,7 +159,7 @@ sections:
         attrs:
           textAlign: left
           class: lead
-    image: mblgtacc2022-attendee-reading-program-1090x681.jpg
+    image: news/mblgtacc2023-attendee-keynote-program-booklet-1090x681.jpg
     bg_type: color
     bg_color: bg-green-700
     type: two_column
