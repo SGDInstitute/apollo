@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1693675242
+updated_at: 1699739877
 sections:
   -
     id: zR1BNzlK
@@ -50,7 +50,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'The workshop submission period has closed. Aspiring presenters—see your email from June 26 for decision notifications and next steps.'
+            text: 'More information will be available, and workshop submissions will be open, starting in April 2024.'
       -
         type: set
         attrs:
@@ -61,13 +61,13 @@ sections:
             buttons:
               -
                 id: 7kHrnjQq
-                text: 'Submit a proposal'
+                text: 'Get updates'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
-                link: 'https://apps.sgdinstitute.org/forms/mblgtacc-2023-workshop-proposal'
+                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
             contain: true
       -
         type: heading
@@ -389,7 +389,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
+    enabled: false
   -
     id: workshop-tracks
     column_widths: third_right
@@ -447,7 +447,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: venue
     column_widths: third_right
@@ -511,7 +511,7 @@ sections:
     bg_type: color
     bg_color: bg-green-700
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: lh6j10z5
     bard:
@@ -730,7 +730,7 @@ sections:
             buttons:
               -
                 id: a3zvdHvu
-                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2023 workshops'
+                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2024 workshops'
                 text: 'Contact us'
                 color: btn-green
                 size: btn-lg
@@ -781,7 +781,7 @@ sections:
                   rel: null
                   target: null
                   title: null
-            text: '31 year history'
+            text: '32 year history'
           -
             type: text
             text: ', MBLGTACC has become a destination for acclaimed entertainers, activists, and thought leaders, including Kate Borenstein, J Mace III, Chely Wright, Janet Mock, Jujubee, and others. From the very beginning, conference organizers sought to create an oasis in what Justin Connor (MBLGCC ‘94) says was seen as “a queer desert.”'
@@ -818,7 +818,7 @@ sections:
             type: text
             text: .
     type: content
-    enabled: false
+    enabled: true
   -
     id: 2nmfMD7G
     type: content
