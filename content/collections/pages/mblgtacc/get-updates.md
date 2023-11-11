@@ -174,12 +174,12 @@ sections:
     enabled: true
   -
     id: Nx4ngBA9
-    date: '2023-11-03 19:00'
+    date: '2024-10-25 19:00'
     hashtag: '#mblgtacc'
     bg_type: color
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1682876650
+updated_at: 1699741790
 ---
