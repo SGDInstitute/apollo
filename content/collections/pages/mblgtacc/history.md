@@ -78,7 +78,7 @@ sections:
         content:
           -
             type: text
-            text: 'For 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
+            text: 'For over 30 years, MBLGTACC has brought students together from around the region—and the nation—to learn from one another’s experiences, build-up each other’s knowledge and skills, and share in community. It has attracted respected advocates, thought leaders, entertainers, and artists to the Midwest and created space for growth and togetherness.'
       -
         type: paragraph
         attrs:
@@ -376,7 +376,7 @@ sections:
             text: '2023:'
           -
             type: text
-            text: ' The conference will be hosted in Kentucky for the first time.'
+            text: ' The conference was hosted in Kentucky for the first time.'
     type: content
     enabled: true
   -
@@ -1464,6 +1464,28 @@ sections:
                 type: italic
             text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the University of Kentucky and Visit Lexington.'
       -
+        type: set
+        attrs:
+          id: loulfmhp
+          values:
+            type: buttons
+            buttons:
+              -
+                id: loulfo0c
+                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=share_link'
+                text: 'View program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: left
@@ -1471,7 +1493,36 @@ sections:
         content:
           -
             type: text
-            text: '2024 - 32nd annual MBLGTACC'
+            text: '2024 - We Are Everywhere'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Marquette, Michigan. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Hosted by the Midwest Institute for Sexuality and Gender Diversity in partnership with the Northern Michigan University.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: '2025 - 33rd annual MBLGTACC'
       -
         type: paragraph
         attrs:
@@ -1483,7 +1534,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Host to be announced November 2023.'
+            text: 'To be announced October 2024.'
     type: content
     enabled: true
   -
@@ -1557,5 +1608,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683494026
+updated_at: 1699740303
 ---
