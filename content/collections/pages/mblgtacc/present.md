@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699739877
+updated_at: 1699739918
 sections:
   -
     id: zR1BNzlK
@@ -513,6 +513,54 @@ sections:
     type: two_column
     enabled: false
   -
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: '(Re)watch our information session and Q&A live chat'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'This session was held on May 1, 2022 and was led by MBLGTACC 2022 student planners and Institute volunteer staff. '
+      -
+        type: set
+        attrs:
+          id: rhHhVDhJ
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ypBui4me
+                text: 'Watch recording'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+                link: 'https://youtu.be/77drD8XAdRk'
+            contain: true
+      -
+        type: paragraph
+    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
+    bg_type: color
+    bg_color: bg-gray-200
+    type: two_column
+    enabled: false
+    num_colors: 2
+  -
     id: lh6j10z5
     bard:
       -
@@ -662,53 +710,6 @@ sections:
           class: null
     type: content
     enabled: true
-  -
-    column_widths: quarter_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: '(Re)watch our information session and Q&A live chat'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'This session was held on May 1, 2022 and was led by MBLGTACC 2022 student planners and Institute volunteer staff. '
-      -
-        type: set
-        attrs:
-          id: rhHhVDhJ
-          values:
-            type: buttons
-            buttons:
-              -
-                id: ypBui4me
-                text: 'Watch recording'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-                link: 'https://youtu.be/77drD8XAdRk'
-            contain: true
-      -
-        type: paragraph
-    image: news/SOTR-2020-mai-justin-tk-1090x681.jpg
-    bg_type: color
-    bg_color: bg-gray-200
-    type: two_column
-    enabled: false
   -
     id: yRLGLYeO
     bard:
