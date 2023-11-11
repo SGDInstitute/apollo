@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699739955
+updated_at: 1699740010
 sections:
   -
     id: zR1BNzlK
@@ -559,7 +559,6 @@ sections:
     bg_color: bg-gray-200
     type: two_column
     enabled: false
-    num_colors: 2
   -
     id: lh6j10z5
     bard:
@@ -711,47 +710,6 @@ sections:
     type: content
     enabled: false
   -
-    id: yRLGLYeO
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Questions?'
-      -
-        type: set
-        attrs:
-          id: xz2cMZD0
-          values:
-            type: buttons
-            buttons:
-              -
-                id: a3zvdHvu
-                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2024 workshops'
-                text: 'Contact us'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    type: content
-    enabled: true
-  -
     id: uK1gjjyl
     bard:
       -
@@ -818,6 +776,47 @@ sections:
           -
             type: text
             text: .
+    type: content
+    enabled: true
+  -
+    id: yRLGLYeO
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Questions?'
+      -
+        type: set
+        attrs:
+          id: xz2cMZD0
+          values:
+            type: buttons
+            buttons:
+              -
+                id: a3zvdHvu
+                link: 'mailto:support@sgdinstitute.org?subject=MBLGTACC 2024 workshops'
+                text: 'Contact us'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
