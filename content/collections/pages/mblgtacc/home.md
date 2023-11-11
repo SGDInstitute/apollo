@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699745009
+updated_at: 1699745050
 sections:
   -
     id: j7D4Zmil
@@ -391,7 +391,7 @@ sections:
     type: countdown
     enabled: true
 template: default
-description: 'The 32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+description: 'The 32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference—October 25-27, 2024 in Marquette, Michigan.'
 image:
   - headers/mblgtacc30-reveal-01.jpg
 ---
