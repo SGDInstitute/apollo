@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699744988
+updated_at: 1699745009
 sections:
   -
     id: j7D4Zmil
@@ -118,7 +118,7 @@ sections:
         content:
           -
             type: text
-            text: 'Thank you for joining us in Lexington for a special week of joy, connection, education, and empowerment. Browse photos, download the commemorative program, and learn more about art featured at the conference.'
+            text: 'Thank you for joining us in Lexington for a special weekend of joy, connection, education, and empowerment. Browse photos, download the commemorative program, and learn more about art featured at the conference.'
       -
         type: set
         attrs:
