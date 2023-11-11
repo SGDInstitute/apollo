@@ -4,15 +4,15 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699737927
+updated_at: 1699738096
 sections:
   -
     id: j7D4Zmil
     header_image: headers/20231103_mblgtaccdayone15-hero-1250x400.jpg
-    title: 'Queer Joy as Our Lasting Legacy'
-    subtitle: '31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
+    title: 'We Are Everywhere'
+    subtitle: '32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
     has_tag: true
-    tag: 'Nov. 3-5, 2023  |  Lexington'
+    tag: 'Oct. 25-27, 2024  |  Marquette, MI'
     link: 'entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
     text: Register
     color: btn-green
@@ -35,6 +35,7 @@ sections:
         type: set
         attrs:
           id: b2fpjp1m
+          enabled: false
           values:
             type: video
             video: 'https://youtu.be/D9zHQifiztQ?si=D4s6Pf9SrYrTHiYE'
@@ -107,7 +108,7 @@ sections:
         content:
           -
             type: text
-            text: 'Download the MBLGTACC program PDF'
+            text: 'Download the MBLGTACC 2023 program PDF'
       -
         type: paragraph
         attrs:
@@ -355,7 +356,7 @@ sections:
         content:
           -
             type: text
-            text: 'Thank you to our sponsors'
+            text: 'Thank you to our 2023 sponsors'
       -
         type: set
         attrs:
@@ -382,7 +383,7 @@ sections:
     enabled: true
   -
     id: Pc6yw7TI
-    date: '2023-11-03 19:00'
+    date: '2024-10-25 19:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
     bg_color: bg-gray-200
