@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699743619
+updated_at: 1699744649
 sections:
   -
     id: j7D4Zmil
@@ -109,7 +109,7 @@ sections:
         content:
           -
             type: text
-            text: 'Download the MBLGTACC 2023 program PDF'
+            text: 'A look back at MBLGTACC 2023 in Lexington'
       -
         type: paragraph
         attrs:
@@ -118,7 +118,7 @@ sections:
         content:
           -
             type: text
-            text: 'Pick the version best for you: Our special commemorative edition in a pages view or spreads view, or our large-print, high contrast, accessible program.'
+            text: 'Commemorative program, art, photos, and more!'
       -
         type: set
         attrs:
@@ -127,18 +127,18 @@ sections:
             type: buttons
             buttons:
               -
-                id: lh6le28k
-                link: 'https://drive.google.com/file/d/1aszEaLJ3-dzKlqkRhTv6FtSoDb6SQSuZ/view?usp=share_link'
-                text: 'Pages view'
+                id: lnz3ujfx
+                link: 'https://www.facebook.com/media/set?vanity=mblgtacc&set=a.352873937129551'
+                text: Photos
                 color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
               -
-                id: lnz3ujfx
-                link: 'https://drive.google.com/file/d/1y9Hl2wB_QTQNfqrhXTI-J-OdmPMyYx0c/view?usp=share_link'
-                text: 'Spreads view'
+                id: lh6le28k
+                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
+                text: 'Program booklet'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -146,8 +146,8 @@ sections:
                 target_blank: true
               -
                 id: lobqyr1m
-                link: 'https://drive.google.com/file/d/1vse6iVbplwIdJkJMln1DA-umLKdUJd6i/view?usp=sharing'
-                text: 'Accessible '
+                link: 'entry::c7f6ffdf-793a-421a-92fd-76389b11b8ce'
+                text: Art
                 color: btn-white
                 size: btn-lg
                 block: false
