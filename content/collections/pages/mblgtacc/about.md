@@ -105,7 +105,7 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC 2023: November 3-5'
+            text: 'MBLGTACC 2024: October 25-27'
       -
         type: paragraph
         attrs:
@@ -114,11 +114,12 @@ sections:
         content:
           -
             type: text
-            text: 'The 31st annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky.'
+            text: 'The 32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference will take place from October 25-27, 2024 at Northern Michigan University in Marquette, Michigan.'
       -
         type: set
         attrs:
           id: lh6h63cq
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -436,6 +437,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683494285
+updated_at: 1699740125
 description: "The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students and young adults around the Midwest and beyond. To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
 ---
