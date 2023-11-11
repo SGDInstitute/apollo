@@ -1,5 +1,6 @@
 ---
 id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
+published: false
 blueprint: pages
 title: 'Attendee Toolkit'
 sections:
@@ -1532,6 +1533,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1690042068
+updated_at: 1699740585
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
