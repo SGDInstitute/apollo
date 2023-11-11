@@ -1,5 +1,6 @@
 ---
 id: b51294a7-f6ab-48f6-a5e3-4c60e942b85c
+published: false
 blueprint: pages
 title: Hospitality
 sections:
@@ -195,7 +196,7 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1698366791
+updated_at: 1699740503
 template: default
 description: 'Advisor social, counseling, food and meals, info desk, HIV / STI testing, quiet space, restrooms, wifi, and more.'
 ---
