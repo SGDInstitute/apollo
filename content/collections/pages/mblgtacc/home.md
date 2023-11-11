@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699738096
+updated_at: 1699739330
 sections:
   -
     id: j7D4Zmil
@@ -55,7 +55,7 @@ sections:
         content:
           -
             type: text
-            text: 'Registration is now open!'
+            text: 'Registration opens April 2024'
       -
         type: paragraph
         attrs:
@@ -64,11 +64,12 @@ sections:
         content:
           -
             type: text
-            text: 'Join us in Lexington! Registration will remain open through conference weekend. Register by October 3 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
+            text: 'Join us in Marquette! Registration be open April through conference weekend. Register as soon as possible to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
       -
         type: set
         attrs:
           id: 2ywrq54o
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -92,7 +93,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
     center_columns: false
   -
     id: hotel
