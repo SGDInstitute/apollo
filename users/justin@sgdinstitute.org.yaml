@@ -15,7 +15,7 @@ bard:
     content:
       -
         type: text
-        text: 'Justin Drwencke serves as the executive director of the Midwest Institute for Sexuality and Gender Diversity. In this role, they bring over a decade of event and project management experience to guide the Institute’s strategic direction and oversee all financial operations.'
+        text: 'Justin Drwencke serves as the executive director of the Midwest Institute for Sexuality and Gender Diversity. In this role, they bring over a decade of event and project management experience to guide the Institute’s strategic direction and oversee financial operations.'
   -
     type: paragraph
     attrs:
@@ -24,7 +24,7 @@ bard:
     content:
       -
         type: text
-        text: 'Justin is an alum of Michigan State University (2012) where they earned a Bachelor of Arts degree in interdisciplinary humanities, combining coursework in math, technical writing, and gender studies. Justin is a brother of Delta Lambda Phi.'
+        text: "Justin is an alum of Michigan State University (2012) where they earned a Bachelor of Arts degree in interdisciplinary humanities. In addition to event and project management experience, Justin's has career experience in the financial services industry and local government, where they have been responsible for technical communication, budget development and management, grant management and administration, and contract negotiation."
   -
     type: paragraph
     attrs:
@@ -33,7 +33,7 @@ bard:
     content:
       -
         type: text
-        text: 'Justin currently lives in Lansing, Michigan with their partner, Trevor. In their free time, Justin can be found camping in Saugatuck, baking breads and pastries, or spending too much money at the garden center.'
+        text: 'Justin currently lives in Lansing, Michigan with their partner, Trevor. They have an adorable Bernedoodle named Cannoli.'
   -
     type: heading
     attrs:
@@ -51,7 +51,7 @@ bard:
     content:
       -
         type: text
-        text: 'Partnerships, technical assistance, strategic planning, contracts and purchasing'
+        text: 'Partnerships, technical assistance and consulting, strategic planning, contracts and purchasing'
 socials:
   -
     id: lf178qep
