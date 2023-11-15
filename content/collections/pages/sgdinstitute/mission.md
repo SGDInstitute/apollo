@@ -1,11 +1,11 @@
 ---
 id: ad088f33-ab22-428b-a582-cd5a53022895
 blueprint: pages
-title: 'Our Mission, Vision, and Values'
+title: 'Our Mission, Vision, & Values'
 sections:
   -
     id: uazk314J
-    title: 'Our Mission, Vision, and Values'
+    title: 'Our Mission, Vision, & Values'
     type: header_small
     enabled: true
   -
@@ -281,7 +281,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370078
+updated_at: 1700078508
 image:
   - headers/header-chicago_pier.jpg
 description: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence. We build community among queer and trans youth (and those who support them), expand knowledge of sexuality and gender, and create lasting change across the Midwest through advocacy and expansive programming.'
