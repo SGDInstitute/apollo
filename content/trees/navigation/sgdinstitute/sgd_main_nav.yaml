@@ -54,11 +54,12 @@ tree:
         id: 18e07ae4-37f2-47f6-8520-6da42775ec8f
         entry: abb4cb6b-d96f-4580-bf83-af417b03c430
       -
-        id: 6f0c2f10-ebb9-47ce-8ced-3dff67c22639
-        entry: 3589441f-7ce4-41d2-94d9-526e44ff3c6f
-      -
         id: 71c36174-f74a-497c-9f44-b34f9a318001
         entry: 507d15b8-8774-444e-af6f-fa28bc4bd26e
+      -
+        id: 6f0c2f10-ebb9-47ce-8ced-3dff67c22639
+        entry: 3589441f-7ce4-41d2-94d9-526e44ff3c6f
+        title: 'Media & Guest Content'
   -
     id: 2b204e15-280e-4bc5-8f79-1c0d5c6286c5
     entry: 84f83fe2-12b7-4bec-b0f9-f730268f9a2e
