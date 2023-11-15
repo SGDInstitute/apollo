@@ -1,11 +1,11 @@
 ---
 id: 507d15b8-8774-444e-af6f-fa28bc4bd26e
 blueprint: pages
-title: 'Training and Technical Assistance'
+title: 'Training & Technical Assistance'
 sections:
   -
     id: KZUeEPtG
-    title: 'Training and Technical Assistance'
+    title: 'Training & Technical Assistance'
     type: header_small
     enabled: true
   -
@@ -180,6 +180,6 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1700078407
+updated_at: 1700078485
 description: 'The Midwest Institute for Sexuality and Gender Diversity provides individualized technical assistance to organizations seeking to advance knowledge of diverse sexualities and genders and increase capacity to to support and serve the lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA) community. The technical assistance we provide to clients leverages adaptable tools and strategies which center their present strengths and opportunities to promote successful organizational change management.'
 ---
