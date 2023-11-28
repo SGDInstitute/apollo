@@ -19,6 +19,7 @@ sections:
           -
             type: heading
             attrs:
+              textAlign: left
               level: 2
             content:
               -
@@ -26,6 +27,9 @@ sections:
                 text: '"In the Midwest, we had this kind of queer desert, with an absence of activities, an absence of events or positive images or performers. Let''s bring it to us."'
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -33,6 +37,28 @@ sections:
               -
                 type: italic
             text: '-- Justin Connor, MBLGCC 1994 planner'
+      -
+        type: set
+        attrs:
+          id: lpijqxtm
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lpijqyhy
+                link: 'https://apps.sgdinstitute.org/donations/create'
+                text: 'Donate Now'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -477,7 +503,7 @@ sections:
     type: content
     enabled: true
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678370403
+updated_at: 1701188591
 image:
   - headers/header-test2.jpg
 description: 'Our life-saving work is made possible through the generous financial support of grassroots donors. We invite you to join us with a monthly or one-time gift. Your donation will support our efforts to build community and build strong movements.'
