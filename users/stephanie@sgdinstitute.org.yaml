@@ -6,4 +6,14 @@ pronouns: she/her
 slug: stephanie-skora
 groups:
   - board
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "Stephanie Skora is a Chicago-based unapologetic femme,\_a statistically middle-aged genderqueer trans woman, a lesbian reclamationist, and an anti-racist, anti-Zionist white Jew practicing her spiritual tradition through the Religious Anarchist Jewish practice. Born with some pretty bad paperwork errors, raised in a deeply conservative suburb of Chicago, Illinois, and brought up in a sheltering, faux-liberal, and Zionist family with an abusive parent, Stephanie had the making of an activist from an early age.\_Stephanie is a renowned educator, organizer, researcher, and non-profiteer whose work is recognized and sought after across the United States, and in the Midwest in particular. Her activist work centers radical queer and trans justice, liberation for Palestine, and the dismantling of antisemitism, while employing black liberation and decolonial praxes, and works towards building and teaching survival in a society and culture hostile to all forms of queerness, transness, and racial resistance and life."
 id: 15578ac2-4841-4c44-b5d3-52af7955bd79
