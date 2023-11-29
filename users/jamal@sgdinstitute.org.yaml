@@ -5,4 +5,14 @@ avatar: team/king-jamal-headshot-jul2022-1000x1000.jpg
 slug: jamal-king
 groups:
   - board
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Jamal King (they/them) has a professional and personal passion for creating and maintaining safe, affirming, and transformative spaces for the queer and trans community. Their formal education and research has centered around gender and sexuality justice, community and sense of belonging, and the diversity of family and relationship structures. With ten years of experience in higher education and queer-centered diversity work and as a proud and unapologetically Black, queer, trans/nonbinary person living with PTSD and anxiety, Jamal plans to serve the board of the Midwest Institute for Sexuality and Gender Diversity by bringing even more intentionality, authenticity, and care to the organization and the work the Institute does for the community.'
 id: fe58fa2e-d72a-40dd-9b70-378f09c2d7f4
