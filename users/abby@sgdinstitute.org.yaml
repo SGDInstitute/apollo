@@ -1,4 +1,38 @@
 name: 'Abby Bhattacharyya'
 groups:
   - board
+pronouns: she/her
+position: 'Board Member'
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Abigail Bhattacharyya is thrilled to serve as a board member of the Midwest Institute for Sexuality and Gender Diversity. She brings more than a decade of major gifts work, fundraising experience, and philanthropic strategy to support the Institute’s mission and initiatives.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Abigail is an alum of Michigan State University (2013), where she earned a Bachelor of Arts degree in Communication Arts and Sciences, and Central Michigan University (2018), where she received a Master of Science degree in Administration and Strategic Leadership. Abigail currently serves as a Senior Philanthropy Officer at Planned Parenthood Federation of America, where she functions as a philanthropic advisor and relationship manager to high net worth individuals and foundations in the Midwest, Florida, and the Greater New York area. Abigail is also a member of the Planned Parenthood North Central States Ambassador Council. '
+      -
+        type: hardBreak
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Abigail currently lives in Minneapolis, Minnesota, with her fiancée, Hannah, and they enjoy baking and hikes. They have three rescue dogs: Pablo, Mango, and Ponyo'
 id: cb1f3594-1805-47f8-8db6-98336fb2bbdb
