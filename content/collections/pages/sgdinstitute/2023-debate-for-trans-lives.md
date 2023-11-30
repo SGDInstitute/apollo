@@ -15,6 +15,7 @@ sections:
     enabled: true
     title: 'The (Literal) Debate for Trans Lives: Insight from Trans Elected Officials'
     subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
+    header_image: headers/tj-placeholder-web@2x.jpg
   -
     id: lpiz15jf
     bard:
@@ -283,6 +284,6 @@ sections:
     enabled: true
 parent: 39be0806-bfbb-4197-96fd-6b830a4f009a
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1701305120
+updated_at: 1701305156
 description: 'We all have a role to play in combating anti-trans legislative attacks– but our roles aren’t all the same. The 7th annual Trans(Gender) Justice Teach-In brings together trans, nonbinary and two-spirit elected officials who have a front-row seat to the mess and complexity of legislative debates around trans lives. We’ll discuss panelists’ motivations to run for office, their experiences on the legislative floor, how they navigate their positions when anti-trans and other oppressive legislation comes up, and how Trans Refuge Bills can offer a pathway to improved living conditions for trans, nonbinary, two-spirit and intersex people.'
 ---
