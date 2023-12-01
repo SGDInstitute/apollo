@@ -110,21 +110,21 @@ sections:
             text: 'Were you an early MBLGCC or MBLGTCC planner?'
           -
             type: text
-            text: ' Connect with '
+            text: ' '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: 'mailto:noah@sgdinstitute.org'
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-            text: Noah
+            text: 'Connect with us'
           -
             type: text
-            text: ' about our MBLGTACC history project.'
+            text: '!'
     type: content
     enabled: true
   -
@@ -1607,6 +1607,6 @@ sections:
     enabled: true
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740303
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1701461980
 ---
