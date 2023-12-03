@@ -15,7 +15,6 @@ sections:
     enabled: true
     title: 'The (Literal) Debate for Trans Lives: Insight from Trans Elected Officials'
     subtitle: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation'
-    header_image: headers/tj-f23_site-banner.jpg
   -
     id: lpiz15jf
     bard:
