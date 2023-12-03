@@ -4,11 +4,12 @@ blueprint: pages
 title: 'Trans(Gender) Justice Teach-in'
 sections:
   -
+    id: WNpKHDPJ
     header_image: headers/tj-placeholder-web@2x.jpg
     title: 'Trans(Gender) Justice Teach-in'
     has_tag: true
     tag: Program
-    text: 'Tune-in Dec. 6'
+    text: 'Tune-in Dec. 13'
     color: btn-green
     size: btn-lg
     block: false
@@ -16,9 +17,10 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: false
-    link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
+    has_button: true
+    link: 'entry::760ef6d3-4777-465f-b4be-b020464e671b'
   -
+    id: fCpxb6u2
     bard:
       -
         type: paragraph
@@ -34,7 +36,7 @@ sections:
         content:
           -
             type: text
-            text: 'This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth''s Gender and Sexuality Initiatives.'
+            text: "This program, held annually in the fall, is a partnership between the Midwest Institute for Sexuality and Gender Diversity and the University of Minnesota-Duluth's Gender and Sexuality Initiatives."
     type: content
     enabled: true
   -
@@ -45,19 +47,21 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 4
         content:
           -
             type: text
-            text: '6TH ANNUAL TRANS(GENDER) JUSTICE TEACH-IN'
+            text: '7TH ANNUAL TRANS(GENDER) JUSTICE TEACH-IN'
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
             type: text
-            text: 'Trans Fat: Lessons from Large Trans Folks'
+            text: 'The (Literal) Debate for Trans Lives: Insight from Trans Elected Officials '
       -
         type: paragraph
         attrs:
@@ -66,37 +70,41 @@ sections:
         content:
           -
             type: text
-            text: 'Being fat and trans is an ethereal existence but like most things that are joyful and magical, there are barriers intended to steal our pleasure.'
+            text: 'The 7th annual Trans(Gender) Justice Teach-In brings together trans, nonbinary and two-spirit elected officials—Rep. Liish Kozlowski and Rep. Leigh Finke—who have a front-row seat to the mess and complexity of legislative debates around trans lives. '
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
-            text: '(Re)watch our latest teach-in—with T.K. Morton, Dr. Jonathan Higgins, Shane Smoore, and R.B. Brooks—where we reflected on the unique positions of fat/plus size trans people to unearth lessons about desire, wellness, design, language, love and so much more. '
+            text: 'We’ll discuss panelists’ motivations to run for office, their experiences on the legislative floor, how they navigate their positions when anti-trans and other oppressive legislation comes up, and how Trans Refuge Bills can offer a pathway to improved living conditions for trans, nonbinary, two-spirit and intersex people. '
       -
         type: set
         attrs:
+          id: GeQTIq8F
           values:
             type: buttons
             buttons:
               -
+                id: Uct2wytC
                 text: 'Watch & Learn more'
                 color: btn-white
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
-                link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
+                link: 'entry::760ef6d3-4777-465f-b4be-b020464e671b'
             contain: true
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
     column_widths: two_fifths_right
-    image: news/tj-f22-web-featured-tk-jonathan-shane-featured-1090x681.jpg
-    video: 'https://youtu.be/T9_VfXIYRms'
+    image: tj-f23_web-headshots.jpg
   -
+    id: OnZl6v2k
     bard:
       -
         type: heading
@@ -117,16 +125,19 @@ sections:
       -
         type: set
         attrs:
+          id: mdKftwzD
           values:
             type: video
             video: 'https://youtu.be/T9_VfXIYRms'
       -
         type: set
         attrs:
+          id: UVupeJ16
           values:
             type: buttons
             buttons:
               -
+                id: hvLutOAG
                 link: 'entry::9190d5d4-5689-4d54-8a52-3a6604d7ffd6'
                 text: 'Details & Bios'
                 color: btn-green
@@ -148,6 +159,7 @@ sections:
       -
         type: set
         attrs:
+          id: qFdbnpM5
           values:
             type: video
             video: 'https://www.youtube.com/watch?v=yh2medTXKtk'
@@ -157,10 +169,12 @@ sections:
       -
         type: set
         attrs:
+          id: mE7CXDtY
           values:
             type: buttons
             buttons:
               -
+                id: i1p1U7mt
                 link: 'entry::7fa5ceee-3dfa-41a5-81ea-f0b36109f0fc'
                 text: 'Details & Bios'
                 color: btn-green
@@ -182,6 +196,7 @@ sections:
       -
         type: set
         attrs:
+          id: VlXNh9Ga
           values:
             type: video
             video: 'https://youtu.be/E3Ey97tf0SA'
@@ -189,10 +204,12 @@ sections:
       -
         type: set
         attrs:
+          id: 4nb7SkvB
           values:
             type: buttons
             buttons:
               -
+                id: L9isryeY
                 link: 'entry::174b8159-fec3-487b-b329-177118c234eb'
                 text: 'Details & Bios'
                 color: btn-green
@@ -206,6 +223,7 @@ sections:
     type: content
     enabled: true
   -
+    id: ZGDIiiDU
     bard:
       -
         type: heading
@@ -296,10 +314,12 @@ sections:
       -
         type: set
         attrs:
+          id: Hoo7F9Pc
           values:
             type: buttons
             buttons:
               -
+                id: Q0nsphwx
                 link: 'https://sgdinstitute.org/giving'
                 text: 'Give now'
                 color: btn-white
@@ -312,12 +332,11 @@ sections:
         type: paragraph
     image: mblgtacc-2018-candid1-1090x681.jpg
     bg_type: color
-    num_colors: 2
     bg_color: bg-green-600
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1670374860
+updated_at: 1701639781
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
