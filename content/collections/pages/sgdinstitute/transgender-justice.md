@@ -70,6 +70,20 @@ sections:
         content:
           -
             type: text
+            text: 'Wednesday, December 13, 2023'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '6:00 p.m. ET / 5:00 p.m. CT'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
             text: 'The 7th annual Trans(Gender) Justice Teach-In brings together trans, nonbinary and two-spirit elected officials—Rep. Liish Kozlowski and Rep. Leigh Finke—who have a front-row seat to the mess and complexity of legislative debates around trans lives. '
       -
         type: set
@@ -327,7 +341,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1701639825
+updated_at: 1701639905
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
