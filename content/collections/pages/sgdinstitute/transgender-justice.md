@@ -72,15 +72,6 @@ sections:
             type: text
             text: 'The 7th annual Trans(Gender) Justice Teach-In brings together trans, nonbinary and two-spirit elected officials—Rep. Liish Kozlowski and Rep. Leigh Finke—who have a front-row seat to the mess and complexity of legislative debates around trans lives. '
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'We’ll discuss panelists’ motivations to run for office, their experiences on the legislative floor, how they navigate their positions when anti-trans and other oppressive legislation comes up, and how Trans Refuge Bills can offer a pathway to improved living conditions for trans, nonbinary, two-spirit and intersex people. '
-      -
         type: set
         attrs:
           id: GeQTIq8F
@@ -336,7 +327,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1701639781
+updated_at: 1701639825
 template: default
 description: 'The Trans(Gender) Justice Teach-in is dedicated to centering trans, nonbinary, and intersex knowledge, experiences, and liberation.'
 image:
