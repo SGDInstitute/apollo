@@ -102,13 +102,13 @@ sections:
           textAlign: left
           class: null
     users:
+      - 124f7c83-15d4-4f13-81c7-97b227982c92
+      - cb1f3594-1805-47f8-8db6-98336fb2bbdb
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 02412e98-c0f6-4624-add0-5dbb57f95da7
       - 54d0b97c-683d-4f07-933a-27910efc16c1
-      - cb1f3594-1805-47f8-8db6-98336fb2bbdb
       - fe58fa2e-d72a-40dd-9b70-378f09c2d7f4
       - 560cf954-ed8f-4976-b1c2-0b14bb03090e
-      - 124f7c83-15d4-4f13-81c7-97b227982c92
       - e6fb3a3e-86e1-496d-9118-4b75c0002cbd
     type: users
     enabled: true
@@ -252,7 +252,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1701287810
+updated_at: 1702591586
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
