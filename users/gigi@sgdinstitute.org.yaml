@@ -5,4 +5,14 @@ avatar: wickline-gigi-headshot-jul2022-1000x1000.jpg
 slug: gigi-wickline
 groups:
   - board
+bard:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: 'Gigi Wickline (she/they) is an experienced diversity and inclusion coordinator with years of LGBTQIA+ advocacy, education, training, and mentorship under her belt. A proud first-generation college graduate who studied psychology at Manhattanville College in New York, Gigi relocated to Michigan three years ago. Much of Gigi’s professional career has been serving in higher education through DEI and residence life; more recently Gigi transitioned into the corporate world as a full time DEI manager.'
 id: e6fb3a3e-86e1-496d-9118-4b75c0002cbd
