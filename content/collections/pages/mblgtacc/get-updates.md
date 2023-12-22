@@ -7,7 +7,7 @@ sections:
     id: UY7hBaUU
     header_image: headers/header-chicago_pier.jpg
     title: "America's largest and longest-running conference for LBGTQ+ college students"
-    subtitle: 'The 32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference: October 25-27, 2024 in Marquette Michigan'
+    subtitle: 'The 32nd annual Midwest Bisexual Lesbian Gay Transgender Asexual College Conference is coming to Marquette, Michigan from October 25-27, 2024'
     has_tag: true
     tag: 'Sign-up for updates'
     has_button: false
@@ -27,7 +27,7 @@ sections:
         content:
           -
             type: text
-            text: "Don't miss a thing! Get key MBLGTACC news, right to your inbox "
+            text: "Don't miss a thing! Get key MBLGTACC news, right to your inbox."
       -
         type: set
         attrs:
@@ -181,5 +181,5 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1703269441
+updated_at: 1703269577
 ---
