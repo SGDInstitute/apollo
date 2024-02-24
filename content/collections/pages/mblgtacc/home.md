@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1708476989
+updated_at: 1708792215
 sections:
   -
     id: j7D4Zmil
@@ -203,9 +203,9 @@ sections:
     articles:
       - 396bc755-80d6-4583-ba1e-d62d365a22e5
       - 82e17640-72a2-442d-ad47-2f9d7e633b95
+      - 79b20e53-7e95-476e-adcd-6748ba545021
       - c7f6ffdf-793a-421a-92fd-76389b11b8ce
-      - 8917e54a-f854-4f44-865a-1dee6ceac64a
-      - e2c52738-efd4-489f-933b-a544e5e1c137
+      - f35d91d0-8672-48fd-993d-7ce17df1f308
     bg_type: gradient
     num_colors: 2
     from_color: from-black
