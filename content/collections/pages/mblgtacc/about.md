@@ -430,13 +430,13 @@ sections:
     enabled: true
   -
     id: k2kFsdED
-    date: '2023-11-03 19:00'
+    date: '2024-10-25 19:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
     bg_color: bg-gray-200
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740125
+updated_at: 1708792458
 description: "The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students and young adults around the Midwest and beyond. To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
 ---
