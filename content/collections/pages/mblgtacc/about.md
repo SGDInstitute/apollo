@@ -437,6 +437,6 @@ sections:
     type: countdown
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1708792458
-description: "The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students and young adults around the Midwest and beyond. To date, MBLGTACC is America's largest and oldest continuously-held conference for queer and trans+ college students."
+updated_at: 1708794624
+description: "The Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC) is an annual conference held to connect, educate, and empower queer and trans+ college students and young adults around the Midwest and beyond. To date, MBLGTACC is America's largest and oldest continuously-held conference of its kind."
 ---
