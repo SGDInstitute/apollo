@@ -6,7 +6,7 @@ template: default
 sections:
   -
     id: Vt5QTgAQ
-    header_image: headers/mblgtacc2023-talking-ballroom-1250x400-hero.jpg
+    header_image: headers/mblgtacc2023-talking-ballroom-redux-1250x400-hero.jpg
     title: 'Connect. Educate. Empower.'
     subtitle: 'We envision a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
     has_tag: false
@@ -107,7 +107,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1708791186
+updated_at: 1708791250
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
