@@ -11,7 +11,7 @@ bard:
     type: paragraph
     attrs:
       textAlign: left
-      class: null
+      class: lead
     content:
       -
         type: text
@@ -34,6 +34,50 @@ bard:
       -
         type: text
         text: "Nick is an Eagle Scout and an alum of the University of Michigan and Michigan State University. They earned their Master of Public Policy from the Ford School (2015) and a dual Bachelor of Arts degree in social relations & policy and international relations from MSU's James Madison College (2011)."
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 2
+    content:
+      -
+        type: text
+        text: 'Contact me about'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::857e03a1-fd97-468a-afd6-86fc7331ff87'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Queer Policy Series'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Brand identity, messaging, and outreach'
 id: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
 password_hash: $2y$10$z1050w8t6yCB2k62n1rQluIyNTMEzAN7MEUk.rWnXo1xcqCMjSH9e
 preferences:
