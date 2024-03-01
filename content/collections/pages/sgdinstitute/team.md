@@ -250,7 +250,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1709330614
+updated_at: 1709331120
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
