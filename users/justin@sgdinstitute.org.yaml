@@ -44,14 +44,56 @@ bard:
         type: text
         text: 'Contact me about'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
-      class: null
+    type: bulletList
     content:
       -
-        type: text
-        text: 'Partnerships, technical assistance and consulting, strategic planning, contracts and purchasing'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Our work and our theory of change'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Strategic partnerships'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Consulting and technical assistance'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Purchasing and contracts'
 socials:
   -
     id: lf178qep
