@@ -1,7 +1,7 @@
 name: 'Danielle Kropveld'
 super: true
 avatar: danielle.jpeg
-position: 'Director of Community Engagement'
+position: 'Director of Fundraising'
 pronouns: they/them
 slug: danielle-kropveld
 groups:
@@ -15,7 +15,7 @@ bard:
     content:
       -
         type: text
-        text: 'Danielle is the director of community engagement for the Midwest Institute for Sexuality and Gender Diversity.'
+        text: 'Danielle is the director of fundraising for the Midwest Institute for Sexuality and Gender Diversity.'
   -
     type: paragraph
     attrs:
@@ -44,14 +44,72 @@ bard:
         type: text
         text: 'Contact me about'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
-      class: null
+    type: bulletList
     content:
       -
-        type: text
-        text: 'Program and event sponsorship, OPE Giving Program, MBLGTACC Maker Market and vendor fair, partnerships'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::1d908676-c027-44d3-b60a-ebab30250d45'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Grants, donations, and sponsorship'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::5ec9896f-169f-4790-b16a-571785f81fe5'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'OPE! Monthly Giving Program'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'MBLGTACC Maker Market and vendor fair'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Volunteering for MBLGTACC'
 socials:
   -
     id: lfa0wf84
