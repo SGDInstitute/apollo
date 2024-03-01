@@ -1,7 +1,7 @@
 name: 'Roze Brooks'
 super: true
 avatar: team/rb.jpg
-position: 'Director of Programs'
+position: 'Director of Strategy and Impact'
 pronouns: they/them
 slug: roze-brooks
 groups:
@@ -15,7 +15,7 @@ bard:
     content:
       -
         type: text
-        text: "R.B. (they/them) is an unabashedly queer Taurus Sun-Aries Moon-Leo Rising with an affinity for flipping tables. They serve as the Institute's director of programs and oversees strategic direction and implementation of the organization's major programs and serves as the host of Take the Last Bite, a show where we take Midwest Nice, fold it into a paper airplane and torpedo it into oblivion."
+        text: 'R.B. (they/them) is an unabashedly queer Taurus Sun-Aries Moon-Leo Rising with an affinity for flipping tables. They lead strategic planning and ensure our programs and initiatives achieve intended outcomes. R.B. is the host of Take the Last Bite, a show where we take Midwest Nice, fold it into a paper airplane and torpedo it into oblivion.'
   -
     type: paragraph
     attrs:
@@ -44,13 +44,59 @@ bard:
         type: text
         text: 'Contact me about'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
-      class: null
+    type: bulletList
     content:
       -
-        type: text
-        text: 'MBLGTACC, Take the Last Bite, higher education, training/consulting and media/content creation services'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::029d818d-ecc3-4356-ace8-0b7d39e7c70a'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Take the Last Bite'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::39be0806-bfbb-4197-96fd-6b830a4f009a'
+                      rel: null
+                      target: null
+                      title: null
+                text: 'Trans(Gender) Justice Teach-in'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                text: 'Strategic partnerships and new program ideas'
 id: 19a591a2-66c3-420a-9e1e-d76651f2bf19
 password_hash: $2y$10$.Pw8SzEcKqgbkht1B8yrEO7D.jpEga8DuZgI7NO.EGsfKuFnxYwwu
