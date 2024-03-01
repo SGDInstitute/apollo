@@ -1,7 +1,7 @@
 name: 'Michelle Walters'
 super: true
 avatar: team/michelle.jpg
-position: 'Director of Operations'
+position: 'Director of People and Learning'
 pronouns: she/they
 slug: michelle-walters
 bard:
@@ -13,7 +13,16 @@ bard:
     content:
       -
         type: text
-        text: 'Michelle Walters is the director of operations for the Midwest Institute for Sexuality and Gender Diversity.'
+        text: 'Michelle Walters is the director of people and learning for the Midwest Institute for Sexuality and Gender Diversity.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+      class: null
+    content:
+      -
+        type: text
+        text: "In this role, Michelle leads the Institute’s education and learning portfolio, including facilitating and coaching the MBLGTACC student planning team. They negotiate and manage contracts for speakers and contractors, and manage the Institute's consulting services."
   -
     type: heading
     attrs:
@@ -24,12 +33,66 @@ bard:
         type: text
         text: 'Contact me about'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
-      class: null
+    type: bulletList
     content:
       -
-        type: text
-        text: 'Organization and event operations, third-party vendor relationships, training and technical assistance'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::37aa19e4-67e4-4140-91b8-52f06bc5d0e0'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: MBLGTACC
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::abb4cb6b-d96f-4580-bf83-af417b03c430'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Consulting services'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::507d15b8-8774-444e-af6f-fa28bc4bd26e'
+                      rel: null
+                      target: null
+                      title: null
+                text: 'Training E-Learning and Technical Assistance'
 id: 64bfc780-ec30-4700-965f-318f71d3f2b3
