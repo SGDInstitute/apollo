@@ -158,6 +158,32 @@ sections:
     type: content
     enabled: false
   -
+    id: lumyu7ml
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Season 5'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Season 5 will start streaming April 23'
+    type: content
+    enabled: true
+  -
     id: lgm8rtnw
     bard:
       -
@@ -169,6 +195,15 @@ sections:
           -
             type: text
             text: 'Season 4'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ep. 13: Small Bites →'
       -
         type: heading
         attrs:
@@ -1341,9 +1376,10 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
+    num_colors: 2
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1712339457
+updated_at: 1712339821
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
