@@ -9,14 +9,14 @@ sections:
     title: 'Take the Last Bite'
     has_tag: true
     tag: Podcast
-    has_button: false
+    has_button: true
     block: false
     outline: false
     target_blank: true
     type: header_large
     enabled: true
     subtitle: 'Season 5 streams on Apple, Google, and Spotify starting April 23'
-    link: 'entry::6155212f-26ab-4535-934a-a1e05ca9e55c'
+    link: 'entry::d870a5bb-f45c-4a75-a936-a41ad9c2c29d'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -203,7 +203,18 @@ sections:
         content:
           -
             type: text
-            text: 'Ep. 13: Small Bites →'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::d870a5bb-f45c-4a75-a936-a41ad9c2c29d'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 13: (Small Bites) Doctor Who Discourse, Two Palestines, and Coding with Empathy'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -1376,10 +1387,9 @@ sections:
     bg_color: bg-green-600
     type: two_column
     enabled: true
-    num_colors: 2
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1712339821
+updated_at: 1712698270
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
