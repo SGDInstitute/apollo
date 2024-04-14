@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713116283
+updated_at: 1713117698
 sections:
   -
     id: zR1BNzlK
@@ -38,7 +38,7 @@ sections:
             text: MBLGTACC
           -
             type: text
-            text: ' can be an enjoyable, exciting, and rewarding experience. Workshop sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
+            text: ' can be an enjoyable, exciting, and rewarding experience. Breakout sessions are the heart of the conference, bringing together students and higher ed pros from across the Midwest to learn and grow through the knowledge and experiences of their peers and mentors.'
       -
         type: paragraph
         attrs:
@@ -189,7 +189,7 @@ sections:
         content:
           -
             type: text
-            text: 'Submissions are open to all students, staff, faculty, community organizers, and others with knowledge and experiences relevant to sexuality and gender, identity, college students and young adults, aligned social justice work, and more.'
+            text: 'Submissions are open to all students, staff, faculty, community organizers, and others with knowledge and experiences relevant to sexuality and gender, identity, college students and young adults, aligned social justice work, and more. In order to give an opportunity to present to as many people as possible, we will accept a maximum of two sessions per presenter.'
       -
         type: heading
         attrs:
@@ -414,7 +414,7 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop tracks'
+            text: 'Formats and tracks'
       -
         type: paragraph
         attrs:
@@ -423,13 +423,70 @@ sections:
         content:
           -
             type: text
-            text: "Many MBLGTACC workshops will be organized into workshop tracks, curated series' of workshops centered around a common theme, topic, or experience. "
+            text: 'At MBLGTACC 2024, each breakout session will be 60 minutes long and take place on Saturday, October 26 and Sunday, October 27. '
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Many sessions will be organized into'
           -
             type: text
             marks:
               -
                 type: bold
-            text: "When you submit your proposal, you'll be asked if your session should be considered for inclusion in any of the tracks, but alignment with a track isn't required."
+            text: ' tracks'
+          -
+            type: text
+            text: ' and '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'formats:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Track: A collection of sessions centered around a common theme, topic, or experience'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Format: How your session will be organized and the extent to which attendees can expect to participate'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: "When you submit your proposal, you'll be asked if your session aligns with a particular track or format."
       -
         type: set
         attrs:
@@ -456,7 +513,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: false
+    enabled: true
   -
     id: venue
     column_widths: third_right
