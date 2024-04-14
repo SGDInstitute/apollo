@@ -155,22 +155,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
-                          rel: null
-                          target: _blank
-                          title: null
-                      -
-                        type: bold
-                      -
-                        type: underline
-                    text: 'Book your hotel'
+                    text: '▢ Book your hotel'
               -
                 type: paragraph
                 attrs:
@@ -242,20 +227,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'Make your schedule'
+                    text: '▢ Make your schedule'
               -
                 type: paragraph
                 attrs:
@@ -1459,6 +1431,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713120066
+updated_at: 1713122478
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
