@@ -1,6 +1,5 @@
 ---
 id: 12d04696-6c0f-4433-aa6c-499fe7572ed9
-published: false
 blueprint: pages
 title: 'Attendee Toolkit'
 sections:
@@ -27,7 +26,7 @@ sections:
         content:
           -
             type: text
-            text: 'The 31st annual '
+            text: 'The 32nd annual '
           -
             type: text
             marks:
@@ -41,11 +40,12 @@ sections:
             text: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
           -
             type: text
-            text: ' will take place from November 3-5, 2023 at Central Bank Center in Lexington, Kentucky. '
+            text: ' will take place from October 25-27, 2025 at Northern Michigan University in Marquette, Michigan.'
       -
         type: set
         attrs:
           id: lh7u54aq
+          enabled: false
           values:
             type: video
             video: 'https://youtu.be/o8JVbyTvnU0'
@@ -625,7 +625,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: theme
     column_widths: third_right
@@ -641,7 +641,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our theme: Queer Joy as Our Lasting Legacy'
+            text: 'Our theme: We Are Everywhere'
       -
         type: paragraph
         attrs:
@@ -677,7 +677,7 @@ sections:
     bg_type: color
     bg_color: bg-green-700
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: wwd7sLQ9
     bard:
@@ -1533,6 +1533,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740585
+updated_at: 1713119398
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
