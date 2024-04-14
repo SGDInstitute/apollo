@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713117913
+updated_at: 1713118504
 sections:
   -
     id: zR1BNzlK
@@ -150,6 +150,76 @@ sections:
           textAlign: left
           class: null
     image: news/mblgtacc2022-presenter-podium-audience-gradient-featured-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
+    id: workshop-tracks
+    column_widths: quarter_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Formats and tracks'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: "When you submit your proposal, you'll be asked if your session aligns with a particular "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: track
+          -
+            type: text
+            text: '—collection of sessions centered around a common theme, topic, or experience—or '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: format
+          -
+            type: text
+            text: '—telling attendees how your session will be organized and the extent to which they can/should expect to participate. Alignment with a track is not required.'
+      -
+        type: set
+        attrs:
+          id: lhapnnpg
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lhapnpfb
+                link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
+                text: 'Learn more'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: news/mblgtacc2022-workshops-1-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
     type: two_column
@@ -407,76 +477,6 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
-  -
-    id: workshop-tracks
-    column_widths: third_right
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Formats and tracks'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: "When you submit your proposal, you'll be asked if your session aligns with a particular "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: track
-          -
-            type: text
-            text: '—collection of sessions centered around a common theme, topic, or experience—or '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: format
-          -
-            type: text
-            text: '—telling attendees how your session will be organized and the extent to which they can/should expect to participate. Alignment with a track is not required.'
-      -
-        type: set
-        attrs:
-          id: lhapnnpg
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lhapnpfb
-                link: 'entry::d6f53c64-4440-4a68-9b6c-d18fff3d6834'
-                text: 'Learn more'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    image: news/mblgtacc2022-workshops-1-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-600
-    type: two_column
     enabled: true
   -
     id: venue
