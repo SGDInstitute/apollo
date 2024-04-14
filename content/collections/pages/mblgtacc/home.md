@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713118873
+updated_at: 1713118991
 sections:
   -
     id: j7D4Zmil
@@ -201,11 +201,11 @@ sections:
   -
     id: 02SNfQeN
     articles:
-      - 396bc755-80d6-4583-ba1e-d62d365a22e5
-      - 82e17640-72a2-442d-ad47-2f9d7e633b95
       - 79b20e53-7e95-476e-adcd-6748ba545021
+      - 396bc755-80d6-4583-ba1e-d62d365a22e5
+      - 0b0d93a4-3061-4d60-86b6-364cc255c25e
+      - 82e17640-72a2-442d-ad47-2f9d7e633b95
       - c7f6ffdf-793a-421a-92fd-76389b11b8ce
-      - f35d91d0-8672-48fd-993d-7ce17df1f308
     bg_type: gradient
     num_colors: 2
     from_color: from-black
@@ -378,7 +378,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
+    enabled: false
   -
     id: yhrbwVd2
     type: content
