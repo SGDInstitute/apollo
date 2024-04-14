@@ -62,34 +62,13 @@ sections:
             text: roundtables
           -
             type: text
-            text: ".\_ "
+            text: ".\_"
           -
             type: text
             marks:
               -
                 type: italic
-            text: 'Refer to the full '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://mblgtacc.org/schedule-events'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: italic
-              -
-                type: underline
-            text: 'MBLGTACC conference schedule'
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ' for all available details about dates/times.'
+            text: 'When available this fall, refer to the full MBLGTACC conference schedule for all available details about dates/times.'
           -
             type: text
             text: "\_\_"
@@ -274,7 +253,7 @@ sections:
                     type: text
                     text: 'Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated'
     type: content
-    enabled: true
+    enabled: false
   -
     id: lkclrhfb
     bard:
@@ -559,13 +538,7 @@ sections:
             text: 'Consortium website'
           -
             type: text
-            text: '. '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'We specifically thank Zack Parker, Chad Freeman, Jeff Maliskey,  Angie Freeman, and Hilary Murmers for coordinating the advisor programming and drag show.'
+            text: .
       -
         type: paragraph
         attrs:
@@ -582,6 +555,6 @@ sections:
     type: news
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697669722
+updated_at: 1713119660
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
