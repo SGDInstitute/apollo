@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713117846
+updated_at: 1713117913
 sections:
   -
     id: zR1BNzlK
@@ -47,10 +47,19 @@ sections:
         content:
           -
             type: text
+            text: 'At MBLGTACC 2024, each breakout session will be 60 minutes long and take place on Saturday, October 26 and Sunday, October 27.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
             marks:
               -
                 type: bold
-            text: 'More information will be available, and workshop submissions will be open, starting in April 2024.'
+            text: 'Workshop submissions will be open April 15, 2024.'
       -
         type: set
         attrs:
@@ -420,15 +429,6 @@ sections:
         attrs:
           textAlign: left
           class: lead
-        content:
-          -
-            type: text
-            text: 'At MBLGTACC 2024, each breakout session will be 60 minutes long and take place on Saturday, October 26 and Sunday, October 27. '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
         content:
           -
             type: text
