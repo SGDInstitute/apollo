@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713118504
+updated_at: 1713118574
 sections:
   -
     id: zR1BNzlK
@@ -196,7 +196,7 @@ sections:
             text: format
           -
             type: text
-            text: '—telling attendees how your session will be organized and the extent to which they can/should expect to participate. Alignment with a track is not required.'
+            text: '—telling attendees how your session will be organized and the extent to which they can/should expect to participate.'
       -
         type: set
         attrs:
@@ -221,7 +221,7 @@ sections:
           class: null
     image: news/mblgtacc2022-workshops-1-1090x681.jpg
     bg_type: color
-    bg_color: bg-green-600
+    bg_color: bg-green-700
     type: two_column
     enabled: true
   -
