@@ -21,11 +21,12 @@ sections:
         content:
           -
             type: text
-            text: 'The heart of MBLGTACC is the selection of workshops, most peer-led, across four sessions on Saturday and Sunday. Many workshops are also curated into themed tracks.'
+            text: 'The heart of MBLGTACC is the selection of breakout sessions, most peer-led, on Saturday and Sunday. Many workshops are also curated into themed tracks.'
       -
         type: set
         attrs:
           id: 7kQJrWiz
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -121,18 +122,6 @@ sections:
                   -
                     type: text
                     text: 'Change on College Campuses'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Flamboyance and Fortitude: The Sapphic Track'
           -
             type: listItem
             content:
@@ -336,36 +325,6 @@ sections:
                   -
                     type: text
                     text: 'Advocating for improved campus policies and creating an affirming campus climate '
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Flamboyance and Fortitude - The Sapphic Track'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Historical concepts of identity are essential to how we understand our community and ourselves and all too often our history can be inaccessible, or worse, inaccurate causing misunderstandings, frustration, and community turmoil. During sessions in this track you will learn about sapphic history from the 19th century through today. Presenters will delve into discussions of personal and community identity development and explore the implications of homophobia, transphobia, racism, and fatphobia on the words we use and the way we structure our lives.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Brought to you exclusively by FEMME, the Federation of Experienced Multiple MBLGTACC Educators.'
       -
         type: heading
         attrs:
@@ -821,7 +780,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697905124
+updated_at: 1713118037
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
