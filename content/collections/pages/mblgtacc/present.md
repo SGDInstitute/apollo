@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740010
+updated_at: 1713116221
 sections:
   -
     id: zR1BNzlK
@@ -207,7 +207,7 @@ sections:
         content:
           -
             type: text
-            text: "Complete your submission by May 22, 2023 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified by the end of June of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
+            text: "Complete your submission by May 28, 2024 (11:59 p.m. EDT). Following the closing of the proposal period, a committee comprising students, staff, and advisors will review, rank, and select a slate of workshops for this year's conference. Presenters will be notified by the end of June of the status of their proposals, and presenters of accepted workshops will be asked to confirm their intent to present at MBLGTACC and key information about their program."
       -
         type: bulletList
         content:
@@ -222,7 +222,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'April 10: Submissions opened'
+                    text: 'April 15: Submissions opened'
           -
             type: listItem
             content:
@@ -234,10 +234,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'April 17: "MBLGTACC 101: Presenting at the Conference" webinar and live chat'
+                    text: 'May 28: Submissions close at 11:59 p.m. ET'
           -
             type: listItem
             content:
@@ -249,19 +246,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'May 22: Submissions close at 11:59 p.m. ET'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'June 26: Notice to presenter of decision'
+                    text: 'July 12: Notice to presenter of decision'
       -
         type: paragraph
         attrs:
@@ -285,7 +270,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'July 24: Presenter confirmation deadline'
+                    text: 'July 29: Presenter confirmation deadline'
           -
             type: listItem
             content:
@@ -297,7 +282,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Sept. 20: Presenter orientation, 6:30 p.m. ET'
+                    text: 'August 12: Final titles and descriptions due'
           -
             type: listItem
             content:
@@ -309,7 +294,31 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Oct. 20: Presentation materials submitted to conference committee'
+                    text: 'TBA: Presenter orientation'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Sept. 3: Presenters notified of workshop schedule'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Sept. 25 Presentation materials submitted to conference staff'
       -
         type: paragraph
         attrs:
@@ -389,7 +398,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: false
+    enabled: true
   -
     id: workshop-tracks
     column_widths: third_right
@@ -466,7 +475,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Our venue: Central Bank Center'
+            text: 'Our venue: Northern Michigan University'
       -
         type: paragraph
         attrs:
@@ -475,16 +484,7 @@ sections:
         content:
           -
             type: text
-            text: 'As the region’s most popular multi-use entertainment and convention complex, the '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Central Bank Center'
-          -
-            type: text
-            text: ' stands ready to meet the demands of attendees, organizers, and partners, affording attendees, presenters, exhibitors, and visitors alike the warm hospitality for which Lexington and Kentucky are so famous.'
+            text: 'Northern Michigan University, located in Marquette, Michigan, is a dynamic four-year public, comprehensive university that has grown its reputation based on its award-winning leadership programs, cutting-edge technology initiatives, and nationally recognized academic programs. NMU also ranks among the safest public universities in both Michigan and the country.'
       -
         type: set
         attrs:
@@ -494,8 +494,8 @@ sections:
             buttons:
               -
                 id: lhdvv22y
-                link: 'https://www.centralbankcenter.com/'
-                text: 'Central Bank Center website'
+                link: 'https://nmu.edu/'
+                text: 'NMU website'
                 color: btn-white
                 size: btn-lg
                 block: false
@@ -511,7 +511,7 @@ sections:
     bg_type: color
     bg_color: bg-green-700
     type: two_column
-    enabled: false
+    enabled: true
   -
     column_widths: quarter_right
     left_column: content
@@ -833,12 +833,12 @@ sections:
     enabled: false
   -
     id: rZnZzeOr
-    date: '2022-05-13 23:59'
+    date: '2022-05-28 23:59'
     hashtag: 'until workshop proposal deadline'
     bg_type: color
     bg_color: bg-gray-200
     type: countdown
-    enabled: false
+    enabled: true
 template: default
 ---
 Hello world
