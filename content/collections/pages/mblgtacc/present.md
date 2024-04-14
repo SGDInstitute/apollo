@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713117698
+updated_at: 1713117846
 sections:
   -
     id: zR1BNzlK
@@ -432,61 +432,25 @@ sections:
         content:
           -
             type: text
-            text: 'Many sessions will be organized into'
+            text: "When you submit your proposal, you'll be asked if your session aligns with a particular "
           -
             type: text
             marks:
               -
                 type: bold
-            text: ' tracks'
+            text: track
           -
             type: text
-            text: ' and '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'formats:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Track: A collection of sessions centered around a common theme, topic, or experience'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Format: How your session will be organized and the extent to which attendees can expect to participate'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
+            text: '—collection of sessions centered around a common theme, topic, or experience—or '
           -
             type: text
             marks:
               -
                 type: bold
-            text: "When you submit your proposal, you'll be asked if your session aligns with a particular track or format."
+            text: format
+          -
+            type: text
+            text: '—telling attendees how your session will be organized and the extent to which they can/should expect to participate. Alignment with a track is not required.'
       -
         type: set
         attrs:
