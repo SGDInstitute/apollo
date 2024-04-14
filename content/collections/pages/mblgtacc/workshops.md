@@ -116,7 +116,7 @@ sections:
         content:
           -
             type: text
-            text: 'Breakout session experiences'
+            text: 'Format: Types of breakout sessions'
       -
         type: paragraph
         attrs:
@@ -125,7 +125,7 @@ sections:
         content:
           -
             type: text
-            text: "A breakout session's format gives you important information about how it will be delivered and the extent to you, as an attendee, may expect to participate:"
+            text: "A breakout session's format gives you important information about the experience, how it will be delivered, and the extent to which you, as an attendee, may expect to participate:"
       -
         type: bulletList
         content:
@@ -214,7 +214,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tracks: Curating your sessions by topic'
+            text: 'Tracks: Curating sessions by topic'
       -
         type: paragraph
         attrs:
@@ -508,7 +508,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713127854
+updated_at: 1713128016
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
