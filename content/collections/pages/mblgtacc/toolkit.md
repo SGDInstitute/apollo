@@ -40,7 +40,7 @@ sections:
             text: 'Midwest Bisexual Lesbian Gay Transgender Asexual College Conference'
           -
             type: text
-            text: ' will take place from October 25-27, 2025 at Northern Michigan University in Marquette, Michigan.'
+            text: ' will take place from October 25-27, 2024 at Northern Michigan University in Marquette, Michigan.'
       -
         type: set
         attrs:
@@ -1472,6 +1472,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713119931
+updated_at: 1713120026
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
