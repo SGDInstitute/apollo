@@ -21,7 +21,16 @@ sections:
         content:
           -
             type: text
-            text: 'The heart of MBLGTACC is the selection of breakout sessions, most peer-led, on Saturday and Sunday. Many workshops are also curated into themed tracks.'
+            text: 'The heart of MBLGTACC 2024 will be the broad selection of 60 minute breakout sessions, most peer-led, across Saturday, October 26 and Sunday, October 27. '
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: 'When announced this fall, selected sessions will be will be included in our program booklet and online—categorized by format and, when applicable, curated into themed tracks.'
       -
         type: set
         attrs:
@@ -499,7 +508,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713121536
+updated_at: 1713122134
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
