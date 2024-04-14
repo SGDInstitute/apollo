@@ -85,7 +85,7 @@ sections:
         content:
           -
             type: text
-            text: 'List of tracks'
+            text: Format
       -
         type: paragraph
         attrs:
@@ -94,7 +94,7 @@ sections:
         content:
           -
             type: text
-            text: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests.'
+            text: "Types of sessions based on how they're generally organized and the extent to which attendees can/should expect to participate:"
       -
         type: bulletList
         content:
@@ -109,7 +109,13 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Art, Media, and Design'
+                    marks:
+                      -
+                        type: bold
+                    text: 'Knowledge Builder'
+                  -
+                    type: text
+                    text: ': Workshop presenters (individuals or panels) will share specific content, research, knowledge, and/or history with the audience. Sessions may include Q&A from the audience, but this isn’t required.'
           -
             type: listItem
             content:
@@ -121,7 +127,13 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Change on College Campuses'
+                    marks:
+                      -
+                        type: bold
+                    text: 'Application & Decompression'
+                  -
+                    type: text
+                    text: ': These sessions provide the “what’s next” implicitly or explicitly and help attendees break down the information they’ve learned and prepare to apply it after leaving MBLGTACC. Audience participation and experiences are encouraged in these sessions.'
           -
             type: listItem
             content:
@@ -133,7 +145,13 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Justice: Activism and Protest'
+                    marks:
+                      -
+                        type: bold
+                    text: 'Facilitated Conversation'
+                  -
+                    type: text
+                    text: ': Workshop presenters will engage the audience in a discussion about a topic or shared experience. Audience participation and experiences are centered in these sessions.'
           -
             type: listItem
             content:
@@ -145,33 +163,15 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Small Town Queerness'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Skill Lab'
                   -
                     type: text
-                    text: 'Self and Community Care'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: Advisors
+                    text: ': These sessions feature hands-on demonstrations that provide a tangible outcome or product.'
     type: content
-    enabled: false
+    enabled: true
   -
     id: vV9Umfw1
     bard:
@@ -780,7 +780,7 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713118037
+updated_at: 1713118228
 description: 'A track is a curated series of workshops centered around a common theme or topic, creating opportunities for deeper engagement and helping attendees align their schedules and interests. Tracks include Art, Media and Design; Change on College Campuses; Justice: Activism and Protest; Self and Community Care; Small-Town Queerness; and Advisor Track'
 image:
   - news/tracks-description-announce-2022-1090x681.jpg
