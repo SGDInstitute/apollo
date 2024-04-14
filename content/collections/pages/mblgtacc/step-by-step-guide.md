@@ -1,5 +1,6 @@
 ---
 id: eb2322c8-5741-4ce6-a2d1-04b735c6620e
+published: false
 blueprint: pages
 title: 'Step by Step Guide'
 sections:
@@ -878,5 +879,5 @@ sections:
 parent: 12d04696-6c0f-4433-aa6c-499fe7572ed9
 description: 'Our step by step guide takes you chronologically through the process of getting from your community to Lexington this November.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1710526975
+updated_at: 1713120121
 ---
