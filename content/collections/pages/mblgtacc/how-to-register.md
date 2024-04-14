@@ -59,7 +59,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2023 in person are '
+            text: 'Tickets to attend MBLGTACC 2024 in person are '
           -
             type: text
             marks:
@@ -68,7 +68,7 @@ sections:
             text: '$100 each'
           -
             type: text
-            text: ". You'll have access to all programming taking place at the Central Bank Center. Register by October 3 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
+            text: ". You'll have access to all programming taking place at Northern Michigan University. Register by September 25 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
       -
         type: bulletList
         content:
@@ -149,16 +149,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2023 in person can be purchased on-site during the conference for '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '$100 per person'
-          -
-            type: text
-            text: .
+            text: 'Tickets to attend MBLGTACC 2024 in person can be purchased on-site during the conference for an additional fee.'
     type: content
     enabled: true
   -
@@ -282,7 +273,7 @@ sections:
             buttons:
               -
                 id: u8cWUfa2
-                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2023'
+                link: 'https://apps.sgdinstitute.org/events/mblgtacc-2024'
                 text: 'Reserve Tickets Now'
                 color: btn-green
                 size: btn-lg
@@ -431,5 +422,5 @@ sections:
     enabled: false
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713121286
+updated_at: 1713122576
 ---
