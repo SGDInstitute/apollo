@@ -1,5 +1,6 @@
 ---
 id: 4de52d2d-f8fe-43ab-9b3a-5f9911d7d1e2
+published: false
 blueprint: pages
 title: 'Workshop Session 2'
 sections:
@@ -653,5 +654,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Session 2 workshops'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699045713
+updated_at: 1713120970
 ---
