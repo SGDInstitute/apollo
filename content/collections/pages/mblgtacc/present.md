@@ -4,7 +4,7 @@ blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713116221
+updated_at: 1713116283
 sections:
   -
     id: zR1BNzlK
@@ -833,7 +833,7 @@ sections:
     enabled: false
   -
     id: rZnZzeOr
-    date: '2022-05-28 23:59'
+    date: '2024-05-28 23:59'
     hashtag: 'until workshop proposal deadline'
     bg_type: color
     bg_color: bg-gray-200
