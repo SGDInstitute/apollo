@@ -1,5 +1,6 @@
 ---
 id: 148a18c5-15c5-4acf-ae9e-9c5855ac307d
+published: false
 blueprint: pages
 title: 'Workshop Session 1'
 sections:
@@ -704,5 +705,5 @@ sections:
     enabled: true
 description: 'MBLGTACC 2023 - Workshop Session 1 descriptions'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697905229
+updated_at: 1713120963
 ---
