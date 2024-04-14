@@ -1,6 +1,5 @@
 ---
 id: f014f793-2dc9-4709-8f2f-57a25fc94f8e
-published: false
 blueprint: pages
 title: Accessibility
 sections:
@@ -105,7 +104,7 @@ sections:
         content:
           -
             type: text
-            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per Central Bank Center policy, ESAs are not permitted in the venue.'
+            text: 'MBLGTACC recognizes that ESAs serve an important role in many individual’s lives; however, per venue policy, ESAs are not permitted in the venue.'
       -
         type: heading
         attrs:
@@ -141,7 +140,7 @@ sections:
         content:
           -
             type: text
-            text: 'All workshops, identity forums, and keynotes will be held in the Central Bank Center. The facility is ADA compliant and has large spaces to accommodate the traffic peaks during session transitions. All sessions will beheld in close proximity and transition time will be allowed in the schedule. '
+            text: 'Spaces for all workshops, identity forums, and keynotes will be held in ADA compliant spaces with amply room to accommodate the traffic peaks during session transitions. All sessions will beheld in close proximity and transition time will be allowed in the schedule. '
           -
             type: text
             marks:
@@ -376,5 +375,5 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740526
+updated_at: 1713119591
 ---
