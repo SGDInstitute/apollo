@@ -3,8 +3,8 @@ id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713118614
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1713227150
 sections:
   -
     id: zR1BNzlK
@@ -59,7 +59,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Workshop submissions will be open April 15, 2024.'
+            text: 'Workshop submissions are open until May 28, 2024 at 11:59 p.m. ET.'
       -
         type: set
         attrs:
@@ -70,13 +70,13 @@ sections:
             buttons:
               -
                 id: 7kHrnjQq
-                text: 'Get updates'
+                text: 'Apply to present a workshop'
                 color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
                 target_blank: true
-                link: 'entry::dca874eb-b7c9-4175-828d-75840c0f89f1'
+                link: 'https://apps.sgdinstitute.org/forms/MBLGTACC-2024-Workshop-Proposal'
             contain: true
       -
         type: heading
