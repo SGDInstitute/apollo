@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713119022
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1713226840
 sections:
   -
     id: j7D4Zmil
@@ -40,7 +40,7 @@ sections:
             type: video
             video: 'https://youtu.be/D9zHQifiztQ?si=D4s6Pf9SrYrTHiYE'
     type: content
-    enabled: true
+    enabled: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -69,7 +69,6 @@ sections:
         type: set
         attrs:
           id: 2ywrq54o
-          enabled: false
           values:
             type: buttons
             buttons:
