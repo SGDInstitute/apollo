@@ -68,7 +68,7 @@ sections:
             text: '$100 each'
           -
             type: text
-            text: ". You'll have access to all programming taking place at Northern Michigan University. Register by September 25 to guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
+            text: ". You'll have access to all programming taking place at Northern Michigan University. Register by September 25 to guarantee your accessibility accommodation(s), program booklet, swag, and dietary needs. Your ticket helps cover the cost of renting the conference center, technology needs, speakers and entertainers, and other administrative expenses:"
       -
         type: bulletList
         content:
@@ -119,7 +119,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "$15 goes toward catering (Saturday's Revoluncheon)"
+                    text: '$15 goes toward catering'
           -
             type: listItem
             content:
@@ -140,6 +140,38 @@ sections:
         content:
           -
             type: text
+            text: 'Late registration (in person)'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: "After September 25, tickets to attend MBLGTACC 2024 in person are $120 each. You'll have access to all programming at the conference; however, we are unable to guarantee your accessibility accommodation(s), program booklet, swag, and dietary needs due to deadlines for purchasing materials and contracting with third-party providers. If you are registering late and you need an accommodation or you have a dietary restriction, please "
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'contact us'
+          -
+            type: text
+            text: ' as soon as possible (in addition to adding this information to your ticket).'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
             text: 'On-site registration (in person)'
       -
         type: paragraph
@@ -149,7 +181,7 @@ sections:
         content:
           -
             type: text
-            text: 'Tickets to attend MBLGTACC 2024 in person can be purchased on-site during the conference for an additional fee.'
+            text: 'Tickets to attend MBLGTACC 2024 in person can be purchased on-site during the conference for $120.'
     type: content
     enabled: true
   -
@@ -199,7 +231,7 @@ sections:
         content:
           -
             type: text
-            text: "Reservations are valid for 45 days (or until November 4). If your tickets are still unpaid after 45 days, you'll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted."
+            text: "Reservations are valid for 45 days (or until October 25). If your tickets are still unpaid after 45 days, you'll receive an email with an option to extend or cancel your reservation. Reservations that are not paid after 45 days and have not been extended will be automatically deleted."
       -
         type: heading
         attrs:
@@ -421,6 +453,6 @@ sections:
     type: news
     enabled: false
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713122576
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1713226833
 ---
