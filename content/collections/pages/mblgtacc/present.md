@@ -3,8 +3,8 @@ id: 9922d7ae-228e-47e1-9ab9-c3aa3a578f6d
 blueprint: pages
 title: Present
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1713227183
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1713385153
 sections:
   -
     id: zR1BNzlK
@@ -527,7 +527,7 @@ sections:
         attrs:
           textAlign: left
           class: lead
-    image: central-bank-center-lexington-1099x681.jpg
+    image: nmu-aerial-1090x681.jpg
     bg_type: color
     bg_color: bg-green-700
     type: two_column
