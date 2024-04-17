@@ -5,7 +5,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740442
+updated_at: 1713386571
 sections:
   -
     id: PZJpiZuz
@@ -25,7 +25,19 @@ sections:
         content:
           -
             type: text
-            text: 'The 31st annual MBLGTACC will bring together students, activists, makers, thought leaders, higher ed pros, artists, and more.'
+            text: 'The 32nd annual MBLGTACC will bring together students, activists, makers, thought leaders, higher ed pros, artists, and more.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Times listed in Eastern Daylight Time.'
     type: content
     enabled: true
   -
@@ -39,19 +51,7 @@ sections:
         content:
           -
             type: text
-            text: 'Friday, November 3'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Times listed in Eastern Daylight Time.'
+            text: 'Friday, October 25'
       -
         type: set
         attrs:
@@ -110,19 +110,7 @@ sections:
         content:
           -
             type: text
-            text: 'Saturday, November 4'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Times listed in Eastern Daylight Time.'
+            text: 'Saturday, October 26'
       -
         type: set
         attrs:
@@ -201,47 +189,7 @@ sections:
         content:
           -
             type: text
-            text: 'Sunday, November 5'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Times listed in Eastern '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: Standard
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: " Time. That's right, "
-          -
-            type: text
-            marks:
-              -
-                type: italic
-              -
-                type: underline
-            text: "it's an extra hour of MBLGTACC"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ' when clocks fall back an hour at 2 a.m. on Sunday, November 5'
+            text: 'Sunday, October 27'
       -
         type: set
         attrs:
