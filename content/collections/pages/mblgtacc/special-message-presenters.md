@@ -1,5 +1,6 @@
 ---
 id: 8ec47770-47e6-48ed-8b5a-a113fac5ba5c
+published: false
 blueprint: pages
 title: 'Special message'
 sections:
@@ -94,5 +95,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687817104
+updated_at: 1713386377
 ---
