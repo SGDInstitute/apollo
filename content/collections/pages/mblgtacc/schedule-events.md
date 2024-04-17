@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713387493
+updated_at: 1713387770
 sections:
   -
     id: PZJpiZuz
@@ -131,13 +131,13 @@ sections:
                   - '<em>TBA</em>'
               -
                 cells:
-                  - '9:00 - 10:15 a.m.'
+                  - '9:00 - 10:00 a.m.'
                   - 'Breakout Session 1'
                   - Various
               -
                 cells:
                   - '10:00 a.m. - 5:30 p.m.'
-                  - 'Vendor Fair'
+                  - 'Maker Market & Vendor Fair'
                   - '<em>TBA</em>'
               -
                 cells:
@@ -146,8 +146,8 @@ sections:
                   - Various
               -
                 cells:
-                  - '12:00-2:00 p.m.'
-                  - Lunch
+                  - '12:00 - 2:00 p.m.'
+                  - 'Lunch Programming'
                   - '<em>TBA</em>'
               -
                 cells:
@@ -161,14 +161,14 @@ sections:
                   - '<em>TBA</em>'
               -
                 cells:
-                  - '5:30-6:30 p.m.'
+                  - '5:30 - 6:30 p.m.'
                   - Keynote
                   - '<em>TBA</em>'
               -
                 cells:
                   - '6:30 - 8:30 p.m.'
-                  - 'Dinner break (on your own)'
-                  - Various
+                  - 'Dinner break'
+                  - '<em>On your own</em>'
               -
                 cells:
                   - '8:30-11:00 p.m.'
