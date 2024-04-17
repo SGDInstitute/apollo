@@ -1,11 +1,10 @@
 ---
 id: 87680b15-89d3-4128-b22c-532f8f4ea4b0
-published: false
 blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713387333
+updated_at: 1713387493
 sections:
   -
     id: PZJpiZuz
@@ -37,7 +36,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'Times listed in Eastern Daylight Time.'
+            text: 'The schedule below is advisory, and we may adjust individual sessions and times over the summer. All times listed in Eastern Daylight Time.'
     type: content
     enabled: true
   -
