@@ -5,7 +5,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713387288
+updated_at: 1713387333
 sections:
   -
     id: PZJpiZuz
@@ -290,7 +290,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: SD9HVsiv
     limit: 3
@@ -299,7 +299,7 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-description: 'Schedule of events for the 2023 Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC).'
+description: 'Schedule of events for the 2024 Midwest Bisexual Lesbian Gay Transgender Asexual College Conference (MBLGTACC).'
 image:
   - headers/header-chicago_pier.jpg
 ---
