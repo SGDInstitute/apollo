@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713385707
+updated_at: 1713386151
 sections:
   -
     id: j7D4Zmil
@@ -357,14 +357,14 @@ sections:
         content:
           -
             type: text
-            text: 'Thank you to our 2023 sponsors'
+            text: 'MBLGTACC 2024 is presented by'
       -
         type: set
         attrs:
           id: dfeCtgK7
           values:
             type: image
-            image: sponsor-logos-2023-10-13.jpg
+            image: sponsors/sponsor-logos-2024.png
             inline: false
       -
         type: paragraph
@@ -377,7 +377,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: false
+    enabled: true
   -
     id: yhrbwVd2
     type: content
