@@ -5,7 +5,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713386571
+updated_at: 1713387288
 sections:
   -
     id: PZJpiZuz
@@ -70,32 +70,32 @@ sections:
                 cells:
                   - '2:00 -  10:00 p.m.'
                   - Registration/Check-In
-                  - 'Ballroom 1'
+                  - '<em>TBA</em>'
               -
                 cells:
                   - '5:00 -  10:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/maker-market">Maker Market</a></b></font>'
-                  - 'Ballroom 1'
+                  - 'Maker Market & Vendor Fair'
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '6:30 - 7:00 p.m.'
-                  - 'Welcome & Opening Remarks'
-                  - 'Ballroom 2-3'
+                  - '5:30 - 7:00 p.m.'
+                  - 'Welcome & Keynote'
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '7:00 - 8:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/speakers">Keynote: Hayden Kristal</a></b></font>'
-                  - 'Ballroom 2-3'
-              -
-                cells:
-                  - '8:00 - 10:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/entertainment">Gaymes and Crafts</a></b></font>'
-                  - 'Ballroom 1'
+                  - '7:00 - 8:30 p.m.'
+                  - 'Dinner break'
+                  - '<em>On your own</em>'
               -
                 cells:
                   - '8:30 - 10:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/advisor-programming">Advisor Social</a></b></font>'
-                  - 'Atrium by Meeting Room 14'
+                  - 'Identity Socials'
+                  - '<em>TBA</em>'
+              -
+                cells:
+                  - '8:30 - 10:00 p.m.'
+                  - 'Advisor Social'
+                  - '<em>TBA</em>'
             full_width: true
       -
         type: paragraph
@@ -127,54 +127,54 @@ sections:
                   - Location
               -
                 cells:
-                  - '8:00 a.m.-10 p.m.'
+                  - '8:00 a.m. - 11:00 p.m.'
                   - Check-In/Information
-                  - 'Ballroom 1'
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '9:00-10:15 a.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-1">Workshop Session 1</a></b></font>'
+                  - '9:00 - 10:15 a.m.'
+                  - 'Breakout Session 1'
                   - Various
               -
                 cells:
-                  - '10:00 a.m.-6 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/vendor-fair">Vendor Fair</a></b></font> & <font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/maker-market">Maker Market</a></b></font>'
-                  - 'Ballroom 1'
+                  - '10:00 a.m. - 5:30 p.m.'
+                  - 'Vendor Fair'
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '10:45 a.m.-12 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-2">Workshop Session 2</a></b></font>'
+                  - '10:30 - 11:30 a.m.'
+                  - 'Workshop Session 2'
                   - Various
               -
                 cells:
                   - '12:00-2:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/lunch-learn">The Revoluncheon: <br>Katie Barnes and R.B. Brooks</a></b></font>'
-                  - 'Exhibit Hall A-2'
+                  - Lunch
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '2:00-3:15 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/identity-forums">Identity Forums</a></b></font>'
+                  - '2:30 - 3:30 p.m.'
+                  - 'Breakout Session 3'
                   - Various
               -
                 cells:
-                  - '3:45-5:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-3">Workshop Session 3</a></b></font>'
-                  - Various
+                  - '4:00 - 5:00 p.m.'
+                  - 'Breakout Session 4'
+                  - '<em>TBA</em>'
               -
                 cells:
                   - '5:30-6:30 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/speakers">Keynote: Katie Barnes</a></b></font>'
-                  - 'Ballroom 2-3'
+                  - Keynote
+                  - '<em>TBA</em>'
               -
                 cells:
-                  - '7:30-8:30 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/entertainment">GRWM Pre-Show</a></b></font>'
-                  - 'Club Room C'
+                  - '6:30 - 8:30 p.m.'
+                  - 'Dinner break (on your own)'
+                  - Various
               -
                 cells:
                   - '8:30-11:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/entertainment">Drag Show</a></b></font>'
-                  - 'Club Room C'
+                  - Entertainment
+                  - '<em>TBA</em>'
             full_width: true
       -
         type: paragraph
@@ -206,19 +206,19 @@ sections:
                   - Location
               -
                 cells:
-                  - '9:00-10:15 a.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/identity-forums">Identity Forums</a></b></font>'
-                  - Various
+                  - '9:00 - 10:15 a.m.'
+                  - 'Breakfast Social and Closing'
+                  - '<em>TBA</em>'
               -
                 cells:
                   - '10:45 a.m.-12:00 p.m.'
-                  - '<font color="#07807b"><b><a href="https://mblgtacc.org/schedule-events/workshops/session-4">Workshop Session 4</a></b></font>'
+                  - 'Breakout Session #5'
                   - Various
               -
                 cells:
-                  - '12:30-1:00 p.m.'
-                  - 'Closing Remarks'
-                  - 'Ballroom 2-3'
+                  - '12:00 - 1:00 p.m.'
+                  - 'Breakout Session #6'
+                  - Various
             full_width: true
     type: content
     enabled: true
