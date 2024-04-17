@@ -1,5 +1,6 @@
 ---
 id: 5e732bb9-a4f3-4719-908d-ca755956a0b5
+published: false
 blueprint: pages
 title: 'Message to aspiring presenters'
 sections:
@@ -149,5 +150,5 @@ sections:
     type: content
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1687622284
+updated_at: 1713386388
 ---
