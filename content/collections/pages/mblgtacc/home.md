@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713385675
+updated_at: 1713385707
 sections:
   -
     id: j7D4Zmil
@@ -65,33 +65,6 @@ sections:
           -
             type: text
             text: 'Join us in Marquette! Register by September 25 to lock in the regular registration rate and guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: lead
-                content:
-                  -
-                    type: text
-                    text: '$100 regular registration: April 15 - September 25'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: lead
-                content:
-                  -
-                    type: text
-                    text: '$120 late registration: September 26 - October 26'
       -
         type: set
         attrs:
