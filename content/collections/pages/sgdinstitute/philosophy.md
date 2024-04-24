@@ -287,6 +287,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -300,6 +301,9 @@ sections:
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -307,15 +311,19 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://apollo.sgdinstitute.org/about/mission'
-                          target: _blank
+                          href: 'statamic://entry::ad088f33-ab22-428b-a582-cd5a53022895'
                           rel: null
+                          target: null
+                          title: null
                     text: 'Our mission, vision, and values'
           -
             type: listItem
             content:
               -
                 type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
                 content:
                   -
                     type: text
@@ -323,9 +331,10 @@ sections:
                       -
                         type: link
                         attrs:
-                          href: 'https://apollo.sgdinstitute.org/about/team'
-                          target: _blank
+                          href: 'statamic://entry::d8e2b8ed-5f03-4aae-b5d6-469c342aa10f'
                           rel: null
+                          target: null
+                          title: null
                     text: 'Our team'
     type: content
     enabled: true
@@ -386,8 +395,8 @@ sections:
     enabled: true
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1678369969
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1713994337
 image:
   - headers/homepage-hero1.jpg
 description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
