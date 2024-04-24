@@ -315,7 +315,7 @@ sections:
                         text: 'Mission, vision, values'
                         color: btn-green
                         size: btn-lg
-                        block: false
+                        block: true
                         outline: true
                         target_blank: false
                     contain: true
@@ -357,6 +357,7 @@ sections:
       -
         type: heading
         attrs:
+          textAlign: left
           level: 2
         content:
           -
@@ -364,12 +365,18 @@ sections:
             text: "Let's collaborate"
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
             text: "As we continue to grow and evolve, we're eager to continue building relationships and developing mutually beneficial partnerships with others working in mission- and/or philosophy-aligned movements, initiatives, community spaces, and organizations. If we haven't met, please reach out and let us introduce ourselves."
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: set
         attrs:
@@ -389,6 +396,9 @@ sections:
             contain: true
       -
         type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     image: team/justin-mblgtacc-2018-board-room-teaser-1090x681.jpg
     bg_type: color
     bg_color: bg-green-600
@@ -405,7 +415,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713994507
+updated_at: 1713994526
 image:
   - headers/homepage-hero1.jpg
 description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
