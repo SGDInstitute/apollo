@@ -337,7 +337,7 @@ sections:
                         text: 'Our team'
                         color: btn-green
                         size: btn-lg
-                        block: false
+                        block: true
                         outline: true
                         target_blank: false
                     contain: true
@@ -405,7 +405,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713994463
+updated_at: 1713994507
 image:
   - headers/homepage-hero1.jpg
 description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
