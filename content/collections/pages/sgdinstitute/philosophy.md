@@ -294,48 +294,57 @@ sections:
             type: text
             text: 'Learn more'
       -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
+        type: set
+        attrs:
+          id: lvecadrh
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
+              -
+                type: set
+                attrs:
+                  id: lvecalg6
+                  values:
+                    type: buttons
+                    buttons:
+                      -
+                        id: lvecarn6
+                        link: 'entry::ad088f33-ab22-428b-a582-cd5a53022895'
+                        text: 'Mission, vision, values'
+                        color: btn-green
+                        size: btn-lg
+                        block: false
+                        outline: true
+                        target_blank: false
+                    contain: true
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
-                content:
-                  -
-                    type: text
-                    marks:
+            right_content:
+              -
+                type: set
+                attrs:
+                  id: lvecao87
+                  values:
+                    type: buttons
+                    buttons:
                       -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::ad088f33-ab22-428b-a582-cd5a53022895'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Our mission, vision, and values'
-          -
-            type: listItem
-            content:
+                        id: lvecbbhx
+                        link: 'entry::d8e2b8ed-5f03-4aae-b5d6-469c342aa10f'
+                        text: 'Our team'
+                        color: btn-green
+                        size: btn-lg
+                        block: false
+                        outline: true
+                        target_blank: false
+                    contain: true
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'statamic://entry::d8e2b8ed-5f03-4aae-b5d6-469c342aa10f'
-                          rel: null
-                          target: null
-                          title: null
-                    text: 'Our team'
     type: content
     enabled: true
   -
@@ -396,7 +405,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713994337
+updated_at: 1713994463
 image:
   - headers/homepage-hero1.jpg
 description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
