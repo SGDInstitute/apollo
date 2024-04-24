@@ -15,8 +15,8 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    subtitle: 'Season 5 streams on Apple, Google, and Spotify starting April 23'
-    link: 'entry::d870a5bb-f45c-4a75-a936-a41ad9c2c29d'
+    subtitle: 'Season 5 streaming now on Apple, Google, and Spotify'
+    link: 'entry::c2c72c5f-c905-491a-b27a-f9492f7f09dc'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -170,17 +170,25 @@ sections:
             type: text
             text: 'Season 5'
       -
-        type: paragraph
+        type: heading
         attrs:
           textAlign: left
-          class: null
+          level: 3
         content:
           -
             type: text
             marks:
               -
-                type: italic
-            text: 'Season 5 will start streaming April 23'
+                type: link
+                attrs:
+                  href: 'statamic://entry::c2c72c5f-c905-491a-b27a-f9492f7f09dc'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 1: Midwest: More than Cows, Corn, and Conservatives'
+          -
+            type: text
+            text: ' →'
     type: content
     enabled: true
   -
@@ -1389,7 +1397,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1712698270
+updated_at: 1713993872
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
