@@ -312,7 +312,7 @@ sections:
                       -
                         id: lvecarn6
                         link: 'entry::ad088f33-ab22-428b-a582-cd5a53022895'
-                        text: 'Mission, vision, values'
+                        text: 'Mission, vision, & values'
                         color: btn-green
                         size: btn-lg
                         block: true
@@ -415,7 +415,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713994526
+updated_at: 1713994567
 image:
   - headers/homepage-hero1.jpg
 description: 'The history, origin, and guiding principles of the Institute shape our work and how we seek to amplify and uplift the needs of queer and trans people in the Midwest.'
