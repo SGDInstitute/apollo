@@ -24,7 +24,7 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Thank you for your interest in advertising at MBLGTACC 2023. '
+            text: 'Thank you for your interest in advertising at MBLGTACC 2024. '
           -
             type: text
             text: "Each year, MBLGTACC creates a beautiful program guide that attendees use throughout the weekend and often keep as souvenirs. Ad space in the program guide offers conference supporters the chance to share information about their organizations, academic programs, and offerings.\_"
@@ -101,7 +101,7 @@ sections:
             text: 'Reserve by:'
           -
             type: text
-            text: ' Sept. 30, 2023'
+            text: ' Sept. 25, 2024'
           -
             type: hardBreak
           -
@@ -112,7 +112,7 @@ sections:
             text: 'Ad due by:'
           -
             type: text
-            text: ' Oct. 7, 2023'
+            text: ' Oct. 4, 2024'
       -
         type: set
         attrs:
@@ -129,17 +129,17 @@ sections:
                   - Specs
               -
                 cells:
-                  - $300
+                  - $400
                   - 1/4
                   - '3.375" W x 4.625" H'
               -
                 cells:
-                  - $400
+                  - $700
                   - 1/2
                   - '7" W x 4.625" H'
               -
                 cells:
-                  - $600
+                  - '$1,000'
                   - Full
                   - '7" W x 8.5" H'
             full_width: true
@@ -259,6 +259,6 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683048778
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714773003
 ---
