@@ -85,7 +85,7 @@ sections:
           display: 'Which days do you want to participate?'
           type: checkboxes
           icon: checkboxes
-          instructions: "Please indicate which day(s) you'd like to participate. Only those who qualify to participate the Maker Market will be considered for the 2-Day pass."
+          instructions: "Please indicate which day(s) you'd like to participate."
           localizable: false
           listable: hidden
           instructions_position: above
