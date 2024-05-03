@@ -235,7 +235,13 @@ sections:
         content:
           -
             type: text
-            text: 'Keynote Sponsor - $15,000'
+            marks:
+              -
+                type: bold
+            text: 'Keynote Sponsor'
+          -
+            type: text
+            text: ' - $15,000'
           -
             type: hardBreak
           -
@@ -252,7 +258,13 @@ sections:
         content:
           -
             type: text
-            text: 'Entertainment Sponsor - $15,000'
+            marks:
+              -
+                type: bold
+            text: 'Entertainment Sponsor'
+          -
+            type: text
+            text: ' - $15,000'
       -
         type: paragraph
         attrs:
@@ -261,7 +273,13 @@ sections:
         content:
           -
             type: text
-            text: 'Identity Social Sponsor - $10,000'
+            marks:
+              -
+                type: bold
+            text: 'Identity Social Sponsor'
+          -
+            type: text
+            text: ' - $10,000'
       -
         type: paragraph
         attrs:
@@ -270,7 +288,13 @@ sections:
         content:
           -
             type: text
-            text: 'Breakfast Social Sponsor - $20,000'
+            marks:
+              -
+                type: bold
+            text: 'Breakfast Social Sponsor'
+          -
+            type: text
+            text: ' - $20,000'
           -
             type: hardBreak
           -
@@ -278,7 +302,7 @@ sections:
             marks:
               -
                 type: italic
-            text: 'You can be a co-sponsor of the breakfast social with another organization for $10,000'
+            text: 'You can be a co-sponsor of the breakfast social with another organization for $10,000.'
       -
         type: paragraph
         attrs:
@@ -287,108 +311,13 @@ sections:
         content:
           -
             type: text
-            text: 'Workshop Track Sponsor - $10,000'
-          -
-            type: hardBreak
-          -
-            type: text
             marks:
               -
-                type: italic
-            text: 'Available tracks include:'
-      -
-        type: bulletList
-        content:
+                type: bold
+            text: 'Workshop Track Sponsor'
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Art, Media & Design'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Change on College Campuses'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Justice: Activism & Protest'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Self & Community Care'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: 'Small-Town Queerness'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: Advisor
+            type: text
+            text: ' - $10,000'
       -
         type: set
         attrs:
@@ -520,6 +449,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714772036
+updated_at: 1714772112
 description: 'Sponsor the 2023 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
