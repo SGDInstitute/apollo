@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714776013
+updated_at: 1714776122
 sections:
   -
     id: o8rIUpZR
@@ -231,7 +231,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
     image: central-bank-center-lexington-1099x681.jpg
   -
     id: lh6jf8d6
@@ -350,6 +350,6 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
+    enabled: false
 ---
 Hello world
