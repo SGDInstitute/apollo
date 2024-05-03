@@ -12,6 +12,19 @@ tree:
     id: 71f2ec72-c094-4c93-b7ba-51b3b47bf4d7
     entry: 12d04696-6c0f-4433-aa6c-499fe7572ed9
   -
+    id: 2666c4b4-4d49-4174-910e-bab820be2c53
+    entry: 6b6906fa-60ad-436d-ae31-1972a8651df0
+    children:
+      -
+        id: f57f8415-aa5c-475c-880c-992da62dfc3d
+        entry: db847b46-c043-41ef-b602-d963a8624cbf
+      -
+        id: 67297b43-e8f1-4834-a408-cb918b7bf189
+        entry: 5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291
+      -
+        id: 4fdb651c-cf9d-4b64-8f65-e980639765c0
+        entry: 8fe5c804-da7c-474e-bf42-75f8dbf3a914
+  -
     id: 0b07256e-7db7-451f-9621-f8c2f2813c5f
     entry: c36f7410-114f-46ae-bdde-8ac59f66d1da
     title: News
