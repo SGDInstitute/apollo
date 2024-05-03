@@ -1,11 +1,10 @@
 ---
 id: 6b6906fa-60ad-436d-ae31-1972a8651df0
-published: false
 blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1699740654
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714776013
 sections:
   -
     id: o8rIUpZR
@@ -79,7 +78,7 @@ sections:
         content:
           -
             type: text
-            text: ' In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally recognized queer and trans artists and performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
+            text: 'In the course of a weekend, a student can attend half-a-dozen workshops, catch keynotes by activists and thought leaders, meet with nonprofit leaders and grad school admissions representatives, and bear witness to the talent of locally and nationally recognized queer and trans artists and performers. All of this is made possible, in part, through the generous support of our friends, community partners, and corporate sponsors.'
       -
         type: heading
         attrs:
