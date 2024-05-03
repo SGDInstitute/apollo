@@ -30,7 +30,7 @@ sections:
         content:
           -
             type: text
-            text: 'We’re thrilled to host our 31st annual gathering in Lexington, Kentucky, a partnership between the University of Kentucky, VisitLEX, and a dedicated host committee of students and advisors.'
+            text: 'We’re thrilled to host our 32nd annual gathering in Marquette, Michigan, made possible in part by a dedicated host committee of students and advisors from Northern Michigan University.'
       -
         type: paragraph
         attrs:
@@ -39,7 +39,7 @@ sections:
         content:
           -
             type: text
-            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, over 2,000 attendees come together at MBLGTACC to learn and grow through the knowledge and experiences of others. To date, it is America’s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run. This year’s theme is “Queer Joy as Our Lasting Legacy."'
+            text: 'Through a mix of workshops, keynotes, entertainment, and social activities, attendees come together at MBLGTACC to learn and grow through the knowledge and experiences of others. To date, it is America’s largest and oldest continuously-held conference for queer and trans+ college students. And it remains proudly student-run. This year’s theme is “We Are Everywhere."'
       -
         type: paragraph
         attrs:
@@ -62,6 +62,7 @@ sections:
         type: set
         attrs:
           id: CfsNwxm7
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -85,10 +86,23 @@ sections:
                 target_blank: false
             contain: true
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
+          id: lvr6mzzp
+          enabled: false
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 2fmJU95y
+                link: 'mailto:development@sgdinstitute.org'
+                text: 'Get in touch'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
     type: content
     enabled: true
   -
@@ -141,25 +155,7 @@ sections:
                   - ''
               -
                 cells:
-                  - 'Logo displayed on main<br/>stage, duration of<br/>conference'
-                  - ✓
-                  - ''
-                  - ''
-                  - ''
-                  - ''
-                  - ''
-              -
-                cells:
-                  - 'Logo displayed on main<br/>stage, one keynote'
-                  - ✓
-                  - ✓
-                  - ''
-                  - ''
-                  - ''
-                  - ''
-              -
-                cells:
-                  - 'Logo on directional<br/>signage'
+                  - 'Logo on welcome<br/>signage'
                   - ✓
                   - ✓
                   - ✓
@@ -178,12 +174,12 @@ sections:
               -
                 cells:
                   - 'Program book ad size'
-                  - Spread
+                  - 2-Page<br/>Spread
                   - 'Full page'
                   - 'Full page'
                   - ½
                   - ½
-                  - ¼
+                  - ''
               -
                 cells:
                   - 'Recognition in<br/>print program'
@@ -194,11 +190,6 @@ sections:
                   - ✓
                   - ✓
             full_width: false
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: paragraph
         attrs:
@@ -221,25 +212,7 @@ sections:
         content:
           -
             type: text
-            text: 'Other opportunities'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor a keynote'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$15,000 - 2 available'
+            text: 'Title sponsorship opportunities'
       -
         type: paragraph
         attrs:
@@ -248,217 +221,42 @@ sections:
         content:
           -
             type: text
-            text: "Description in print program and online will say\_“Presented by [sponsor name]” with a full\_color logo."
+            text: 'Be the exclusive title sponsor for a component of the conference program. The description of the sponsored program component in the print program and online will indicate that it is “Presented by:” the sponsor, with a full color logo.'
       -
-        type: heading
+        type: set
         attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor entertainment'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$15,000 - 2 available'
+          id: lvr6qpxv
+          values:
+            type: table
+            first_row_header: false
+            last_row_footer: false
+            table:
+              -
+                cells:
+                  - 'Keynote<br/>Available for both Friday and Saturday keynote sessions.'
+                  - '$15,000'
+              -
+                cells:
+                  - Entertainment
+                  - '$15,000'
+              -
+                cells:
+                  - 'Identity Social'
+                  - '$10,000'
+              -
+                cells:
+                  - 'Breakfast Social'
+                  - '$20,000'
+              -
+                cells:
+                  - 'Workshop Track<br/>Available tracks include:<br/>-Art, Media & Design<br/>-Change on College Campuses<br/>-Justice: Activism & Protest<br/>-Self & Community Care<br/>-Small-Town Queerness<br/>-Advisor'
+                  - '$10,000'
+            full_width: false
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
-        content:
-          -
-            type: text
-            text: 'Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor Revoluncheon (lunch and learn)'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$15,000 - 2 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Welcome reception sponsor'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$10,000 - 2 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Sponsor catering for the attendee welcome reception to kick off the conference. Description in print program and online will say “Presented by [sponsor name]” with a full color logo.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Sponsor a workshop track'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$10,000 - 6 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "Description of workshop track(s) in print\_program and online will say “Presented by\_[sponsor name]” with full color logo."
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Small Town Queerness'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Self and Community Care'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Art, Media, and Design'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Justice: Activism and Protest'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Change on College Campuses'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Advisor Track'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Advisor social sponsor'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: '$5,000 - 1 available'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Sponsor catering for the advisor social. A description of session in print program and online will say “Presented by [sponsor name]” with a full color logo.'
       -
         type: set
         attrs:
@@ -590,6 +388,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1679611142
+updated_at: 1714771761
 description: 'Sponsor the 2023 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
