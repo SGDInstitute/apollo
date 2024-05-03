@@ -1,10 +1,11 @@
 ---
 id: f8b4f0fd-4804-4827-aa55-ac6271ea9d2a
+published: false
 blueprint: pages
 title: Speakers
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1694657564
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714771230
 sections:
   -
     id: ambRhsVv
