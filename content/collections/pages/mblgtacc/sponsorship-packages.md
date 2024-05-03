@@ -195,6 +195,11 @@ sections:
         attrs:
           textAlign: left
           class: null
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
         content:
           -
             type: text
@@ -223,40 +228,158 @@ sections:
             type: text
             text: 'Be the exclusive title sponsor for a component of the conference program. The description of the sponsored program component in the print program and online will indicate that it is “Presented by:” the sponsor, with a full color logo.'
       -
-        type: set
+        type: heading
         attrs:
-          id: lvr6qpxv
-          values:
-            type: table
-            first_row_header: false
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - 'Keynote<br/>Available for both Friday and Saturday keynote sessions.'
-                  - '$15,000'
-              -
-                cells:
-                  - Entertainment
-                  - '$15,000'
-              -
-                cells:
-                  - 'Identity Social'
-                  - '$10,000'
-              -
-                cells:
-                  - 'Breakfast Social'
-                  - '$20,000'
-              -
-                cells:
-                  - 'Workshop Track<br/>Available tracks include:<br/>-Art, Media & Design<br/>-Change on College Campuses<br/>-Justice: Activism & Protest<br/>-Self & Community Care<br/>-Small-Town Queerness<br/>-Advisor'
-                  - '$10,000'
-            full_width: false
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Keynote Sponsor - $15,000'
       -
         type: paragraph
         attrs:
           textAlign: left
           class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Available for both Friday and Saturday keynote sessions'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Entertainment Sponsor - $15,000'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Identity Social Sponsor - $10,000'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Breakfast Social Sponsor - $20,000'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'You can be a co-sponsor of the breakfast social with another organization for $10,000'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Workshop Track Sponsor - $10,000'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Available tracks include:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Art, Media & Design'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Change on College Campuses'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Justice: Activism & Protest'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Self & Community Care'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Small-Town Queerness'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: Advisor
       -
         type: set
         attrs:
@@ -345,7 +468,7 @@ sections:
       -
         type: paragraph
     type: content
-    enabled: true
+    enabled: false
   -
     id: WYQBfjvZ
     bard:
@@ -388,6 +511,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714771761
+updated_at: 1714771912
 description: 'Sponsor the 2023 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
