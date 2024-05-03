@@ -21,7 +21,7 @@ sections:
         content:
           -
             type: text
-            text: 'Join us at the MBLGTACC Maker Market and/or the Vendor Fair and reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
+            text: 'Join us at the MBLGTACC Maker Market and Vendor Fair and reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
     type: content
     enabled: true
   -
@@ -55,197 +55,6 @@ sections:
             type: text
             text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form.'
       -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Hours of operation: '
-                  -
-                    type: text
-                    text: 'Friday, 5:00 p.m. - 10:00 p.m.'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Set-up time:'
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: ' '
-                  -
-                    type: text
-                    text: 'Friday, 3:00 p.m. - 5:00 p.m.'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Location:'
-                  -
-                    type: text
-                    text: ' '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.centralbankcenter.com/'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Central Bank Center'
-                  -
-                    type: text
-                    text: ' ('
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'nter+lexington+ky&rlz=1C5CHFA_enUS739US739&tbm=lcl&sxsrf=AJOqlzUWW0duEsuiFbC_f_Ljie7-ZFT86g%3A1676734610690&ei=kvDwY7LRKbiE0PEPvZ2doA0&oq=central+bank+center&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYATINCAAQDRCABBCxAxCDATIMCAAQDRCABBAUEIcCMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgkIABAHEB4Q8QQyBwgAEA0QgAQyCQgAEAcQHhDxBDIJCAAQBxAeEPEEOgQIIxAnOgkIABAWEB4Q8QQ6CAgAEBYQHhAPOgYIABAWEB46BQgAEIYDOgYIABAHEB46BQgAEIAEOgsIABAHEB4Q8QQQClDJEViiHGCcKGgAcAB4AIABX4gBoAeSAQIxM5gBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:1020169291465194037,l,CiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreUj914gjWjwQABABEAIYABgBGAIYAxgEIiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreSoICAIQABABEAKSARFjb252ZW50aW9uX2NlbnRlcuABAA,y,nzdD6yqJOIs;mv:[[38.050306377319025,-84.50315774919648],[38.04994642268096,-84.50361485080354]]'
-                          rel: null
-                          target: null
-                          title: null
-                    text: map
-                  -
-                    type: text
-                    text: )
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: Pricing
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Queer and trans creators can opt to participate in the maker market on Friday only, or get a 2-day pass to stay for the Vendor Fair on Saturday. '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Only those who qualify to participate the Maker Market will be considered for the 2-Day pass.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Pay what you can - recommended contributions:'
-      -
-        type: set
-        attrs:
-          id: 6Sy8ICPu
-          values:
-            type: table
-            first_row_header: true
-            last_row_footer: false
-            table:
-              -
-                cells:
-                  - Type
-                  - 'Friday only'
-                  - '2-day pass'
-              -
-                cells:
-                  - 'Independent creator'
-                  - $100
-                  - $175
-              -
-                cells:
-                  - 'Small business<br><i>(annual sales under $100k)</i>'
-                  - $200
-                  - $375
-              -
-                cells:
-                  - 'Large business<br><i>(annual sales of $100k+)</i>'
-                  - $400
-                  - $775
-            full_width: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: Eligibility
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'This space is intended for queer and trans creators to sell/trade or provide demonstrations on a skill, craft or art form. We also welcome vendors who represent or sell majority queer and trans content, such as independent booksellers, media outlets, clothing companies, etc.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Unsure if you qualify? Fill out the form at the bottom of this page and we’ll chat about your options.'
-    type: content
-    enabled: true
-  -
-    id: KdZrzTa4
-    bard:
-      -
         type: heading
         attrs:
           textAlign: left
@@ -272,97 +81,6 @@ sections:
                 type: italic
             text: 'What will your organization do?'
       -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Hours of operation:'
-                  -
-                    type: text
-                    text: "\_Saturday, 10 a.m.-6 p.m."
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Set-up time:'
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: italic
-                    text: ' '
-                  -
-                    type: text
-                    text: 'Saturday, 8 a.m.-10 a.m. (Friday set up hours available upon request)'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Location:'
-                  -
-                    type: text
-                    text: "\_"
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://www.centralbankcenter.com/'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: 'Central Bank Center'
-                  -
-                    type: text
-                    text: ' ('
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'nter+lexington+ky&rlz=1C5CHFA_enUS739US739&tbm=lcl&sxsrf=AJOqlzUWW0duEsuiFbC_f_Ljie7-ZFT86g%3A1676734610690&ei=kvDwY7LRKbiE0PEPvZ2doA0&oq=central+bank+center&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAEYATINCAAQDRCABBCxAxCDATIMCAAQDRCABBAUEIcCMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgcIABANEIAEMgkIABAHEB4Q8QQyBwgAEA0QgAQyCQgAEAcQHhDxBDIJCAAQBxAeEPEEOgQIIxAnOgkIABAWEB4Q8QQ6CAgAEBYQHhAPOgYIABAWEB46BQgAEIYDOgYIABAHEB46BQgAEIAEOgsIABAHEB4Q8QQQClDJEViiHGCcKGgAcAB4AIABX4gBoAeSAQIxM5gBAKABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:1020169291465194037,l,CiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreUj914gjWjwQABABEAIYABgBGAIYAxgEIiBjZW50cmFsIGJhbmsgY2VudGVyIGxleGluZ3RvbiBreSoICAIQABABEAKSARFjb252ZW50aW9uX2NlbnRlcuABAA,y,nzdD6yqJOIs;mv:[[38.050306377319025,-84.50315774919648],[38.04994642268096,-84.50361485080354]]'
-                          rel: null
-                          target: _blank
-                          title: null
-                    text: map
-                  -
-                    type: text
-                    text: )
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -377,7 +95,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'statamic://entry::e67ad125-380a-4992-9e32-9af4bb9e3853'
+                  href: null
                   rel: null
                   target: null
                   title: null
@@ -389,7 +107,66 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 3
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Hours of Operation'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Friday, October 25'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '5:00-10:00 p.m.'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Load in and set up from 2:00-5:00 p.m.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Saturday, October 26'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '10:00 a.m.-5:30 p.m.'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Load in and set up from 8:00-10:00 a.m.'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
         content:
           -
             type: text
@@ -402,11 +179,11 @@ sections:
         content:
           -
             type: text
-            text: 'Pay what you can - recommended contributions:'
+            text: 'We offer "pay what you can" pricing for makers and vendors. Recommended contributions:'
       -
         type: set
         attrs:
-          id: lflq48h8
+          id: 6Sy8ICPu
           values:
             type: table
             first_row_header: true
@@ -415,25 +192,29 @@ sections:
               -
                 cells:
                   - Type
-                  - Price
+                  - 'One Day<br/>Friday or Saturday'
+                  - 'Two Day<br/>Friday and Saturday'
               -
                 cells:
-                  - 'Small business/non-profit<br><i>(annual sales under $100k)</i>'
-                  - $200
+                  - 'Independent creator'
+                  - $100
+                  - $175
+              -
+                cells:
+                  - 'Small business<br><i>(annual sales under $100k)</i>'
+                  - $300
+                  - $550
               -
                 cells:
                   - 'Large business<br><i>(annual sales of $100k+)</i>'
-                  - $400
+                  - $500
+                  - $950
               -
                 cells:
                   - Corporate
-                  - $600
+                  - $700
+                  - '$1,350'
             full_width: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: paragraph
         attrs:
@@ -442,12 +223,7 @@ sections:
         content:
           -
             type: text
-            text: "All exhibit spaces come with one 8' table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit space is in a prominent, high-traffic location. Exhibitors are responsible for the security and storage of their property."
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+            text: 'All exhibit spaces come with one table and two folding chairs. Exhibitors are responsible for supplying any desired table linens. The exhibit space is in a prominent, high-traffic location. Exhibitors are responsible for shipping and storage of their property.'
     type: content
     enabled: true
   -
@@ -470,7 +246,7 @@ sections:
         content:
           -
             type: text
-            text: 'Fill out this form to inquire about participating in the Maker Market or Vendor Fair. A member of our team will get back to you quickly.'
+            text: 'Fill out this form to inquire about participating in the Maker Market and Vendor Fair. A member of our team will get back to you quickly.'
       -
         type: set
         attrs:
@@ -547,7 +323,7 @@ sections:
     bg_type: color
     bg_color: bg-green-600
     type: two_column
-    enabled: true
+    enabled: false
   -
     id: lh6jm3fc
     bard:
@@ -665,7 +441,7 @@ sections:
           textAlign: left
           class: null
     type: content
-    enabled: true
+    enabled: false
   -
     id: B0gc5qhx
     bard:
@@ -686,7 +462,7 @@ sections:
         content:
           -
             type: text
-            text: 'Send us a note with any questions or comments about the Vendor Fair or Maker Market.'
+            text: 'Send us a note with any questions or comments.'
       -
         type: set
         attrs:
@@ -712,8 +488,8 @@ sections:
     type: content
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1683491625
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714772707
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
