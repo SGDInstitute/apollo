@@ -113,55 +113,66 @@ sections:
             type: text
             text: 'Hours of Operation'
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+          id: lvr7fs0z
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
               -
-                type: bold
-            text: 'Friday, October 25'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '5:00-10:00 p.m.'
-          -
-            type: hardBreak
-          -
-            type: text
-            marks:
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Friday, October 25'
               -
-                type: italic
-            text: 'Load in and set up from 2:00-5:00 p.m.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '5:00-10:00 p.m.'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Load in and set up from 2:00-5:00 p.m.'
+            right_content:
               -
-                type: bold
-            text: 'Saturday, October 26'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '10:00 a.m.-5:30 p.m.'
-          -
-            type: hardBreak
-          -
-            type: text
-            marks:
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Saturday, October 26'
               -
-                type: italic
-            text: 'Load in and set up from 8:00-10:00 a.m.'
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '10:00 a.m.-5:30 p.m.'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: italic
+                    text: 'Load in and set up from 8:00-10:00 a.m.'
       -
         type: heading
         attrs:
@@ -191,9 +202,9 @@ sections:
             table:
               -
                 cells:
-                  - Type
-                  - 'One Day<br/>Friday or Saturday'
-                  - 'Two Day<br/>Friday and Saturday'
+                  - ''
+                  - 'One Day'
+                  - 'Two Day'
               -
                 cells:
                   - 'Independent creator'
@@ -489,7 +500,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714772707
+updated_at: 1714772830
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
