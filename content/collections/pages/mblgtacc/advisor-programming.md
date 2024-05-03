@@ -1,5 +1,6 @@
 ---
 id: 825f5c13-ad74-44eb-9bfb-7e33a22c49e4
+published: false
 blueprint: pages
 title: 'Advisor Programming'
 sections:
@@ -554,7 +555,7 @@ sections:
     bg_color: bg-gray-100
     type: news
     enabled: true
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713119660
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714771225
 description: 'Content in the Advisor Track will focus on: Tools to support advisors, higher education practitioners and other roles that support college students carry out their vital work; Aiding advisors and practitioners in navigating complex campus environments and overcoming workplace barriers, burnout and other hardships of their positions; and Showcasing innovative and groundbreaking scholarship, research, programming and other initiatives that contribute to a culture of higher education in which sexuality and gender diversity is celebrated.'
 ---
