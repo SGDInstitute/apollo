@@ -1,5 +1,6 @@
 ---
 id: 0684fecc-18a0-425b-a0f7-286b638eed64
+published: false
 blueprint: pages
 title: 'Vendor Fair'
 sections:
@@ -564,8 +565,8 @@ sections:
     type: two_column
     enabled: false
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697221856
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714771262
 description: 'The Vendor Fair will connect attendees with prospective schools and employers, as well as community-based nonprofits and makers.'
 image:
   - headers/header_exhibit.jpg
