@@ -128,15 +128,6 @@ sections:
             table:
               -
                 cells:
-                  - null
-                  - ''
-                  - ''
-                  - null
-                  - null
-                  - null
-                  - null
-              -
-                cells:
                   - Benefits
                   - 'Diamond<br/>$25,000'
                   - 'Platinum<br/>$15,000'
@@ -449,6 +440,6 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714772112
+updated_at: 1714776064
 description: 'Sponsor the 2023 MBLGTACC. Your support helps to offset the cost of registration on individual attendees and allows the conference to be more accessible, providing community and connection to the next generation of leaders in the movement for our collective liberation.'
 ---
