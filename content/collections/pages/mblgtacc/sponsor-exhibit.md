@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Sponsor & Exhibit'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1714776122
+updated_at: 1714776349
 sections:
   -
     id: o8rIUpZR
@@ -40,7 +40,7 @@ sections:
               -
                 id: 1n5k8MXj
                 link: 'entry::5ecc01b0-ebd9-4225-a1a7-dfbb9aaa8291'
-                text: 'Exhibit tables'
+                text: 'Maker Market & Vendor Fair'
                 color: btn-green
                 size: btn-lg
                 block: false
