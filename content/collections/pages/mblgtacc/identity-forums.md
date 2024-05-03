@@ -1,5 +1,6 @@
 ---
 id: 45a7eef9-88a0-48eb-b1f4-9145dc67c56a
+published: false
 blueprint: pages
 title: 'Identity Forums'
 sections:
@@ -357,7 +358,7 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1697226904
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1714771241
 description: 'Identity Forums are designated spaces for communities to gather around similar or shared experiences.'
 ---
