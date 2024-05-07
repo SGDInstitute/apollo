@@ -15,8 +15,8 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    subtitle: 'Season 5 streaming now on Apple, Google, and Spotify'
-    link: 'entry::c2c72c5f-c905-491a-b27a-f9492f7f09dc'
+    subtitle: 'Season 5 streaming now on Apple and Spotify'
+    link: 'entry::4c919fac-0d0c-4214-9352-0aa70e67efb8'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -48,15 +48,6 @@ sections:
                 target_blank: true
                 color: btn-green
                 size: btn-lg
-              -
-                id: lkibu01j
-                link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
-                text: Google
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
               -
                 id: lkibu18i
                 link: 'https://open.spotify.com/show/0Kh7wtSkNC8f19ttX4O1Rx?si=DVfnPpheREuK-PuaFUwvQQ&dl_branch=1'
@@ -145,15 +136,6 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
-              -
-                id: leznssOK
-                link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3Rha2UtdGhlLWxhc3QtYml0ZQ'
-                text: Google
-                color: btn-green
-                size: btn-base
-                block: false
-                outline: true
-                target_blank: true
             contain: true
     type: content
     enabled: false
@@ -169,6 +151,26 @@ sections:
           -
             type: text
             text: 'Season 5'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://sgdinstitute.org/news/take-the-last-bite-s5e2'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 2: Tristan and R.B. Take on Fat Con'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -1397,7 +1399,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1714926259
+updated_at: 1715118275
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
