@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Headshot of Justin'
 size: 249466
 last_modified: 1716334776
 width: 1000
