@@ -68,7 +68,7 @@ sections:
             web: 'Web Development/Programmer'
             support: 'Client and User Support (Answering questions via email, social media DMs, etc.)'
             operations: 'Event Operations and Logistics'
-            other: other
+            other: 'Other (please provide additional details below)'
           display: 'Which project areas would you be interested in supporting?'
           type: checkboxes
           icon: checkboxes
@@ -91,10 +91,6 @@ sections:
           listable: hidden
           instructions_position: above
           visibility: visible
-          if:
-            areas_of_interest: 'equals other'
-          validate:
-            - sometimes
       -
         handle: experience
         field:
