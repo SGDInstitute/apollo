@@ -8,6 +8,9 @@ tree:
         entry: 8a6ba15f-784c-468b-9f33-c7d99bfbae8a
       -
         entry: d8e2b8ed-5f03-4aae-b5d6-469c342aa10f
+        children:
+          -
+            entry: 9677ecfe-cd5d-48c6-91bb-2a83fdf524b2
       -
         entry: ad088f33-ab22-428b-a582-cd5a53022895
       -
@@ -66,5 +69,3 @@ tree:
     entry: 8f662908-bb60-45d8-8d2b-9042e34216d2
   -
     entry: 20c4f3a4-e340-4d50-ab5f-b3aec4ab3037
-  -
-    entry: 9677ecfe-cd5d-48c6-91bb-2a83fdf524b2
