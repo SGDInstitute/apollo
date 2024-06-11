@@ -360,31 +360,6 @@ sections:
                     marks:
                       -
                         type: bold
-                    text: 'Graphic Design'
-              -
-                type: bulletList
-                content:
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Creating digital and print graphics'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
                     text: Communications
               -
                 type: bulletList
@@ -412,6 +387,31 @@ sections:
                             type: text
                             text: 'Drafting copy and key messaging points for marketing and social media content '
             right_content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Graphic Design'
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Creating digital and print graphics'
               -
                 type: paragraph
                 attrs:
@@ -641,5 +641,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146753
+updated_at: 1718146780
 ---
