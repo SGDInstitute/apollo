@@ -741,20 +741,24 @@ sections:
     id: lxamt9hv
     bard:
       -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: "Tell us you're interested!"
+      -
         type: set
         attrs:
           id: lxamtboi
           values:
             type: form
             formset: support_interest_form
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718145773
+updated_at: 1718145873
 ---
