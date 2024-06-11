@@ -1,13 +1,13 @@
 ---
 id: 9677ecfe-cd5d-48c6-91bb-2a83fdf524b2
 blueprint: pages
-title: 'Get Involved: Volunteer for the Institute'
+title: 'Get Involved: Volunteer with the Institute'
 sections:
   -
     id: lxamsl3a
     bg_type: image
     bg_image: headers/header-chicago_pier.jpg
-    title: 'Get Involved: Volunteer for the Institute'
+    title: 'Get Involved: Volunteer with the Institute'
     type: header
     enabled: true
   -
@@ -760,5 +760,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718145973
+updated_at: 1718146013
 ---
