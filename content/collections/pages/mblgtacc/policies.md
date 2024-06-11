@@ -392,7 +392,7 @@ sections:
         content:
           -
             type: text
-            text: 'Full refunds are available for canceled orders until October 3, 2023. Cancellations received after this date will not be eligible for a refund. Refunds are not available for attendees who choose not to attend the event if the cancellation is not received before the stated cancellation deadline. Orders may be transferred to another attendee at no charge, at any time. Cancellations or transfers must be requested by the user who created the order and should include the name of the attendee. To request a cancellation and refund, or to transfer your ticket to another attendee, please email support@sgdinstitute.org.'
+            text: 'Full refunds are available for canceled orders until September 25, 2024. A 50% refund is available for orders canceled after September 25 but before October 9, 2024. Cancellations received after October 9, 2024, will not be eligible for a refund. Refunds are not available for attendees who choose not to attend the event if the cancellation is not received before the stated cancellation deadline. Orders may be transferred to another attendee at no charge, at any time. Cancellations or transfers must be requested by the user who created the order and should include the name of the attendee. To request a cancellation and refund, or to transfer your ticket to another attendee, please email support@sgdinstitute.org.'
       -
         type: paragraph
         attrs:
@@ -485,7 +485,7 @@ sections:
     enabled: false
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1695403104
+updated_at: 1718146979
 template: default
 description: 'Every conference location is different and, often, policies governing aspects public life can also differ—including firearm laws, smoking, medical amnesty, and more. Learn about policies for MBLGTACC and our host venue.'
 ---
