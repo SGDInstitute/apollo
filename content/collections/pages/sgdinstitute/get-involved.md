@@ -243,18 +243,7 @@ sections:
         content:
           -
             type: text
-            text: 'Queer, trans and intersex Black, Indigenous and folks of color are '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: strongly
-          -
-            type: text
-            text: ' encouraged to submit'
+            text: 'Queer, trans and intersex Black, Indigenous and folks of color are strongly encouraged to submit'
       -
         type: paragraph
         attrs:
@@ -265,15 +254,6 @@ sections:
             type: text
             text: 'We have some major needs in a few specific areas. This is not an exhaustive list. We’re interested in hearing from anyone interested in supporting the below or related projects.'
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: 'Podcast Production'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -283,8 +263,10 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: 'Podcast Production'
       -
         type: bulletList
         content:
@@ -299,9 +281,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Maximizing audio and video content from interviews '
           -
             type: listItem
@@ -314,32 +293,22 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Supporting audio editing for biweekly publishing schedule'
       -
-        type: heading
+        type: paragraph
         attrs:
           textAlign: left
-          level: 4
+          class: null
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
+              -
+                type: underline
             text: 'Graphic Design'
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Needs include:'
-      -
         type: bulletList
         content:
           -
@@ -353,29 +322,8 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Creating digital and print graphics'
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: 'Social Media'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 5
-        content:
-          -
-            type: text
-            text: 'Content Creation and/or Management'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -385,8 +333,16 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: 'Social Media'
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: ' (Content Creation and/or Management)'
       -
         type: bulletList
         content:
@@ -401,9 +357,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Consistently posting to social media accounts'
           -
             type: listItem
@@ -416,9 +369,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Developing and executing social media campaigns '
           -
             type: listItem
@@ -431,19 +381,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Launching the Midwestie Bestie Influencer program'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: Communications
       -
         type: paragraph
         attrs:
@@ -454,8 +392,10 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: Communications
       -
         type: bulletList
         content:
@@ -470,9 +410,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Preparing news and media content for newsletter and website  '
           -
             type: listItem
@@ -485,19 +422,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Drafting copy and key messaging points for marketing and social media content '
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: 'Programmer/Web Developer'
       -
         type: paragraph
         attrs:
@@ -508,8 +433,10 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: 'Programmer/Web Developer'
       -
         type: bulletList
         content:
@@ -524,9 +451,6 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: 'Website updates for both sgdinstitute.org and mblgtacc.org '
           -
             type: listItem
@@ -539,19 +463,7 @@ sections:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: italic
                     text: "Supporting the development and implementation of features to the Institute's flagship Laravel application"
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: 'Client and User Support'
       -
         type: paragraph
         attrs:
@@ -562,8 +474,10 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: 'Client and User Support'
       -
         type: bulletList
         content:
@@ -580,15 +494,6 @@ sections:
                     type: text
                     text: 'Answering questions via email, social media DMs, etc.'
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 4
-        content:
-          -
-            type: text
-            text: 'Event Operations and Logistics'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -598,8 +503,10 @@ sections:
             type: text
             marks:
               -
-                type: italic
-            text: 'Needs include:'
+                type: bold
+              -
+                type: underline
+            text: 'Event Operations and Logistics'
       -
         type: bulletList
         content:
@@ -760,5 +667,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146252
+updated_at: 1718146614
 ---
