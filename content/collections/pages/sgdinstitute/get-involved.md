@@ -308,35 +308,12 @@ sections:
                     marks:
                       -
                         type: bold
-                    text: 'Graphic Design'
-              -
-                type: bulletList
-                content:
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Creating digital and print graphics'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
                     text: 'Social Media'
                   -
+                    type: hardBreak
+                  -
                     type: text
-                    text: ' (Content Creation and/or Management)'
+                    text: 'Content Creation and/or Management'
               -
                 type: bulletList
                 content:
@@ -373,6 +350,31 @@ sections:
                           -
                             type: text
                             text: 'Launching the Midwestie Bestie Influencer program'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Graphic Design'
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Creating digital and print graphics'
               -
                 type: paragraph
                 attrs:
@@ -639,5 +641,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146684
+updated_at: 1718146753
 ---
