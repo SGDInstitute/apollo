@@ -272,7 +272,7 @@ sections:
         content:
           -
             type: text
-            text: 'Podcast Production (Audio Editing)'
+            text: 'Podcast Production'
       -
         type: paragraph
         attrs:
@@ -497,7 +497,7 @@ sections:
         content:
           -
             type: text
-            text: 'Web Development/Programmer'
+            text: 'Programmer/Web Developer'
       -
         type: paragraph
         attrs:
@@ -760,5 +760,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146013
+updated_at: 1718146252
 ---
