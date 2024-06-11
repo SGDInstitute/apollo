@@ -16,6 +16,7 @@ sections:
           visibility: visible
           validate:
             - required
+          width: 66
       -
         handle: pronouns
         field:
@@ -30,6 +31,7 @@ sections:
           visibility: visible
           validate:
             - required
+          width: 33
       -
         handle: email_address
         field:
@@ -69,16 +71,14 @@ sections:
             support: 'Client and User Support (Answering questions via email, social media DMs, etc.)'
             operations: 'Event Operations and Logistics'
             other: 'Other (please provide additional details below)'
-          display: 'Which project areas would you be interested in supporting?'
+          display: 'Which project area(s) would you be interested in supporting?'
           type: checkboxes
           icon: checkboxes
-          instructions: 'Select all that apply'
+          instructions: 'Select all that apply.'
           localizable: false
           listable: hidden
           instructions_position: above
           visibility: visible
-          validate:
-            - required
       -
         handle: other-area
         field:
