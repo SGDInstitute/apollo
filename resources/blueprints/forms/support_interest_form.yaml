@@ -128,21 +128,22 @@ sections:
           allow_uploads: true
           show_filename: true
           max_files: 5
-          display: 'OPTIONAL: Please attach any example(s) of work you’d like to highlight as part of your submission.'
+          display: 'OPTIONAL: Please attach or link any example(s) of work you’d like to highlight as part of your submission.'
           type: assets
           icon: assets
           localizable: false
           listable: hidden
           instructions_position: above
           visibility: visible
+          instructions: 'Upload files here:'
       -
         handle: examples_link
         field:
           input_type: text
           antlers: false
-          display: 'OPTIONAL: Share a link to a portfolio or example(s) of any work you’d like to highlight as part of your submission'
           type: text
           icon: text
+          instructions: 'Share a link here:'
           localizable: false
           listable: hidden
           instructions_position: above
