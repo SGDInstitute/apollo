@@ -1,0 +1,141 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: name
+        field:
+          input_type: text
+          antlers: false
+          display: Name
+          type: text
+          icon: text
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: pronouns
+        field:
+          input_type: text
+          antlers: false
+          display: Pronouns
+          type: text
+          icon: text
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: email_address
+        field:
+          input_type: text
+          antlers: false
+          display: 'Email Address'
+          type: text
+          icon: text
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: relationship
+        field:
+          antlers: false
+          display: 'Tell us about your relationships with LGBTQ+ communities, the Midwest, and/or community-based spaces.'
+          type: textarea
+          icon: textarea
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+      -
+        handle: areas_of_interest
+        field:
+          inline: false
+          options:
+            podcast: 'Podcast Production (Audio Editing)'
+            design: 'Graphic Design'
+            social-content: 'Social Media (Content Creation)'
+            social-management: 'Social Media (Management)'
+            communications: Communications
+            web: 'Web Development/Programmer'
+            support: 'Client and User Support (Answering questions via email, social media DMs, etc.)'
+            operations: 'Event Operations and Logistics'
+            other: other
+          display: 'Which project areas would you be interested in supporting?'
+          type: checkboxes
+          icon: checkboxes
+          instructions: 'Select all that apply'
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: other-area
+        field:
+          input_type: text
+          antlers: false
+          display: 'In what other way(s) would you like to support our work?'
+          type: text
+          icon: text
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          if:
+            areas_of_interest: 'equals other'
+          validate:
+            - sometimes
+      -
+        handle: experience
+        field:
+          antlers: false
+          display: 'What personal, academic, and/or advocacy experience(s) prepare you to support this work?'
+          type: textarea
+          icon: textarea
+          instructions: 'Ex: lived experiences, current employment, area of study, deep interest, etc.'
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: capacity
+        field:
+          antlers: false
+          display: 'Can you share a bit about what capacity you have to provide project support and what your preferred level of involvement looks like?'
+          type: textarea
+          icon: textarea
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          validate:
+            - required
+      -
+        handle: example
+        field:
+          mode: list
+          container: assets
+          folder: interest_form_uploads
+          restrict: true
+          allow_uploads: true
+          show_filename: true
+          max_files: 5
+          display: 'OPTIONAL: Please attach any example(s) of work you’d like to highlight as part of your submission.'
+          type: assets
+          icon: assets
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
