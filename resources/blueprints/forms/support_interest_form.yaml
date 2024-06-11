@@ -135,3 +135,15 @@ sections:
           listable: hidden
           instructions_position: above
           visibility: visible
+      -
+        handle: examples_link
+        field:
+          input_type: text
+          antlers: false
+          display: 'OPTIONAL: Share a link to a portfolio or example(s) of any work you’d like to highlight as part of your submission'
+          type: text
+          icon: text
+          localizable: false
+          listable: hidden
+          instructions_position: above
+          visibility: visible
