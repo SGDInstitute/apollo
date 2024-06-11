@@ -254,281 +254,270 @@ sections:
             type: text
             text: 'We have some major needs in a few specific areas. This is not an exhaustive list. We’re interested in hearing from anyone interested in supporting the below or related projects.'
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Podcast Production'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
+          id: lxb05qau
+          values:
+            type: 2_columns
+            left_column: content
+            right_column: content
+            left_content:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Maximizing audio and video content from interviews '
-          -
-            type: listItem
-            content:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Podcast Production'
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Maximizing audio and video content from interviews '
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Supporting audio editing for biweekly publishing schedule'
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Supporting audio editing for biweekly publishing schedule'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Graphic Design'
               -
-                type: bold
-            text: 'Graphic Design'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Creating digital and print graphics'
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Creating digital and print graphics'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Social Media'
+                  -
+                    type: text
+                    text: ' (Content Creation and/or Management)'
               -
-                type: bold
-            text: 'Social Media'
-          -
-            type: text
-            text: ' (Content Creation and/or Management)'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Consistently posting to social media accounts'
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Developing and executing social media campaigns '
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Launching the Midwestie Bestie Influencer program'
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Consistently posting to social media accounts'
-          -
-            type: listItem
-            content:
+                    marks:
+                      -
+                        type: bold
+                    text: Communications
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Preparing news and media content for newsletter and website  '
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Drafting copy and key messaging points for marketing and social media content '
+            right_content:
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Developing and executing social media campaigns '
-          -
-            type: listItem
-            content:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Programmer/Web Developer'
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Website updates for both sgdinstitute.org and mblgtacc.org '
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: "Supporting the development and implementation of features to the Institute's flagship Laravel application"
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Launching the Midwestie Bestie Influencer program'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Client and User Support'
               -
-                type: bold
-            text: Communications
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Answering questions via email, social media DMs, etc.'
               -
                 type: paragraph
                 attrs:
-                  textAlign: left
                   class: null
                 content:
                   -
                     type: text
-                    text: 'Preparing news and media content for newsletter and website  '
-          -
-            type: listItem
-            content:
+                    marks:
+                      -
+                        type: bold
+                    text: 'Event Operations and Logistics'
               -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
+                type: bulletList
                 content:
                   -
-                    type: text
-                    text: 'Drafting copy and key messaging points for marketing and social media content '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Programmer/Web Developer'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Support space rental contracts and room assignments for programs'
                   -
-                    type: text
-                    text: 'Website updates for both sgdinstitute.org and mblgtacc.org '
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Manage A/V equipment rentals and set up'
                   -
-                    type: text
-                    text: "Supporting the development and implementation of features to the Institute's flagship Laravel application"
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Client and User Support'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Answering questions via email, social media DMs, etc.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Event Operations and Logistics'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Support space rental contracts and room assignments for programs'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Manage A/V equipment rentals and set up'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Manage catering contracts and banquet event orders'
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Manage catering contracts and banquet event orders'
       -
         type: heading
         attrs:
@@ -650,5 +639,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146634
+updated_at: 1718146684
 ---
