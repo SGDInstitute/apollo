@@ -170,7 +170,7 @@ sections:
         type: heading
         attrs:
           textAlign: left
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -641,5 +641,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146780
+updated_at: 1718146809
 ---
