@@ -7,7 +7,7 @@ sections:
     id: lxamsl3a
     bg_type: image
     bg_image: headers/header-chicago_pier.jpg
-    title: 'Get Involved'
+    title: 'Get Involved: Volunteer for the Institute'
     type: header
     enabled: true
   -
@@ -760,5 +760,5 @@ sections:
     enabled: true
 template: default
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718145892
+updated_at: 1718145973
 ---
