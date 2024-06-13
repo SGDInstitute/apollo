@@ -1,6 +1,5 @@
 ---
 id: 497ba34c-b9d7-4dc5-97c1-c79e0a211d45
-published: false
 blueprint: pages
 title: 'Hotels & Parking'
 sections:
@@ -22,19 +21,6 @@ sections:
             type: text
             text: 'Hotel accommodations'
       -
-        type: set
-        attrs:
-          id: lh6nl2nd
-          values:
-            type: image
-            image: news/hotels-2023-1090x681.jpg
-            inline: false
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -42,16 +28,22 @@ sections:
         content:
           -
             type: text
-            text: 'Two hotels are offering a discounted group rate of '
+            text: 'Select hotels in Marquette, MI are offering discounted rates for MBLGTACC attendees. Information about discounted rates and how to reserve your room is provided below.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: '$169 per night '
+            text: 'Staybridge - '
           -
             type: text
-            text: 'for MBLGTACC 2023 attendees. Both hotels are immediately adjacent to the Central Bank Center and attendees can access the convention center via covered skywalk.'
+            text: '$199.99/night plus tax'
       -
         type: paragraph
         attrs:
@@ -60,7 +52,37 @@ sections:
         content:
           -
             type: text
-            text: 'Please note, the quoted rate does not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
+            text: '855 W. Washington St., Marquette, MI 49855'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Reserve by 9/1/2024'
+      -
+        type: set
+        attrs:
+          id: lxcidv7d
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lxcidvwj
+                link: 'https://www.ihg.com/staybridge/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=MQTSB&qCiD=25&qCiMy=092024&qCoD=27&qCoMy=092024&qGrpCd=MBL&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&qSHBrC=SB&qDest=855%20West%20Washington%20Street,%20Marquette,%20MI,%20US&srb_u=1&qChAge=&qRmFltr='
+                text: 'BOOK ONLINE'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -71,8 +93,45 @@ sections:
             type: text
             marks:
               -
-                type: strike
-            text: 'Book early—discounted rates end October 3, 2023!'
+                type: bold
+            text: 'Comfort Suites'
+          -
+            type: text
+            text: ' - $149.99/night plus tax'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: '2463 US Hwy 41 W., Marquette, MI 49855'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Reserve by 9/27/2024'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Call (906) 228-0028 for the MBLGTACC group rate at Comfort Suites'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: paragraph
         attrs:
@@ -81,96 +140,42 @@ sections:
         content:
           -
             type: text
-            text: 'UPDATE—The discounted rate at Hyatt Regency Lexington has been extended until October 8, 2023!'
+            marks:
+              -
+                type: bold
+            text: 'Days Inn'
+          -
+            type: text
+            text: ' - $169.99/night plus tax'
       -
-        type: set
+        type: paragraph
         attrs:
-          id: NWlKvPqc
-          values:
-            type: 2_columns
-            left_column: content
-            right_column: content
-            left_content:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: '2403 US Hwy. 41 W., Marquette, MI 49855'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
               -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Hyatt Regency Lexington'
+                type: italic
+            text: 'Reserve by 9/27/2024'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
               -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: '401 West High Street'
-                  -
-                    type: hardBreak
-                  -
-                    type: text
-                    text: 'Lexington, KY  40507'
-              -
-                type: set
-                attrs:
-                  id: jvmTomol
-                  values:
-                    type: buttons
-                    buttons:
-                      -
-                        id: BlgXFwFE
-                        link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
-                        text: 'Book Online'
-                        color: btn-green
-                        size: btn-lg
-                        block: false
-                        outline: false
-                        target_blank: false
-                    contain: true
-              -
-                type: paragraph
-                attrs:
-                  class: null
-            right_content:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Hilton Lexington/Downtown'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: '369 West Vine Street'
-                  -
-                    type: hardBreak
-                  -
-                    type: text
-                    text: 'Lexington, KY  40507'
-              -
-                type: set
-                attrs:
-                  id: 9WPlhW40
-                  values:
-                    type: buttons
-                    buttons:
-                      -
-                        id: 9lJziUPn
-                        text: 'SOLD OUT'
-                        color: btn-green
-                        size: btn-lg
-                        block: false
-                        outline: false
-                        target_blank: false
-                    contain: true
+                type: bold
+            text: 'Call (906) 225-1393 for the MBLGTACC group rate at Days Inn'
     type: content
     enabled: true
   -
@@ -186,15 +191,6 @@ sections:
             type: text
             text: Parking
       -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Park at the hotel'
-      -
         type: paragraph
         attrs:
           textAlign: left
@@ -202,57 +198,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our contracted room blocks with the Hyatt Regency Lexington and the Hilton Lexington/Downtown include complimentary parking for conference attendees staying at these hotels.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Accessible parking at the Central Bank Center'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "Designated accessible parking is available in the Central Bank Center's High Street lot. A valid state-issued handicap accessible placard or license plate is required."
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Additional parking'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'For additional downtown Lexington parking information, please visit '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'http://lexpark.org'
-                  rel: null
-                  target: null
-                  title: null
-            text: LexPark.org
-          -
-            type: text
-            text: .
+            text: 'Information about parking at Northern Michigan University will be available soon.'
     type: content
     enabled: true
   -
@@ -298,6 +244,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1702053629
+updated_at: 1718237957
 template: default
 ---
