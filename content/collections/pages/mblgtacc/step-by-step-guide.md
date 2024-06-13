@@ -1,6 +1,5 @@
 ---
 id: eb2322c8-5741-4ce6-a2d1-04b735c6620e
-published: false
 blueprint: pages
 title: 'Step by Step Guide'
 sections:
@@ -20,7 +19,7 @@ sections:
         content:
           -
             type: text
-            text: 'Our step by step guide takes you chronologically through the process of getting from your community to Lexington this November. '
+            text: 'Our step by step guide takes you chronologically through the process of getting from your community to Marquette this October. '
     type: content
     enabled: true
   -
@@ -112,7 +111,7 @@ sections:
         content:
           -
             type: text
-            text: "As part of your funding request, it may be helpful to highlight the educational benefits of attending MBLGTACC, as well as the resources available to attendees at the vendor fair and by networking with students from other institutions.\_"
+            text: 'As part of your funding request, it may be helpful to highlight the educational benefits of attending MBLGTACC, as well as the resources available to attendees at the vendor fair and by networking with students from other institutions.'
       -
         type: paragraph
         attrs:
@@ -128,7 +127,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                   rel: null
                   target: null
                   title: null
@@ -155,30 +154,21 @@ sections:
         content:
           -
             type: text
-            text: 'Conference attendees are responsible for booking their own '
+            text: 'Conference attendees are responsible for booking their own hotel accommodations. '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'statamic://entry::497ba34c-b9d7-4dc5-97c1-c79e0a211d45'
                   rel: null
                   target: null
                   title: null
-            text: 'hotel accommodations'
+            text: 'Several hotels in Marquette, MI are offering a discounted group rate for MBLGTACC attendees'
           -
             type: text
-            text: '. The Hyatt Regency Lexington and Hilton Lexington/Downtown are offering a discounted group rate of $169/night for MBLGTACC 2023 attendees. We encourage attendees to reserve rooms at these hotels, as they are connected via skywalk to the Central Bank Center.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Discounted rates end October 3, 2023, so we encourage you to reserve rooms early. Note that in most cases, you won’t be required to pay until check-in and you can cancel your reservation up to 48 hours before your scheduled arrival.'
+            text: '. Please check the listing for each hotel to see when discounted rates expire; we encourage you to reserve rooms early. Note that in most cases, you won’t be required to pay until check-in and you can cancel your reservation up to 48 hours before your scheduled arrival.'
       -
         type: paragraph
         attrs:
@@ -213,37 +203,6 @@ sections:
           -
             type: text
             text: ' directly for more information about taxes and fees.'
-      -
-        type: set
-        attrs:
-          id: lh6fxbq9
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lh6fxcg7
-                link: 'https://www.hyatt.com/en-US/group-booking/LEXRL/G-MBSQ'
-                text: 'Book with Hyatt Regency Lexington'
-                color: btn-green
-                size: btn-xs
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: lh6fxh5w
-                link: 'https://www.hilton.com/en/attend-my-event/midwestblgtacollegecon/'
-                text: 'Book with Hilton Lexington/Downtown'
-                color: btn-green
-                size: btn-xs
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
       -
         type: heading
         attrs:
@@ -348,12 +307,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: "Review the conference schedule regularly for any updates that impact your travel\_"
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+                    text: 'Review the conference schedule regularly for any updates that impact your travel'
       -
         type: heading
         attrs:
@@ -579,7 +533,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'statamic://entry::2fc54ba6-acf8-4871-b3c1-8e34f56cf7eb'
                   rel: null
                   target: null
                   title: null
@@ -607,11 +561,6 @@ sections:
                 target_blank: true
             contain: true
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-      -
         type: heading
         attrs:
           textAlign: left
@@ -629,110 +578,6 @@ sections:
           -
             type: text
             text: 'Everyone who is assigned to a ticket will automatically receive emails with updates from MBLGTACC. It may be helpful to set up a group chat (Discord, Slack, GroupMe, etc.) with your delegation to ensure you can share important information with everyone in your group.'
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Propose a workshop'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: "Workshops proposals will be accepted from April 10 until May 22. To prepare a submission:\_"
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: "Review the workshop track descriptions to understand our conference priorities\_"
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: "Attend an FAQ livestream explaining the workshop process, what the review team is looking for and ask any questions about how to craft a quality submission (details on this will be provided as they become available)\_"
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  textAlign: left
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Check out '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: null
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: underline
-                    text: 'previous conference programs'
-                  -
-                    type: text
-                    text: " to see what’s been accepted in the past\_"
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Review the workshop submission form and start your submission(s) early!'
-      -
-        type: set
-        attrs:
-          id: lh6fzvqa
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lh6fzwbv
-                link: 'entry::9922d7ae-228e-47e1-9ab9-c3aa3a578f6d'
-                text: 'Present at MBLGTACC'
-                color: btn-green
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
   -
@@ -835,14 +680,14 @@ sections:
         content:
           -
             type: text
-            text: 'Depending on your travel itinerary, you may choose to check in to your hotel first, or stop by the convention center to check in for the conference. Be sure to '
+            text: 'Depending on your travel itinerary, you may choose to check in to your hotel first, or stop by the convention venue to check in for the conference. Be sure to '
           -
             type: text
             marks:
               -
                 type: link
                 attrs:
-                  href: null
+                  href: 'statamic://entry::87680b15-89d3-4128-b22c-532f8f4ea4b0'
                   rel: null
                   target: null
                   title: null
@@ -861,16 +706,11 @@ sections:
           -
             type: text
             text: ' You’ll have an opportunity to review your name and pronouns—and make any corrections—before we print your name badge. At the convention center, visit the registration/check-in desk to pick up your badge and a swag bag. Name badges will be sorted alphabetically, by last name, so be sure everyone in your group stops by to get their own badge.'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     type: content
     enabled: true
   -
     id: lh6g0vf2
-    date: '2023-11-03 19:00'
+    date: '2024-10-25 17:00'
     hashtag: 'until MBLGTACC'
     bg_type: color
     bg_color: bg-gray-200
@@ -878,6 +718,6 @@ sections:
     enabled: true
 parent: 12d04696-6c0f-4433-aa6c-499fe7572ed9
 description: 'Our step by step guide takes you chronologically through the process of getting from your community to Lexington this November.'
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713120121
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1718322972
 ---
