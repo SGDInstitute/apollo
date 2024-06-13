@@ -16,7 +16,7 @@ sections:
     type: header_large
     enabled: true
     subtitle: 'Season 5 streaming now on Apple and Spotify'
-    link: 'entry::cee696be-842f-4925-acd7-67ef8c1178b7'
+    link: 'entry::18d8833f-0115-4da7-b078-2a27b6592d41'
     text: 'Listen to the latest episode'
     color: btn-green
     size: btn-lg
@@ -57,6 +57,15 @@ sections:
                 block: false
                 outline: true
                 target_blank: true
+              -
+                id: lxdqvukw
+                link: 'https://www.youtube.com/playlist?list=PLSEBOvorSWTO1doaICP6NUcfBSD2S9RvU'
+                text: YouTube
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: true
             contain: true
       -
         type: set
@@ -64,7 +73,7 @@ sections:
           id: lgm8vv6e
           values:
             type: iframe
-            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/3b2d95f7"></iframe>'
+            html: '<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/e678c9f1"></iframe>'
       -
         type: paragraph
         attrs:
@@ -150,6 +159,26 @@ sections:
           -
             type: text
             text: 'Season 5'
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::18d8833f-0115-4da7-b078-2a27b6592d41'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'Ep. 4: The (Literal) Debate for Trans Lives [redux]'
+          -
+            type: text
+            text: ' →'
       -
         type: heading
         attrs:
@@ -1418,7 +1447,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1716308432
+updated_at: 1718312577
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
