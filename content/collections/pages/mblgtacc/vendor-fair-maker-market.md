@@ -207,17 +207,17 @@ sections:
                   - 'Two Day'
               -
                 cells:
-                  - 'Independent creator & grassroots non-profit<br><i>(annual budget <$1 million)</i>'
+                  - 'Independent creator &<br>grassroots non-profit<i>(annual budget <$1 million)</i>'
                   - $100
                   - $175
               -
                 cells:
-                  - 'Small business or non-profit<br><i>(annual sales under $100k or annual budget $1-5 million)</i>'
+                  - 'Small business <i>(annual sales < $100,000)</i> or<br>small non-profit <i>(annual budget $1-5 million)</i>'
                   - $300
                   - $550
               -
                 cells:
-                  - 'Large business or non-profit<br><i>(annual sales of $100k+ or annual budget >$5 million)</I>'
+                  - 'Large business <i>(annual sales > $100,000)</i>'
                   - $500
                   - $950
               -
@@ -500,7 +500,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718300023
+updated_at: 1718300233
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
