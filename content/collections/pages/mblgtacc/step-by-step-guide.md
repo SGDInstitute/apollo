@@ -138,6 +138,11 @@ sections:
             type: text
             text: .
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: left
@@ -186,23 +191,12 @@ sections:
         content:
           -
             type: text
-            text: 'Please note, the group rate does not include taxes or fees. Please '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: underline
-            text: 'contact the hotel'
-          -
-            type: text
-            text: ' directly for more information about taxes and fees.'
+            text: 'Please note, the group rate does not include taxes or fees. Please contact the hotel directly for more information about taxes and fees.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
@@ -308,6 +302,11 @@ sections:
                   -
                     type: text
                     text: 'Review the conference schedule regularly for any updates that impact your travel'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
@@ -427,16 +426,7 @@ sections:
                 content:
                   -
                     type: text
-                    text: 'Name and pronouns'
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: underline
-                    text: ' to be used in the space'
-                  -
-                    type: text
-                    text: ' (keep in mind folks may want to try out different names & pronouns at the conference than what they use on campus)'
+                    text: 'Name and pronouns to be used in the space (keep in mind folks may want to try out different names & pronouns at the conference than what they use on campus)'
           -
             type: listItem
             content:
@@ -513,6 +503,11 @@ sections:
                     type: text
                     text: 'If using rental cars, is this attendee eligible and willing to drive?'
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: left
@@ -560,6 +555,11 @@ sections:
                 outline: true
                 target_blank: true
             contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
       -
         type: heading
         attrs:
@@ -664,6 +664,11 @@ sections:
                     type: text
                     text: '. And follow us on social media (@mblgtacc) to see even more about speakers, entertainers and presenters featured at the conference.'
       -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+      -
         type: heading
         attrs:
           textAlign: left
@@ -719,5 +724,5 @@ sections:
 parent: 12d04696-6c0f-4433-aa6c-499fe7572ed9
 description: 'Our step by step guide takes you chronologically through the process of getting from your community to Lexington this November.'
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718322972
+updated_at: 1718323077
 ---
