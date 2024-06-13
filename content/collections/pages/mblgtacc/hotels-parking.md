@@ -62,17 +62,21 @@ sections:
                 type: italic
             text: 'Reserve by 9/27/2024'
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+          id: lxciogy8
+          values:
+            type: buttons
+            buttons:
               -
-                type: bold
-            text: 'Call (906) 228-0028 for the MBLGTACC group rate at Comfort Suites'
+                id: lxciohot
+                text: 'Call (906) 228-0028'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: paragraph
         attrs:
@@ -111,17 +115,21 @@ sections:
                 type: italic
             text: 'Reserve by 9/27/2024'
       -
-        type: paragraph
+        type: set
         attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
+          id: lxcip9xm
+          values:
+            type: buttons
+            buttons:
               -
-                type: bold
-            text: 'Call (906) 225-1393 for the MBLGTACC group rate at Days Inn'
+                id: lxcipakf
+                text: 'Call (906) 225-1393'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: false
+                target_blank: false
+            contain: true
       -
         type: paragraph
         attrs:
@@ -303,6 +311,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718238196
+updated_at: 1718238296
 template: default
 ---
