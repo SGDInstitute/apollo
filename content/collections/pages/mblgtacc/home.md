@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1713386235
+updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
+updated_at: 1718323604
 sections:
   -
     id: j7D4Zmil
@@ -22,25 +22,7 @@ sections:
     target_blank: true
     type: header_large
     enabled: true
-    has_button: true
-  -
-    id: xLYATvQT
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: center
-          level: 2
-      -
-        type: set
-        attrs:
-          id: b2fpjp1m
-          enabled: false
-          values:
-            type: video
-            video: 'https://youtu.be/D9zHQifiztQ?si=D4s6Pf9SrYrTHiYE'
-    type: content
-    enabled: false
+    has_button: false
   -
     id: pricing
     column_widths: two_fifths_left
@@ -64,7 +46,7 @@ sections:
         content:
           -
             type: text
-            text: 'Join us in Marquette! Register by September 25 to lock in the regular registration rate and guarantee your accessibility accommodation(s), program booklet, swag, and lunch and learn meal ticket.'
+            text: 'Join us in Marquette! Register by September 25 to lock in the regular registration rate and guarantee your accessibility accommodation(s), program booklet, swag, and lunch ticket.'
       -
         type: set
         attrs:
@@ -95,89 +77,6 @@ sections:
     enabled: true
     center_columns: false
     above_price: 'Starting at'
-  -
-    id: hotel
-    left_column: content
-    right_column: image
-    center_columns: false
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Looking back at MBLGTACC 2023'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'Thank you for joining us in Lexington for a special weekend of joy, connection, education, and empowerment. Browse photos, download the commemorative program, and learn more about art featured at the conference.'
-      -
-        type: set
-        attrs:
-          id: lh6le1g4
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lnz3ujfx
-                link: 'https://www.facebook.com/media/set?vanity=mblgtacc&set=a.352873937129551'
-                text: Photos
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: lh6le28k
-                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
-                text: 'Program booklet'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-              -
-                id: lobqyr1m
-                link: 'entry::c7f6ffdf-793a-421a-92fd-76389b11b8ce'
-                text: Art
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: true
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: lead
-    image: news/mblgtacc2023-attendee-keynote-program-booklet-1090x681.jpg
-    bg_type: color
-    bg_color: bg-green-700
-    type: two_column
-    enabled: false
-    column_widths: quarter_right
-  -
-    id: xC5gzPwZ
-    title: 'Keynotes and entertainment'
-    event: mblgtacc-2022-keynote
-    date_format: day_of_week_full
-    background_height: full
-    color: btn-green
-    size: btn-lg
-    block: false
-    outline: false
-    target_blank: false
-    type: speakers
-    enabled: false
   -
     id: yyaLhKYm
     bard:
