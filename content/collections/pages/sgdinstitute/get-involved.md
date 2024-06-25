@@ -66,9 +66,16 @@ sections:
             type: buttons
             buttons:
               -
+                id: lxumq3fb
+                link: 'https://sgdinstitute.org/get-involved#:~:text=How%20you%20can%20get%20involved'
+                text: 'How to help'
+                block: false
+                outline: false
+                target_blank: false
+              -
                 id: lxumno7m
                 link: 'https://sgdinstitute.org/get-involved#:~:text=Tell%20us%20you%27re%20interested!'
-                text: 'Submit interest'
+                text: 'Interest form'
                 color: btn-green
                 size: btn-lg
                 block: false
@@ -695,5 +702,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719333343
+updated_at: 1719333449
 ---
