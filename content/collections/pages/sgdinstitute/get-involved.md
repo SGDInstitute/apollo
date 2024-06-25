@@ -121,7 +121,7 @@ sections:
         content:
           -
             type: text
-            text: 'Every year, we offer: '
+            text: 'In a given year, we may offer: '
       -
         type: bulletList
         content:
@@ -132,7 +132,7 @@ sections:
                 type: paragraph
                 attrs:
                   textAlign: left
-                  class: lead
+                  class: null
                 content:
                   -
                     type: text
@@ -144,7 +144,7 @@ sections:
                 type: paragraph
                 attrs:
                   textAlign: left
-                  class: lead
+                  class: null
                 content:
                   -
                     type: text
@@ -156,7 +156,7 @@ sections:
                 type: paragraph
                 attrs:
                   textAlign: left
-                  class: lead
+                  class: null
                 content:
                   -
                     type: text
@@ -168,7 +168,7 @@ sections:
                 type: paragraph
                 attrs:
                   textAlign: left
-                  class: lead
+                  class: null
                 content:
                   -
                     type: text
@@ -180,7 +180,7 @@ sections:
                 type: paragraph
                 attrs:
                   textAlign: left
-                  class: lead
+                  class: null
                 content:
                   -
                     type: text
@@ -682,5 +682,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719332897
+updated_at: 1719333014
 ---
