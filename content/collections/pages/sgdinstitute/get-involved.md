@@ -11,7 +11,7 @@ sections:
     type: header
     enabled: true
   -
-    id: lxamt020
+    id: lxultv2f
     bard:
       -
         type: paragraph
@@ -30,7 +30,7 @@ sections:
         content:
           -
             type: text
-            text: 'We’re seeking some rad folks to help us fulfill our vision of a '
+            text: 'We seek rad folks to help us fulfill our vision of a '
           -
             type: text
             marks:
@@ -58,6 +58,14 @@ sections:
           -
             type: text
             text: 'Submissions will be collected on a rolling, as-needed basis. We will conduct a priority review for urgent project needs starting July 15, so fill out the form at the bottom of this page before this date to be considered in our initial round of reviews! '
+    type: content
+    enabled: true
+  -
+    column_widths: third_right
+    left_column: content
+    right_column: image
+    center_columns: false
+    bard:
       -
         type: heading
         attrs:
@@ -94,6 +102,48 @@ sections:
           -
             type: text
             text: 'Since our organization was founded in 2016, our initial goal of supporting the longevity of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference has expanded into coordinating a slate of programs and initiatives focusing on the needs, experiences, and liberation of queer and trans folks in the Midwest.'
+      -
+        type: set
+        attrs:
+          id: lxulv8xf
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lxulv9oq
+                link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
+                text: 'Learn more'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    image: news/mblgtacc-2013-chairs-teaser-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-900
+    type: two_column
+    enabled: true
+  -
+    column_widths: third_left
+    left_column: image
+    right_column: content
+    center_columns: false
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'What we do'
       -
         type: paragraph
         attrs:
@@ -166,6 +216,14 @@ sections:
                   -
                     type: text
                     text: 'Recurring engagement with members of the Our Partners in Equity (OPE) donor program'
+    image: news/mblgtacc2023-keynote-question1-1090x681.jpg
+    bg_type: color
+    bg_color: bg-green-600
+    type: two_column
+    enabled: true
+  -
+    id: lxamt020
+    bard:
       -
         type: heading
         attrs:
@@ -174,7 +232,7 @@ sections:
         content:
           -
             type: text
-            text: 'How you can help'
+            text: 'How you can get involved'
       -
         type: paragraph
         attrs:
@@ -520,6 +578,11 @@ sections:
                           -
                             type: text
                             text: 'Manage catering contracts and banquet event orders'
+    type: content
+    enabled: true
+  -
+    id: lxum6ala
+    bard:
       -
         type: heading
         attrs:
@@ -580,9 +643,9 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://www.instagram.com/sgdinstitute/'
+                  href: null
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
             text: Instagram
           -
@@ -594,9 +657,9 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://www.facebook.com/sgdinstitute'
+                  href: null
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
             text: Facebook
           -
@@ -608,7 +671,7 @@ sections:
               -
                 type: link
                 attrs:
-                  href: 'https://www.tiktok.com/@take.the.last.bite'
+                  href: null
                   rel: null
                   target: null
                   title: null
@@ -640,6 +703,6 @@ sections:
     type: content
     enabled: true
 template: default
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718146809
+updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
+updated_at: 1719332520
 ---
