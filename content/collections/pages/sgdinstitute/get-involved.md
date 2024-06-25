@@ -100,8 +100,8 @@ sections:
     enabled: true
   -
     column_widths: third_right
-    left_column: image
-    right_column: content
+    left_column: content
+    right_column: image
     center_columns: false
     bard:
       -
@@ -682,5 +682,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719332842
+updated_at: 1719332897
 ---
