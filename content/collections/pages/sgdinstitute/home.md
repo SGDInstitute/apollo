@@ -26,10 +26,10 @@ sections:
   -
     id: ZOKwvYpl
     articles:
-      - a02f38fb-f6fa-42e8-bca6-0ed7f792430e
+      - 9bd65a54-a19f-4faa-91f0-d03c9c84e4d9
       - cbfe9acc-c0e2-4904-b78c-50645899f618
+      - a02f38fb-f6fa-42e8-bca6-0ed7f792430e
       - 514e5d47-73cf-49d1-8d9e-6f26898dbb91
-      - 18d8833f-0115-4da7-b078-2a27b6592d41
       - db23fd82-17a3-4e7f-8bdc-8af8e191f10d
     bg_type: gradient
     num_colors: 2
@@ -107,7 +107,7 @@ sections:
     type: two_column
     enabled: true
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719327783
+updated_at: 1719338500
 description: 'The Midwest Institute for Sexuality and Gender Diversity envisions a liberated future where generations of queer and trans people live in abundance and their joy, knowledge, and experience guide our shared existence.'
 image:
   - headers/homepage-hero1.jpg
