@@ -281,6 +281,15 @@ sections:
             type: text
             text: 'Queer, trans and intersex Black, Indigenous and folks of color are strongly encouraged to submit'
       -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Key areas'
+      -
         type: paragraph
         attrs:
           textAlign: left
@@ -288,7 +297,7 @@ sections:
         content:
           -
             type: text
-            text: 'We have some major needs in a few specific areas. This is not an exhaustive list. We’re interested in hearing from anyone interested in supporting the below or related projects.'
+            text: 'We have some major needs in a few specific areas. This is not an exhaustive list, and we’re interested in hearing from anyone interested in supporting the below or related projects.'
       -
         type: set
         attrs:
@@ -682,5 +691,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719332563
+updated_at: 1719332658
 ---
