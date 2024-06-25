@@ -231,41 +231,6 @@ sections:
     type: content
     enabled: true
   -
-    id: lkcxm3tz
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Get in touch'
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            text: 'Use the form below to contact us about guest content and media creation opportunities. For press inquiries about programs or current events, please contact nick@sgdinstitute.org.'
-      -
-        type: set
-        attrs:
-          id: lkcxmgcw
-          values:
-            type: form
-            formset: contact
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-    type: content
-    enabled: true
-  -
     id: lkcyfscd
     bard:
       -
@@ -291,7 +256,52 @@ sections:
     bg_color: bg-transparent
     type: news_feature
     enabled: true
+  -
+    id: lxuk0rrf
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Get in touch'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            text: 'Use the form below to contact us about guest content and media creation opportunities. For press inquiries about programs or current events, please contact nick@sgdinstitute.org.'
+      -
+        type: set
+        attrs:
+          id: lxuk1485
+          values:
+            type: form
+            formset: contact
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: hardBreak
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    type: content
+    enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1689966555
+updated_at: 1719328920
 ---
