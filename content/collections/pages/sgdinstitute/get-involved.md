@@ -58,6 +58,28 @@ sections:
           -
             type: text
             text: 'Submissions will be collected on a rolling, as-needed basis. We will conduct a priority review for urgent project needs starting July 15, so fill out the form at the bottom of this page before this date to be considered in our initial round of reviews! '
+      -
+        type: set
+        attrs:
+          id: lxumnnky
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lxumno7m
+                link: 'https://sgdinstitute.org/get-involved#:~:text=Tell%20us%20you%27re%20interested!'
+                text: 'Submit interest'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
@@ -673,5 +695,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719333043
+updated_at: 1719333343
 ---
