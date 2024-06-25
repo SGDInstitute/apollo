@@ -603,106 +603,106 @@ sections:
             marks:
               -
                 type: bold
-            text: 'Complete the brief interest form at the bottom of this page.'
+            text: "Tell us you're interested! Complete our brief interest form."
           -
             type: text
-            text: ' You’ll be asked about your areas of interest, a bit about your experiences and background, and what your big ideas are around building and sustaining LGBTQ+ community. A member of our team will be in touch if we’d like to chat more about your submission. Don’t worry if you don’t hear from us right away, we’ll keep your submission on file and add you to an email list to get updates about future opportunities for engagement! '
+            text: ' You’ll be asked about your areas of interest, a bit about your experiences and background, and what your big ideas are around building and sustaining LGBTQ+ community. A member of our team will be in touch if we’d like to chat more about your submission. Don’t worry if you don’t hear from us right away, we’ll keep your submission on file and add you to an email list to get updates about future opportunities for engagement! Plus... '
       -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
+        type: bulletList
         content:
           -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: 'Share the form with your friends and colleagues!'
-          -
-            type: text
-            text: ' Know someone who would be a great fit for this opportunity, spread the word to your friends, colleagues, and ecosystem. '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Connect with us on social media.'
-          -
-            type: text
-            text: ' Tune into our '
-          -
-            type: text
-            marks:
-              -
-                type: link
+                type: paragraph
                 attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-            text: Instagram
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Share the form with your friends and colleagues!'
+                  -
+                    type: text
+                    text: ' Know someone who would be a great fit for this opportunity, spread the word to your friends, colleagues, and ecosystem. '
           -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: link
+                type: paragraph
                 attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-            text: Facebook
-          -
-            type: text
-            text: ', or '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: null
-                  rel: null
-                  target: null
-                  title: null
-            text: TikTok
-          -
-            type: text
-            text: ' to stay up-to-date on the Institute’s programs and future opportunities to get involved. '
-    type: content
-    enabled: true
-  -
-    id: lxamt9hv
-    bard:
-      -
-        type: heading
-        attrs:
-          textAlign: left
-          level: 2
-        content:
-          -
-            type: text
-            text: "Tell us you're interested!"
+                  textAlign: left
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Connect with us on social media.'
+                  -
+                    type: text
+                    text: ' Tune into our '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: Instagram
+                  -
+                    type: text
+                    text: ', '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: Facebook
+                  -
+                    type: text
+                    text: ', or '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: null
+                          rel: null
+                          target: null
+                          title: null
+                    text: TikTok
+                  -
+                    type: text
+                    text: ' to stay up-to-date on the Institute’s programs and future opportunities to get involved. '
       -
         type: set
         attrs:
-          id: lxamtboi
+          id: lxumsrtn
           values:
             type: form
             formset: support_interest_form
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719333465
+updated_at: 1719333601
 ---
