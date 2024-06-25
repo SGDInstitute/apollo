@@ -79,20 +79,11 @@ sections:
         type: paragraph
         attrs:
           textAlign: left
-          class: lead
-        content:
-          -
-            type: text
-            text: 'The Institute is a volunteer-based organization committed to educating, empowering, and connecting Midwest LGBTQ+ communities. '
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
           class: null
         content:
           -
             type: text
-            text: 'Our team includes educators, artists, nerds, foodies, gardeners, and choir/band/theater kids all living our best lives in Michigan, Minnesota, and Chicago. Our team works entirely remote and meets regularly to strategize and execute our organizational goals and programming. Since our organization was founded in 2016, our initial goal of supporting the longevity of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference has expanded into coordinating a slate of programs and initiatives focusing on the needs, experiences, and liberation of queer and trans folks in the Midwest.'
+            text: 'The Institute is a volunteer-based organization committed to educating, empowering, and connecting Midwest LGBTQ+ communities. Our team includes educators, artists, nerds, foodies, gardeners, and choir/band/theater kids all living our best lives in Michigan, Minnesota, and Chicago. Our team works entirely remote and meets regularly to strategize and execute our organizational goals and programming. Since our organization was founded in 2016, our initial goal of supporting the longevity of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference has expanded into coordinating a slate of programs and initiatives focusing on the needs, experiences, and liberation of queer and trans folks in the Midwest.'
     image: news/mblgtacc-2013-chairs-teaser-1090x681.jpg
     bg_type: color
     bg_color: bg-green-900
@@ -682,5 +673,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719333014
+updated_at: 1719333043
 ---
