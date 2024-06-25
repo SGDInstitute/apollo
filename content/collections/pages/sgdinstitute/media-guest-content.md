@@ -236,7 +236,7 @@ sections:
       -
         type: heading
         attrs:
-          textAlign: center
+          textAlign: left
           level: 2
         content:
           -
@@ -265,8 +265,6 @@ sections:
           textAlign: left
           level: 2
         content:
-          -
-            type: hardBreak
           -
             type: text
             text: 'Get in touch'
@@ -303,5 +301,5 @@ sections:
     enabled: true
 description: 'The Midwest Institute for Sexuality and Gender Diversity team are storytellers interested in being part of others’ commitment to telling stories, bringing in diverse perspectives, and ensuring the voices of queer and trans people are centered in mass media.'
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719328920
+updated_at: 1719328947
 ---
