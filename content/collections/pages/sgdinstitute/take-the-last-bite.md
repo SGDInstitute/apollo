@@ -101,9 +101,9 @@ sections:
     articles:
       - c2c72c5f-c905-491a-b27a-f9492f7f09dc
       - 6155212f-26ab-4535-934a-a1e05ca9e55c
-      - b2523d54-b286-4002-8a03-4eae36558b81
       - 11d8551a-4c0f-4d12-bf32-1fd363a1209b
       - c9e6989b-4840-4122-b7f1-ff89567bf5a5
+      - a922534b-054c-455c-8719-4c205fa86dfd
     bg_type: color
     bg_color: bg-white
     type: news_feature
@@ -1468,7 +1468,7 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719322889
+updated_at: 1719323944
 description: "Take the Last Bite is a direct counter to the Midwest Nice mentality—highlighting advocacy and activism by queer/trans communities in the Midwest region. Through each episode, we're aiming to unearth the often disregarded and unacknowledged contributions of queer and trans folks to social change through interviews, casual conversations and reflections on Midwest queer time, space, and place."
 image:
   - headers/lastbite-hero2.jpg
