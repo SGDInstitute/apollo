@@ -102,28 +102,6 @@ sections:
           -
             type: text
             text: 'Since our organization was founded in 2016, our initial goal of supporting the longevity of the Midwest Bisexual Lesbian Gay Transgender Asexual College Conference has expanded into coordinating a slate of programs and initiatives focusing on the needs, experiences, and liberation of queer and trans folks in the Midwest.'
-      -
-        type: set
-        attrs:
-          id: lxulv8xf
-          values:
-            type: buttons
-            buttons:
-              -
-                id: lxulv9oq
-                link: 'entry::5cda0e3f-6fcd-4f76-b87a-946b8578895f'
-                text: 'Learn more'
-                color: btn-white
-                size: btn-lg
-                block: false
-                outline: true
-                target_blank: false
-            contain: true
-      -
-        type: paragraph
-        attrs:
-          textAlign: left
-          class: null
     image: news/mblgtacc-2013-chairs-teaser-1090x681.jpg
     bg_type: color
     bg_color: bg-green-900
@@ -704,5 +682,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719332520
+updated_at: 1719332563
 ---
