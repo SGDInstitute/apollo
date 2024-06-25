@@ -76,7 +76,7 @@ sections:
                 size: btn-lg
               -
                 id: lxumno7m
-                link: 'https://sgdinstitute.org/get-involved#:~:text=Tell%20us%20you%27re%20interested!'
+                link: 'https://sgdinstitute.org/get-involved#:~:text=banquet%20event%20orders-,Next%20steps,-Tell%20us%20you%27re'
                 text: 'Interest form'
                 color: btn-green
                 size: btn-lg
@@ -704,5 +704,5 @@ sections:
     enabled: true
 template: default
 updated_by: cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-updated_at: 1719333601
+updated_at: 1719333663
 ---
