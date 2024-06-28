@@ -190,7 +190,28 @@ sections:
         content:
           -
             type: text
-            text: 'We offer "pay what you can" pricing for makers and vendors. Recommended contributions:'
+            text: 'We offer "pay what you can" pricing for makers and vendors. '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: Seriously
+          -
+            type: text
+            text: '. We recognize that every organization and vendor is unique so please identify a price point that makes sense for your budget when you fill out the interest form.'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Recommended contributions:'
       -
         type: set
         attrs:
@@ -500,7 +521,7 @@ sections:
     enabled: true
 parent: 6b6906fa-60ad-436d-ae31-1972a8651df0
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718300355
+updated_at: 1719607047
 description: 'Purchase an exhibit table at MBLGTACC, a fabulous opportunity to reach a captive audience of 2,000+ LGBTQIA+ students and student leaders from around the Midwest.'
 image:
   - headers/header_exhibit.jpg
