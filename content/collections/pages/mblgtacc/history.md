@@ -449,24 +449,6 @@ sections:
                 type: italic
             text: 'Hosted by Earlham College'
       -
-        type: set
-        attrs:
-          id: DBIwiMXt
-          enabled: false
-          values:
-            type: buttons
-            buttons:
-              -
-                id: YN7SlNjm
-                link: 'https://drive.google.com/drive/folders/1bu4Cf0Ekn12pywSMdgfyK03v9qp9D1ps'
-                text: 'View program'
-                color: btn-green
-                size: btn-xs
-                block: false
-                outline: false
-                target_blank: true
-            contain: true
-      -
         type: heading
         attrs:
           textAlign: left
@@ -538,6 +520,23 @@ sections:
               -
                 type: italic
             text: 'Hosted by Indiana State University'
+      -
+        type: set
+        attrs:
+          id: DBIwiMXt
+          values:
+            type: buttons
+            buttons:
+              -
+                id: YN7SlNjm
+                link: 'https://drive.google.com/file/d/1BGM_fCKxGSFkQg9lNbchNFpbF5HYYrpj/view?usp=sharing'
+                text: 'View program'
+                color: btn-green
+                size: btn-xs
+                block: false
+                outline: false
+                target_blank: true
+            contain: true
       -
         type: heading
         attrs:
@@ -1608,5 +1607,5 @@ sections:
 template: default
 parent: 59865639-7c77-43d1-a56c-333bc38efccc
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1701461980
+updated_at: 1719870149
 ---
