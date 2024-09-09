@@ -43,7 +43,7 @@ sections:
             text: 'Comfort Suites'
           -
             type: text
-            text: ' - $149.99/night plus tax'
+            text: ' - $169.99/night plus tax'
       -
         type: paragraph
         attrs:
@@ -96,7 +96,7 @@ sections:
             text: 'Days Inn'
           -
             type: text
-            text: ' - $169.99/night plus tax'
+            text: ' - $149.99/night plus tax'
       -
         type: paragraph
         attrs:
@@ -311,6 +311,6 @@ sections:
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
 updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718238370
+updated_at: 1725900473
 template: default
 ---
