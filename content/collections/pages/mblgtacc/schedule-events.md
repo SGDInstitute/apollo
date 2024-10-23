@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1729692478
+updated_at: 1729692538
 sections:
   -
     id: PZJpiZuz
@@ -252,7 +252,7 @@ sections:
                   - Various
             full_width: true
     type: content
-    enabled: true
+    enabled: false
   -
     column_widths: quarter_right
     left_column: content
