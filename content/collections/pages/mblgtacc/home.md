@@ -3,8 +3,8 @@ id: 37aa19e4-67e4-4140-91b8-52f06bc5d0e0
 blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718323604
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1729692733
 sections:
   -
     id: j7D4Zmil
@@ -23,6 +23,58 @@ sections:
     type: header_large
     enabled: true
     has_button: false
+  -
+    id: schedule
+    column_widths: two_fifths_right
+    left_column: content
+    right_column: image
+    bard:
+      -
+        type: heading
+        attrs:
+          textAlign: left
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Plan Your Weekend'
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: lead
+        content:
+          -
+            type: text
+            text: "View the finalized program book and make a plan for which sessions and events you'd like to attend."
+      -
+        type: set
+        attrs:
+          id: 2ywrq54o
+          values:
+            type: buttons
+            buttons:
+              -
+                id: OC6tsdRF
+                link: 'https://mblgtacc.org/assets/documents/mblgtacc-2024-program.pdf'
+                text: 'Program Book'
+                color: btn-white
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
+    bg_type: color
+    bg_color: bg-gray-100
+    type: two_column
+    enabled: true
+    center_columns: false
+    image: mblgtacc2023-workshop-attendees1-1090x681.jpg
   -
     id: pricing
     column_widths: two_fifths_left
