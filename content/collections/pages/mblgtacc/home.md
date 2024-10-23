@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1729692733
+updated_at: 1729692797
 sections:
   -
     id: j7D4Zmil
@@ -70,7 +70,7 @@ sections:
           textAlign: left
           class: null
     bg_type: color
-    bg_color: bg-gray-100
+    bg_color: bg-transparent
     type: two_column
     enabled: true
     center_columns: false
