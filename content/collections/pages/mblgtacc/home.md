@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1729692797
+updated_at: 1729692812
 sections:
   -
     id: j7D4Zmil
@@ -58,7 +58,7 @@ sections:
                 id: OC6tsdRF
                 link: 'https://mblgtacc.org/assets/documents/mblgtacc-2024-program.pdf'
                 text: 'Program Book'
-                color: btn-white
+                color: btn-green
                 size: btn-lg
                 block: false
                 outline: true
