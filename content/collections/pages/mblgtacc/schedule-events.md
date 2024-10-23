@@ -4,7 +4,7 @@ blueprint: pages
 title: 'Schedule & Events'
 author: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1728428660
+updated_at: 1729692478
 sections:
   -
     id: PZJpiZuz
@@ -37,6 +37,28 @@ sections:
               -
                 type: italic
             text: 'The schedule below is advisory, and we may adjust individual sessions and times over the summer. All times listed in Eastern Daylight Time.'
+      -
+        type: set
+        attrs:
+          id: m2ly5uuy
+          values:
+            type: buttons
+            buttons:
+              -
+                id: m2ly5vo1
+                link: 'https://mblgtacc.org/assets/documents/mblgtacc-2024-program.pdf'
+                text: 'View Program Book'
+                color: btn-green
+                size: btn-lg
+                block: false
+                outline: true
+                target_blank: false
+            contain: true
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+          class: null
     type: content
     enabled: true
   -
