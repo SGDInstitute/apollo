@@ -233,7 +233,18 @@ sections:
                 content:
                   -
                     type: text
-                    text: '▢ Make your schedule'
+                    text: '▢ '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://mblgtacc.org/assets/documents/mblgtacc-2024-program.pdf'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'Make your schedule'
               -
                 type: paragraph
                 attrs:
@@ -1452,7 +1463,7 @@ sections:
     type: countdown
     enabled: true
 parent: daacabc3-82b1-48b6-9ca3-6e948cc1c645
-updated_by: dcd190a9-db32-4705-ad6a-2795ef6f415b
-updated_at: 1718322480
+updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
+updated_at: 1729692903
 description: 'Key links and information—our attendee checklist, step by step guide, key dates and deadlines, and more—to help you prepare for and enjoy your conference experience.'
 ---
