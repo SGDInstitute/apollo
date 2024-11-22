@@ -44,7 +44,7 @@ sections:
             type: text
             text: 'Our volunteer staff manage our programs, resources, and operations.'
     type: content
-    enabled: true
+    enabled: false
   -
     id: 0iHIDMtT
     bard:
@@ -53,15 +53,8 @@ sections:
         attrs:
           textAlign: left
           class: null
-    users:
-      - dcd190a9-db32-4705-ad6a-2795ef6f415b
-      - 19a591a2-66c3-420a-9e1e-d76651f2bf19
-      - 64bfc780-ec30-4700-965f-318f71d3f2b3
-      - ce0032cc-cdd1-4805-bbf4-8e95e3272619
-      - cc1d6f85-bab6-480d-8bd1-226c3d628cb2
-      - 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
     type: users
-    enabled: true
+    enabled: false
     bg_type: color
     bg_color: bg-transparent
   -
@@ -249,7 +242,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1723038959
+updated_at: 1732317623
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
