@@ -95,7 +95,6 @@ sections:
           class: null
     users:
       - 124f7c83-15d4-4f13-81c7-97b227982c92
-      - cb1f3594-1805-47f8-8db6-98336fb2bbdb
       - 15578ac2-4841-4c44-b5d3-52af7955bd79
       - 54d0b97c-683d-4f07-933a-27910efc16c1
       - 560cf954-ed8f-4976-b1c2-0b14bb03090e
@@ -242,7 +241,7 @@ sections:
 template: default
 parent: 5cda0e3f-6fcd-4f76-b87a-946b8578895f
 updated_by: 319b9f3d-4a5e-420e-ade8-ceaff8cfc78d
-updated_at: 1732317623
+updated_at: 1732317660
 image:
   - headers/header-hug.JPG
 description: "Our humans include advocates, educators, and professionals with experience in a diverse array of fields who've dedicated themselves to the causes of building queer success in the Midwest."
